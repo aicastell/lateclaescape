@@ -1,13 +1,12 @@
 ---
 title: Los hardware ID
 date: 2024-01-13
-draft: true
+image: /img/posts/la-tecla-esc.jpg
 categories: [ "tecnología" ]
 tags: [ ]
-draft: false
+draft: true
 featured: true
 ---
-
 
 Una empresa que vende muchos productos. 
 
