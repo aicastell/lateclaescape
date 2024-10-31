@@ -4,7 +4,7 @@ date: 2024-10-31
 image: "/img/posts/mining-rewards.webp"
 categories: ["criptomonedas"]
 tags: [ "bitcoin", "block reward", "bitcoin halving", "fee"]
-draft: true
+draft: false
 featured: true
 ---
 
@@ -21,15 +21,15 @@ La **recompensa de bloque** o **block reward**, es la cantidad de Bitcoin que re
 
 ## Comisiones (Fee)
 
-En el articulo donde trato la [gestión de las transacciones](/post/2024/bitcoin-transaction-management) expliqué que el nodo de Bitcoin elige de la mempool aquellas transacciones con una comisión mas elevada. Pero no expliqué el motivo.
+En el articulo donde trato la [gestión de las transacciones](/post/2024/bitcoin-transaction-management) expliqué que el nodo de Bitcoin selecciona, entre las transacciones de la mempool, aquellas con una comisión mas alta. Pero no expliqué el motivo detrás de esta selección.
 
-¿Cual es el motivo? Pues muy sencillo. La suma de todas las comisiones son una parte del incentivo que cobrará el minero en forma de Bitcoin, en el caso de ser el primer nodo de Bitcoin en minar su bloque de transacciones. Esto incentiva a que los nodos mineros prioricen las transacciones con un Fee mas elevado, pues al incluirlas en su bloque, obtienen mayores ingresos.
+La razón es sencilla: la suma de todas las comisiones es parte de la recompensa que recibirá el minero si es el primero en minar su bloque de transacciones. Este incentivo motiva a los mineros a priorizar las transacciones con un Fee más elevado, ya que al incluirlas en su bloque maximizan sus ingresos.
 
 ## Subsidio de bloque
 
-Con cada bloque minado se ponen nuevos Bitcoin en circulación, conocidos como **subsidio de bloque**. El subsidio de bloque es la otra parte del incentivo que cobrará el minero en forma de Bitcoin en el caso que sea el primer nodo de Bitcoin en minar su bloque de transacciones.
+Cada bloque minado introduce nuevos Bitcoin en circulación, conocidos como el **subsidio de bloque**. Este subsidio constituye la otra parte de la recompensa que recibe un minero en caso de ser el primero en validar y agregar un bloque de transacciones a la blockchain.
 
-Este incentivo esta estructurado de tal modo que se emite Bitcoin nuevo con cada bloque minado. En los orígenes de Bitcoin se recompensaba a los mineros con 50.0 BTC por cada bloque minado. Esta recompensa se divide a la mitad exactamente cada 210.000 bloques, lo que ocurre aproximadamente cada cuatro años. Al evento que reduce la cantidad de Bitcoin nuevo que se pone en circulación a la mitad, se le conoce como **Bitcoin halving**. En la historia de Bitcoin ya hemos vivido cuatro halvings. El último ocurrió el pasado 19 de Abril de 2024. Actualmente la recompensa es de 3.125 BTC por bloque minado. El próximo halving se espera para 2028.
+Este incentivo está diseñado para generar nuevos Bitcoin con cada bloque añadido. En el origen de los tiempos, los mineros eran recompensados con 50 BTC por bloque. Esta cantidad se reduce a la mitad cada 210,000 bloques, aproximadamente cada cuatro años, en un evento conocido como **Bitcoin halving**. Hasta la fecha, Bitcoin ha experimentado cuatro halvings, el último de los cuales tuvo lugar el 19 de abril de 2024, dejando la recompensa actual en 3.125 BTC por bloque. El próximo halving se prevé para 2028.
 
 | Event             | Date          |  Block     |  Reward (BTC) |   BTC mined(%) |
 |-------------------|---------------|------------|---------------|--------------- |
@@ -41,13 +41,13 @@ Este incentivo esta estructurado de tal modo que se emite Bitcoin nuevo con cada
 | Halving 5         | 2028          |  1050000   |   1.5625      |   98.4375%     |
 | Halving 6         | 2032          |  1260000   |   0.78125     |   99.21875%    |
 
-Este es el mecanismo de emisión controlado de Bitcoin. Está programado en el código fuente de Bitcoin, para reducirse hasta alcanzar un limite máximo total de 21 millones de Bitcoin en circulación. A partir de ese momento (estimado alrededor del año 2140), este incentivo dejará de existir. Y los mineros competirán exclusivamente por las comisiones (Fee) de cada bloque de transacciones.
+Este mecanismo de emisión controlada está integrado en el código de Bitcoin y continuará reduciendo la cantidad de BTC emitidos hasta alcanzar el límite total de 21 millones. Una vez que se alcance esta cantidad, estimado alrededor de 2140, el subsidio de bloque desaparecerá, y los mineros dependerán únicamente de las comisiones de las transacciones (Fee) para obtener ingresos.
 
 # Transacción Coinbase
 
-Hace algunos artículos hablamos sobre las [transacciones de Bitcoin](/post/2024/bitcoin-transaction), que sirven para transferir Bitcoin entre dos direcciones de Bitcoin: una dirección que actúa como emisora y la otra como receptora.
+Hace algunos artículos hablé sobre las [transacciones de Bitcoin](/post/2024/bitcoin-transaction), que permiten transferir Bitcoin entre dos direcciones de Bitcoin: una dirección que actúa como emisora y la otra como receptora.
 
-A diferencia de las transacciones normales, la **transacción coinbase** (TX_Coinbase) es una transacción especial y única en cada bloque de transacciones. La crea el nodo minero cada vez que construye un nuevo bloque de transacciones. Esta transacción coinbase no proviene de la mempool. No tiene dirección de origen, y tiene como dirección de destino la dirección de Bitcoin del nodo minero que la crea. Tampoco tiene comisión (Fee).
+A diferencia de las transacciones convencionales, la **transacción coinbase** (TX_Coinbase) es una transacción especial y única en cada bloque de transacciones. Esta transacción es generada por el nodo minero cada vez que crea un nuevo bloque de transacciones. A diferencia de las demás, la transacción coinbase no proviene de la mempool, no tiene una dirección de origen y su destino es la dirección de Bitcoin del minero que la genera. Además, no incluye ninguna comisión (Fee).
 
 ```
 TX_COINBASE: {
@@ -58,9 +58,9 @@ TX_COINBASE: {
 }
 ```
 
-En la Cantidad se incluye la recompensa del nodo minero. Por ejemplo, si un minero encuentra un bloque válido en 2025, cuando la recompensa de bloque son 3.125 BTC, y las transacciones incluidas pagan comisiones por un total de 0.5 BTC, la transacción coinbase reflejará un total de 3.625 BTC como pago al minero.
+En la cantidad indicada se incluye la recompensa correspondiente al nodo minero. Por ejemplo, si un minero valida un bloque en octubre de 2024, cuando la recompensa por bloque es de 3.125 BTC y las transacciones incluidas aportan comisiones totales de 0.5 BTC, la transacción coinbase reflejará un total de 3.625 BTC como pago al minero.
 
-El nodo minero acaba de preparar su propia recompensa si consigue minar este bloque antes que nadie. La transacción coinbase es esencial para asegurar que los nodos mineros son recompensados por su trabajo. Y por tanto, para garantizar que sigan estando operativos.
+De este modo, el nodo minero asegura su propia recompensa si logra minar el bloque antes que otros. La transacción coinbase es fundamental para garantizar que los nodos mineros reciban una compensación por su trabajo, lo que a su vez asegura su continuidad operativa en la red.
 
 # Despedida
 
