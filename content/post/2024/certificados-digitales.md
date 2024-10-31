@@ -12,7 +12,7 @@ featured: true
 
 La seguridad de las comunicaciones electrónicas es de vital importancia en el mundo digital que nos rodea.
 
-En artículos anteriores hemos intentado resolver sin éxito el temido ataque Man In The Middle (MITM). Lo hemos intentado usando usando [criptografía simétrica](/posts/criptografia-simetrica), [criptografía asimétrica](/posts/criptografia-asimetrica), e incluso [firmas digitales](/posts/firmas-digitales). Pero ningún mecanismo por si solo ha demostrado ser eficaz.
+En artículos anteriores hemos intentado resolver sin éxito el temido ataque Man In The Middle (MITM). Lo hemos intentado usando usando [criptografía simétrica](/post/2024/criptografia-simetrica), [criptografía asimétrica](/post/2024/criptografia-asimetrica), e incluso [firmas digitales](/post/2024/firmas-digitales). Pero ningún mecanismo por si solo ha demostrado ser eficaz.
 
 En este artículo abordamos de nuevo este desafío. De entrada ya te adelanto que esta vez si vamos a parar los pies al temido ciberdelincuente. Acompáñame en la lectura de este articulo y aprenderás como hacerlo.
 
@@ -57,9 +57,9 @@ Certificate_Request {
 
 La "Identidad" contiene información sobre la identidad del titular. Se puede incluir la identidad de sitios web, de servidores, de dispositivos, de personas físicas (individuos) o de personas jurídicas (empresas). Dependiendo del titular certificado, se incluirá información como su nombre, su dirección de correo electrónico, la URL de su sitio web, o el nombre de la empresa.
 
-La "Clave Publica" contiene la [clave publica asimétrica](/posts/criptografia-asimetrica) asociada al titular del CR.
+La "Clave Publica" contiene la [clave publica asimétrica](/post/2024/criptografia-asimetrica) asociada al titular del CR.
 
-La "Firma Digital" es una [firma digital](/posts/firma-digital) de todo el CR, realizada por el propio titular usando su clave privada. Esta firma digital solo puede verificarse con la clave pública incluida en la segunda sección.
+La "Firma Digital" es una [firma digital](/post/2024/firma-digital) de todo el CR, realizada por el propio titular usando su clave privada. Esta firma digital solo puede verificarse con la clave pública incluida en la segunda sección.
 
 El CR se envía a la CA. Cuando la CA recibe el CR, debe verificar toda la información que contiene.
 
@@ -84,9 +84,9 @@ Digital_Certificate {
 
 La "Identidad" contiene información sobre la identidad del titular. Es la misma información contenida en la misma sección del CR.
 
-La "Clave Publica" contiene la [clave publica asimétrica](/posts/criptografia-asimetrica) asociada a la identidad del titular. Es la misma información contenida en la misma sección del CR.
+La "Clave Publica" contiene la [clave publica asimétrica](/post/2024/criptografia-asimetrica) asociada a la identidad del titular. Es la misma información contenida en la misma sección del CR.
 
-La "Firma Digital" es una [firma digital](/posts/firma-digital) de todo el documento DC realizada por la CA con su propia clave privada. Esta firma digital es el componente esencial de todo este mecanismo, ya que garantiza la autenticidad y la integridad del DC emitido por la CA.
+La "Firma Digital" es una [firma digital](/post/2024/firma-digital) de todo el documento DC realizada por la CA con su propia clave privada. Esta firma digital es el componente esencial de todo este mecanismo, ya que garantiza la autenticidad y la integridad del DC emitido por la CA.
 
 El "Periodo de Validez" es un periodo de validez durante el cual el DC será valido, incluyendo una fecha de inicio y de final. Después del vencimiento, los DC deben ser renovados o reemplazados.
 
@@ -183,7 +183,7 @@ Una vez intercambiados los certificados, ambos están preparados para establecer
 
 ### La clave de sesión
 
-Bob genera SK, una [clave simétrica](/posts/criptografia-simetrica) de gran importancia, bautizada como **clave de sesión**.
+Bob genera SK, una [clave simétrica](/post/2024/criptografia-simetrica) de gran importancia, bautizada como **clave de sesión**.
 
 Bob encripta la clave de sesión SK utilizando la clave pública de Alice (K_PUB_ALICE). Esta clave pública la ha obtenido del certificado digital de Alice (DC_ALICE).
 

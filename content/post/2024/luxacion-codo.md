@@ -10,7 +10,7 @@ featured: true
 
 # Antecedentes
 
-Sábado 16 de Julio de 2022. Hace exactamente 9 días que he estrenado la bicicleta nueva [Trek Marlin 7](/posts/trek-marlin-7-2022)
+Sábado 16 de Julio de 2022. Hace exactamente 9 días que he estrenado la bicicleta nueva [Trek Marlin 7](/post/2024/trek-marlin-7-2022)
 
 Los Sábados tengo por costumbre hacer la tirada larga de la semana. Me apetece probar alguna ruta nueva. Abro [wikiloc](https://es.wikiloc.com/) y me pongo a buscar rutas de unos 60-80Km que pasen por el Tibidabo (Barcelona). Veo [esta ruta](https://www.wikiloc.com/mountain-biking-trails/20120812-terrassa-tibidabo-circular-3237935) de 75Km d+1000m que encaja con lo que estoy buscando. Leo los comentarios como de costumbre:
 

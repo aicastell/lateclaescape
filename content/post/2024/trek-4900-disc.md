@@ -66,7 +66,7 @@ La bicicleta ha hecho revisiones anuales de forma regular en talleres oficiales,
 
 No queda la menor duda. Hay que reclamar al fabricante. Terrabike se encarga de hacer todas las gestiones. Quedamos todos a la espera de la respuesta de Trek.
 
-A las 3 semanas, me llaman de Terrabike con ¡buenísimas noticias! No te pierdas el final de esta historia en el [próximo artículo](/posts/trek-marlin-7-2022).
+A las 3 semanas, me llaman de Terrabike con ¡buenísimas noticias! No te pierdas el final de esta historia en el [próximo artículo](/post/2024/trek-marlin-7-2022).
 
 ## Agradecimientos
 

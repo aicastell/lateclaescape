@@ -74,7 +74,7 @@ WireGuard es un túnel de red seguro que opera en la capa de red del modelo OSI 
 
 Se implementa como una interfaz de red virtual del kernel, lo que le permite integrarse estrechamente con el sistema operativo y ofrecer un rendimiento óptimo.
 
-A diferencia de otros protocolos VPN que utilizan certificados digitales X.509, WireGuard adopta un enfoque más simple y eficiente. En lugar de certificados digitales, WireGuard utiliza [criptografía asimétrica](/posts/criptografia-asimetrica) para funcionar. En particular, emplea el algoritmo Elliptic Curve Diffie-Hellman (ECDH) basado en Curve25519 para generar el par de claves asimétricas (pública y privada) que necesita cada dispositivo que va a utilizar el túnel de comunicación seguro con el servidor. Esto simplifica el proceso de establecimiento de la conexión y reduce la carga administrativa asociada con la gestión de certificados digitales.
+A diferencia de otros protocolos VPN que utilizan certificados digitales X.509, WireGuard adopta un enfoque más simple y eficiente. En lugar de certificados digitales, WireGuard utiliza [criptografía asimétrica](/post/2024/criptografia-asimetrica) para funcionar. En particular, emplea el algoritmo Elliptic Curve Diffie-Hellman (ECDH) basado en Curve25519 para generar el par de claves asimétricas (pública y privada) que necesita cada dispositivo que va a utilizar el túnel de comunicación seguro con el servidor. Esto simplifica el proceso de establecimiento de la conexión y reduce la carga administrativa asociada con la gestión de certificados digitales.
 
 Una vez configurada la conexión, WireGuard gestiona automáticamente el cifrado y la autenticación de la comunicación entre cada dispositivo y el servidor, utilizando las claves asimétricas establecidas previamente. Este enfoque garantiza un proceso de configuración simple y una comunicación segura, sin comprometer la eficiencia ni la seguridad. Además, la simplicidad y la transparencia del protocolo hacen que sea más fácil para los administradores de sistemas y los usuarios entender y gestionar la seguridad de sus conexiones VPN.
 
@@ -84,7 +84,7 @@ Para los lectores que necesitéis saber mas, os dejo el enlace al [whitepaper](h
 
 WireGuard es un protocolo VPN moderno que ofrece una combinación única de simplicidad, rendimiento y seguridad. Su adopción continúa creciendo a medida que más usuarios y organizaciones reconocen sus ventajas y beneficios en comparación con otras soluciones VPN tradicionales.
 
-En próximos articulos explicaré como instalar un [servidor de WireGuard](/posts/wireguard-server) en un servidor Linux, como instalar un [cliente de WireGuard en Android](/posts/wireguard-client-android), y como instalar un [cliente de WireGuard en Linux](/posts/wireguard-client-linux) para que puedas navegar de forma segura. Si te interesa este tema, no te pierdas lo que esta por venir.
+En próximos articulos explicaré como instalar un [servidor de WireGuard](/post/2024/wireguard-server) en un servidor Linux, como instalar un [cliente de WireGuard en Android](/post/2024/wireguard-client-android), y como instalar un [cliente de WireGuard en Linux](/post/2024/wireguard-client-linux) para que puedas navegar de forma segura. Si te interesa este tema, no te pierdas lo que esta por venir.
 
 Espero que este artículo haya captado tu atención sobre WireGuard. Merece mucho la pena. Si quieres plantear alguna duda, o simplemente si quieres mandar un saludo, te invito a unirte al [canal de Telegram](https://t.me/lateclaescape). ¡Nos vemos muy pronto!.
 

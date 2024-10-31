@@ -10,7 +10,7 @@ featured: true
 
 # Introducción
 
-Hace unos meses expliqué como la [banca tradicional](/posts/banca-tradicional/) opera con una base de datos centralizada que almacena todas las cuentas bancarias de sus clientes con sus respectivos saldos asociados.
+Hace unos meses expliqué como la [banca tradicional](/post/2024/banca-tradicional/) opera con una base de datos centralizada que almacena todas las cuentas bancarias de sus clientes con sus respectivos saldos asociados.
 
 En contraste con la banca tradicional, Bitcoin no depende de una base de datos centralizada. En su lugar, utiliza una base de datos distribuída conocida como blockchain.
 
@@ -18,7 +18,7 @@ En este articulo desentraño los secretos de la blockchain de Bitcoin, una estru
 
 # Nuevos bloques
 
-En el último articulo publicado en este blog hablé sobre [bloques de transacciones](/posts/bitcoin-transaction-block/), que básicamente son contenedores de [transacciones de Bitcoin](/posts/bitcoin-transaction/).
+En el último articulo publicado en este blog hablé sobre [bloques de transacciones](/post/2024/bitcoin-transaction-block/), que básicamente son contenedores de [transacciones de Bitcoin](/post/2024/bitcoin-transaction/).
 
 El día 3 de Enero de 2009 se creó el primer bloque de transacciones de Bitcoin. Desde entonces y hasta hoy, se han creado muchos bloques de transacciones. En concreto, [aquí](https://blockchain.info/q/getblockcount) puedes consultar el numero exacto de bloques creados desde el nacimiento de Bitcoin. El último bloque disponible en el momento de escribir estas palabras es el bloque 861523.
 
@@ -30,7 +30,7 @@ De manera natural, tras los bloques de transacciones, surge el concepto de **blo
 
 La primera pregunta es obvia, ¿como se encadenan esos bloques de transacciones de Bitcoin?.
 
-En el articulo sobre [bloques de transacciones](/posts/bitcoin-transaction-block/) hablé de un campo de la cabecera llamado *Previous Hash*, que es la huella digital de la cabecera del bloque de transacciones generado previamente en el orden temporal.
+En el articulo sobre [bloques de transacciones](/post/2024/bitcoin-transaction-block/) hablé de un campo de la cabecera llamado *Previous Hash*, que es la huella digital de la cabecera del bloque de transacciones generado previamente en el orden temporal.
 
 Ese campo *Previous Hash* es precisamente el nexo que une el bloque actual con el bloque anterior. Si unes todos los bloques, desde el último generado hasta el primero, a través de sus campos *Previous Hash*, obtendrás una secuencia de bloques de transacciones encadenados, es decir, una **blockchain**.
 
@@ -61,7 +61,7 @@ Observa como el bloque 58 está encadenado entre los bloques 57 y 59. Nuestra tr
 
 La blockchain implementa un mecanismo similar a un libro contable mayor. En la blockchain tienes almacenadas, bloque a bloque, un historial ordenado cronológicamente de todas y cada una de las transacciones verificadas que han ocurrido en la historia de Bitcoin desde el día de su nacimiento.
 
-Dada una [dirección de Bitcoin](/posts/bitcoin-address/), puedes recorrer todos los bloques de la blockchain en busca de aquellas transacciones donde aparezca dicha dirección de Bitcoin. Sumando los saldos recibidos y restando los saldos enviados, tienes el saldo total que tiene la dirección de Bitcoin dada.
+Dada una [dirección de Bitcoin](/post/2024/bitcoin-address/), puedes recorrer todos los bloques de la blockchain en busca de aquellas transacciones donde aparezca dicha dirección de Bitcoin. Sumando los saldos recibidos y restando los saldos enviados, tienes el saldo total que tiene la dirección de Bitcoin dada.
 
 Obviamente, recorrer a mano 860.000 bloques es inviable. Pero para eso esta el software del nodo de Bitcoin, que es capaz de hacer esta operación en apenas unos milisegundos.
 

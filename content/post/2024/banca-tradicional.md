@@ -12,7 +12,7 @@ featured: true
 
 En este articulo explico el funcionamiento de un banco tradicional. Voy a simplificar mucho la realidad. El objetivo es utilizar esta información en próximos artículos para buscar semejanzas con las criptomonedas.
 
-Un banco tradicional es una empresa privada que gestiona una **caja fuerte** donde se acumula el [dinero FIAT](/posts/dinero-fiat) que ahorran todos sus usuarios.
+Un banco tradicional es una empresa privada que gestiona una **caja fuerte** donde se acumula el [dinero FIAT](/post/2024/dinero-fiat) que ahorran todos sus usuarios.
 
 ## La cuenta bancaria
 

@@ -44,11 +44,11 @@ El trabajo pionero de Whitfield Diffie y Martin Hellman en 1976, con el intercam
 
 La contribución de Ralph Merkle en 1979, con sus árboles de Merkle, fue fundamental para la integridad de la blockchain.
 
-En 1980, [David Lee Chaum](https://www.lateclaescape.com/posts/david-chaum/) inventa el concepto de moneda digital con su sistema de dinero electrónico e-Cash, que ofrece privacidad y anonimato. Sin embargo, su sistema requiere de una autoridad central para la emisión y validación de transacciones. Por tanto, no resuelve el problema del doble gasto en un entorno descentralizado.
+En 1980, [David Lee Chaum](https://www.lateclaescape.com/post/2024/david-chaum/) inventa el concepto de moneda digital con su sistema de dinero electrónico e-Cash, que ofrece privacidad y anonimato. Sin embargo, su sistema requiere de una autoridad central para la emisión y validación de transacciones. Por tanto, no resuelve el problema del doble gasto en un entorno descentralizado.
 
-En 1997, [Adam Back](https://www.lateclaescape.com/posts/adam-back/) introduce la Prueba de Trabajo (POW) con su sistema Hashcash. POW se utiliza para mitigar el spam y los ataques de denegación de servicio (DoS) mediante la exigencia de un cálculo computacional costoso para cada operación. POW es un componente esencial de la minería en Bitcoin, pero por sí solo tampoco resuelve el problema del doble gasto.
+En 1997, [Adam Back](https://www.lateclaescape.com/post/2024/adam-back/) introduce la Prueba de Trabajo (POW) con su sistema Hashcash. POW se utiliza para mitigar el spam y los ataques de denegación de servicio (DoS) mediante la exigencia de un cálculo computacional costoso para cada operación. POW es un componente esencial de la minería en Bitcoin, pero por sí solo tampoco resuelve el problema del doble gasto.
 
-En 2004, [Harold Thomas Finney](https://www.lateclaescape.com/posts/harold-finney/) con su sistema RPOW hace un intento de crear un sistema de dinero digital descentralizado basado en el trabajo de Adam Back. Es un avance significativo pero tampoco resuelve el problema del doble gasto en un entorno descentralizado.
+En 2004, [Harold Thomas Finney](https://www.lateclaescape.com/post/2024/harold-finney/) con su sistema RPOW hace un intento de crear un sistema de dinero digital descentralizado basado en el trabajo de Adam Back. Es un avance significativo pero tampoco resuelve el problema del doble gasto en un entorno descentralizado.
 
 ## Blockchain distribuida
 

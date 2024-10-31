@@ -18,7 +18,7 @@ En un día como hoy es bastante habitual ver autores en las calles firmando sus 
 
 ## Mi primera transpirenaica
 
-Mi ya desaparecida bicicleta [Trek 4900 Disc](/posts/trek-4900-disc) fue la protagonista de la que sin duda ha sido mi mayor aventura ciclista. Ella fue la principal protagonista del primer y único libro que he publicado hasta la fecha: **Mi Primera Transpirenaica**.
+Mi ya desaparecida bicicleta [Trek 4900 Disc](/post/2024/trek-4900-disc) fue la protagonista de la que sin duda ha sido mi mayor aventura ciclista. Ella fue la principal protagonista del primer y único libro que he publicado hasta la fecha: **Mi Primera Transpirenaica**.
 
 El libro empieza retrocediendo en el tiempo hasta el 20 de Agosto de 2017. En la primera página podéis leer:
 

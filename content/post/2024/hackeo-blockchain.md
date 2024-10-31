@@ -10,7 +10,7 @@ featured: true
 
 # Introducción
 
-En el articulo anterior he explorado conceptos básicos sobre [la blockchain de Bitcoin](/posts/blockchain/).
+En el articulo anterior he explorado conceptos básicos sobre [la blockchain de Bitcoin](/post/2024/blockchain/).
 
 Continuando con la secuencia de articulos sobre Bitcoin, en este articulo analizo un intento de hackeo de la blockchain protagonizado por un astuto hacker ruso con amplios conocimientos técnicos y una gran determinación. Veamos de lo que es capaz.
 

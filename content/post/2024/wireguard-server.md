@@ -10,7 +10,7 @@ featured: true
 
 # Motivación
 
-En artículos anteriores de este blog he hablado sobre [redes VPN](/posts/vpn) y sobre [WireGuard](/posts/wireguard). Si no has leído los artículos referenciados, te recomiendo su lectura antes de continuar leyendo.
+En artículos anteriores de este blog he hablado sobre [redes VPN](/post/2024/vpn) y sobre [WireGuard](/post/2024/wireguard). Si no has leído los artículos referenciados, te recomiendo su lectura antes de continuar leyendo.
 
 Ahora que ya sabes lo que es un túnel VPN y para qué sirve, y que sabes que WireGuard es un servidor VPN seguro, liviano y muy rápido, es momento de avanzar.
 
@@ -22,7 +22,7 @@ Para no alargar en exceso este articulo, asumiré que tienes acceso por ssh a un
 
 El primer paso es conectar por ssh al servidor Linux alojado fuera de España.
 
-La manera mas sencilla y práctica de instalar un servidor de WireGuard es usando la herramienta docker, de la que ya hemos hablamos en un articulo anterior. A continuación, [instala docker](/posts/herramienta-docker) siguiendo la guía paso a paso referenciada.
+La manera mas sencilla y práctica de instalar un servidor de WireGuard es usando la herramienta docker, de la que ya hemos hablamos en un articulo anterior. A continuación, [instala docker](/post/2024/herramienta-docker) siguiendo la guía paso a paso referenciada.
 
 Crea un fichero YAML llamado *docker-compose.yaml* con este contenido (copia y pega):
 

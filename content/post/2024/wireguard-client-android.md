@@ -10,11 +10,11 @@ featured: true
 
 # Introducción
 
-Este articulo explica como instalar, configurar y usar un cliente de [WireGuard](/posts/wireguard) en cualquier dispositivo Android. Con esta APP podrás aprovechar todos los [casos de uso](/posts/vpn) que tiene navegar por Internet a través de un túnel VPN.
+Este articulo explica como instalar, configurar y usar un cliente de [WireGuard](/post/2024/wireguard) en cualquier dispositivo Android. Con esta APP podrás aprovechar todos los [casos de uso](/post/2024/vpn) que tiene navegar por Internet a través de un túnel VPN.
 
 ## Pasos previos
 
-En el articulo anterior hemos configurado un [servidor WireGuard](/posts/wireguard-server).
+En el articulo anterior hemos configurado un [servidor WireGuard](/post/2024/wireguard-server).
 
 Al finalizar el proceso de instalación del servidor, has levantado un contenedor de docker llamado "wireguard" que expone el puerto 51820 UDP. Puedes ver su estado ejecutando este comando:
 

@@ -26,7 +26,7 @@ En mi caso personal, el reto tiene dificultades mecánicas añadidas. Y es que l
 
 ## Reto cancelado
 
-Hasta Junio de 2022, las matemáticas mas o menos daban. Sin embargo, el Sábado 16 de Julio de 2022 tengo una [caída grave](/posts/luxacion-codo) en Collserola (Barcelona) durante un entrenamiento de la que os hablaré en otro articulo. A raíz de esta caída, paso 2 meses de baja sin poder tocar la bicicleta. En esta situación resulta totalmente inviable continuar con el reto durante este año. El reto deportivo del año 2022 queda por tanto cancelado.
+Hasta Junio de 2022, las matemáticas mas o menos daban. Sin embargo, el Sábado 16 de Julio de 2022 tengo una [caída grave](/post/2024/luxacion-codo) en Collserola (Barcelona) durante un entrenamiento de la que os hablaré en otro articulo. A raíz de esta caída, paso 2 meses de baja sin poder tocar la bicicleta. En esta situación resulta totalmente inviable continuar con el reto durante este año. El reto deportivo del año 2022 queda por tanto cancelado.
 
 ## Despedida
 

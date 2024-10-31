@@ -10,7 +10,7 @@ featured: true
 
 # Motivación
 
-En el artículo anterior de este blog he hablado sobre [nodos de Bitcoin](/posts/bitcoin-nodes). Sin entrar en muchos detalles, has aprendido que es un nodo de Bitcoin y cuales son sus funciones principales. Si no lo has leído todavía, antes de continuar te recomiendo que empieces por su lectura.
+En el artículo anterior de este blog he hablado sobre [nodos de Bitcoin](/post/2024/bitcoin-nodes). Sin entrar en muchos detalles, has aprendido que es un nodo de Bitcoin y cuales son sus funciones principales. Si no lo has leído todavía, antes de continuar te recomiendo que empieces por su lectura.
 
 El tema de los nodos de Bitcoin es extenso y no ha hecho mas que empezar. Hay muchos temas a tratar. Seguiremos hablando sobre los nodos de Bitcoin y sobre sus funciones en próximos artículos.
 
@@ -70,7 +70,7 @@ Una vez que la información ha sido registrada y confirmada en la red, no puede 
 
 ### Pseudo anonimato
 
-Las operaciones en Bitcoin no están directamente vinculadas a identidades personales, sino a [direcciones de Bitcoin](/posts/bitcoin-address) únicas. Aunque la red es pública, la identidad de los usuarios detrás de las direcciones puede mantenerse relativamente anónima.
+Las operaciones en Bitcoin no están directamente vinculadas a identidades personales, sino a [direcciones de Bitcoin](/post/2024/bitcoin-address) únicas. Aunque la red es pública, la identidad de los usuarios detrás de las direcciones puede mantenerse relativamente anónima.
 
 ### Resilencia
 

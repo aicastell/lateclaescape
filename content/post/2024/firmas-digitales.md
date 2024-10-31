@@ -14,8 +14,8 @@ En este articulo analizo otro concepto fundamental en seguridad informática: la
 
 Pero antes de continuar, te recomiendo la lectura de dos artículos publicados anteriormente, que te van a ayudar a entender mejor lo que sigue:
 
-- [Huellas digitales](/posts/huellas-digitales-fingerprints)
-- [Criptografía asimétrica](/posts/criptografia-asimetrica)
+- [Huellas digitales](/post/2024/huellas-digitales-fingerprints)
+- [Criptografía asimétrica](/post/2024/criptografia-asimetrica)
 
 ## Firmas manuscritas
 

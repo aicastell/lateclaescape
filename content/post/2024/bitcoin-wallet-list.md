@@ -10,7 +10,7 @@ featured: true
 
 # Los Bitcoin wallet
 
-En el anterior articulo expliqué qué es un [wallet de Bitcoin](/posts/bitcoin-wallet-types) y que relación tiene con las [direcciones de Bitcoin](/posts/bitcoin-address). También analicé los [estándares BIP](/posts/bip) que aplican específicamente a los wallet. Y finalicé con una clasificación de los wallets en base a distintos criterios.
+En el anterior articulo expliqué qué es un [wallet de Bitcoin](/post/2024/bitcoin-wallet-types) y que relación tiene con las [direcciones de Bitcoin](/post/2024/bitcoin-address). También analicé los [estándares BIP](/post/2024/bip) que aplican específicamente a los wallet. Y finalicé con una clasificación de los wallets en base a distintos criterios.
 
 En este articulo recopilo todos los wallets de Bitcoin que conozco, ordenados alfabéticamente, y enumero las características de cada uno en base a la clasificación que hice en el articulo anterior.
 

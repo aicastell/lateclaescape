@@ -12,7 +12,7 @@ featured: true
 
 Si has llegado aquí por casualidad, antes de continuar quiero darte la bienvenida a este blog. Espero que encuentres contenido a la altura de tus expectativas.
 
-En este articulo comparo las direcciones de Bitcoin con conceptos de la banca tradicional que te resultaran familiares. Si todavía no lo has hecho, es un buen momento para leerte este articulo sobre [la banca tradicional](/posts/banca-tradicional).
+En este articulo comparo las direcciones de Bitcoin con conceptos de la banca tradicional que te resultaran familiares. Si todavía no lo has hecho, es un buen momento para leerte este articulo sobre [la banca tradicional](/post/2024/banca-tradicional).
 
 Una dirección de Bitcoin funciona de manera similar al IBAN de una cuenta bancaria tradicional. Permite guardar Bitcoins, enviarlos a otros usuarios, o recibirlos.
 
@@ -20,7 +20,7 @@ Sin embargo, hay diferencias importantes tanto en su proceso de creación como e
 
 ## Proceso de creación
 
-Una dirección de Bitcoin se crea a partir de un proceso matemático que se inicia generando una [clave privada asimétrica](/posts/criptografia-asimetrica). Veamos el proceso:
+Una dirección de Bitcoin se crea a partir de un proceso matemático que se inicia generando una [clave privada asimétrica](/post/2024/criptografia-asimetrica). Veamos el proceso:
 
 ### La clave privada
 
@@ -30,7 +30,7 @@ No importa como generes esos 256 bits, con tal que no sean repetibles ni predeci
 
 Puedes utilizar por ejemplo una moneda, lápiz y papel. Tirando la moneda al aire 256 veces y anotando 0 o 1 según salga cara o cruz, al finalizar el proceso tendrás los 256 bits que puedes usar como clave privada.
 
-También puedes usar la [huella digital SHA-256](/posts/huellas-digitales-fingerprints) de un conjunto de palabras elegidas al azar.
+También puedes usar la [huella digital SHA-256](/post/2024/huellas-digitales-fingerprints) de un conjunto de palabras elegidas al azar.
 
 ```
 $ echo "perro silla gato mesa" | sha256sum
@@ -69,7 +69,7 @@ Una dirección de Bitcoin es una cadena alfanumérica que representa un destino 
 
 El proceso para generar la dirección de Bitcoin aplica una serie de transformaciones sobre la clave pública para terminar obteniendo la dirección de Bitcoin. A modo de ejemplo, veamos las transformaciones necesarias para obtener una dirección Bitcoin de tipo P2PKH:
 
-El proceso se inicia aplicando la función de hash [RIPEMD160](/posts/huellas-digitales-fingerprints) sobre la clave pública. El resultado se pasa dos veces por la función de hash [SHA-256](/posts/huellas-digitales-fingerprints). Los 4 primeros bytes del resultado se añaden al final del hash RIPEMD160. Y el resultado total se codifica en [base58](/posts/sistemas-de-codificacion) para obtener finalmente la dirección de Bitcoin.
+El proceso se inicia aplicando la función de hash [RIPEMD160](/post/2024/huellas-digitales-fingerprints) sobre la clave pública. El resultado se pasa dos veces por la función de hash [SHA-256](/post/2024/huellas-digitales-fingerprints). Los 4 primeros bytes del resultado se añaden al final del hash RIPEMD160. Y el resultado total se codifica en [base58](/post/2024/sistemas-de-codificacion) para obtener finalmente la dirección de Bitcoin.
 
 El siguiente esquema resume el proceso:
 
@@ -164,7 +164,7 @@ La banca tradicional se encarga de conservar tu dinero seguro en su caja fuerte.
 
 ## Despedida
 
-En este articulo has aprendido que una dirección de Bitcoin se deriva por reglas matemáticas a partir de una clave publica. Y que ésta se obtiene a partir de la clave privada asociada. Ya sabes que la dirección de Bitcoin es el equivalente al IBAN de la banca tradicional. Y que la clave privada es el equivalente al PIN de la banca tradicional. En el próximo articulo trataremos el [estandar BIP](/posts/bip), necesario para tratar los [wallets de Bitcoin](/posts/bitcoin-wallet-types) con rigor mas adelante.
+En este articulo has aprendido que una dirección de Bitcoin se deriva por reglas matemáticas a partir de una clave publica. Y que ésta se obtiene a partir de la clave privada asociada. Ya sabes que la dirección de Bitcoin es el equivalente al IBAN de la banca tradicional. Y que la clave privada es el equivalente al PIN de la banca tradicional. En el próximo articulo trataremos el [estandar BIP](/post/2024/bip), necesario para tratar los [wallets de Bitcoin](/post/2024/bitcoin-wallet-types) con rigor mas adelante.
 
 Como siempre, puedes encontrarme en el [canal de Telegram](https://t.me/lateclaescape) donde estoy atento a sugerencias, dudas, criticas y cualquier otro comentario. Gracias por leerme y, ¡nos vemos en el próximo articulo!.
 

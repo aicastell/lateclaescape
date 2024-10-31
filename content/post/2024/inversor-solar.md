@@ -10,7 +10,7 @@ featured: true
 
 # Motivación
 
-Has decidido montar una [instalación fotovoltaica](/posts/instalacion-fotovoltaica) en tu casa y no sabes ni por donde empezar. A mi me pasó lo mismo.
+Has decidido montar una [instalación fotovoltaica](/post/2024/instalacion-fotovoltaica) en tu casa y no sabes ni por donde empezar. A mi me pasó lo mismo.
 
 En este articulo te explico todo lo que he aprendido sobre inversores solares.
 

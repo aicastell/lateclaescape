@@ -20,12 +20,12 @@ Bitcoin es una red distribuida compuesta por nodos que no dependen de una autori
 
 El mecanismo de consenso de Bitcoin está basado en varios elementos clave que paso a enumerar a continuación:
 
-- [Huella digital](/posts/huellas-digitales-fingerprints/)
-- [Dificultad](/posts/bitcoin-transaction-block)
-- [Nonce](/posts/bitcoin-transaction-block)
-- [Transacciones](/posts/bitcoin-transaction)
-- [Bloque de transacciones](/posts/bitcoin-transaction-block/)
-- [Blockchain](/posts/blockchain/)
+- [Huella digital](/post/2024/huellas-digitales-fingerprints/)
+- [Dificultad](/post/2024/bitcoin-transaction-block)
+- [Nonce](/post/2024/bitcoin-transaction-block)
+- [Transacciones](/post/2024/bitcoin-transaction)
+- [Bloque de transacciones](/post/2024/bitcoin-transaction-block/)
+- [Blockchain](/post/2024/blockchain/)
 - Prueba de trabajo
 - Nodos mineros
 - Minería de Bitcoin

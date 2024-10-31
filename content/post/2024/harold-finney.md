@@ -32,7 +32,7 @@ Harold puso su destreza en la programación al servicio del grupo, para construi
 
 ## El proyecto RPOW
 
-En 2004 presentó un sistema denominado Prueba de Trabajo Reutilizable [RPOW](https://nakamotoinstitute.org/finney/rpow/index.html), un proyecto basado en el concepto de POW desarrollado años antes por el criptógrafo [Adam Back](/posts/adam-back). La idea detrás de RPOW es utilizar POW para crear tokens digitales únicos. Esos tokens luego pueden ser intercambiados entre sus usuarios y verificados por cualquiera en la red, sin la necesidad de una autoridad central.
+En 2004 presentó un sistema denominado Prueba de Trabajo Reutilizable [RPOW](https://nakamotoinstitute.org/finney/rpow/index.html), un proyecto basado en el concepto de POW desarrollado años antes por el criptógrafo [Adam Back](/post/2024/adam-back). La idea detrás de RPOW es utilizar POW para crear tokens digitales únicos. Esos tokens luego pueden ser intercambiados entre sus usuarios y verificados por cualquiera en la red, sin la necesidad de una autoridad central.
 
 RPOW no logró el éxito esperado, pero demostró que era posible crear dinero digital descentralizado, y proporcionó valiosas lecciones que influyeron en el desarrollo posterior de las criptomonedas.
 
@@ -90,7 +90,7 @@ Aunque la tecnología actual no pueda revivir a una persona criopreservada, en u
 
 Hoy os he hablado de una persona por la que siento especial admiración.
 
-Aunque la identidad del creador de Bitcoin sigue siendo un misterio, desde mi humilde opinión, creo que Harold fue el verdadero creador de Bitcoin. Tenía los conocimientos y las capacidades. Exponer tu identidad cuando creas un sistema monetario alternativo, que atenta directamente contra los intereses de los bancos y del Gobierno, puede ser peligroso. Como buen criptógrafo, utilizó una sencilla técnica de [cifrado por sustitución](/posts/criptografia-clasica) para encriptar su propio nombre bajo el seudónimo de Satoshi Nakamoto:
+Aunque la identidad del creador de Bitcoin sigue siendo un misterio, desde mi humilde opinión, creo que Harold fue el verdadero creador de Bitcoin. Tenía los conocimientos y las capacidades. Exponer tu identidad cuando creas un sistema monetario alternativo, que atenta directamente contra los intereses de los bancos y del Gobierno, puede ser peligroso. Como buen criptógrafo, utilizó una sencilla técnica de [cifrado por sustitución](/post/2024/criptografia-clasica) para encriptar su propio nombre bajo el seudónimo de Satoshi Nakamoto:
 
 ![Harold Finney is Satoshi Nakamoto](/img/harold-finney-satoshi-nakamoto.webp)
 

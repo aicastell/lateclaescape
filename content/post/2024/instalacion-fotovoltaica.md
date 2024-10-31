@@ -20,9 +20,9 @@ El autoconsumo de energía eléctrica es el proceso de generar electricidad para
 
 A nivel doméstico, esto se realiza mediante la instalación de un sistema de energía solar fotovoltaica de baja potencia. Estos sistemas consisten en unos paneles solares que se colocan en el tejado de tu propiedad, un inversor solar para convertir la corriente continua en alterna, y opcionalmente una batería para acumular los excedentes de energía generada.
 
-- [Paneles solares](/posts/paneles-solares)
-- [Inversor solar](/posts/inversor-solar)
-- [Batería](/posts/solar-battery) (opcional)
+- [Paneles solares](/post/2024/paneles-solares)
+- [Inversor solar](/post/2024/inversor-solar)
+- [Batería](/post/2024/solar-battery) (opcional)
 
 En próximos artículos analizaré en detalle cada uno de estos componentes. Mi intención es mantener actualizada esta información con todos los detalles nuevos que recopile sobre el tema en adelante.
 

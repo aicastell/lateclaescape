@@ -52,7 +52,7 @@ Sin embargo, es posible eludir este bloqueo utilizando un servidor intermedio si
 Esta solución se puede aplicar de dos formas diferentes:
 
 - Proxy
-- [Red privada virtual](/posts/vpn) (VPN)
+- [Red privada virtual](/post/2024/vpn) (VPN)
 
 El proxy es a nivel de aplicación, solo afecta a la aplicación Telegram. El resto de las aplicaciones de tu dispositivo funcionan con normalidad. El problema de los proxy es que las comunicaciones desde tu dispositivo hasta ese proxy intermedio puede que vayan cifradas o puede que no. Y ese servidor proxy podría estar espiando todas tus comunicaciones. Y eso no es recomendable en absoluto.
 

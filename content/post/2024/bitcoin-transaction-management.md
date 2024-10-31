@@ -10,15 +10,15 @@ featured: true
 
 # Motivación
 
-En un articulo anterior he hablado sobre las tres responsabilidades principales de un [nodo de Bitcoin](/posts/bitcoin-nodes), que son:
+En un articulo anterior he hablado sobre las tres responsabilidades principales de un [nodo de Bitcoin](/post/2024/bitcoin-nodes), que son:
 
 - Gestionar transacciones
 - Gestionar bloques de transacciones
 - Gestionar la blockchain
 
-En otro articulo he explicado que los nodos de Bitcoin se organizan en una [red de nodos de Bitcoin](/posts/bitcoin-nodes-network) para compartir información entre ellos. Para simplificar, reduje la red mundial de nodos a solo cinco: BN1, BN2, BN3, BN4 y BN5, aunque en la realidad, esta red está formada por decenas de miles de nodos.
+En otro articulo he explicado que los nodos de Bitcoin se organizan en una [red de nodos de Bitcoin](/post/2024/bitcoin-nodes-network) para compartir información entre ellos. Para simplificar, reduje la red mundial de nodos a solo cinco: BN1, BN2, BN3, BN4 y BN5, aunque en la realidad, esta red está formada por decenas de miles de nodos.
 
-En el articulo sobre [transacciones de Bitcoin](/posts/bitcoin-transaction) has asistido al proceso de creación de la transacción TX_666. Te la incluyo de nuevo para que no la pierdas de vista:
+En el articulo sobre [transacciones de Bitcoin](/post/2024/bitcoin-transaction) has asistido al proceso de creación de la transacción TX_666. Te la incluyo de nuevo para que no la pierdas de vista:
 
   ```
   TX_666: {
@@ -92,7 +92,7 @@ Este proceso de verificación de las transacciones se repite con cada transacci�
 
 ### 3. Difundir la transacción
 
-Después de verificar la transacción TX_666 como válida, el nodo BN5 la difunde a todos los nodos de la red de Bitcoin. Así, la transacción TX_666 llega a a los nodos BN1, BN2, BN3, y BN4. Esta difusión se realiza utilizando el protocolo de difusión del que hablamos en el articulo sobre [red de nodos de Bitcoin](/posts/bitcoin-nodes-network). La difusión completa a todos los nodos de la red tarda apenas unos segundos.
+Después de verificar la transacción TX_666 como válida, el nodo BN5 la difunde a todos los nodos de la red de Bitcoin. Así, la transacción TX_666 llega a a los nodos BN1, BN2, BN3, y BN4. Esta difusión se realiza utilizando el protocolo de difusión del que hablamos en el articulo sobre [red de nodos de Bitcoin](/post/2024/bitcoin-nodes-network). La difusión completa a todos los nodos de la red tarda apenas unos segundos.
 
 ### 4. Encolar la transacción
 
@@ -100,7 +100,7 @@ Cada vez que un nodo de Bitcoin recibe una nueva transacción verificada, la alm
 
 Por tanto, la transacción TX_666 ahora mismo queda encolada en la mempool de cada nodo de la red de Bitcoin. Es decir, en la mempool de BN1, BN2, BN3, BN4 y BN5.
 
-Si te fijas, la transacción TX_666 tiene una comisión *Fee* de 0.0004972 Bitcoin. En el articulo sobre [transacciones de Bitcoin](/posts/bitcoin-transactions) mencioné que mas adelante hablaría sobre una pequeña comisión *Fee* que se inserta en cada transacción. Ha llegado el momento de explicarte en que consiste esta comisión.
+Si te fijas, la transacción TX_666 tiene una comisión *Fee* de 0.0004972 Bitcoin. En el articulo sobre [transacciones de Bitcoin](/post/2024/bitcoin-transactions) mencioné que mas adelante hablaría sobre una pequeña comisión *Fee* que se inserta en cada transacción. Ha llegado el momento de explicarte en que consiste esta comisión.
 
 La comisión *Fee* es una pequeña cantidad de Bitcoin que el emisor incluye de forma voluntaria en la transacción que acaba de crear, y que sirve como incentivo para que su transacción se procese antes. Las transacciones con comisiones *Fee* más altas tienen mayor prioridad y, por tanto, se procesan antes. Las transacciones con comisiones *Fee* más bajas tienen menos prioridad y, por tanto, tardan más en procesarse.
 

@@ -14,7 +14,7 @@ Antes de empezar, quiero darte la bienvenida a este blog, y agradecerte el tiemp
 
 Si eres un lector asiduo a este blog ya sabes muchas cosas sobre Bitcoin. Repaso algunos conceptos que has aprendido.
 
-Sabes que un [wallet de Bitcoin](/posts/bitcoin-wallet-types) es una herramienta que contiene [direcciones de Bitcoin](/posts/bitcoin-address). Que cada dirección de Bitcoin tiene asociada dos [claves asimétricas](/posts/criptografia-asimetrica): una clave pública y una clave privada. Que estas dos claves asimétricas están relacionadas matemáticamente. Que la clave privada es necesaria para enviar Bitcoin. Que a partir de la clave publica se deriva la dirección de Bitcoin. Y que la dirección de Bitcoin se utiliza para recibir Bitcoin.
+Sabes que un [wallet de Bitcoin](/post/2024/bitcoin-wallet-types) es una herramienta que contiene [direcciones de Bitcoin](/post/2024/bitcoin-address). Que cada dirección de Bitcoin tiene asociada dos [claves asimétricas](/post/2024/criptografia-asimetrica): una clave pública y una clave privada. Que estas dos claves asimétricas están relacionadas matemáticamente. Que la clave privada es necesaria para enviar Bitcoin. Que a partir de la clave publica se deriva la dirección de Bitcoin. Y que la dirección de Bitcoin se utiliza para recibir Bitcoin.
 
 Si tienes claros estos conceptos de los que acabo de hablar, estas listo para afrontar la lectura de este articulo. En caso contrario, antes de continuar te recomendaría revisar los artículos referenciados para que saques el máximo provecho del tiempo que inviertas en la lectura.
 
@@ -91,9 +91,9 @@ Cantidad: "3.0 BTC",
 
 Imagina que cualquier persona pudiera crear una transacción de Bitcoin tal y como acabo de describir. Esta persona podría crear transacciones fraudulentas poniendo como emisor la dirección de cualquier wallet con saldo positivo, y como receptor la dirección de su propio wallet. Se sentiría un hacker todo poderoso. Obviamente, esto no sería admisible. ¿Como resuelve Bitcoin este problema?
 
-Para evitar este problema, el emisor debe añadir a la transacción una [firma digital](/posts/firmas-digitales) "Disign" que demuestre que es el legitimo propietario de los 3.0 BTC que va a transferir al receptor.
+Para evitar este problema, el emisor debe añadir a la transacción una [firma digital](/post/2024/firmas-digitales) "Disign" que demuestre que es el legitimo propietario de los 3.0 BTC que va a transferir al receptor.
 
-Esta firma digital se genera calculando una [huella digital](/posts/huellas-digitales-fingerprints) SHA-256 de la transacción, que posteriormente se encripta con la clave privada del emisor (K_PRI_SEND). Veamos los pasos en detalle:
+Esta firma digital se genera calculando una [huella digital](/post/2024/huellas-digitales-fingerprints) SHA-256 de la transacción, que posteriormente se encripta con la clave privada del emisor (K_PRI_SEND). Veamos los pasos en detalle:
 
 Primero se calcula la huella digital SHA-256 de la transacción:
 

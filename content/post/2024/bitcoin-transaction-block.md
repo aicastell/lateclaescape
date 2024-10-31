@@ -10,9 +10,9 @@ featured: true
 
 # Motivación
 
-En un articulo reciente sobre [transacciones de Bitcoin](/posts/bitcoin-transaction/) has asistido al nacimiento de la transacción TX_666 en directo.
+En un articulo reciente sobre [transacciones de Bitcoin](/post/2024/bitcoin-transaction/) has asistido al nacimiento de la transacción TX_666 en directo.
 
-Después dediqué un articulo a la [gestión de transacciones](/posts/bitcoin-transaction-management/), la primera responsabilidad de los [nodos de Bitcoin](/posts/bitcoin-nodes/), donde he explicado como un nodo de la [red de Bitcoin](/posts/bitcoin-nodes-network) recibe la transacción TX_666, la verifica y la propaga al resto de los nodos de la red.
+Después dediqué un articulo a la [gestión de transacciones](/post/2024/bitcoin-transaction-management/), la primera responsabilidad de los [nodos de Bitcoin](/post/2024/bitcoin-nodes/), donde he explicado como un nodo de la [red de Bitcoin](/post/2024/bitcoin-nodes-network) recibe la transacción TX_666, la verifica y la propaga al resto de los nodos de la red.
 
 En este articulo incorporo un nuevo concepto: los bloques de transacciones.
 
@@ -24,7 +24,7 @@ Este articulo da continuidad al viaje de la transacción TX_666. No ha terminado
 
 Un **bloque de transacciones** es un objeto contenedor que como su nombre indica, agrupa a un conjunto de transacciones en su interior.
 
-En un articulo anterior te dije que la segunda responsabilidad de [los nodos de Bitcoin](/posts/bitcoin-nodes/) era gestionar los bloques de transacciones. Pues bien, la creación de estos bloques de transacciones recae precisamente sobre los nodos de Bitcoin.
+En un articulo anterior te dije que la segunda responsabilidad de [los nodos de Bitcoin](/post/2024/bitcoin-nodes/) era gestionar los bloques de transacciones. Pues bien, la creación de estos bloques de transacciones recae precisamente sobre los nodos de Bitcoin.
 
 Los bloques de transacciones se crean aproximadamente cada 10 minutos. El por qué y el cómo son preguntas que responderé en capítulos posteriores.
 
@@ -68,7 +68,7 @@ El campo *Difficulty* es un número que codifica la dificultad para calcular el 
 
 El campo *Nonce* es un valor random que debe ser calculado de tal manera que, una vez se añade a la cabecera, la huella digital SHA-256 de toda la cabecera del bloque genere un hash que tenga los Z = *Difficulty* primeros bits a valor cero '0'. El valor de Z viene determinado por el campo *Difficulty* de la cabecera del bloque. Calcular el campo *Nonce* tiene un altísimo coste computacional que puede ajustarse dinámicamente, variando el campo *Difficulty* según las necesidades de cada momento temporal.
 
-Entenderás perfectamente la utilidad de los campos *Difficulty* y *Nonce* en el articulo donde hablo específicamente sobre la [minería de Bitcoin](/posts/bitcoin-consensus-mechanism/).
+Entenderás perfectamente la utilidad de los campos *Difficulty* y *Nonce* en el articulo donde hablo específicamente sobre la [minería de Bitcoin](/post/2024/bitcoin-consensus-mechanism/).
 
 ### Cuerpo del bloque
 
@@ -81,7 +81,7 @@ El campo *TX_Counter* indica el numero de transacciones que almacena este bloque
 
 El campo *TX_List* es el elemento mas grande del bloque de transacciones. Contiene la lista de todas las transacciones almacenadas en este bloque. Recuerda, transacciones que han sido extraídas de la mempool del nodo que ha creado el bloque.
 
-La primera transacción en la lista *TX_List* de cada bloque siempre es una transacción especial que se conoce como transacción *Coinbase* (TX_Coinbase). Hablaremos sobre ella mas adelante cuando abordemos el tema de las [recompensas de Bitcoin](/posts/bitcoin-rewards).
+La primera transacción en la lista *TX_List* de cada bloque siempre es una transacción especial que se conoce como transacción *Coinbase* (TX_Coinbase). Hablaremos sobre ella mas adelante cuando abordemos el tema de las [recompensas de Bitcoin](/post/2024/bitcoin-rewards).
 
 ## Ejemplo de bloque de transacciones
 

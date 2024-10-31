@@ -12,7 +12,7 @@ featured: true
 
 La falta de tiempo libre siempre ha sido la excusa perfecta para no estudiar un idioma nuevo. Sin embargo, hacía ya tiempo que me apetecía mucho ponerme con el Alemán. A principios de 2023 me animé a estudiarlo.
 
-Como habitualmente hago antes de empezar algo nuevo, pregunté consejo a Google. Entre sus recomendaciones hubo una que me llamó la atención. Se trataba de la [plataforma Duolingo](/posts/duolingo-platform). Según indicaban en su web:
+Como habitualmente hago antes de empezar algo nuevo, pregunté consejo a Google. Entre sus recomendaciones hubo una que me llamó la atención. Se trataba de la [plataforma Duolingo](/post/2024/duolingo-platform). Según indicaban en su web:
 
 > Hablaras Alemán con practicar 10 minutos al día durante 3 meses.
 

@@ -33,7 +33,7 @@ Deben ser resistentes a diversos tipos de ataques, incluidos de fuerza bruta, de
 
 ## Generación de la clave
 
-Una clave simétrica puede generarse utilizando cualquier secuencia de bytes en el [sistema de codificación](/posts/sistemas-de-codificacion) que mas nos guste: binario, ASCII, hexadecimal, etc.
+Una clave simétrica puede generarse utilizando cualquier secuencia de bytes en el [sistema de codificación](/post/2024/sistemas-de-codificacion) que mas nos guste: binario, ASCII, hexadecimal, etc.
 
 Sin embargo, para generar una clave simétrica robusta y segura, utilizaremos lo que se conoce como **generador de números aleatorios (RNG)**. Estos generadores pueden ser por software o por hardware, y suelen basarse en alguna fuente de entropía externa para garantizar la aleatoriedad de las claves generadas. Algunas fuentes de entropía de uso habitual son:
 

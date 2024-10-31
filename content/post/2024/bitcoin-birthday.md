@@ -67,7 +67,7 @@ Dado el contexto económico, no parece casual que la primera frase del *Abstract
 
 ## El bloque génesis
 
-El día 3 de Enero de 2009, Satoshi genera el **bloque génesis**, el primer [bloque de transacciones](/posts/bitcoin-transaction-block/) de Bitcoin. Este día es considerado como el cumpleaños de Bitcoin. El pasado 3 de Enero de 2024 se cumplieron 15 años. La foto de portada conmemora su aniversario.
+El día 3 de Enero de 2009, Satoshi genera el **bloque génesis**, el primer [bloque de transacciones](/post/2024/bitcoin-transaction-block/) de Bitcoin. Este día es considerado como el cumpleaños de Bitcoin. El pasado 3 de Enero de 2024 se cumplieron 15 años. La foto de portada conmemora su aniversario.
 
 En el bloque génesis, Satoshi deja escrito el siguiente mensaje:
 

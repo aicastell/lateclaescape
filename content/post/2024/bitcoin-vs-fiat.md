@@ -20,7 +20,7 @@ Algunas criptomonedas se centran en mejorar la privacidad y el anonimato. Otras 
 
 Esta diversidad es fruto de una mayor inversión tecnológica en este ámbito. Y es que el interés en estas tecnologías es actualmente abrumador.
 
-Hace meses publiqué un articulo hablando sobre el [dinero FIAT](/posts/dinero-fiat) en general y sobre las [monedas FIAT](/posts/dinero-fiat) en particular. En este articulo exploraré la criptomoneda **Bitcoin** como una alternativa a las monedas FIAT tradicionales.
+Hace meses publiqué un articulo hablando sobre el [dinero FIAT](/post/2024/dinero-fiat) en general y sobre las [monedas FIAT](/post/2024/dinero-fiat) en particular. En este articulo exploraré la criptomoneda **Bitcoin** como una alternativa a las monedas FIAT tradicionales.
 
 ## Criptomoneda Bitcoin
 
@@ -46,7 +46,7 @@ A diferencia de las monedas FIAT, emitidas por los Gobiernos centrales, Bitcoin 
 
 ### Segura
 
-Debido a su naturaleza física, las monedas FIAT son susceptibles a la falsificación. En cambio, Bitcoin es una moneda digital que basa su seguridad en la [criptografía moderna](/posts/criptografia-moderna). Cada transacción es verificada y registrada en la blockchain, un libro contable público y distribuido, extremadamente difícil de manipular. La [criptografía asimétrica](/posts/criptografia-asimetrica) garantiza que solo el propietario legítimo de una dirección Bitcoin puede transferir los fondos asociados a ella.
+Debido a su naturaleza física, las monedas FIAT son susceptibles a la falsificación. En cambio, Bitcoin es una moneda digital que basa su seguridad en la [criptografía moderna](/post/2024/criptografia-moderna). Cada transacción es verificada y registrada en la blockchain, un libro contable público y distribuido, extremadamente difícil de manipular. La [criptografía asimétrica](/post/2024/criptografia-asimetrica) garantiza que solo el propietario legítimo de una dirección Bitcoin puede transferir los fondos asociados a ella.
 
 ### Privada
 
@@ -66,7 +66,7 @@ En comparación con los sistemas financieros tradicionales, las transacciones de
 
 ## Bitcoin vs FIAT
 
-Hace algunos meses publiqué un articulo donde intentaba responder algunas cuestiones sobre el [dinero FIAT](/posts/dinero-fiat). A algunas preguntas tuve que dar respuestas subjetivas sin posibilidad de aportar datos concretos.
+Hace algunos meses publiqué un articulo donde intentaba responder algunas cuestiones sobre el [dinero FIAT](/post/2024/dinero-fiat). A algunas preguntas tuve que dar respuestas subjetivas sin posibilidad de aportar datos concretos.
 
 En este articulo respondo a las mismas cuestiones, pero esta vez enfocando la respuesta específicamente a la criptomoneda Bitcoin. Estas son las cuestiones:
 
@@ -107,7 +107,7 @@ Este proceso se repetirá cada cuatro años, hasta alcanzar los 21 millones.
 
 ### 6. Mecanismos de seguridad
 
-Bitcoin es una representación digital del dinero. Utiliza [criptografía moderna](/posts/criptografia-moderna) (por tanto matemáticas) para garantizar la integridad, la autenticidad y la privacidad de las transacciones.
+Bitcoin es una representación digital del dinero. Utiliza [criptografía moderna](/post/2024/criptografia-moderna) (por tanto matemáticas) para garantizar la integridad, la autenticidad y la privacidad de las transacciones.
 
 ## Despedida
 

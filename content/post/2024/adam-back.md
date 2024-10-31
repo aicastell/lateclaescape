@@ -76,7 +76,7 @@ La serie de correos enviados entre Satoshi y Adam revelan que Adam no es Satoshi
 
 ## Despedida
 
-En este articulo has aprendido quien es Adam Back. En próximos artículos hablaré sobre la cultura cypherpunk y sobre otras cripto celebridades como Satoshi Nakamoto, Vitalik Buterin, [Harold Finney](/posts/harold-finney) y muchos mas.
+En este articulo has aprendido quien es Adam Back. En próximos artículos hablaré sobre la cultura cypherpunk y sobre otras cripto celebridades como Satoshi Nakamoto, Vitalik Buterin, [Harold Finney](/post/2024/harold-finney) y muchos mas.
 
 Espero que este contenido te resulte interesante. Como siempre, puedes plantearme cualquier duda en el [canal de Telegram](https://t.me/lateclaescape) e intentaré ayudarte a resolverla. Gracias por leerme y nos vemos en el siguiente articulo.
 

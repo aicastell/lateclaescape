@@ -51,7 +51,7 @@ $ echo -n "Hola Mundo" | openssl sha256
 c3a4a2e49d91f2177113a9adfcb9ef9af9679dc4557a0a3a4602e1bd39a6f481
 ```
 
-Como ves, la función SHA-256 genera como salida un numero de 64 símbolos hexadecimales. Como aprendiste [en este articulo](/posts/sistemas-de-codificacion), cada símbolo hexadecimal se puede codificar con 4 bits. Por tanto, 64 símbolos hexadecimales cada uno de 4 bits, hacen un total de 256 bits. Ese numero de 256 bits es la huella digital generada por la función de hash SHA-256 para la cadena de texto "Hola Mundo".
+Como ves, la función SHA-256 genera como salida un numero de 64 símbolos hexadecimales. Como aprendiste [en este articulo](/post/2024/sistemas-de-codificacion), cada símbolo hexadecimal se puede codificar con 4 bits. Por tanto, 64 símbolos hexadecimales cada uno de 4 bits, hacen un total de 256 bits. Ese numero de 256 bits es la huella digital generada por la función de hash SHA-256 para la cadena de texto "Hola Mundo".
 
 Ahora manipula el objeto digital de entrada "Hola Mundo". Por ejemplo, cambia la 'a' por una 'x'. Y recalcula su huella digital:
 
@@ -136,7 +136,7 @@ A partir de la firma dactilar, de un escáner de retina o del iris, se puede obt
 
 Algunos países incorporan huellas digitales en pasaportes y documentos de identidad para fortalecer la autenticidad y prevenir la falsificación.
 
-Las firmas digitales son un mecanismo de seguridad criptográfica que combina las huellas digital con la [criptografía asimétrica](/posts/criptografia-asimetrica). Mucha gente confunde las firmas digitales con las huellas digitales, pero son cosas totalmente diferentes. En el próximo articulo sobre criptografía trataré específicamente las [firmas digitales](/posts/firmas-digitales). ¡No te lo pierdas!.
+Las firmas digitales son un mecanismo de seguridad criptográfica que combina las huellas digital con la [criptografía asimétrica](/post/2024/criptografia-asimetrica). Mucha gente confunde las firmas digitales con las huellas digitales, pero son cosas totalmente diferentes. En el próximo articulo sobre criptografía trataré específicamente las [firmas digitales](/post/2024/firmas-digitales). ¡No te lo pierdas!.
 
 ## Despedida
 

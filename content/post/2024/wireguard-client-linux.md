@@ -10,7 +10,7 @@ featured: true
 
 # Motivación
 
-En artículos anteriores has aprendido a instalar y configurar un [servidor WireGuard](/posts/wireguard-server) y un [cliente WireGuard en Android](/posts/wireguard-client-android).
+En artículos anteriores has aprendido a instalar y configurar un [servidor WireGuard](/post/2024/wireguard-server) y un [cliente WireGuard en Android](/post/2024/wireguard-client-android).
 
 Para finalizar esta serie de artículos sobre WireGuard, en este articulo voy a explicar como instalar y configurar un cliente de WireGuard en Linux. Y es que, por si alguien sigue con dudas a estas alturas, WireGuard funciona especialmente bien con Linux.
 

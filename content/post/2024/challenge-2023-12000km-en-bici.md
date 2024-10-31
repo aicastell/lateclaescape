@@ -10,7 +10,7 @@ featured: true
 
 # Challenge deportivo 2023
 
-Tras [abortar el reto en 2022](/posts/challenge-2022-10000km-en-bici), el 1 de Enero de 2023 volví con el mismo objetivo en mente: completar los 10.000Km en bicicleta. El 4 de Noviembre de 2023, a falta de 2 meses para finalizar el año 2023, completé por fín el reto de los 10.000Km.
+Tras [abortar el reto en 2022](/post/2024/challenge-2022-10000km-en-bici), el 1 de Enero de 2023 volví con el mismo objetivo en mente: completar los 10.000Km en bicicleta. El 4 de Noviembre de 2023, a falta de 2 meses para finalizar el año 2023, completé por fín el reto de los 10.000Km.
 
 Llegado el momento, me planteé pasar los dos últimos meses dedicando mi tiempo a otras cuestiones. Pero me ví con ánimo para ampliar el objetivo hasta los 12.000Km. Es decir, 1000Km mensuales. Un número redondo. Tocaba hacer 2000Km más en menos de 2 meses. En los meses mas frios y en los días mas cortos del año.
 

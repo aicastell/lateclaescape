@@ -30,7 +30,7 @@ El túnel entre el cliente y el servidor de la VPN se utiliza principalmente par
 
 ![tunel vpn](/img/vpn-schema.webp)
 
-Este túnel encriptado se consigue mediante certificados digitales que se instalan tanto en el servidor como en los distintos clientes. Mas información sobre [certificados digitales](/posts/certificados-digitales) en el articulo referenciado.
+Este túnel encriptado se consigue mediante certificados digitales que se instalan tanto en el servidor como en los distintos clientes. Mas información sobre [certificados digitales](/post/2024/certificados-digitales) en el articulo referenciado.
 
 La dirección IP del cliente es la que asigna tu proveedor de servicios de Internet (ISP) al dispositivo cliente (ordenador smartphone, tablet, etc). Esta dirección es la que se expone a Internet como origen de los paquetes. Puede utilizarse para conocer la ubicación geográfica aproximada del cliente. Los operadores de red y otros servicios en línea pueden utilizar esta información para aplicar restricciones geográficas u otras políticas de red.
 

@@ -10,7 +10,7 @@ featured: true
 
 # Las primeras computadoras
 
-La aparición de las primeras computadoras tuvo un impacto muy grande de consecuencias fatales para la [criptografía clásica](/posts/criptografia-clasica), debilitando la seguridad de todos los métodos de cifrado clásicos, sin excepción.
+La aparición de las primeras computadoras tuvo un impacto muy grande de consecuencias fatales para la [criptografía clásica](/post/2024/criptografia-clasica), debilitando la seguridad de todos los métodos de cifrado clásicos, sin excepción.
 
 Con su capacidad de procesamiento y velocidad, las computadoras podían probar miles de claves y estrategias de descifrado distintas por segundo. Esto hizo que, combinando ataques por fuerza bruta y análisis estadístico, se pudiera descifrar cualquier mensaje cifrado con un método clásico en cuestión de pocos segundos. En la actualidad, se consideran débiles en términos de seguridad, y solamente se utilizan con fines educativos.
 
@@ -64,9 +64,9 @@ Junto con la aparición de las primeras computadoras, surge el concepto de **cri
 
 La criptografía moderna se ha ramificado en tres vertientes fundamentales:
 
-- [Criptografía simétrica](/posts/criptografia-simetrica)
-- [Criptografía asimétrica](/posts/criptografia-asimetrica)
-- [Firmas digitales](/posts/firmas-digitales)
+- [Criptografía simétrica](/post/2024/criptografia-simetrica)
+- [Criptografía asimétrica](/post/2024/criptografia-asimetrica)
+- [Firmas digitales](/post/2024/firmas-digitales)
 
 Estos tres enfoques ofrecen distintas estrategias para garantizar la confidencialidad, la autenticidad y la integridad de los datos en el mundo digital. Tal y como veremos en próximos artículos.
 
