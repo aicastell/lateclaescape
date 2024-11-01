@@ -1,4 +1,5 @@
 public/
 rsync.sh
 ROADMAP
-content/post/backlog
+content/post/backlog/
+resources/
