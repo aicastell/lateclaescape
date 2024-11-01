@@ -2,8 +2,8 @@
 title: Servidor Wireguard
 date: 2024-04-20
 image: /img/posts/wireguard-server.webp
-tags: [ "VPN", "WireGuard" ]
 categories: [ "redes" ]
+tags: [ "VPN", "WireGuard" ]
 draft: false
 featured: true
 ---
