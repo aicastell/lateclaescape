@@ -2,8 +2,8 @@
 title: Reloj Suunto 9 Peak
 date: 2024-11-05
 image: /img/posts/reloj-suunto-9-peak.webp
-categories: [ "review", "deportes", "gadgets" ]
-tags: [ "smartwatch", "suunto" ]
+categories: [ "deportes", "gadgets", "opinión" ]
+tags: [ "reloj", "suunto", "review" ]
 draft: false
 featured: true
 ---

@@ -3,7 +3,7 @@ title: El teclado definitivo
 date: 2024-02-23
 image: /img/posts/keyboards.webp
 categories: [ "hardware", "opinión" ]
-tags: [ "keyboards" ]
+tags: [ "keyboards", "review" ]
 draft: false
 featured: true
 ---
