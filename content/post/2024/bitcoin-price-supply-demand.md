@@ -38,7 +38,7 @@ La demanda de Bitcoin aumenta o disminuye en función de la confianza que la gen
 - Transparencia y accesibilidad
 - Adopción empresarial e institucional
 - Apoyo gubernamental
-- Crisis económicas
+- Crisis financieras
 - Interoperabilidad y reconocimiento mundial
 - Mercados emergentes y economías inestables
 - Resistencia a censura y control estatal
@@ -95,7 +95,7 @@ El precio de Bitcoin viene determinado por el punto de equilibrio entre su ofert
 
 La volatilidad de Bitcoin es consecuencia de que este punto de equilibrio se encuentra en constante cambio. Su oferta esta controlada por software y por tanto no es manipulable. Esta oferta disminuye gradualmente debido a los halvings, que reducen la recompensa por bloque minado, y al suministro máximo limitado a 21 millones de monedas. Como consecuencia, su volatilidad es principalmente causada por las fluctuaciones abruptas continuas sobre los distintos factores que afectan a su demanda.
 
-En 2024, se han dado dos hechos muy significativos. Primero, tuvo lugar el Halving de Bitcoin numero 4, lo que redujo aún más la cantidad de Bitcoin que se genera. Segundo, las elecciones presidenciales de EEUU resultaron en la victoria de Donald Trump, quien se ha declarado defensor de las criptomonedas. Este contexto ha impulsado a Bitcoin a alcanzar un nuevo máximo histórico hasta la fecha, 76500.00 USD en el momento que escribo estas líneas.
+En 2024, se han dado dos hechos muy significativos. Primero, tuvo lugar el Halving de Bitcoin numero 4, lo que redujo aún más la cantidad de Bitcoin que se genera. Segundo, las elecciones presidenciales de EEUU resultaron en la victoria del controvertido *Donald Trump*, quien se ha declarado defensor de las criptomonedas. Este contexto ha impulsado a Bitcoin a alcanzar un nuevo máximo histórico hasta la fecha, 76500.00 USD en el momento que escribo estas líneas.
 
 En la siguiente tabla muestro el precio de Bitcoin el día de Navidad de cada año desde su lanzamiento en 2009.
 
@@ -125,6 +125,6 @@ Bitcoin se mantiene como una de las criptomonedas más fascinantes y disruptivas
 
 Bitcoin no es solo una moneda, es una revolución tecnológica que continúa evolucionando. Con el tiempo, más personas y empresas reconocen su potencial como un activo fiable a largo plazo. Y, en un contexto en el que su oferta se reduce progresivamente, su valor parece seguir una senda alcista, con un futuro aún por definir pero lleno de posibilidades. Sin duda, Bitcoin ha llegado para quedarse, y su rol en la economía mundial no para de crecer.
 
-Te animo a predecir su precio para el 25/12/2024 en el [canal de Telegram](https://t.me/lateclaescape). Yo me voy a mojar. En Navidad de 2024, su valor rondará los 80000-100000$. Ahí lo dejo.
+Te animo a predecir su precio para el 25/12/2024 en el [canal de Telegram](https://t.me/lateclaescape). Yo me voy a mojar. Mi apuesta personal es que en Navidad de 2024 su valor rondará 100000.00$. Ahí lo dejo.
 
 Pulso la tecla ESC, dos puntos wq!
