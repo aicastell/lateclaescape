@@ -10,29 +10,29 @@ featured: true
 
 # Resumen
 
-Bitcoin no solo destaca por su revolucionaria tecnología. Ha llamado la atención de muchos inversores por su extraordinario dinamismo en los mercados financieros.
+Bitcoin no solo destaca por su revolucionaria tecnología. También ha llamado la atención de muchos inversores por su extraordinario dinamismo en los mercados financieros.
 
-Su cotización ha experimentado ascensos vertiginosos, alcanzando máximos históricos de mas de 70000.00$ tras partir de un valor inicial de 0.00$. Y caídas abruptas del 50% de su valoración en tan solo 24h.
+Su cotización en los mercados es una auténtica montaña rusa. Su precio ha alcanzando máximos históricos de mas de 70,000.00$ tras partir de un valor inicial de 0.00$. Pero también ha habido caídas abruptas del 50% de su valoración en tan solo 24h.
 
-Su cotización es una auténtica montaña rusa. ¿Qué justifica el valor actual de Bitcoin? ¿Qué impulsa su extrema volatilidad? En este artículo voy a intentar contestar a estas cuestiones.
+¿Qué justifica el valor actual de Bitcoin? ¿Quien fija su precio? ¿Qué impulsa su extrema volatilidad? En este artículo voy a intentar contestar a todas estas cuestiones.
 
 # La oferta
 
-La oferta se refiere a la cantidad total de monedas en circulación.
+Al hablar de **oferta** me refiero a la cantidad total de monedas en circulación.
 
-Las [monedas FIAT](/post/2024/dinero-fiat) no tienen limite de emisión. El flujo circulante puede incrementarse sin ningún limite según las decisiones que tomen los distintos bancos centrales. En cambio, la oferta de Bitcoin está está controlada rigurosamente por su código fuente.
+Las [monedas FIAT](/post/2024/dinero-fiat) no tienen limite de emisión. La cantidad de monedas FIAT en circulación puede incrementarse sin ningún limite según las decisiones que tomen los distintos bancos centrales. En cambio, la oferta de Bitcoin está controlada rigurosamente por su código fuente.
 
-Bitcoin tiene una oferta máxima y fija de 21 millones de unidades. Este límite está codificado en el propio código fuente del sistema, y no puede ser modificado. Este límite hace que Bitcoin se asemeje a los metales preciosos, como el oro, que son finitos y, por tanto, considerados como reservas de valor debido a su escasez.
+Bitcoin tiene una oferta máxima y fija de 21 millones de unidades. Este límite está codificado en el propio código fuente del sistema, y no puede ser modificado. Este límite hace que Bitcoin se asemeje a los metales preciosos, como el oro, que son finitos y, por tanto, considerados como reservas de valor debido a su escasez. Se estima que hay unos 8,000 millones de personas en el planeta, y solo hay 21 millones de monedas Bitcoin. No habrá Bitcoin para todos.
 
-El mecanismo de emisión de Bitcoin está programado en su código fuente. Se gestiona mediante el proceso de minería, donde cada bloque minado introduce una cantidad fija de nuevos Bitcoin en circulación. Ninguna entidad externa, como bancos centrales o gobiernos, puede intervenir en su emisión.
+El mecanismo de emisión de Bitcoin está programado en su código fuente. Se realiza mediante el proceso de minería, donde cada bloque minado introduce una cantidad fija de nuevos Bitcoin en circulación. Ninguna entidad externa, como bancos centrales o gobiernos, puede intervenir en su emisión.
 
-La escasez de Bitcoin también está programada en su código fuente. Los [Bitcoin Halving](/posts/2024/bitcoin-mining-rewards) ocurren exactamente cada 210000 bloques minados, y reducen la recompensa por cada bloque minado a la mitad, lo cual disminuye la cantidad de Bitcoin nuevos en circulación. Este ciclo de reducción progresiva en su emisión limita el crecimiento de la oferta, manteniendo la escasez del activo y aumentando su atractivo para los inversores preocupados por la inflación.
+La escasez de Bitcoin también está programada en su código fuente. Los [Bitcoin Halving](/post/2024/bitcoin-mining-rewards) ocurren exactamente cada 210,000 bloques minados, y reducen la recompensa por cada bloque minado a la mitad, lo cual disminuye la cantidad de Bitcoin nuevos en circulación. Este ciclo de reducción progresiva en su emisión limita el crecimiento de la oferta, manteniendo la escasez del activo y aumentando su atractivo para los inversores preocupados por la inflación.
 
 # La demanda
 
-La demanda se refiere al interés y disposición de personas, instituciones, gobiernos y empresas en adquirir y usar una moneda como activo, medio de inversión o moneda de intercambio.
+Al hablar de **demanda** me refiero al interés y disposición de personas, instituciones, gobiernos y empresas en adquirir y usar una moneda como activo, medio de inversión o moneda de intercambio.
 
-La demanda de Bitcoin aumenta o disminuye en función de la confianza que la gente percibe en esa moneda. Esa confianza se fundamenta en varios factores:
+La demanda de Bitcoin sube o baja según la confianza que la gente tenga en esta moneda. Esa confianza se fundamenta en varios factores:
 
 - Seguridad
 - Transparencia y accesibilidad
@@ -87,37 +87,36 @@ Con el tiempo, la tecnología alrededor de Bitcoin va mejorando. Soluciones de c
 
 Con cierta frecuencia, los medios de comunicación difunden noticias que siembran desconfianza hacia las criptomonedas, advirtiendo sobre burbujas, estafas o fraudes. Sin embargo, rara vez informan sobre sus avances tecnológicos, o cuando alcanzan nuevos máximos históricos. Estos medios desempeñan un papel clave en la percepción pública de Bitcoin. Muchos están controlados por grandes corporaciones, para las cuales la información veraz o equilibrada a menudo pasa a un segundo plano frente a otros intereses.
 
-# El punto de equilibrio
+# El precio
 
-El precio de Bitcoin viene determinado por el punto de equilibrio entre su oferta y su demanda.
+El precio de Bitcoin en el mercado depende de la cantidad de personas que quieran comprarlo en relación con la cantidad disponible. Este punto de equilibrio es como una balanza: cuando hay más personas queriendo comprar Bitcoin que las que desean venderlo, el precio tiende a subir. Por contra, si hay más personas dispuestas a vender que a comprar, el precio tiende a bajar. Por tanto, el **precio de Bitcoin** viene determinado por el punto de equilibrio entre su oferta y su demanda.
 
 ![Price supply demand](/img/oferta-y-demanda.webp)
 
-La volatilidad de Bitcoin es consecuencia de que este punto de equilibrio se encuentra en constante cambio. Su oferta esta controlada por software y por tanto no es manipulable. Esta oferta disminuye gradualmente debido a los halvings, que reducen la recompensa por bloque minado, y al suministro máximo limitado a 21 millones de monedas. Como consecuencia, su volatilidad es principalmente causada por las fluctuaciones abruptas continuas sobre los distintos factores que afectan a su demanda.
+La oferta disminuye gradualmente debido a los halvings, que reducen la recompensa por bloque minado, y al suministro máximo limitado a 21 millones de monedas. Por tanto, su oferta esta controlada por software y no es manipulable. Como consecuencia, las variaciones en su precio se deben principalmente a las fluctuaciones abruptas continuas sobre los distintos factores que afectan a su demanda.
 
-En 2024, se han dado dos hechos muy significativos. Primero, tuvo lugar el Halving de Bitcoin numero 4, lo que redujo aún más la cantidad de Bitcoin que se genera. Segundo, las elecciones presidenciales de EEUU resultaron en la victoria del controvertido *Donald Trump*, quien se ha declarado defensor de las criptomonedas. Este contexto ha impulsado a Bitcoin a alcanzar un nuevo máximo histórico hasta la fecha, 76500.00 USD en el momento que escribo estas líneas.
+A continuación presento una tabla que muestra el precio de Bitcoin el día de Navidad de cada año desde su lanzamiento en 2009.
 
-En la siguiente tabla muestro el precio de Bitcoin el día de Navidad de cada año desde su lanzamiento en 2009.
+| Event             | Date          |  Price (BTC) |
+|-------------------|---------------|--------------|
+| Bitcoin origin    | 25/12/2009    |       0.00$  |
+|                   | 25/12/2010    |       0.25$  |
+|                   | 25/12/2011    |       4.00$  |
+| Halving 1         | 25/12/2012    |      13.00$  |
+|                   | 25/12/2013    |     682.00$  |
+|                   | 25/12/2014    |     319.00$  |
+|                   | 25/12/2015    |     455.00$  |
+| Halving 2         | 25/12/2016    |     896.00$  |
+|                   | 25/12/2017    |   14026.00$  |
+|                   | 25/12/2018    |    3815.00$  |
+|                   | 25/12/2019    |    7275.00$  |
+| Halving 3         | 25/12/2020    |   23652.00$  |
+|                   | 25/12/2021    |   50389.00$  |
+|                   | 25/12/2022    |   16458.00$  |
+|                   | 25/12/2023    |   43013.00$  |
+| Halving 4         | 25/12/2024    |   ?????.??$  |
 
-  | Event             | Date          |  Price (BTC) |
-  |-------------------|---------------|--------------|
-  | Bitcoin origin    | 25/12/2009    |       0.00$  |
-  |                   | 25/12/2010    |       0.25$  |
-  |                   | 25/12/2011    |       4.00$  |
-  | Halving 1         | 25/12/2012    |      13.00$  |
-  |                   | 25/12/2013    |     682.00$  |
-  |                   | 25/12/2014    |     319.00$  |
-  |                   | 25/12/2015    |     455.00$  |
-  | Halving 2         | 25/12/2016    |     896.00$  |
-  |                   | 25/12/2017    |   14026.00$  |
-  |                   | 25/12/2018    |    3815.00$  |
-  |                   | 25/12/2019    |    7275.00$  |
-  | Halving 3         | 25/12/2020    |   23652.00$  |
-  |                   | 25/12/2021    |   50389.00$  |
-  |                   | 25/12/2022    |   16458.00$  |
-  |                   | 25/12/2023    |   43013.00$  |
-  | Halving 4         | 25/12/2024    |   ?????.??$  |
-
+En 2024, se han dado dos hechos muy significativos. Primero, tuvo lugar el Halving de Bitcoin numero 4, lo que redujo aún más la cantidad de Bitcoin que se genera. Segundo, las elecciones presidenciales de EEUU resultaron en la victoria del controvertido *Donald Trump*, quien se ha declarado defensor de las criptomonedas. Este contexto ha impulsado a Bitcoin a alcanzar un nuevo máximo histórico hasta la fecha, 79,000.00 USD el día 10 de Noviembre de 2024.
 
 # Conclusión
 
@@ -125,6 +124,6 @@ Bitcoin se mantiene como una de las criptomonedas más fascinantes y disruptivas
 
 Bitcoin no es solo una moneda, es una revolución tecnológica que continúa evolucionando. Con el tiempo, más personas y empresas reconocen su potencial como un activo fiable a largo plazo. Y, en un contexto en el que su oferta se reduce progresivamente, su valor parece seguir una senda alcista, con un futuro aún por definir pero lleno de posibilidades. Sin duda, Bitcoin ha llegado para quedarse, y su rol en la economía mundial no para de crecer.
 
-Te animo a predecir su precio para el 25/12/2024 en el [canal de Telegram](https://t.me/lateclaescape). Yo me voy a mojar. Mi apuesta personal es que en Navidad de 2024 su valor rondará 100000.00$. Ahí lo dejo.
+Te animo a predecir su precio para el 25/12/2024 en el [canal de Telegram](https://t.me/lateclaescape). Yo me voy a mojar. Mi apuesta personal es que en Navidad de 2024 su valor rondará 100,000.00$. Ahí lo dejo.
 
 Pulso la tecla ESC, dos puntos wq!
