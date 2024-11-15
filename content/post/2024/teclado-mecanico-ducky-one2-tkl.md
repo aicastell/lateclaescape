@@ -2,8 +2,8 @@
 title: El teclado definitivo
 date: 2024-02-23
 image: /img/posts/keyboards.webp
-categories: [ "hardware", "opinión" ]
-tags: [ "keyboards", "review" ]
+categories: [ "hardware", "opinión", "review" ]
+tags: [ "keyboards", "Ducky One 2 RGB TKL" ]
 draft: false
 featured: true
 ---
