@@ -14,7 +14,7 @@ Las tablet de gama media se han convertido en opciones muy populares para quiene
 
 ![Xiaomi Redmi PAD SE unboxing](/img/tablet-xiaomi-redmi-pad-se-unboxing.webp)
 
-Hace pocos días que compré esta tablet. En este artículo comparto contigo toda la información que tengo hasta ahora, tras pocos días de uso. Esta reseña no esta patrocinada, no he recibido ninguna compensación alguna por escribirla. Te hablaré sobre los aspectos más destacados de la tablet. Pero también sobre sus puntos débiles. Y al finalizar, te daré mi opinión personal.
+Hace pocos días que compré esta tablet. En este artículo comparto contigo toda la información que tengo hasta ahora, tras pocos días de uso. Esta reseña no esta patrocinada, no he recibido compensación alguna por escribirla. Te hablaré sobre los aspectos más destacados de la tablet. Pero también sobre sus puntos débiles. Y al finalizar, te daré mi opinión personal.
 
 # Material
 
@@ -50,7 +50,9 @@ Existen 3 variantes de esta tablet:
 - 6GB de RAM y 128GB de memoria interna
 - 8GB de RAM y 256GB de memoria interna
 
-Es posible ampliar su capacidad de almacenamiento con una tarjeta microSD de hasta 1TB.
+En las 3 versiones es posible ampliar su capacidad de almacenamiento añadiendo una tarjeta microSD de hasta 1TB.
+
+Para prolongar su vida útil, la versión con 8 GB de RAM y 256 GB de almacenamiento interno es la más recomendable, y es precisamente la que yo he comprado.
 
 # Software
 
@@ -86,6 +88,8 @@ La versión de 8GB de RAM y 256GB de memoria interna estaba en venta en la [pág
 
 La Xiaomi Redmi Pad SE de 11 pulgadas ofrece un buen equilibrio entre calidad de construcción, pantalla, rendimiento, y precio. Es ideal para quienes busquen una tablet asequible y confiable para el día a día, sin grandes pretensiones.
 
+![Xiaomi Redmi PAD SE unboxing](/img/tablet-xiaomi-redmi-pad-se-view-blog.webp)
+
 ## Aspectos positivos
 
 La pantalla FHD+ de 90 Hz, la autonomía de la batería, su fabricación en aluminio, y su buena relación calidad/precio la convierten en una excelente opción en la gama media.
@@ -96,7 +100,7 @@ Si buscas un dispositivo con buena visibilidad en exteriores capaz de realizar m
 
 # Conclusión
 
-Si estás pensando en comprar una tablet, espero que esta reseña te sea útil. Es la primera tablet que tengo en casa y no tengo experiencia previa con este tipo de dispositivos, por lo que con el tiempo podría notar más sus limitaciones y/o carencias. Por ahora tengo para entretenerme.
+Si estás pensando en comprar una tablet, espero que esta reseña te sea útil. Es la primera tablet que tengo en casa y no tengo experiencia previa con este tipo de dispositivos, por lo que con el tiempo puede que note sus limitaciones y/o carencias. Por ahora tengo para entretenerme.
 
 Si te ha gustado la reseña, o si consideras que había mejores opciones por este rango de precios, te animo a compartir tus opiniones en el [canal de Telegram](https://t.me/lateclaescape). Muchas gracias por leerme, y nos vemos en el próximo articulo.
 

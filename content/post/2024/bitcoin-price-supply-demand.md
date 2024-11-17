@@ -116,7 +116,7 @@ A continuación presento una tabla que muestra el precio de Bitcoin el día de N
 |                   | 25/12/2023    |   43013.00$  |
 | Halving 4         | 25/12/2024    |   ?????.??$  |
 
-En 2024, se han dado dos hechos muy significativos. Primero, tuvo lugar el Halving de Bitcoin numero 4, lo que redujo aún más la cantidad de Bitcoin que se genera. Segundo, las elecciones presidenciales de EEUU resultaron en la victoria del controvertido *Donald Trump*, quien se ha declarado defensor de las criptomonedas. Este contexto ha impulsado a Bitcoin a alcanzar un nuevo máximo histórico hasta la fecha, 79,000.00 USD el día 10 de Noviembre de 2024.
+En 2024, se han dado dos hechos muy significativos. Primero, tuvo lugar el Halving de Bitcoin numero 4, lo que redujo aún más la cantidad de Bitcoin que se genera. Segundo, las elecciones presidenciales de EEUU resultaron en la victoria del controvertido *Donald Trump*, quien se ha declarado defensor de las criptomonedas. Este contexto ha impulsado a Bitcoin a alcanzar un nuevo máximo histórico hasta la fecha, 90,000.00 USD el día 12 de Noviembre de 2024.
 
 # Conclusión
 
