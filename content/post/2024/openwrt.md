@@ -16,7 +16,9 @@ El firmware preinstalado en routers comerciales suele tener restricciones diseñ
 
 **OpenWrt** es un sistema operativo de código abierto diseñado para reemplazar el firmware comercial de los dispositivos de red y desbloquear todo su potencial, optimizando su rendimiento y proporcionando un control total sobre la configuración de red, la seguridad y la instalación de paquetes adicionales.
 
-El nombre del proyecto surge combinando dos términos que reflejan su origen y propósito. "Open" indica que es un proyecto de código abierto, accesible y modificable por la comunidad. Y las siglas "Wrt" hacen referencia al modelo de router *Linksys WRT54G*, para el cual se creó originalmente este proyecto.
+El nombre del proyecto surge combinando dos términos que reflejan su origen y propósito. "Open" indica que es un proyecto de código abierto, accesible y modificable por la comunidad. Y las siglas "Wrt" hacen referencia al modelo de router *Linksys WRT54GL*, para el cual se creó originalmente este proyecto.
+
+![Linksys WRT54G](/img/router-linksys-wrt54gl.webp)
 
 El proyecto evolucionó hasta convertirse en un sistema operativo completo y altamente adaptable para una enorme cantidad de routers.
 
