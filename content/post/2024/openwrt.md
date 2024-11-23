@@ -1,10 +1,10 @@
 ---
 title: OpenWRT
-date: 2024-11-17
+date: 2024-11-23
 image: /img/posts/openwrt.webp
 categories: [ "redes" ]
 tags: [ "openwrt" ]
-draft: true
+draft: false
 featured: true
 ---
 
@@ -110,8 +110,6 @@ OpenWrt necesita actualizaciones periódicas para mantener la seguridad y compat
 # Conclusión
 
 OpenWrt es una solución poderosa para transformar los router de los operadores en herramientas avanzadas y altamente personalizables. Instalar este sistema operativo no solo mejora el rendimiento y la seguridad, sino que también abre la puerta a un abanico de funcionalidades avanzadas.
-
-Convertir un router convencional en un servidor Linux especializado es una de sus mayores ventajas, haciendo de OpenWrt una opción ideal tanto para usuarios domésticos que desean un control detallado de su red como para empresas que buscan gestionar infraestructuras complejas con flexibilidad y eficiencia.
 
 Con un poco de dedicación, puedes optimizar significativamente tu red sin necesidad de invertir en equipos costosos. Si estas ideas han despertado tu interés, estás a un paso de maximizar el potencial de tu hardware de red. En el próximo artículo, te guiaré paso a paso para instalar OpenWrt en un router de gama alta, el Xiaomi AX3600. Si este tema te resulta interesante, no te pierdas la próxima entrega. ¡Nos vemos pronto!
 
