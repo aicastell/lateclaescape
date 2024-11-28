@@ -1,9 +1,9 @@
 ---
 title: Upgrade PC gaming
-date: 2024-11-24
+date: 2024-11-28
 image: /img/posts/upgrade-pc-gaming.webp
 categories: [ "tecnología" ]
-tags: [ "upgrade", "PC" ]
+tags: [ "upgrade", "PCGaming" ]
 draft: false
 featured: true
 ---
@@ -149,4 +149,6 @@ Este proyecto es un buen ejemplo de cómo un mantenimiento adecuado y algunas ac
 
 Si tú también necesitas realizar el mantenimiento, la reparación o la mejora de algún equipo informático, ya sea para el trabajo, para tus estudios o simplemente para disfrutar de tus juegos favoritos, no dudes en contactarme a través del [canal de Telegram](https://t.me/lateclaescape). Estaré encantado de ayudarte a encontrar la solución perfecta para tu caso.
 
-¡Nos vemos en el próximo artículo! Pulso la tecla ESC, dos puntos, wq.
+¡Nos vemos en el próximo artículo!
+
+Pulso la tecla ESC, dos puntos, wq.
