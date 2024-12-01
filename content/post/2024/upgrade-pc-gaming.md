@@ -45,7 +45,7 @@ Tras analizar sus requisitos y debatir sobre varios componentes y precios, final
 - Storage: [SSD Sandisk Ultra 3D 1TB](https://shop.sandisk.com/es-es/products/clearance/internal-ssd/sandisk-ultra-3d-sata-iii-ssd?sku=SDSSDH3-1T00-G25) (coste 54.95€)
 - Thermal paste: [Thermal Grizzly Kryonaut](https://www.thermal-grizzly.com/es/kryonaut/s-tg-k-001-rs) (coste 5.89€)
 
-El coste del material han sido 411€. Sin embargo, los componentes reemplazados/descartados tienen valor en el mercado de segunda mano. Las GTX 1660 se venden por unos 80-90€ en wallapop. Y la torre se puede vender por otros 20€. Por lo que el coste total, una vez finalizado todo el proceso asciende a 300€.
+El coste total de los materiales ha sido de 411€. No obstante, los componentes descartados tienen un valor significativo en el mercado de segunda mano. Las tarjetas gráficas GTX 1660 se venden por aproximadamente 80-90€ en plataformas como Wallapop. Y la torre puede venderse por otros 20€. Esto reduce el coste final a unos 300€, una vez completado todo el proceso.
 
 # Los componentes
 
@@ -135,11 +135,9 @@ En generaciones anteriores, muchas GPU podían obtener toda la energía necesari
 
 # Prueba de encendido
 
-El equipo queda listo para realizar la prueba de encendido. Este momento siempre genera un poco de tensión ya que cualquier cable mal conectado podría impedir que el equipo arranque correctamente. En alguna ocasión un mal contacto me ha hecho perder mucho tiempo investigando.
+El equipo queda listo para realizar la prueba de encendido. Este momento siempre genera un poco de tensión ya que cualquier cable mal conectado podría impedir que el equipo arranque correctamente. En alguna ocasión un mal contacto me ha hecho perder mucho tiempo investigando. Pero parece que esta vez todo funciona a la primera.
 
 ![Equipo encendido](/img/upgrade-pc-gaming-switchon-working.webp)
-
-Pero parece que va todo bien a la primera, por lo que aviso a Carlos para que pase a recogerlo cuando le venga bien.
 
 # Despedida
 
