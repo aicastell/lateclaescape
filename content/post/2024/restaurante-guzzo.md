@@ -16,7 +16,7 @@ Hoy voy con mi pareja a cenar al restaurante [Guzzo](https://guzzobcn.es/) local
 
 ![Restaurante Guzzo](/img/guzzo.webp)
 
-Es la primera vez que vengo. Ha sido un descubrimiento casual. Como estamos en Black Friday, sabemos que habrá mucha gente, así que hemos decidido reservar un restaurante en la zona por la que tenemos pensado pasear. Así que en esta ocasión no llevo ninguna expectativa, a pesar de que las valoraciones en [TheFork](https://www.thefork.es) son bastante altas. Veremos si nos convence o nos defrauda.
+Es la primera vez que vengo. La elección ha sido casual. Como estamos en pleno fin de semana del *Black Friday*, habrá mucha gente, así que hemos decidido reservar un restaurante en la zona por la que tenemos pensado pasear para no quedarnos sin cenar. No llevo expectativas, ha sido una elección random, a pesar de que las valoraciones en [TheFork](https://www.thefork.es) son bastante altas. Veremos si nos convence o nos defrauda.
 
 ## Valoraciones
 
@@ -48,11 +48,11 @@ El barrio de El Born es famoso por sus calles estrechas llenas de encanto, su am
 
 ### 4. Local
 
-El restaurante destaca por su atmósfera ecléctica y artística. Su interior combina elementos industriales, como paredes de ladrillo visto y tuberías expuestas, con una decoración creativa que incluye murales coloridos, muebles vintage y una iluminación cálida que realza la sensación acogedora del espacio. El local tiene un estilo desenfadado y moderno, con un toque bohemio que refleja la energía cultural de su entorno. Su distribución suele incluir mesas compartidas y pequeños rincones que invitan a socializar o disfrutar de una comida más íntima. Tuvimos la suerte de disfrutar de música en vivo, lo que convierte al Guzzo en un espacio ideal tanto para cenar como para tomar algo en un ambiente animado.
+El restaurante destaca por su atmósfera ecléctica y artística. Su interior combina elementos industriales, como paredes de ladrillo visto y tuberías expuestas, con una decoración creativa que incluye murales coloridos, muebles vintage y una iluminación cálida que aporta una sensación acogedora. Con un estilo desenfadado y moderno, y un toque bohemio que refleja la energía cultural de su entorno, el local ofrece mesas compartidas y rincones íntimos que se adaptan a diferentes experiencias. La música en vivo añade un plus, haciendo del Guzzo un lugar ideal tanto para cenar como para disfrutar de un ambiente animado.
 
 ### 5. Ambiente
 
-El ambiente del Guzzo es perfecto para quienes buscan una experiencia social única. Combina una atmósfera acogedora y animada con una estética artística y contemporánea. Las luces cálidas, la música en directo suena genial, y el bullicio agradable de las conversaciones le dan al lugar una energía especial. Es un espacio donde se fusionan gastronomía, arte y entretenimiento, creando un entorno que invita tanto a relajarse como a disfrutar de una noche activa en compañía. Ideal para cenas entre amigos, citas informales o simplemente para disfrutar de una buena comida.
+El ambiente del Guzzo resulta ideal para quienes buscan una experiencia social única. Combina una atmósfera acogedora y animada con una estética artística y contemporánea. Las luces cálidas, la música en directo suena genial, y el agradable bullicio de las conversaciones llenan el espacio de una energía especial. Es un lugar donde se fusionan gastronomía, arte y entretenimiento, perfecto tanto para relajarse como para pasar una noche en buena compañía. Ideal para cenas entre amigos, citas informales o para saborear una excelente comida.
 
 ### 6. Limpieza
 
@@ -68,7 +68,7 @@ Pedimos todos los platos para compartir. Como entrante pedimos dos croquetas cas
 
 ![Cena Guzzo](/img/guzzo-cena.webp)
 
-Todos los platos se presentaron de manera impecable y estan exquisitos. He comido  en muchos sitios y os aseguro que nunca había degustado algo similar. Las porciones eran adecuadas para quedar satisfecho, aunque personalmente habría repetido de todos los platos, especialmente del risotto y del calamar.
+Todos los platos se presentaron de manera impecable y están exquisitos. He comido  en muchos sitios y os aseguro que están a la altura de los mejores. Las porciones eran adecuadas para quedar satisfecho, aunque personalmente habría repetido de todos los platos, especialmente del risotto y del calamar.
 
 ### 9. Precio
 
