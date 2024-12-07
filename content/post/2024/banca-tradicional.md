@@ -3,7 +3,7 @@ title: La banca tradicional
 date: 2024-06-07
 image: "/img/posts/banca-tradicional.webp"
 categories: [ "finanzas", "economia" ]
-tags: [ "banca tradicional", IBAN", "PIN" ]
+tags: [ "banca_tradicional", "IBAN", "PIN" ]
 draft: false
 featured: true
 ---

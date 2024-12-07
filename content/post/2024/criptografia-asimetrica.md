@@ -3,7 +3,7 @@ title: Criptografía asimétrica
 date: 2024-02-29
 image: "/img/posts/asymmetric-cryptography.webp"
 categories: [ "criptografía" ]
-tags: [ "asimetrica", "firma digital", "mitm" ]
+tags: [ "asimetrica", "firma_digital", "mitm" ]
 draft: false
 featured: true
 ---

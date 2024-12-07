@@ -3,7 +3,7 @@ title: Transacciones de Bitcoin
 date: 2024-08-25
 image: "/img/posts/bitcoin-transaction.webp"
 categories: [ "criptomonedas", "bitcoin" ]
-tags: [ "transacción", "wallet", "bitcoin address" ]
+tags: [ "transacción", "wallet", "bitcoin_address" ]
 draft: false
 featured: true
 ---

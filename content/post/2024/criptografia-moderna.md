@@ -3,7 +3,7 @@ title: Criptografía moderna
 date: 2024-02-09
 image: "/img/posts/modern-criptography.webp"
 categories: [ "criptografía", "ciberseguridad" ]
-tags: [ "criptografia moderna", "confidencialidad", "autenticidad", "integridad" ]
+tags: [ "criptografia_moderna", "confidencialidad", "autenticidad", "integridad" ]
 draft: false
 featured: true
 ---

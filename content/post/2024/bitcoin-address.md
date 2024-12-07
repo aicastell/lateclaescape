@@ -3,7 +3,7 @@ title: Direcciones Bitcoin
 date: 2024-06-21
 image: "/img/posts/bitcoin-address.webp"
 categories: [ "criptomonedas", "bitcoin" ]
-tags: [ "bitcoin address", "dirección de bitcoin", "IBAN" ]
+tags: [ "bitcoin_address", "IBAN" ]
 draft: false
 featured: true
 ---

@@ -3,7 +3,7 @@ title: El mecanismo de consenso
 date: 2024-10-23
 image: "/img/posts/bitcoin-consensus-mechanism.webp"
 categories: ["criptomonedas", "bitcoin"]
-tags: [ "mining rig", "full node", "pow", "fork", "bloque minado", "minería" ]
+tags: [ "mining_rig", "full_node", "pow", "fork", "bloque_minado", "minería" ]
 draft: false
 featured: true
 ---

@@ -3,7 +3,7 @@ title: Los certificados digitales
 date: 2024-03-23
 image: "/img/posts/digital-certificate.webp"
 categories: [ "criptografía" ]
-tags: [ "certificado digital", "certificate request", "autoridad certificadora", "clave de sesión", "mitm" ]
+tags: [ "certificado_digital", "certificate_request", "autoridad_certificadora", "clave_de_sesión", "mitm" ]
 draft: false
 featured: true
 ---

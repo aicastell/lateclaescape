@@ -3,7 +3,7 @@ title: Tablet Xiaomi Redmi Pad SE
 date: 2024-11-13
 image: /img/posts/xiaomi-redmi-pad-se.webp
 categories: [ "hardware", "tecnología", "gadgets", "opinión", "review", "personal" ]
-tags: [ "tablet", "xiaomi", "Redmi Pad SE" ]
+tags: [ "tablet", "xiaomi", "Redmi_Pad_SE" ]
 draft: false
 featured: true
 ---
