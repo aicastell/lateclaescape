@@ -2,7 +2,7 @@
 title: Matemáticos influencers
 date: 2024-02-17
 image: /img/posts/influencers.webp
-categories: [ "matemáticas", "cultura digital", "opinión" ]
+categories: [ "matematicas", "cultura digital", "opinión" ]
 tags: [ "influencer" ]
 draft: false
 featured: true
