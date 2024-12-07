@@ -1,7 +1,7 @@
 ---
 title: La tecla escape
 date: 2024-01-01
-image: /img/posts/la-tecla-esc.jpg
+image: /img/posts/la-tecla-esc-2024.webp
 categories: [ "blog" ]
 tags: [ "blog" ]
 draft: false
