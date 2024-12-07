@@ -2,8 +2,8 @@
 title: Satoshi Nakamoto
 date: 2024-05-30
 image: /img/posts/satoshi-nakamoto.webp
-categories: [ "cypherpunk" ]
-tags: [ "bitcoin", "e-Cash" ]
+categories: [ "cypherpunk", "criptomonedas", "bitcoin" ]
+tags: [ "e-Cash" ]
 draft: false
 featured: true
 ---

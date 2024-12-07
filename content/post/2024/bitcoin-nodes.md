@@ -2,8 +2,8 @@
 title: Nodos de Bitcoin
 date: 2024-08-03
 image: "/img/posts/bitcoin-node.webp"
-categories: ["criptomonedas"]
-tags: [ "bitcoin", "nodos", "transacciones", "bloques", "blockchain" ]
+categories: ["criptomonedas", "bitcoin"]
+tags: [ "nodos", "transacciones", "bloques", "blockchain" ]
 draft: false
 featured: true
 ---

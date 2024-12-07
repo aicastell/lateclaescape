@@ -2,8 +2,8 @@
 title: Listado de Bitcoin wallet
 date: 2024-07-19
 image: "/img/posts/bitcoin-wallet-list.webp"
-categories: ["criptomonedas"]
-tags: [ "bitcoin", "wallet" ]
+categories: [ "criptomonedas", "bitcoin" ]
+tags: [ "wallet" ]
 draft: false
 featured: true
 ---

@@ -2,8 +2,8 @@
 title: Bitcoin vs FIAT
 date: 2024-05-17
 image: "/img/posts/bitcoin-vs-fiat.webp"
-categories: [ "criptomonedas", "bancos" ]
-tags: [ "FIAT", "dinero", "moneda", "Bitcoin" ]
+categories: [ "criptomonedas", "bitcoin", "bancos" ]
+tags: [ "FIAT", "dinero", "moneda" ]
 draft: false
 featured: true
 ---

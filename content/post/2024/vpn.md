@@ -2,7 +2,7 @@
 title: Redes privadas virtuales
 date: 2024-04-05
 image: /img/posts/vpn.webp
-categories: [ "redes" ]
+categories: [ "redes", "ciberseguridad" ]
 tags: [ "vpn", "isp" ]
 draft: false
 featured: true

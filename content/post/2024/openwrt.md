@@ -2,8 +2,8 @@
 title: OpenWRT
 date: 2024-11-23
 image: /img/posts/openwrt.webp
-categories: [ "redes" ]
-tags: [ "openwrt" ]
+categories: [ "redes", "tecnología", "software", "ciberseguridad", "open source" ]
+tags: [ "openwrt", "router", "firmware", "Wi-Fi" ]
 draft: false
 featured: true
 ---

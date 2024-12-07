@@ -2,7 +2,7 @@
 title: Las huellas digitales
 date: 2024-03-10
 image: /img/posts/huellas-digitales.webp
-categories: ["criptografía"]
+categories: [ "criptografía", "ciberseguridad" ]
 tags: ["hash", "fingerprint", "huella digital", "mitm"]
 draft: false
 featured: true

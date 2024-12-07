@@ -2,8 +2,8 @@
 title: Luxación de codo
 date: 2024-07-16
 image: /img/posts/luxacion-codo.webp
-categories: [ "deportes", "personal" ]
-tags: [ "lesión" ]
+categories: [ "deporte", "personal" ]
+tags: [ "lesión", "ciclismo", "bicicleta" ]
 draft: false
 featured: true
 ---

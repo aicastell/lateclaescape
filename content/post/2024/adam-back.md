@@ -2,8 +2,8 @@
 title: Adam Back
 date: 2024-02-24
 image: "/img/posts/adam-back.webp"
-categories: [ "cypherpunk" ]
-tags: [ "bitcoin", "HashCash", "pow" ]
+categories: [ "cypherpunk", "bitcoin" ]
+tags: [ "HashCash", "pow", "criptografia" ]
 draft: false
 featured: true
 ---

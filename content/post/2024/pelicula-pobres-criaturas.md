@@ -2,8 +2,8 @@
 title: Pobres criaturas
 date: 2024-03-03
 image: /img/posts/pobres-criaturas.webp
-categories: ["opinión"]
-tags: [ "cine", "películas" ]
+categories: [ "opinión", "personal" ]
+tags: [ "cine", "película" ]
 draft: false
 featured: true
 ---

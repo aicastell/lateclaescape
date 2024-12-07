@@ -2,8 +2,8 @@
 title: Harold Thomas Finney
 date: 2024-03-02
 image: "/img/posts/harold-finney.webp"
-categories: [ "cypherpunk" ]
-tags: [ "bitcoin", "rpow" ]
+categories: [ "cypherpunk", "criptomonedas", "bitcoin" ]
+tags: [ "rpow" ]
 draft: false
 featured: true
 ---

@@ -2,8 +2,8 @@
 title: 10000km en bici
 date: 2024-01-26
 image: "/img/posts/challenge-ciclismo.webp"
-categories: [ "deportes", "personal" ]
-tags: [ "ciclismo", "challenge" ]
+categories: [ "deporte", "challenge", "personal" ]
+tags: [ "ciclismo", "bicicleta" ]
 draft: false
 featured: true
 ---

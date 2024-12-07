@@ -2,8 +2,8 @@
 title: Criptografía simétrica
 date: 2024-02-16
 image: "/img/posts/symmetric-cryptography.webp"
-categories: [ "criptografía" ]
-tags: [ "simétrica", "mitm" ]
+categories: [ "criptografía", "ciberseguridad" ]
+tags: [ "clave simétrica", "mitm" ]
 draft: false
 featured: true
 ---

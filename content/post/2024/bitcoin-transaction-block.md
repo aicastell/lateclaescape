@@ -2,8 +2,8 @@
 title: Bloques de transacción
 date: 2024-09-06
 image: "/img/posts/bitcoin-transaction-block.webp"
-categories: ["criptomonedas"]
-tags: [ "bitcoin", "bloque de transacciones", "mempool" ]
+categories: [ "criptomonedas", "bitcoin" ]
+tags: [ "bloque de transacciones", "mempool" ]
 draft: false
 featured: true
 ---

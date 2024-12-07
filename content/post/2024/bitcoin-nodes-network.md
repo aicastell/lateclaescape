@@ -2,8 +2,8 @@
 title: La red de Bitcoin
 date: 2024-08-09
 image: "/img/posts/bitcoin-node-network.webp"
-categories: ["criptomonedas"]
-tags: [ "bitcoin", "nodos", "Bitcoin network", "mesh network", "protocolo de difusión"]
+categories: ["criptomonedas", "bitcoin"]
+tags: [ "nodos", "bitcoin network", "mesh network", "protocolo de difusión"]
 draft: false
 featured: true
 ---

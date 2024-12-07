@@ -3,7 +3,7 @@ title: Películas inolvidables
 date: 2024-10-11
 image: /img/posts/peliculas-inolvidables.webp
 categories: [ "personal" ]
-tags: [ "cine", "películas" ]
+tags: [ "cine", "película" ]
 draft: false
 featured: true
 ---

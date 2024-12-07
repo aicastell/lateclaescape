@@ -2,8 +2,8 @@
 title: El sistema de recompensas
 date: 2024-10-31
 image: "/img/posts/mining-rewards.webp"
-categories: ["criptomonedas"]
-tags: [ "bitcoin", "block reward", "bitcoin halving", "fee"]
+categories: ["criptomonedas", "bitcoin"]
+tags: [ "block reward", "bitcoin halving", "fee"]
 draft: false
 featured: true
 ---

@@ -2,8 +2,8 @@
 title: El precio de Bitcoin
 date: 2024-11-09
 image: /img/posts/bitcoin-price-supply-demand.webp
-categories: [ "criptomonedas" ]
-tags: [ "precio", "oferta", "demanda" ]
+categories: [ "criptomonedas", "bitcoin" ]
+tags: [ "precio", "oferta", "demanda", "FIAT" ]
 draft: false
 featured: true
 ---

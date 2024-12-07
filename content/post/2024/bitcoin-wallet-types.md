@@ -2,8 +2,8 @@
 title: Tipos de Bitcoin wallet
 date: 2024-07-14
 image: "/img/posts/bitcoin-wallet-types.webp"
-categories: ["criptomonedas"]
-tags: [ "bitcoin", "wallet", "BIP" ]
+categories: [ "criptomonedas", "bitcoin" ]
+tags: [ "wallet", "BIP" ]
 draft: false
 featured: true
 ---

@@ -2,8 +2,8 @@
 title: La herramienta docker
 date: 2024-04-03
 image: "/img/posts/docker.webp"
-categories: ["tools"]
-tags: ["docker", "contenedores" ]
+categories: ["tecnologia", "virtualizacion", "herramientas"]
+tags: ["docker", "devops", "ci/cd", "contenedores" ]
 draft: false
 featured: true
 ---

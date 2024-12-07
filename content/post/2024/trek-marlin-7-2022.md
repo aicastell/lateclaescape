@@ -3,7 +3,7 @@ title: Trek Marlin 7 2022
 date: 2024-07-05
 image: /img/posts/trek-logo.webp
 categories: [ "deportes" ]
-tags: [ "Terrabike", "Trek", "ciclismo" ]
+tags: [ "Terrabike", "Trek", "ciclismo", "bicicleta" ]
 draft: false
 featured: true
 ---

@@ -3,7 +3,7 @@ title: Mi primera transpirenaica
 date: 2024-04-23
 image: /img/posts/mi-primera-transpirenaica.webp
 categories: [ "deportes", "libros", "personal" ]
-tags: ["ciclismo", "Trek"]
+tags: ["ciclismo", "Trek", "bicicleta" ]
 draft: false
 featured: true
 ---

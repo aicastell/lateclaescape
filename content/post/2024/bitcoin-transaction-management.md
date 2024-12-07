@@ -2,8 +2,8 @@
 title: Gestión de transacciones
 date: 2024-08-31
 image: "/img/posts/bitcoin-transaction-management.webp"
-categories: ["criptomonedas"]
-tags: [ "bitcoin", "nodos", "transacción", "mempool" ]
+categories: [ "criptomonedas", "bitcoin" ]
+tags: [ "nodos", "transacción", "mempool" ]
 draft: false
 featured: true
 ---

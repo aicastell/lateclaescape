@@ -2,8 +2,8 @@
 title: Bitcoin Improvement Proposal
 date: 2024-06-27
 image: "/img/posts/bip.webp"
-categories: ["criptomonedas"]
-tags: [ "bitcoin", "BIP" ]
+categories: ["criptomonedas", "bitcoin"]
+tags: [ "BIP" ]
 draft: false
 featured: true
 ---

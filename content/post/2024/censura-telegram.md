@@ -2,8 +2,8 @@
 title: Censura Telegram
 date: 2024-04-01
 image: "/img/posts/bloqueo-telegram.webp"
-categories: [ "censura" ]
-tags: [ "telegram", "DNS", "proxy", "VPN" ]
+categories: [ "tecnología", "privacidad", "mensajería" ]
+tags: [ "telegram", "DNS", "proxy", "VPN", "censura" ]
 draft: false
 featured: true
 ---

@@ -2,8 +2,8 @@
 title: El nacimiento de Bitcoin
 date: 2024-05-24
 image: "/img/posts/happy-birthday-bitcoin-15.webp"
-tags: [ "Bitcoin", "Satoshi Nakamoto", "bloque Génesis" ]
-categories: [ "criptomonedas" ]
+categories: [ "bitcoin", "criptomonedas" ]
+tags: [ "Satoshi Nakamoto", "bloque génesis" ]
 draft: false
 featured: true
 ---

@@ -2,8 +2,8 @@
 title: El teclado definitivo
 date: 2024-02-23
 image: /img/posts/keyboards.webp
-categories: [ "hardware", "opinión", "review" ]
-tags: [ "keyboards", "Ducky One 2 RGB TKL" ]
+categories: [ "hardware", "opinión", "review", "personal" ]
+tags: [ "keyboard", "Ducky One 2 RGB TKL", "IBM Model-M" ]
 draft: false
 featured: true
 ---

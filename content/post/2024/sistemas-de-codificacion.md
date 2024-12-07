@@ -2,7 +2,7 @@
 title: Sistemas de codificación
 date: 2024-01-19
 image: /img/posts/coding.webp
-categories: ["tecnología"]
+categories: ["tecnología", "matematicas"]
 tags: ["decimal", "hexadecimal", "ascii", "binario", "base64", "base58" ]
 draft: false
 featured: true

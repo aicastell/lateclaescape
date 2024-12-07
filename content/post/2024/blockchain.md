@@ -2,8 +2,8 @@
 title: La blockchain de Bitcoin
 date: 2024-09-14
 image: "/img/posts/blockchain.webp"
-categories: ["criptomonedas"]
-tags: [ "bitcoin", "blockchain"]
+categories: ["criptomonedas", "bitcoin"]
+tags: [ "blockchain"]
 draft: false
 featured: true
 ---
