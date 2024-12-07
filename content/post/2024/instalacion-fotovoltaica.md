@@ -2,7 +2,7 @@
 title: Instalación fotovoltaica
 date: 2024-03-22
 image: /img/posts/instalacion-fotovoltaica.webp
-categories: [ "energias_renovables", "tecnologia" ]
+categories: [ "energias_renovables", "tecnología" ]
 tags: [ "subvenciones", "energia_solar", "autoconsumo", "panel_solar", "fotovoltaica" ]
 draft: false
 featured: true

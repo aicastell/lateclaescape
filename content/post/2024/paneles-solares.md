@@ -2,7 +2,7 @@
 title: Paneles solares
 date: 2024-03-23
 image: /img/posts/paneles-solares.webp
-categories: [ "energias_renovables", "tecnologia" ]
+categories: [ "energias_renovables", "tecnología" ]
 tags: [ "subvenciones", "energia_solar", "autoconsumo", "panel_solar", "fotovoltaica" ]
 draft: false
 featured: true

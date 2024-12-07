@@ -2,7 +2,7 @@
 title: Inversores solares
 date: 2024-03-23
 image: /img/posts/solar-inverter.webp
-categories: [ "energias_renovables", "tecnologia" ]
+categories: [ "energias_renovables", "tecnología" ]
 tags: ["energia_solar", "autoconsumo", "fotovoltaica", "panel_solar", "inversor_solar"]
 draft: false
 featured: true

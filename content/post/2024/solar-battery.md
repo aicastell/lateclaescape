@@ -2,7 +2,7 @@
 title: Baterias
 date: 2024-03-24
 image: /img/posts/solar-battery.webp
-categories: [ "energias_renovables", "tecnologia" ]
+categories: [ "energias_renovables", "tecnología" ]
 tags: [ "bateria", "energia_solar", "autoconsumo", "bateria_virtual", "iso 15118" ]
 draft: false
 featured: true
