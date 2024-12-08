@@ -33,6 +33,7 @@ Params:
   hideAuthor: false
   description: Bienvenido a mi blog personal
   previewCardImagePlacement: bottom
+  showPostImage: true
   Author:
     name: Ivan CR.
     website: https://www.lateclaescape.com
