@@ -4,7 +4,7 @@ date: 2024-12-07
 image: /img/posts/salon-manga-barcelona-2024.webp
 categories: [ "eventos" ]
 tags: [ "friki", "geek", "comic", "manga", "anime" ]
-draft: true
+draft: false
 featured: true
 ---
 
@@ -22,7 +22,7 @@ Mi amigo solo puede venir el Jueves pero yo ese día trabajo. Me hubiera gustado
 
 # Llegada al recinto
 
-Día nublado hoy en Barcelona y con mucho aire frío. Tengo un trayecto de 30 Km en coche hasta la Fira Gran vía de Barcelona, lugar del evento. El recinto esta colapsado de coches, y me toca aparcar bastante lejos. Camino unos 20 minutos, voy siguiendo a mas gente que va hacía el recinto. Sin darme cuenta, estoy metido en una cola bastante larga que avanza lenta pero sin pausa. Estoy tan distraído viendo a gente caracterizada de sus personajes favoritos, que el rato de la cola me pasa volando.
+Día nublado hoy en Barcelona y con mucho aire frío. Tengo un trayecto de 30 Km en coche hasta la Fira Gran vía de Barcelona, lugar del evento. El recinto esta colapsado de coches, y me toca aparcar bastante lejos. Camino unos 20 minutos, voy siguiendo a mas gente que va hacía el recinto. Sin darme cuenta, estoy metido en una cola bastante larga que avanza lenta pero sin pausa. Estoy tan distraído viendo a gente caracterizada de sus personajes favoritos, que la espera en la cola pasa volando.
 
 ![Salon del Manga panoramica recinto](/img/salon-manga-barcelona-2024-panoramica-recinto.webp)
 
@@ -60,7 +60,7 @@ Es muy divertido ver a los cosplayers metidos en su papel. De repente, en medio 
 
 La moda *lolita* es una joya estética japonesa que mezcla lo mejor de la vestimenta victoriana y rococó con un toque moderno, y tampoco podía faltar en el Salón del Manga de Barcelona. Algunas chicas lolita parecen sacadas de un cuento de hadas: encajes perfectos, pelucas impecables, y maquillajes de revista.
 
-Algunos chicos también se atreven con su propia versión. Conocidos como *brolitas*, consiguen caracterizaciones muy bien logradas. Algunos chicos van tan bien caracterizados que sin verles la cara, es difícil saber si se trata de un hombre o una mujer. Otros, con un espirito mas improvisado y con una confianza en si mismos a prueba de criticas, deciden saltarse alegremente algunos pasos del proceso como la depilación o el afeitado. Ver a una *brolita* con barba y piernas peludas es como si un vikingo hubiera decidido probarse un vestido rosa lleno de volantes, cambiando su imponente hacha de guerra por una delicada sombrilla. Es un contraste tan inesperado que no puedes evitar sonreír mientras aplaudes el valor que tienen para romper moldes y disfrutar del evento sin complejos.
+Algunos chicos también se atreven con su propia versión. Conocidos como *brolitas*, consiguen caracterizaciones muy bien logradas. Algunos chicos van tan bien caracterizados que sin verles la cara, es difícil saber si se trata de un hombre o una mujer. Otros, con un espiritu mas improvisado y con una confianza en si mismos a prueba de criticas, deciden saltarse alegremente algunos pasos del proceso como la depilación o el afeitado. Ver a una *brolita* con barba y piernas peludas es como si un vikingo hubiera decidido probarse un vestido rosa lleno de volantes, cambiando su imponente hacha de guerra por una delicada sombrilla. Es un contraste tan inesperado que no puedes evitar sonreír mientras aplaudes el valor que tienen para romper moldes y disfrutar del evento sin complejos.
 
 # Máquina del tiempo
 
@@ -84,6 +84,6 @@ Más allá de las actividades y exposiciones, el Salón del Manga de Barcelona e
 
 ![Salon del Manga entrada](/img/salon-manga-barcelona-2024-despedida.webp)
 
-El encanto de este evento está en que cada uno lo vive a su manera. Es una experiencia que combina arte, espectáculo y emoción, dejando recuerdos inolvidables para todos los asistentes. Ya seas un aficionado de toda la vida o un recién llegado al mundo del manga y el anime, este salón ofrece una experiencia inolvidable que no querrás perderte. Marca tu calendario, prepara tu disfraz y únete a la diversión en el próximo Salón del Manga de Barcelona. ¡No te lo debes perder!
+El encanto de este evento está en que cada uno lo vive a su manera. Es una experiencia que combina arte, espectáculo y emoción, dejando recuerdos inolvidables para todos los asistentes. Ya seas un aficionado de toda la vida o un recién llegado al mundo del manga y el anime, este salón ofrece una experiencia inolvidable que no querrás perderte. Marca tu calendario, prepara tu atuendo y únete a la diversión en el próximo Salón del Manga de Barcelona. ¡No te lo debes perder!
 
 Pulso la tecla ESC, dos puntos wq!
