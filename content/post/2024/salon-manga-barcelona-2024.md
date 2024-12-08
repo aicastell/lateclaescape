@@ -18,7 +18,7 @@ Mi amigo Javi me dice que tiene planeado asistir al Salón del Manga en Barcelon
 
 ![Salon del Manga entrada](/img/salon-manga-barcelona-2024-ticket-entrada.webp)
 
-Mi amigo solo puede venir el Jueves pero yo ese día trabajo. Me hubiera gustado compartir la experiencia contigo, pero esta vez no ha podido ser. Aprovecho para darte las gracias por avisarme, porque no tenia en mente las fechas de este evento, y ¡lo he pasado genial!. ¡Muchas gracias, Javi!
+Mi amigo solo puede venir el Jueves pero yo ese día trabajo. Me hubiera gustado compartir la experiencia contigo, pero esta vez no ha podido ser. Aprovecho para darte las gracias por avisarme, porque no tenia en mente las fechas de este evento, y lo he pasado genial. ¡Muchas gracias, Javi!
 
 # Llegada al recinto
 
@@ -36,11 +36,11 @@ Hay tal concentración de objetos llamativos que, mientras paseas, centras la vi
 
 # Zona de Nintendo
 
-La zona de videojuegos de Nintendo es uno de los puntos destacados del evento. Los asistentes tienen la oportunidad de probar juegos de última generación como *The Legend of Zelda*, *Super Mario Bros Wonder* y *Mario Kart*. Por todo el espacio, se puede ver a gente enganchada jugando en diversas consolas de Nintendo, algunos en escenarios y otros cómodamente tumbados en puffs mientras disfrutan de su propio Nintendo Switch. Es difícil resistir la tentación de comprarse una Nintendo Switch y echar unas partidas a *Mario Bros* en un ambiente tan envolvente.
+La zona de videojuegos de *Nintendo* es uno de los puntos destacados del evento. Los asistentes tienen la oportunidad de probar juegos de última generación como *The Legend of Zelda*, *Super Mario Bros Wonder* y *Mario Kart*. Por todo el espacio, se puede ver a gente enganchada jugando en diversas consolas de *Nintendo*, algunos en escenarios y otros cómodamente tumbados en puffs mientras disfrutan de su propia consola portatil. Es difícil resistir la tentación de comprarse una *Nintendo Switch* y echar unas partidas a *Mario Bros* en un ambiente tan envolvente.
 
 ![Salon del Manga entrada](/img/salon-manga-barcelona-2024-zona-nintendo.webp)
 
-El espacio de Nintendo también incluye una *Store* con merchandising exclusivo, donde se venden productos raros que normalmente solo se encuentran en Japón. Hay cola para entrar.
+El espacio de *Nintendo* también incluye una *Store* con merchandising exclusivo, donde se venden productos raros que normalmente solo se encuentran en Japón. Hay cola para entrar.
 
 # Actividades y Talleres
 
@@ -54,17 +54,21 @@ Da igual si es un héroe, un villano o un personaje cómico. Caminar entre los c
 
 ![Salon del Manga entrada](/img/salon-manga-barcelona-2024-referencias-series-miticas.webp)
 
-Es muy divertido ver a los cosplayers metidos en su papel. De repente, en medio de la multitud, un *Son Goku* caracterizado con su cabello erguido y su uniforme naranja, se detiene, y se coloca en postura de ataque, lanzando un rayo cósmico con toda su energía vital, mientras grita *!Kamehamehaaa!*. Esta reconocible frase, hace que todo el mundo se detenga y se ponga a aplaudirle con una sonrisa. Algunos van tan preparados que hasta llevan escenarios portátiles de fabricación casera para mejorar su puesta de escena.
+Es muy divertido ver a los cosplayers metidos en su papel. De repente, en medio de la multitud, un *Son Goku* caracterizado con su cabello erguido y su uniforme naranja, se detiene, y se coloca en postura de ataque, lanzando un rayo cósmico con toda su energía vital, mientras grita *!Kamehamehaaa!*.
+
+Esta reconocible frase, hace que todo el mundo se detenga y se ponga a aplaudir con una sonrisa. Algunos van tan preparados que hasta llevan escenarios portátiles de fabricación casera para mejorar su puesta de escena.
 
 # Lolitas
 
 La moda *lolita* es una joya estética japonesa que mezcla lo mejor de la vestimenta victoriana y rococó con un toque moderno, y tampoco podía faltar en el Salón del Manga de Barcelona. Algunas chicas lolita parecen sacadas de un cuento de hadas: encajes perfectos, pelucas impecables, y maquillajes de revista.
 
-Algunos chicos también se atreven con su propia versión. Conocidos como *brolitas*, consiguen caracterizaciones muy bien logradas. Algunos chicos van tan bien caracterizados que sin verles la cara, es difícil saber si se trata de un hombre o una mujer. Otros, con un espiritu mas improvisado y con una confianza en si mismos a prueba de criticas, deciden saltarse alegremente algunos pasos del proceso como la depilación o el afeitado. Ver a una *brolita* con barba y piernas peludas es como si un vikingo hubiera decidido probarse un vestido rosa lleno de volantes, cambiando su imponente hacha de guerra por una delicada sombrilla. Es un contraste tan inesperado que no puedes evitar sonreír mientras aplaudes el valor que tienen para romper moldes y disfrutar del evento sin complejos.
+Algunos chicos también se atreven con su propia versión. Conocidos como *brolitas*, consiguen caracterizaciones tan bien logradas que sin verles la cara es difícil saber si se trata de un hombre o una mujer. Otros, con mas confianza en si mismos que un *super saiyan* contra *Mr. Satan*, deciden saltarse algunos pasos del proceso como la depilación o el afeitado. Ver a una *brolita* con barba y piernas peludas es como si un vikingo hubiera decidido probarse un vestido rosa lleno de volantes, cambiando su imponente hacha de guerra por una delicada sombrilla. Es un contraste tan inesperado que no puedes evitar sonreír mientras aplaudes el valor que tienen para romper moldes y disfrutar del evento sin complejos.
 
 # Máquina del tiempo
 
-El Salón del Manga de Barcelona es también una máquina del tiempo que personalmente me ha transportado tanto a mi infancia como a mi adolescencia, con referencias a series legendarias que marcaron los inicios del movimiento manga en España. No faltaron referencias a series tan emblemáticas como *Bola de Drac*, *Shin Chan*, *Dr. Slump*, *Oliver y Benji*, *Doraemon* o *Mazinguer Z*.
+El Salón del Manga de Barcelona es también una máquina del tiempo que personalmente me ha transportado tanto a mi infancia como a mi adolescencia, con referencias a series legendarias que marcaron los inicios del movimiento manga en España.
+
+No faltan referencias a series tan emblemáticas como *Bola de Drac*, *Shin Chan*, *Dr. Slump*, *Oliver y Benji*, *Doraemon* o *Mazinguer Z*.
 
 ![Salon del Manga entrada](/img/salon-manga-barcelona-2024-son-goku.webp)
 
@@ -72,18 +76,22 @@ Ver estas series revividas en un evento tan vibrante ha sido como abrir el cajó
 
 # Comida
 
-La gastronomía en el salón del Manga de Barcelona es una parte integral de la experiencia. No solo vas allí para disfrutar de la cultura del manga, sino también para saborear una diversidad de platos tan variados como los gustos de sus asistentes. Se pueden encontrar delicias de la cocina japonesa como el ramen (el gran favorito), los baos, las gyozas, y una variedad de sushis. Para los que tienen antojo de algo dulce, hay postres tradicionales japoneses como mochis y dorayakis. Además, hay bebidas refrescantes como el bubble tea, ramune, o te matcha.
+La gastronomía en el salón del Manga de Barcelona es una parte integral de la experiencia. No vas allí solo para disfrutar de la cultura del manga, sino también para saborear una diversidad de platos tan variados como los gustos de sus asistentes.
+
+Se pueden encontrar delicias de la cocina japonesa como el ramen (el gran favorito), los baos, las gyozas, y una variedad de sushis. Para los que tienen antojo de algo dulce, hay postres tradicionales japoneses como mochis y dorayakis. Además, hay bebidas refrescantes como el bubble tea, ramune, o te matcha.
 
 ![Salon del Manga entrada](/img/salon-manga-barcelona-2024-comida.webp)
 
-Si alguien prefiere comida mas internacional, siempre hay opciones como pizza o hamburguesas. Yo termine comiendo una hamburguesa de ternera con patatas fritas, puesto que las colas para comprar comida japonesa eran demasiado largas y tenía hambre. Mas tarde como postre probé un bizcocho esponjoso, suave y delicioso que no era nada empalagoso.
+Si alguien prefiere comida mas internacional, hay también alternativas como la pizza o las hamburguesas. Yo termine comiendo una hamburguesa de ternera con patatas fritas, puesto que las colas para comprar comida japonesa eran demasiado largas y tenía hambre. Mas tarde como postre probé un bizcocho esponjoso, suave y delicioso que no era nada empalagoso.
 
 # Conclusión
 
-Más allá de las actividades y exposiciones, el Salón del Manga de Barcelona es un lugar donde los aficionados pueden conectarse y compartir su amor por la cultura japonesa. Es un evento inclusivo que da la bienvenida a personas de todas las edades y antecedentes, fomentando un sentido de comunidad y amistad entre los asistentes. Al final del evento, todos querían dejar su firma en el mural del recuerdo.
+Más allá de las actividades y exposiciones, el Salón del Manga de Barcelona es un lugar donde los aficionados pueden conectarse y compartir su amor por la cultura japonesa. Es un evento inclusivo que da la bienvenida a personas de todas las edades y antecedentes, fomentando un sentido de comunidad y amistad entre los asistentes. Al final del evento, todos querían dejar su firma en el mural de los recuerdos.
 
 ![Salon del Manga entrada](/img/salon-manga-barcelona-2024-despedida.webp)
 
-El encanto de este evento está en que cada uno lo vive a su manera. Es una experiencia que combina arte, espectáculo y emoción, dejando recuerdos inolvidables para todos los asistentes. Ya seas un aficionado de toda la vida o un recién llegado al mundo del manga y el anime, este salón ofrece una experiencia inolvidable que no querrás perderte. Marca tu calendario, prepara tu atuendo y únete a la diversión en el próximo Salón del Manga de Barcelona. ¡No te lo debes perder!
+El encanto de este evento está en que cada uno lo vive a su manera. Es una experiencia que combina arte, espectáculo y emoción, dejando recuerdos inolvidables para todos los asistentes.
+
+Ya seas un aficionado de toda la vida o un recién llegado al mundo del manga y el anime, este salón ofrece una experiencia inolvidable que no querrás perderte. Marca tu calendario, prepara tu atuendo y únete a la diversión en el próximo Salón del Manga de Barcelona. ¡No te lo debes perder!
 
 Pulso la tecla ESC, dos puntos wq!
