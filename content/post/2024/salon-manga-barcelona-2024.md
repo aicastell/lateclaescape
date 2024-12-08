@@ -10,7 +10,9 @@ featured: true
 
 # Introducción
 
-Este año se cumple el 30 aniversario del Salón del Manga de Barcelona, uno de los eventos más esperados del año para los aficionados al manga, anime y la cultura japonesa. Desde su creación en 1995, el evento ha crecido exponencialmente, convirtiéndose en un punto de encuentro esencial para miles de entusiastas que desean celebrar su pasión por el mundo del cómic y por las series japonesas. Este es el primer año que asisto al evento. En este articulo os cuento como ha sido la experiencia.
+Este año se cumple el 30 aniversario del Salón del Manga de Barcelona, uno de los eventos más esperados del año para los aficionados al manga, al anime y a la cultura japonesa. Desde su creación en 1995, el evento ha crecido exponencialmente, convirtiéndose en un punto de encuentro esencial para miles de entusiastas que desean celebrar su pasión por el mundo del cómic y por las series japonesas.
+
+Este es el primer año que asisto al evento. En este articulo os cuento como ha sido esta experiencia.
 
 # 07 de Diciembre de 2024
 
@@ -30,7 +32,7 @@ En pocos minutos estoy metido dentro del recinto. Lo primero que me llama la ate
 
 # Expositores
 
-El salón cuenta con una gran cantidad de expositores que ofrecen todo tipo de productos relacionados con la cultura japonesa: mangas, funkos, peluches, figuras coleccionables, pósteres, bolígrafos para dibujantes, pelucas, armas de juguete, videojuegos, tazas, cojines, camisetas, calcetines, juegos de mesa, dados, llaveros, peluches. Muchos productos exclusivos, ediciones limitadas, o artículos personalizados.
+El salón cuenta con una gran cantidad de expositores que ofrecen todo tipo de productos relacionados con la cultura japonesa: mangas, funkos, figuras coleccionables, pósteres, bolígrafos para dibujantes, pelucas, armas de juguete, videojuegos, tazas, cojines, camisetas, calcetines, juegos de mesa, dados, llaveros, peluches. Muchos productos exclusivos, ediciones limitadas, o artículos personalizados.
 
 Hay tal concentración de objetos llamativos que, mientras paseas, centras la vista en alguno de ellos, y te dejas decenas de cosas por ver. Luego cuando vuelves a pasar por el mismo pasillo, fijas la mirada en objetos diferentes, y tienes la sensación de no haber pasado nunca por allí. Aquello es el centro comercial de las tentaciones. Hay tantas cosas chulas que salir de allí sin rascarse el bolsillo es todo un desafío.
 
