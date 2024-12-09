@@ -1,4 +1,4 @@
-baseURL: "https://www.lateclaescape.com"
+baseURL: https://www.lateclaescape.com
 DefaultContentLanguage: es
 defaultContentLanguageInSubdir: false
 languageCode: es
@@ -31,7 +31,7 @@ Params:
   rss: false
   pagination: "10"
   hideAuthor: false
-  description: Bienvenido a mi blog personal
+  description: Bienvenido al blog que finaliza los articulos pulsando la tecla ESC
   previewCardImagePlacement: bottom
   showPostImage: true
   Author:
@@ -40,14 +40,10 @@ Params:
     authorInfo:
       Informático de vocación, picateclas de profesión.
     authorPostImage: /img/author-post-img.jpg
-
-Author:
-  name: Ivan CR.
-  website: https://lateclaescape.com
-  email: lateclaescape@gmail.com
-  telegram: lateclaescape
-  mastodon: mastodon.social/@lateclaescape
-  bluesky: lateclaescape.bsky.social
+    email: lateclaescape@gmail.com
+    telegram: lateclaescape
+    mastodon: mastodon.social/@lateclaescape
+    bluesky: lateclaescape.bsky.social
 
 menu:
   main:
