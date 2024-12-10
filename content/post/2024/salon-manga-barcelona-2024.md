@@ -2,7 +2,7 @@
 title: Salón del Manga
 date: 2024-12-07
 image: /img/posts/salon-manga-barcelona-2024.webp
-categories: [ "eventos" ]
+categories: [ "eventos", "personal" ]
 tags: [ "friki", "geek", "comic", "manga", "anime" ]
 draft: false
 featured: true
@@ -52,19 +52,25 @@ Otra de las grandes atracciones del Salón del Manga son las numerosas actividad
 
 El cosplay es, sin duda, otro de los grandes protagonistas del Salón del Manga de Barcelona. Muchos asistentes llegan transformados en sus personajes favoritos. Te quedas boquiabierto ante el nivel de detalle de sus caracterizaciones: armaduras que parecen listas para la batalla, trajes de robots humanoides, bordados elaborados, pelucas de ensueño, accesorios como espadas, lanzas, arcos, guadañas o ballestas, lentes de contacto y un largo etcétera.
 
+![Salon del Manga cosplayers](/img/salon-manga-barcelona-2024-cosplay.webp)
+
 Da igual si es un héroe, un villano o un personaje cómico. Caminar entre los cosplayers es como estar en una fiesta temática gigantesca, donde continuamente te tropiezas con personajes escapados directamente de un manga, de un anime o incluso de la pantalla de tu videojuego favorito.
 
-![Salon del Manga entrada](/img/salon-manga-barcelona-2024-referencias-series-miticas.webp)
+![Salon del Manga hada](/img/salon-manga-barcelona-2024-hada.webp)
 
 Es muy divertido ver a los cosplayers metidos en su papel. De repente, en medio de la multitud, un *Son Goku* caracterizado con su cabello erguido y su uniforme naranja, se detiene, y se coloca en postura de ataque, lanzando un rayo cósmico con toda su energía vital, mientras grita *!Kamehamehaaa!*.
+
+![Salon del Manga mural series miticas](/img/salon-manga-barcelona-2024-mural-series-miticas.webp)
 
 Esta reconocible frase, hace que todo el mundo se detenga y se ponga a aplaudir con una sonrisa. Algunos van tan preparados que hasta llevan escenarios portátiles de fabricación casera para mejorar su puesta de escena.
 
 # Lolitas
 
-La moda *lolita* es una joya estética japonesa que mezcla lo mejor de la vestimenta victoriana y rococó con un toque moderno, y tampoco podía faltar en el Salón del Manga de Barcelona. Algunas chicas lolita parecen sacadas de un cuento de hadas: encajes perfectos, pelucas impecables, y maquillajes de revista.
+La moda *lolita* es una joya estética japonesa que mezcla lo mejor de la vestimenta victoriana y rococó con un toque moderno, y tampoco podía faltar en el Salón del Manga de Barcelona. Algunas chicas lolita parecen sacadas de un cuento de hadas: encajes perfectos, pelucas impecables, y maquillajes de revista. Algunos chicos también se atreven con su propia versión. Conocidos como *brolitas*, consiguen caracterizaciones tan bien logradas que sin verles la cara es difícil saber si se trata de un hombre o una mujer.
 
-Algunos chicos también se atreven con su propia versión. Conocidos como *brolitas*, consiguen caracterizaciones tan bien logradas que sin verles la cara es difícil saber si se trata de un hombre o una mujer. Otros, con mas confianza en si mismos que un *super saiyan* contra *Mr. Satan*, deciden saltarse algunos pasos del proceso como la depilación o el afeitado. Ver a una *brolita* con barba y piernas peludas es como si un vikingo hubiera decidido probarse un vestido rosa lleno de volantes, cambiando su imponente hacha de guerra por una delicada sombrilla. Es un contraste tan inesperado que no puedes evitar sonreír mientras aplaudes el valor que tienen para romper moldes y disfrutar del evento sin complejos.
+![Salon del Manga brolitas](/img/salon-manga-barcelona-2024-brolitas.webp)
+
+Otros, con mas confianza en si mismos que un *super saiyan* contra *Mr. Satan*, deciden saltarse algunos pasos del proceso como la depilación o el afeitado. Ver a una *brolita* con barba y piernas peludas es como si un vikingo hubiera decidido probarse un vestido rosa lleno de volantes, cambiando su imponente hacha de guerra por una delicada sombrilla. Es un contraste tan inesperado que no puedes evitar sonreír mientras aplaudes el valor que tienen para romper moldes y disfrutar del evento sin complejos.
 
 # Máquina del tiempo
 
@@ -97,3 +103,8 @@ El encanto de este evento está en que cada uno lo vive a su manera. Es una expe
 Ya seas un aficionado de toda la vida o un recién llegado al mundo del manga y el anime, este salón ofrece una experiencia inolvidable que no querrás perderte. Marca tu calendario, prepara tu atuendo y únete a la diversión en el próximo Salón del Manga de Barcelona. ¡No te lo debes perder!
 
 Pulso la tecla ESC, dos puntos wq!
+
+
+
+salon-manga-barcelona-2024-cosplay.jpg
+
