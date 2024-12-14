@@ -114,6 +114,8 @@ Una **mesh network** (red mallada) conecta varios routers y puntos de acceso par
 
 # Valoración personal
 
+> Quiero dejar claro que *Xiaomi* no me paga nada por hacer esta valoración, y que la hago usando exclusivamente mi criterio personal.
+
 ## Ventajas
 
 El Xiaomi AX3600 es un router de alto rendimiento que ofrece una excelente relación calidad-precio. Es una opción asequible que ofrece prestaciones similares a routers de gama alta como los de *ASUS*, *Netgear* o *Huawei*, a un precio aproximado de 50€ en tiendas de segunda mano (wallapop).
