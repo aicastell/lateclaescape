@@ -16,7 +16,7 @@ En este artículo detallo las características internas de este dispositivo, par
 
 # Diseño
 
-El Xiaomi AX3600 tiene una estructura triangular alargada con bordes suavemente curvados. Sus dimensiones aproximadas de 35 cm de largo y 8 cm de alto lo posicionan como un dispositivo de gran tamaño en su categoría. A su estructura van unidas 7 antenas externas por lo que, en conjunto, el router requiere un espacio considerable para su correcta instalación.
+El Xiaomi AX3600 tiene una estructura triangular alargada con bordes suavemente curvados. Sus dimensiones aproximadas de 35 cm de largo y 8 cm de alto lo posicionan como un dispositivo de gran tamaño en su categoría. Su estructura incorpora 7 antenas externas que en conjunto hacen que el router requiera un espacio considerable para su correcta instalación.
 
 ![Xiaomi AX3600 online](/img/router-xiaomi-ax3600-online.webp)
 
@@ -26,7 +26,7 @@ Las rejillas de ventilación, situadas tanto en los bordes laterales como en la 
 
 # Hardware
 
-Los fabricantes de los principales componentes de este router, tanto *Qualcomm* como *Xiaomi*, son bastante reservados y recelan de revelar muchos detalles internos de sus dispositivos. Sin embargo en la tecla ESC hemos podido averiguar bastante información que comparto a continuación:
+Los fabricantes de los principales componentes de este router, tanto *Qualcomm* como *Xiaomi*, son bastante reservados y recelan de revelar muchos detalles internos de sus dispositivos. Sin embargo, la tecla ESC ha podido averiguar bastante información que comparto contigo:
 
 ## CPU
 
@@ -34,11 +34,17 @@ El cerebro de la bestia es un SoC (System on Chip) *Qualcomm* Atheros IPQ8071A, 
 
 ![Qualcomm Atheros IPQ8071A](/img/router-xiaomi-ax3600-ipq8071a.webp)
 
-El gráfico anterior revela la presencia de 2 Networking Processing Units (NPU) Dual Core Ubi32 a 1.5GHz. Por tanto el IPQ8071A tiene en realidad 6 cores. He buscado bastante sobre estos NPU, pero no he encontrado mas información. Si alguien tiene mas datos, agradecería que los comparta por el [canal de Telegram](https://t.me/lateclaescape) para completar este articulo.
+El gráfico anterior revela la presencia de un Networking Processing Unit (NPU) Dual Core Ubi32 a 1.5GHz. Por tanto el IPQ8071A tiene en realidad 6 cores. He buscado mas información sobre este NPU sin mucho éxito. Si alguien tiene mas datos, agradecería que los comparta por el [canal de Telegram](https://t.me/lateclaescape) para completar el articulo.
 
-## Memoria RAM
+## Memoria
+
+### Memoria RAM
 
 El Xiaomi AX3600 cuenta con un chip de memoria RAM DDR3 [EM6HE16EWAKG-10H](https://etron.com/wp-content/uploads/2022/04/EM6HE16EWAKG-1866Mbps_Rev-1.3.pdf) de *Etron Technology*, con una capacidad de 512MB, de los cuales 416MB están disponibles para el sistema operativo y el resto se reserva para el kernel.
+
+### Memoria flash
+
+El Xiaomi AX3600 utiliza un chip de memoria NAND flash de 256MB. Mi router lleva el modelo [GD9FS2G8F2A](https://www.gigadevice.com.cn/Public/Uploads/uploadfile/files/20220706/DS-00880-GD9FS2G8F2A-Rev1.1.pdf), fabricado por la empresa china *Gigadevice*. Sin embargo, otros usuarios reportan el uso del chip W29N02GZSIBA, fabricado por la taiwanesa *Winbond Electronics*. Seguramente haya mas variantes.
 
 ## Radios y antenas
 
@@ -74,10 +80,6 @@ También admite agregación de canales. Puede combinar 2 canales de 20 MHz para 
 
 Este chip destaca por su eficiencia energética, siendo ideal para dispositivos alimentados con batería como tablets, smartphones y laptops. Aunque su rendimiento máximo es inferior al del chip QCN5054, su enfoque en flujos de datos más específicos lo convierte en un componente esencial para balancear la carga de tráfico en la red del AX3600.
 
-## Memoria flash
-
-El Xiaomi AX3600 utiliza un chip de memoria NAND flash de 256 MB. Mi router lleva el modelo [GD9FS2G8F2A](https://www.gigadevice.com.cn/Public/Uploads/uploadfile/files/20220706/DS-00880-GD9FS2G8F2A-Rev1.1.pdf), fabricado por la empresa china *Gigadevice*. Sin embargo, otros usuarios reportan el uso del chip W29N02GZSIBA, fabricado por la taiwanesa *Winbond Electronics*. Seguramente haya mas variantes.
-
 ## Puertos
 
 El Xiaomi AX3600 cuenta con un puerto WAN y tres puertos LAN Ethernet Gigabit (1000 Mbps), ofreciendo conexiones cableadas rápidas y estables, ideales para entornos que requieren alta estabilidad y amplio ancho de banda.
@@ -97,8 +99,8 @@ Los tres puertos LAN (Local Area Network) también soportan Ethernet Gigabit, y 
 El router AX3600 no solo sobresale por su hardware, sino también por las tecnologías avanzadas que *Xiaomi* incorpora en su firmware, que mejoran el rendimiento en redes congestionadas y optimizan la experiencia Wi-Fi en entornos con alta demanda. Sin embargo, estas características son **nativas del firmware de *Xiaomi***, y pueden no estar completamente operativas si cambias el firmware oficial de *Xiaomi* por [OpenWrt](/post/2024/openwrt).
 
 - Beanforming
-- Smart network management
-- Mesh networks
+- Smart Network Management
+- Mesh Networks
 
 ## Beamforming
 
@@ -108,9 +110,9 @@ El Xiaomi AX3600 es compatible con la tecnología **Beamforming**, que mejora la
 
 El **Smart Network Management** es una tecnología implementada por *Xiaomi* que optimiza el rendimiento de la red en tiempo real, seleccionando dinámicamente canales y gestionando las bandas de 2.4 GHz y 5 GHz para reducir la congestión. Esto mejora la estabilidad y permite que el AX3600 mantenga un alto rendimiento incluso en entornos con muchos dispositivos conectados, ofreciendo una experiencia Wi-Fi más fluida y sin interrupciones.
 
-## Mesh network
+## Mesh Network
 
-Una **mesh network** (red mallada) conecta varios routers y puntos de acceso para ampliar y estabilizar la cobertura en áreas grandes o con obstáculos. A diferencia de una red Wi-Fi tradicional, los nodos de una red mesh se interconectan y permiten que los dispositivos se conecten automáticamente al nodo con la mejor señal. El Xiaomi AX3600 es compatible con redes mesh a través de **Mi Wi-Fi**, la aplicación de *Xiaomi* para gestionar sus dispositivos, lo que facilita la creación de una red mallada entre varios routers de la marca, mejorando la cobertura en espacios grandes o con paredes gruesas.
+Una **Mesh Network** (red mallada) conecta varios routers y puntos de acceso para ampliar y estabilizar la cobertura en áreas grandes o con obstáculos. A diferencia de una red Wi-Fi tradicional, los nodos de una red mallada se interconectan y permiten que los dispositivos se conecten automáticamente al nodo con la mejor señal. El Xiaomi AX3600 es compatible con redes malladas, a través de **Mi Wi-Fi**, la aplicación de *Xiaomi* para gestionar sus dispositivos, lo que facilita la creación de una red mallada entre varios routers de la marca, mejorando la cobertura en espacios grandes o con paredes gruesas.
 
 # Valoración personal
 
@@ -134,7 +136,7 @@ El AX3600 no incluye ningún puerto USB, una característica que podrías echar 
 
 Echo en falta memoria DDR4 mas rápida, aunque según *Xiaomi*, la DDR3 es suficiente para manejar las necesidades de enrutamiento y procesar múltiples flujos de datos en redes Wi-Fi 6 (802.11ax), sin afectar el rendimiento en la mayoría de los casos.
 
-Muchas funcionalidades avanzadas, como el Beamforming, la mesh network, o el Smart Network Management, dependen exclusivamente del firmware de *Xiaomi* y su funcionamiento no está garantizado si instalas [OpenWrt](/post/2024/openwrt).
+Muchas funcionalidades avanzadas, como el Beamforming, la Mesh Network, o el Smart Network Management, dependen exclusivamente del firmware de *Xiaomi* y su funcionamiento no está garantizado si instalas [OpenWrt](/post/2024/openwrt).
 
 # Despedida
 
