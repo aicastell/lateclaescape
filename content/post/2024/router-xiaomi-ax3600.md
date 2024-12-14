@@ -38,7 +38,7 @@ El gráfico anterior revela la presencia de 2 Networking Processing Units (NPU) 
 
 ## Memoria RAM
 
-El Xiaomi AX3600 cuenta con un chip de memoria RAM DDR3 [EM6HE16EWAKG-10H](https://etron.com/wp-content/uploads/2022/04/EM6HE16EWAKG-1866Mbps_Rev-1.3.pdf) de *Etron Technology*, con una capacidad de 512MB, de los cuales 416MB están disponibles para el sistema operativo y el resto se reserva para el kernel. Echo en falta memoria DDR4 mas rápida, aunque según *Xiaomi*, la DDR3 es suficiente para manejar las necesidades de enrutamiento y procesar múltiples flujos de datos en redes Wi-Fi 6 (802.11ax), sin afectar el rendimiento en la mayoría de los casos.
+El Xiaomi AX3600 cuenta con un chip de memoria RAM DDR3 [EM6HE16EWAKG-10H](https://etron.com/wp-content/uploads/2022/04/EM6HE16EWAKG-1866Mbps_Rev-1.3.pdf) de *Etron Technology*, con una capacidad de 512MB, de los cuales 416MB están disponibles para el sistema operativo y el resto se reserva para el kernel.
 
 ## Radios y antenas
 
@@ -76,7 +76,7 @@ Este chip destaca por su eficiencia energética, siendo ideal para dispositivos 
 
 ## Memoria flash
 
-El AX3600 está equipado con un chip de memoria NAND flash modelo [W29N02GZSIBA](https://www.winbond.com/hq/support/documentation/levelOne.jsp?__locale=en&DocNo=DA00-W29N02GZ) fabricado por *Winbond Electronics*, una compañía taiwanesa conocida por producir semiconductores de memoria, especialmente tecnologías de memoria flash y DRAM.
+El Xiaomi AX3600 utiliza un chip de memoria NAND flash de 256 MB. Mi router lleva el modelo [GD9FS2G8F2A](https://www.gigadevice.com.cn/Public/Uploads/uploadfile/files/20220706/DS-00880-GD9FS2G8F2A-Rev1.1.pdf), fabricado por la empresa china *Gigadevice*. Sin embargo, otros usuarios reportan el uso del chip W29N02GZSIBA, fabricado por la taiwanesa *Winbond Electronics*. Seguramente haya mas variantes.
 
 ## Puertos
 
@@ -94,7 +94,7 @@ Los tres puertos LAN (Local Area Network) también soportan Ethernet Gigabit, y 
 
 # Firmware oficial
 
-El router AX3600 no solo sobresale por su hardware, sino también por las tecnologías avanzadas que *Xiaomi* incorpora en su firmware, que mejoran el rendimiento en redes congestionadas y optimizan la experiencia Wi-Fi en entornos con alta demanda. Sin embargo, estas características son **nativas del firmware de *Xiaomi***, y pueden no estar completamente operativas si cambiamos el firmware del router por otro como [OpenWrt](/post/2024/openwrt).
+El router AX3600 no solo sobresale por su hardware, sino también por las tecnologías avanzadas que *Xiaomi* incorpora en su firmware, que mejoran el rendimiento en redes congestionadas y optimizan la experiencia Wi-Fi en entornos con alta demanda. Sin embargo, estas características son **nativas del firmware de *Xiaomi***, y pueden no estar completamente operativas si cambias el firmware oficial de *Xiaomi* por [OpenWrt](/post/2024/openwrt).
 
 - Beanforming
 - Smart network management
@@ -122,21 +122,23 @@ El Xiaomi AX3600 es un router de alto rendimiento que ofrece una excelente relac
 
 Su compatibilidad con el estándar Wi-Fi 6 lo posiciona como una opción relevante a largo plazo.
 
-El Xiaomi AX3600 tiene una excelente compatibilidad con [OpenWrt](/post/2024/openwrt), lo que asegura que el dispositivo se mantendrá actualizado durante muchos años. Al instalar este sistema operativo, abres un abanico de posibilidades para personalizar la configuración, optimizar el rendimiento y mejorar la seguridad de tu propia red de área local. Es por tanto un dispositivo ideal para entusiastas de las redes informáticas.
+El Xiaomi AX3600 tiene una excelente compatibilidad con [OpenWrt](/post/2024/openwrt), lo que asegura que el dispositivo se mantendrá actualizado durante muchos años. Al instalar este sistema operativo, abres un abanico de posibilidades para personalizar la configuración, optimizar el rendimiento y mejorar la seguridad de tu propia red de área local.
+
+Por todo esto, se trata de un dispositivo ideal para entusiastas de las redes informáticas.
 
 ## Inconvenientes
 
-El Xiaomi AX3600 es considerablemente grande, por lo que puede no ser adecuado para usuarios que busquen dispositivos más pequeños o compactos, especialmente si el espacio disponible para instalarlo es limitado o prefieres un diseño más discreto.
+El Xiaomi AX3600 es considerablemente grande, por lo que puede no ser adecuado si buscas un dispositivo más pequeño o compacto, especialmente si el espacio disponible para instalarlo es limitado o prefieres un diseño más discreto.
 
-El AX3600 no incluye ningún puerto USB, una característica que algunos usuarios pueden echar en falta para compartir datos de un disco duro, compartir impresoras en red, o incluso para conectar un router 4G/5G como dispositivo de respaldo en caso de caída del ISP.
+El AX3600 no incluye ningún puerto USB, una característica que podrías echar en falta si quieres compartir datos de un disco duro, compartir impresoras en red, o incluso conectar un router 4G/5G como dispositivo de respaldo en caso de caída de tu ISP.
 
-Tratándose de un dispositivo de reciente lanzamiento, hubiera sido deseable que el Xiaomi AX3600 incorporara memoria RAM DDR4, ya que ofrece un rendimiento significativamente superior en velocidad y eficiencia energética en comparación con la DDR3.
+Echo en falta memoria DDR4 mas rápida, aunque según *Xiaomi*, la DDR3 es suficiente para manejar las necesidades de enrutamiento y procesar múltiples flujos de datos en redes Wi-Fi 6 (802.11ax), sin afectar el rendimiento en la mayoría de los casos.
 
 Muchas funcionalidades avanzadas, como el Beamforming, la mesh network, o el Smart Network Management, dependen exclusivamente del firmware de *Xiaomi* y su funcionamiento no está garantizado si instalas [OpenWrt](/post/2024/openwrt).
 
 # Despedida
 
-He instalado OpenWRT en este dispositivo, convirtiendo al AX3600 en el router principal de mi casa. En el próximo artículo te explicaré paso a paso como lo hice, para que tu también puedas aprovechar al máximo las capacidades de este router y disfrutar durante años de la libertad que ofrece un firmware completamente abierto. Así que, ¡no te lo pierdas el próximo articulo!
+Tras instalar el firmware de OpenWRT, he convertido a este dispositivo en el router principal de mi casa. En el próximo artículo te explicaré paso a paso como lo hice, para que tu también puedas aprovechar al máximo las capacidades de este router y disfrutar durante años de la libertad que ofrece un firmware completamente abierto. Así que, ¡no te lo pierdas el próximo articulo!
 
 Si estás considerando comprar este dispositivo y tienes alguna pregunta, no dudes en contactarme a través del [canal de Telegram](https://t.me/lateclaescape). Estaré atento para resolver cualquier cuestión que quieras plantear sobre este router en particular. ¡Nos vemos en el próximo articulo!
 
