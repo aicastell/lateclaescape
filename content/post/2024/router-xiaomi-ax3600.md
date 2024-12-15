@@ -2,8 +2,8 @@
 title: Router Xiaomi AX3600
 date: 2024-12-14
 image: /img/posts/router-xiaomi-ax3600.webp
-categories: [ "tecnología", "router", "redes", "review" ]
-tags: [ "beanforming", "MIMO", "Wi-Fi", "OFDMA", "router", "xiaomi", "AX3600" ]
+categories: [ "tecnología", "redes", "review", "openwrt" ]
+tags: [ "beanforming", "MIMO", "Wi-Fi", "OFDMA", "router", "Xiaomi", "Qualcomm", "AX3600" ]
 draft: false
 featured: true
 ---
@@ -20,7 +20,9 @@ El Xiaomi AX3600 tiene una estructura triangular alargada con bordes suavemente 
 
 ![Xiaomi AX3600 online](/img/router-xiaomi-ax3600-online.webp)
 
-En su parte central, el AX3600 dispone de dos indicadores LED dispuestos verticalmente que muestran el estado de la alimentación y la conexión.
+En su parte central, el AX3600 dispone de tres indicadores LED que muestran el estado del dispositivo.
+
+![Xiaomi AX3600 leds](/img/router-xiaomi-ax3600-leds.webp)
 
 Las rejillas de ventilación, situadas tanto en los bordes laterales como en la parte superior, permiten mantener el dispositivo a una temperatura adecuada, sin comprometer su estética.
 
