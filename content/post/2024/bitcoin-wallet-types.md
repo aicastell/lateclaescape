@@ -10,15 +10,15 @@ featured: true
 
 # Tipos de Bitcoin wallet
 
-En el anterior articulo exploré las [direcciones de Bitcoin](/posts/bitcoin-address).
+En el anterior articulo exploré las [direcciones de Bitcoin](/post/2024/bitcoin-address).
 
-En este articulo explico qué es un wallet de Bitcoin y que relación tiene con las direcciones de Bitcoin. Después analizaré los [estándares BIP](/posts/bip) que aplican a los wallet específicamente. Y finalizaré con una clasificación de los wallets en base a distintos criterios.
+En este articulo explico qué es un wallet de Bitcoin y que relación tiene con las direcciones de Bitcoin. Después analizaré los [estándares BIP](/post/2024/bip) que aplican a los wallet específicamente. Y finalizaré con una clasificación de los wallets en base a distintos criterios.
 
 Tras la lectura de este articulo conocerás las características mas relevantes de los distintos wallet de Bitcoin para que puedas elegir el wallet que mejor se adapte a tus propias necesidades.
 
 ## Que es un wallet
 
-Un **wallet de Bitcoin**, también llamado **monedero**, es una herramienta que permite a un usuario gestionar sus Bitcoin. No almacena Bitcoins en si, sino las claves privadas y publicas necesarias para que un usuario acceda a sus Bitcoin. La clave privada actúa como la contraseña que permite enviar tus Bitcoin a otro wallet, y debe mantenerse segura. La clave pública esta ligada a las [direcciones de Bitcoin](/posts/bitcoin-address), y se utiliza para recibir Bitcoins.
+Un **wallet de Bitcoin**, también llamado **monedero**, es una herramienta que permite a un usuario gestionar sus Bitcoin. No almacena Bitcoins en si, sino las claves privadas y publicas necesarias para que un usuario acceda a sus Bitcoin. La clave privada actúa como la contraseña que permite enviar tus Bitcoin a otro wallet, y debe mantenerse segura. La clave pública esta ligada a las [direcciones de Bitcoin](/post/2024/bitcoin-address), y se utiliza para recibir Bitcoins.
 
 El wallet de Bitcoin tiene cierta relación con una cartera física donde guardas tu dinero en efectivo. Sin embargo, a diferencia de las carteras físicas, un wallet de Bitcoin no almacena ni un solo céntimo de Bitcoin en su interior.
 
@@ -26,7 +26,7 @@ Es probable que pensaras que tus Bitcoin estaban almacenados en tu wallet. Refle
 
 ## BIP wallet
 
-Los 3 [BIP](/posts/bip) más importantes relacionados con los wallets de Bitcoin son:
+Los 3 [BIP](/post/2024/bip) más importantes relacionados con los wallets de Bitcoin son:
 
 - BIP-0032: Hierarchical Deterministic Wallets (HD Wallets):
 - BIP-0039: Mnemonic Code for Generating Deterministic Keys:
