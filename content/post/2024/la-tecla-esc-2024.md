@@ -10,7 +10,7 @@ featured: true
 
 # La Tecla ESC 2024
 
-En este artículo hago un balance del blog La Tecla ESC durante el año 2024, repasando las lecciones aprendidas. Además, adelanto algunos de los planes y novedades que tendremos para 2025. ¡Acompáñame leyendo el último articulo de año!.
+En este artículo hago un balance del blog La Tecla ESC durante el año 2024, repasando las lecciones aprendidas. Además, adelanto algunos de los planes y novedades que tendremos para 2025. ¡Acompáñame leyendo el último articulo del año!.
 
 # Resumen del año
 
