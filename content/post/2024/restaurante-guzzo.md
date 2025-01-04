@@ -2,7 +2,7 @@
 title: Guzzo
 date: 2024-11-30
 image: /img/posts/restaurante.webp
-categories: [ "opinión", "restaurante" ]
+categories: [ "opinión", "restaurante", "personal" ]
 tags: [ ]
 draft: false
 featured: true

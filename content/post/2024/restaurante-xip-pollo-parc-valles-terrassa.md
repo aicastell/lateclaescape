@@ -2,7 +2,7 @@
 title: Xip Pollo
 date: 2024-01-13
 image: /img/posts/restaurante.webp
-categories: [ "opinión", "restaurante" ]
+categories: [ "opinión", "restaurante", "personal" ]
 tags: [ ]
 draft: false
 featured: true

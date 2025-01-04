@@ -2,7 +2,7 @@
 title: El Racó
 date: 2024-01-19
 image: /img/posts/restaurante.webp
-categories: [ "opinión", "restaurante" ]
+categories: [ "opinión", "restaurante", "personal" ]
 tags: [ ]
 draft: false
 featured: true
