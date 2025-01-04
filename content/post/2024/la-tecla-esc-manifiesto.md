@@ -1,5 +1,5 @@
 ---
-title: La tecla escape
+title: Manifiesto del blog
 date: 2024-01-01
 image: /img/posts/la-tecla-esc-2024.webp
 categories: [ "blog" ]
