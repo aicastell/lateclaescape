@@ -10,6 +10,10 @@ featured: true
 
 # Presentación del blog
 
+Si no te gusta leer, puedes escuchar este articulo aqui:
+
+{{< audio path="audio/la-tecla-esc-manifiesto.mp3" caption="Podcast!" >}}
+
 ## Internet te espía
 
 Hablaba hace ya algún tiempo con mi hermano por el WhatsApp. En la conversación salió la famosa frase de "be water my friend". Sin practicar artes marciales, ni seguir ningún canal que trate dicha temática, ni hablar jamás con nadie sobre boxeo, judo ni muay thai. Salió el tema de forma completamente casual. Al día siguiente, mi muro de Facebook se plagó de vídeos de artes marciales haciendo referencia al fallecido actor Bruce Lee.
