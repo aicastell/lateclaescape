@@ -57,7 +57,7 @@ OpenWrt incluye LuCI, una interfaz gráfica que permite configurar y monitorizar
 
 ### Transformación en un servidor especializado
 
-Al instalar OpenWrt, el router se convierte en un servidor Linux especializado, ampliando sus funciones más allá de enrutar tráfico de red. Puede ejecutar servicios adicionales como servidores VPN para conexiones seguras, servidores de medios para compartir archivos o vídeos. Además, permite configurar firewalls personalizables y herramientas avanzadas para la monitorizar del tráfico de red en tiempo real.
+Al instalar OpenWrt, el router se convierte en un servidor Linux especializado, ampliando sus funciones más allá de enrutar tráfico de red. Puede ejecutar servicios adicionales como servidores VPN para conexiones seguras, servidores de medios para compartir archivos o vídeos. Además, permite configurar firewalls personalizables y herramientas avanzadas para la monitorización del tráfico de red en tiempo real.
 
 ### Redes avanzadas y control de tráfico
 
