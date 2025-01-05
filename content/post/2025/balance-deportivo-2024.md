@@ -10,7 +10,13 @@ featured: true
 
 # Introducción
 
-En el primer articulo del año 2025 hago un repaso a las actividades deportivas en running, natación, ciclismo y gimnasio que he realizado durante todo el año 2024. Si no te gusta leer, puedes escuchar este articulo en la plataforma [ivoox](https://go.ivoox.com/sq/2494152).
+En el primer articulo del año 2025 hago un repaso a las actividades deportivas en running, natación, ciclismo y gimnasio que he realizado durante todo el año 2024.
+
+# Podcast
+
+Si no te gusta leer, puedes escuchar este articulo aqui:
+
+{{< audio path="audio/balance-deportivo-2024.mp3" caption="Podcast!" >}}
 
 # Balance deportivo
 

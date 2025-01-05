@@ -14,7 +14,11 @@ Satoshi Nakamoto ha sido una figura rodeada de misterio desde la aparición de B
 
 En este artículo, nos sumergimos en las pistas, las teorías más intrigantes y los posibles candidatos que se han propuesto a lo largo de los años, con el objetivo de arrojar luz sobre la verdadera identidad de Satoshi Nakamoto.
 
-Si no te gusta leer, puedes escuchar este articulo en la plataforma [ivoox](https://go.ivoox.com/sq/2494222).
+# Podcast
+
+Si no te gusta leer, puedes escuchar este articulo aqui:
+
+{{< audio path="audio/satoshi-nakamoto.mp3" caption="Podcast!" >}}
 
 ## Teorías populares
 
