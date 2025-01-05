@@ -14,6 +14,8 @@ Satoshi Nakamoto ha sido una figura rodeada de misterio desde la aparición de B
 
 En este artículo, nos sumergimos en las pistas, las teorías más intrigantes y los posibles candidatos que se han propuesto a lo largo de los años, con el objetivo de arrojar luz sobre la verdadera identidad de Satoshi Nakamoto.
 
+Si no te gusta leer, puedes escuchar este articulo en la plataforma [ivoox](https://go.ivoox.com/sq/2494222).
+
 ## Teorías populares
 
 En el idioma japonés, la palabra *Nakamoto* puede traducirse por "base central" o "origen central". Y *Satoshi* en ese mismo idioma significa "inteligencia". Una teoría popular sostiene que la NSA, la CIA o alguna otra agencia de inteligencia podría estar detrás de la creación de Bitcoin.
@@ -106,7 +108,7 @@ La empresa DigiCash de Chaum termina en bancarrota. Y Chaum queda muy dolido con
 
 A Chaum y a su criptomoneda e-Cash le faltan dos piezas clave. La primera la desarrolla Adam Back cuando en 1997 crea la prueba de trabajo (POW).
 
-Finney, un ingeniero muy inteligente y reflexivo, trata de ordenar todas las piezas para crear una criptomoneda completamente descentralizado. En 2004 lo intenta sin éxito con RPOW. Pero su naturaleza curiosa le anima a seguir investigando.
+Finney, un ingeniero muy inteligente y reflexivo, trata de ordenar todas las piezas para crear una criptomoneda completamente descentralizada. En 2004 lo intenta sin éxito con RPOW. Pero su naturaleza curiosa le anima a seguir investigando.
 
 Chaum y Finney nacen con un año de diferencia. Ambos provienen de entornos académicos. Han estudiado juntos en el [California Institute of Technology](https://www.caltech.edu/) (CalTech). Comparten aficiones, por lo que es muy probable que se conozcan y colaboren juntos. Ambos terminan dando con la pieza del rompecabezas que les faltaba para resolver el problema del doble gasto sin depender de una autoridad central: la blockchain distribuida.
 
