@@ -12,6 +12,12 @@ featured: true
 
 El firmware preinstalado en routers comerciales suele tener restricciones diseñadas para simplificar su uso y garantizar un funcionamiento seguro para el usuario promedio. Sin embargo, estas limitaciones reducen las opciones de personalización y el control avanzado sobre el dispositivo, impidiendo aprovechar al máximo su potencial.
 
+# Podcast
+
+Si no te gusta leer, puedes escuchar este articulo aqui:
+
+{{< audio path="audio/openwrt.mp3" caption="Podcast!" >}}
+
 # Qué es OpenWrt
 
 **OpenWrt** es un sistema operativo de código abierto diseñado para reemplazar el firmware comercial de los dispositivos de red y desbloquear todo su potencial, optimizando su rendimiento y proporcionando un control total sobre la configuración de red, la seguridad y la instalación de paquetes adicionales.
