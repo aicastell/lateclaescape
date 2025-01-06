@@ -12,7 +12,7 @@ featured: true
 
 Este articulo también está disponible en formato audiblog para que lo puedas escuchar.
 
-{{< audio path="audio/openwrt.mp3.mp3" caption="Audio del articulo:" >}}
+{{< audio path="audio/openwrt.mp3" caption="Audio del articulo:" >}}
 
 # Introducción
 
