@@ -8,6 +8,12 @@ draft: false
 featured: true
 ---
 
+# Audiblog
+
+Este articulo también está disponible en formato audiblog para que lo puedas escuchar.
+
+{{< audio path="audio/david-chaum.mp3" caption="Audio del articulo:" >}}
+
 # David Lee Chaum
 
 En este articulo voy a hablar de David Lee Chaum, conocido mundialmente por ser el inventor del dinero digital y de los pagos online anónimos.
@@ -112,7 +118,7 @@ La introducción global de Internet de alta velocidad ha permitido que las redes
 
 En este articulo has aprendido que el trabajo de David Lee Chaum ha sido fundamental para proteger la privacidad de las personas. Con su tecnología, no hay forma de que ningún tercero, incluidos gobiernos, empresas tecnológicas o la propia red, pueda ver información sobre el remitente o destinatarios de comunicaciones o pagos.
 
-Ademas, su contribución ha sido determinante en el desarrollo de Bitcoin y otras muchas criptomonedas que se han desarrollado después.
+Además, su contribución ha sido determinante en el desarrollo de Bitcoin y otras muchas criptomonedas que se han desarrollado después.
 
 La aplicación Twitter ha pasado a llamarse "X" tras la adquisición de la compañía por parte de Elon Musk. El propio Musk ha afirmado en distintas entrevistas que quiere integrar en X un sistema financiero mas eficiente, seguro y anónimo que la banca tradicional. Tendría mucho sentido que la red XX de Chaum fuera la plataforma elegida por Musk para implementar este sistema financiero. ¿Que pensáis sobre ello?
 
