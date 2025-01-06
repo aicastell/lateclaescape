@@ -114,9 +114,10 @@ A continuación presento una tabla que muestra el precio de Bitcoin el día de N
 |                   | 25/12/2021    |   50389.00$  |
 |                   | 25/12/2022    |   16458.00$  |
 |                   | 25/12/2023    |   43013.00$  |
-| Halving 4         | 25/12/2024    |   ?????.??$  |
+| Halving 4         | 25/12/2024    |   99363.00$  |
+|                   | 25/12/2025    |   ????????$  |
 
-En 2024, se han dado dos hechos muy significativos. Primero, tuvo lugar el Halving de Bitcoin numero 4, lo que redujo aún más la cantidad de Bitcoin que se genera. Segundo, las elecciones presidenciales de EEUU resultaron en la victoria del controvertido *Donald Trump*, quien se ha declarado defensor de las criptomonedas. Este contexto ha impulsado a Bitcoin a alcanzar un nuevo máximo histórico hasta la fecha, 90,000.00 USD el día 12 de Noviembre de 2024.
+En 2024, se han dado dos hechos muy significativos. Primero, tuvo lugar el Halving de Bitcoin numero 4, lo que redujo aún más la cantidad de Bitcoin que se genera. Segundo, las elecciones presidenciales de EEUU resultaron en la victoria del controvertido *Donald Trump*, quien se ha declarado defensor de las criptomonedas. Este contexto ha impulsado a Bitcoin a alcanzar un nuevo máximo histórico hasta la fecha, 106,022.00 USD el día 16 de Diembre de 2024.
 
 # Conclusión
 
@@ -124,6 +125,6 @@ Bitcoin se mantiene como una de las criptomonedas más fascinantes y disruptivas
 
 Bitcoin no es solo una moneda, es una revolución tecnológica que continúa evolucionando. Con el tiempo, más personas y empresas reconocen su potencial como un activo fiable a largo plazo. Y, en un contexto en el que su oferta se reduce progresivamente, su valor parece seguir una senda alcista, con un futuro aún por definir pero lleno de posibilidades. Sin duda, Bitcoin ha llegado para quedarse, y su rol en la economía mundial no para de crecer.
 
-Te animo a predecir su precio para el 25/12/2024 en el [canal de Telegram](https://t.me/lateclaescape). Yo me voy a mojar. Mi apuesta personal es que en Navidad de 2024 su valor rondará 100,000.00$. Ahí lo dejo.
+Te animo a predecir su precio para el 25/12/2025 en el [canal de Telegram](https://t.me/lateclaescape). Yo me voy a mojar. Mi apuesta personal es que en Navidad de 2025 su valor rondará 200,000.00$. Ahí lo dejo.
 
 Pulso la tecla ESC, dos puntos wq!
