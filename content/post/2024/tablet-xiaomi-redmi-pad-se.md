@@ -8,6 +8,12 @@ draft: false
 featured: true
 ---
 
+# Audiblog
+
+Este articulo también está disponible en formato audiblog para que lo puedas escuchar.
+
+{{< audio path="audio/tablet-xiaomi-redmi-pad-se.mp3" caption="Audio del articulo:" >}}
+
 # Resumen
 
 Las tablet de gama media se han convertido en opciones muy populares para quienes buscan un dispositivo versátil sin gastar mucho dinero. Con el lanzamiento de la Redmi Pad SE de 11 pulgadas, Xiaomi ha lanzado un dispositivo que pretende equilibrar rendimiento, calidad de pantalla y precio, y convertirse en una excelente alternativa para quienes buscan una tablet de entrada económica, funcional y eficiente.
