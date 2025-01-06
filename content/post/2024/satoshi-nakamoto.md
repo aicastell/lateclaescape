@@ -8,17 +8,17 @@ draft: false
 featured: true
 ---
 
+# Audiblog
+
+Este articulo también está disponible en formato audiblog para que lo puedas escuchar.
+
+{{< audio path="audio/satoshi-nakamoto.mp3" caption="Audio del articulo:" >}}
+
 # Introducción
 
 Satoshi Nakamoto ha sido una figura rodeada de misterio desde la aparición de Bitcoin en 2009. Su identidad ha generado un sinfín de teorías y especulaciones, convirtiéndose en uno de los mayores enigmas de la era digital.
 
 En este artículo, nos sumergimos en las pistas, las teorías más intrigantes y los posibles candidatos que se han propuesto a lo largo de los años, con el objetivo de arrojar luz sobre la verdadera identidad de Satoshi Nakamoto.
-
-# Podcast
-
-Si no te gusta leer, puedes escuchar este articulo aqui:
-
-{{< audio path="audio/satoshi-nakamoto.mp3" caption="Podcast!" >}}
 
 ## Teorías populares
 
@@ -147,4 +147,3 @@ En próximos artículos iniciaré un repaso a los temas mas técnicos de Bitcoin
 Muchas gracias por leerme y nos vemos en el próximo articulo.
 
 Pulso la tecla ESC, dos puntos wq!
-

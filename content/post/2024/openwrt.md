@@ -8,15 +8,15 @@ draft: false
 featured: true
 ---
 
+# Audiblog
+
+Este articulo también está disponible en formato audiblog para que lo puedas escuchar.
+
+{{< audio path="audio/openwrt.mp3.mp3" caption="Audio del articulo:" >}}
+
 # Introducción
 
 El firmware preinstalado en routers comerciales suele tener restricciones diseñadas para simplificar su uso y garantizar un funcionamiento seguro para el usuario promedio. Sin embargo, estas limitaciones reducen las opciones de personalización y el control avanzado sobre el dispositivo, impidiendo aprovechar al máximo su potencial.
-
-# Podcast
-
-Si no te gusta leer, puedes escuchar este articulo aqui:
-
-{{< audio path="audio/openwrt.mp3" caption="Podcast!" >}}
 
 # Qué es OpenWrt
 

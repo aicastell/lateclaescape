@@ -8,13 +8,13 @@ draft: false
 featured: true
 ---
 
-# Presentación del blog
+# Audiblog
 
-Si no te gusta leer, puedes escuchar este articulo aqui:
+Este articulo también está disponible en formato audiblog para que lo puedas escuchar.
 
-{{< audio path="audio/la-tecla-esc-manifiesto.mp3" caption="Podcast!" >}}
+{{< audio path="audio/la-tecla-esc-manifiesto.mp3" caption="Audio del articulo:" >}}
 
-## Internet te espía
+# Internet te espía
 
 Hablaba hace ya algún tiempo con mi hermano por el WhatsApp. En la conversación salió la famosa frase de "be water my friend". Sin practicar artes marciales, ni seguir ningún canal que trate dicha temática, ni hablar jamás con nadie sobre boxeo, judo ni muay thai. Salió el tema de forma completamente casual. Al día siguiente, mi muro de Facebook se plagó de vídeos de artes marciales haciendo referencia al fallecido actor Bruce Lee.
 
@@ -24,7 +24,7 @@ Las redes sociales te espían. Recopilan datos sobre tus gustos, aficiones, y pa
 
 Hay empresas interesadas en pagar suculentas cantidades de dinero a cambio de conocer tus gustos, para poder ofrecerte publicidad personalizada. El modelo de negocio tiene sentido y de hecho funciona. Empresas como Facebook, Instagram, Netflix o Twitter ya te obligan a aceptar unas condiciones de uso donde tú permites que te espíen a cambio de usar sus servicios de forma gratuita. La alternativa para no ver la molesta publicidad consiste en pagar una subscripción mensual nada económica (Facebook e Instagram 9.99€/mes).
 
-## El blog lateclaescape
+# El blog lateclaescape
 
 Preocupado por la deriva que esta tomando todo este asunto nace este blog. Un blog libre e independiente donde poder divulgar información sin depender de los recursos "gratuitos" de estas grandes corporaciones. A partir de ahora, este blog sera el refugio donde compartiré mis conocimientos contigo. Aquí te sentirás libre de todo espionaje. Nadie analizará tus patrones de comportamiento ni guardará un registro sobre tus aficiones. Podrás aprender sin que inunden tu navegador con publicidad. Sin que nadie comercie con tus datos. Y sin que puedan vetar los contenidos publicados.
 
@@ -44,7 +44,7 @@ También soy deportista amateur. Vengo practicando deporte desde el año 1987 ca
 
 Para darle un toque mas personal, hablaré sobre asuntos de la vida cotidiana: ciudades donde he viajado, cambios de trabajo, mudanzas, valoración de películas (sin hacer spoilers, lo prometo), o restaurantes donde como.
 
-## Despedida
+# Despedida
 
 Hoy día 1 de Enero de 2024 echa a andar este nuevo proyecto. Con la esperanza de que el contenido sea de tu agrado, me despido hasta muy pronto. ¡Feliz y próspero año 2024!.
 
