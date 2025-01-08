@@ -8,6 +8,10 @@ draft: false
 featured: true
 ---
 
+*Articulo disponible en formato audiblog:*
+
+{{< audio path="audio/upgrade-pc-gaming.mp3" >}}
+
 # Introducción
 
 Me contacta Carlos para explicarme que tiene problemas con su PC de torre. Se queja de que hace mucho ruido y se calienta en exceso durante su uso. Además, está considerando hacer un upgrade del equipo. Y tiene bastante claro lo que busca. Quiere una torre nueva mejor ventilada, pero no quiere invertir demasiado dinero en ella. Quiere añadir un disco SSD nuevo de 1TB al equipo. Y quiere una GPU mas potente para jugar ocasionalmente.

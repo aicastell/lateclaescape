@@ -32,7 +32,7 @@ En enero de 2024, corrí la Mitja Marató de Terrassa por quinta vez, completán
 
 ## Natación
 
-La natación protege mucho mas mis articulaciones, y es un deporte fantástico para trabajar el cardio. Sin embargo, 2024 tampoco ha sido mi mejor año como nadador. Han sido 83 Km en un total de 51 entrenamientos. En el agua sufro muchos calambres en las piernas, algo curioso que solo me pasan nadando. He tenido problemas con mi oído derecho las últimas semanas del año.
+La natación protege mucho mas mis articulaciones, y es un deporte fantástico para trabajar el cardio. Sin embargo, 2024 tampoco ha sido mi mejor año como nadador. Han sido 83 Km en un total de 51 entrenamientos. En el agua sufro muchos calambres en las piernas, algo curioso que solo me pasa nadando. He tenido problemas con mi oído derecho las últimas semanas del año.
 
 ## Ciclismo
 
