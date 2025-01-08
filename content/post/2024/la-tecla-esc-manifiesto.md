@@ -8,11 +8,9 @@ draft: false
 featured: true
 ---
 
-# Audiblog
+*Articulo disponible en formato audiblog:*
 
-Este articulo también está disponible en formato audiblog para que lo puedas escuchar.
-
-{{< audio path="audio/la-tecla-esc-manifiesto.mp3" caption="Audio del articulo:" >}}
+{{< audio path="audio/la-tecla-esc-manifiesto.mp3" >}}
 
 # Internet te espía
 
