@@ -8,6 +8,10 @@ draft: false
 featured: true
 ---
 
+*Articulo disponible en formato audiblog:*
+
+{{< audio path="audio/la-tecla-esc-2024.mp3" >}}
+
 # La Tecla ESC 2024
 
 En este artículo hago un balance del blog La Tecla ESC durante el año 2024, repasando las lecciones aprendidas. Además, adelanto algunos de los planes y novedades que tendremos para 2025. ¡Acompáñame leyendo el último articulo del año!.
@@ -70,7 +74,7 @@ Quiero que este blog sea algo interactivo. Publicaré un articulo en el que tu s
 
 Durante 2025 tengo la intención de incorporar a La Tecla ESC el formato audiblog, para que los artículos estén disponibles en formato podcast y puedas escucharlos cómodamente, sin tener que leer. Es una excelente idea que varios lectores me han hecho en privado, y debo llevarla a la práctica.
 
-## Colaboracion
+## Colaboración
 
 Me encantaría colaborar con otros bloggers para compartir conocimientos. Si te dedicas a escribir en un blog, no dudes en ponerte en contacto conmigo. Estoy seguro que podremos intercambiar ideas y aprender mutuamente.
 
