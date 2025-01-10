@@ -2,8 +2,8 @@
 title: Balance deportivo 2024
 date: 2025-01-03
 image: /img/posts/balance-deportivo-2024.jpg
-categories: [ "personal", "blog", "deporte" ]
-tags: [ "blog", "2024" ]
+categories: [ "personal", "deporte" ]
+tags: [ "ciclismo", "running", "gimnasio", "natación" ]
 draft: false
 featured: true
 ---
