@@ -45,7 +45,7 @@ Existe variedad tanto en los materiales del cuadro (aluminio, carbono, titanio) 
 
 ### Bicicleta de carretera
 
-Las bicicletas de carretera están diseñadas para rodar de manera eficiente sobre pavimento liso. Tienen un peso muy reducido. Su diseño aerodinámico, con un cuadro mas delgado y una posición de conducción inclinada hacia adelante, ayuda a reducir la resistencia al viento, permitiendo a los ciclistas alcanzar altas velocidades con menor esfuerzo.
+Las bicicletas de carretera están diseñadas para rodar de manera eficiente sobre pavimento liso. Tienen un peso muy reducido. Su diseño aerodinámico, con un cuadro mas delgado y una posición de conducción inclinada hacia adelante, ayuda a reducir la resistencia al viento, permitiendo alcanzar velocidades mas altas con menor esfuerzo.
 
 ### Bicicleta de montaña (MTB)
 
@@ -57,7 +57,7 @@ Las bicicletas gravel son ideales para quienes buscan un equilibrio entre las bi
 
 ## Pedales
 
-Los pedales son una parte esencial del sistema de transmisión y juegan un papel crucial en la transferencia de energía del ciclista a la bicicleta.
+Los pedales son una parte esencial del sistema de transmisión y juegan un papel crucial en la transferencia de energía desde tus piernas a la bicicleta.
 
 ![Material esencial ciclismo pedales](/img/material-esencial-ciclismo-pedales.webp)
 
@@ -90,7 +90,7 @@ La ropa técnica para ciclismo es clave para garantizar comodidad, rendimiento y
 
 ### Maillot (camiseta)
 
-El maillot facilita la evacuación del sudor para mantenerte seco, y se ajusta bien al cuerpo para reducir la resistencia al viento. Suelen contar con detalles reflectantes para que los vehículos por carretera te vean mejor en condiciones de poca luz, aumentando así tu propia seguridad. Cuentan con dos o tres bolsillos en la parte trasera.
+El maillot facilita la evacuación del sudor para mantenerte seco, y se ajusta bien al cuerpo para reducir la resistencia al viento. Suele contar con detalles reflectantes para que los vehículos por carretera te vean mejor en condiciones de poca luz, aumentando así tu propia seguridad. Cuentan con dos o tres bolsillos en la parte trasera.
 
 ### Culote (pantalón)
 
@@ -98,7 +98,7 @@ El culote cuenta con una badana acolchada que disminuye la presión sobre el sil
 
 ### Guantes
 
-Los guantes mejoran el agarre con el manillar, disminuyendo la posibilidad de resbalones causados por el sudor. Normalmente incluyen acolchado en las palmas para absorber las vibraciones del camino y reducir la fatiga de las manos. Es muy recomendable llevarlos siempre puestos, ya que protegen tus manos de la abrasión en caso de caída.
+Los guantes mejoran el agarre con el manillar, disminuyendo la posibilidad de resbalones causados por el sudor. Normalmente incluyen acolchado en las palmas para absorber las vibraciones del camino y reducir la fatiga de las manos. Es recomendable llevarlos siempre puestos, ya que protegen tus manos de la abrasión en caso de caída.
 
 ### Gorra
 
@@ -106,11 +106,11 @@ La gorra resulta muy útil. En invierno, ayuda a mantener la cabeza caliente. Y 
 
 ### Calcetines
 
-Los calcetines especialmente diseñados para ciclismo minimizan la fricción entre el pie y la zapatilla, reduciendo el riesgo de ampollas y rozaduras. Su tejido transpirable facilita la evacuación de sudor, manteniendo los pies secos. Además, ofrecen una ligera compresión, mejorando la circulación sanguínea, contribuyendo a un mayor confort.
+Los calcetines especialmente diseñados para ciclismo minimizan la fricción entre el pie y la zapatilla, reduciendo el riesgo de ampollas y rozaduras. Su tejido transpirable facilita la evacuación de sudor, manteniendo los pies secos. Además, ofrecen una ligera compresión que mejora la circulación sanguínea, lo que contribuye a un mayor confort.
 
 ### Calzado
 
-Existen zapatos específicos para pedales de plataforma o para pedales automáticos. Los zapatos para pedales de plataforma tienen suelas de goma de alta adherencia, mejorando el agarre y la estabilidad. Los zapatos para pedales automáticos llevan una cala que fija la suela de la zapatilla al pedal. Los zapatos de carretera son mas rígidos y están pensados para maximizar la transmisión de potencia durante el pedaleo. En cambio, los zapatos de montaña están diseñados para enfrentar diversas condiciones, con un diseño mas cómodo que permite caminar cómodamente cuando no estás sobre la bicicleta.
+Existen zapatos específicos para pedales de plataforma o para pedales automáticos. Los zapatos para pedales de plataforma tienen suelas de goma de alta adherencia, mejorando el agarre y la estabilidad. Los zapatos para pedales automáticos llevan una cala que fija la suela de la zapatilla al pedal. Los zapatos de carretera son muy rígidos y están pensados para maximizar la transmisión de potencia durante el pedaleo. En cambio, los zapatos de montaña son mas flexibles y cómodos, están diseñados para enfrentar diversas condiciones, permitiendo caminar cómodamente cuando no estás sobre la bicicleta.
 
 ## Herramientas
 
@@ -142,7 +142,7 @@ La bomba de pie te permite inflar las ruedas de forma rápida, ya que permite ut
 
 #### Bomba de mano
 
-La bomba de mano es de tamaño compacto, y la utilizaras en caso de pinchazo. Es la que llevaras encima de la bicicleta acoplada normalmente al porta-bidones.
+La bomba de mano es de tamaño compacto, y la utilizarás en caso de pinchazo. Es la que llevarás encima de la bicicleta acoplada normalmente al porta-bidones.
 
 ### Multiherramientas
 
@@ -168,7 +168,7 @@ Los porta-bidones permiten transportar los bidones de agua de manera segura y ac
 
 Contar con una luz trasera es esencial para tu seguridad, ya que te hace visible a los conductores. Las luces delanteras solo son importantes en condiciones de poca luz o de noche.
 
-### Bolsa sillín
+### Bolsa de sillín
 
 La bolsa de sillín proporciona un espacio conveniente para guardar herramientas. Interesa que esté hecha de materiales resistentes al agua para proteger el contenido en caso de lluvia.
 
@@ -178,14 +178,14 @@ Especialmente útiles para descubrir rutas nuevas y para registrar tus entrenos 
 
 ### Gafas de sol
 
-Las gafas de sol protegen tus ojos de los daños causados por el sol, evitan deslumbramientos. Pero también actúan como barrera física contra pequeñas piedras, ramas, hojas de árbol o incluso insectos que pueden impactar a grandes velocidades y provocarte la perdida de visión en el peor momento.
+Las gafas de sol protegen tus ojos del viento, de los daños causados por el sol, y evitan deslumbramientos. Pero también actúan como barrera física contra pequeñas piedras, ramas, hojas de árbol o incluso insectos que pueden impactar a grandes velocidades y provocarte la perdida de visión en el peor momento.
 
 # Conclusión
 
 En este articulo he repasado todo el material esencial para iniciarte en el ciclismo.
 
-Cualquier duda, sugerencia, crítica o comentario asociado a este articulo, puedes plantearlo a través del [canal de Telegram](https://t.me/lateclaescape). Estaré encantado de resolverte cualquier cuestión y ayudarte a comprar tu bicicleta si vas a iniciarte en este mundillo del ciclismo.
+Cualquier duda, sugerencia, crítica o comentario asociado a este articulo, puedes plantearlo a través del [canal de Telegram](https://t.me/lateclaescape). Estaré encantado de resolverte cualquier cuestión sobre el material que hemos repasado.
 
-No te pierdas el próximo articulo porque hablaré sobre el coste aproximado de cada componente en sus gamas baja, media y alta, y te detallaré una serie de consejos muy útiles para que puedas elegir los componentes mas adecuados para que optimices tu inversión y  maximices el disfrute encima de la bicicleta.
+No te pierdas el próximo articulo porque hablaré sobre el coste aproximado de cada componente en sus gamas baja, media y alta, y te daré una serie de consejos muy útiles para que puedas elegir los componentes mas adecuados para que optimices tu inversión y maximices el disfrute encima de la bicicleta.
 
 Pulso la tecla ESC, dos puntos wq!
