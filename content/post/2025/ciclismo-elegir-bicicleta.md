@@ -1,14 +1,14 @@
 ---
 title: Elegir tu bicicleta
-date: 2025-01-10
+date: 2025-01-12
 image: /img/posts/ciclismo-elegir-bicicleta.webp
 categories: [ "deporte" ]
 tags: [ "ciclismo", "bicicleta", "gravel", "trek" ]
-draft: true
+draft: false
 featured: true
 ---
 
-Articulo disponible en formato audiblog:
+*Articulo disponible en formato audiblog:*
 
 {{< audio path="audio/ciclismo-elegir-bicicleta.mp3" >}}
 
