@@ -8,10 +8,6 @@ draft: false
 featured: true
 ---
 
-*Articulo disponible en formato audiblog:*
-
-{{< audio path="audio/ciclismo-elegir-bicicleta.mp3" >}}
-
 # Introducción
 
 Enero es un mes perfecto para poner en marcha los propósitos de año nuevo. Si uno de tus objetivos este año es mejorar tu salud, el ciclismo puede ser una muy buena opción. Es un deporte que beneficia tanto a tu cuerpo como a tu estado de ánimo. Y además, una excelente manera de explorar nuevos lugares y desconectar de la rutina diaria.
@@ -87,6 +83,12 @@ Elegir la talla adecuada de bicicleta es crucial y no debe tomarse a la ligera. 
 
 Por eso es importante buscar asesoramiento profesional y, si es posible, realizar un estudio biomecánico antes de comprar tu bicicleta, para descartar geometrías que no se adapten a tu físico y asegurar una buena elección. En este sentido, te recomiendo que vayas a una tienda de ciclismo donde profesionales del sector te puedan asesorar.
 
+## Fabricantes
+
+La elección del fabricante de bicicletas adecuado depende de varios factores, como el tipo de ciclismo que practiques, tu presupuesto, tus preferencias personales y los componentes que deseas en tu bicicleta. Entre las marcas más reconocidas destacan las "Big Four": Trek, Giant, Specialized y Cannondale, famosas por su prestigio y calidad. Además, existen otros fabricantes más pequeños que también producen bicicletas de excelente calidad, como Scott, Bianchi, Colnago, Canyon, Felt, Merida, Cervélo, BH, Pinarello, Orbea, Mondraker y Van Rysel.
+
+Todos los fabricantes, tanto los grandes como los más pequeños, juegan un papel fundamental en el desarrollo del ciclismo, ofreciendo productos que van desde modelos accesibles hasta bicicletas de alto rendimiento para profesionales.
+
 ## Rango de precios
 
 Esta tabla recopila los rangos de precios que puedes encontrar en Enero de 2025:
@@ -105,9 +107,11 @@ Esta tabla recopila los rangos de precios que puedes encontrar en Enero de 2025:
 
 ## Recomendación personal
 
-Elegir la bicicleta que más te guste es una cuestión totalmente personal, y esa decisión depende únicamente de ti. Sin embargo, permíteme ofrecerte una recomendación basada en mi propia experiencia:
+Elegir la bicicleta que más te guste es una cuestión totalmente personal, y esa decisión depende únicamente de ti. Sin embargo, permíteme darte un par de consejos basados en mi propia experiencia:
 
-Las bicicletas de titanio o carbono están diseñadas para ciclistas profesionales, donde cada segundo cuenta. Como deportista amateur, no vas a notar ninguna diferencia con una bicicleta de aluminio. Por lo que te recomiendo que compres un cuadro de aluminio. Es mas que suficiente. Ves a por uno de gama media o alta, evitando los de gama baja. Tendrás un cuadro de una calidad excelente y ahorrarás un dinero considerable en comparación con los cuadros de carbono o titanio.
+Opta por uno de los fabricantes que ofrecen garantía de por vida en sus cuadros, como Trek, Specialized, Giant, Cannondale, Scott o Orbea. Aunque deberás cumplir con ciertos términos y condiciones, si mantienes la bicicleta en buen estado, cualquier fisura o defecto será cubierto y el cuadro será reemplazado por otro completamente nuevo igual o incluso de un modelo superior. Esto da mucha tranquilidad.
+
+Las bicicletas de titanio o carbono están diseñadas pensando en ciclistas profesionales, donde cada segundo cuenta. Como deportista amateur, es poco probable que notes una diferencia significativa respecto a una bicicleta de aluminio. Por ello, te recomiendo optar por un cuadro de aluminio. Es más que suficiente para tus necesidades. Elige uno de gama media o alta, evitando las opciones de gama baja. Así, tendrás un cuadro de excelente calidad, ahorrando una cantidad considerable de dinero en comparación con los cuadros de carbono o titanio.
 
 # Conclusión
 
