@@ -75,7 +75,7 @@ Los cuadros de carbono son mas ligeros que los de aluminio (unos 500 gramos). Al
 
 ### Cuadro de aluminio
 
-Las bicicletas de aluminio han alcanzado un nivel de perfección en las soldaduras que hace difícil diferenciarlas visualmente de las de carbono. Respecto de su durabilidad, fabricantes como Trek garantizan sus cuadros de por vida. Y sin letra pequeña. Puedo confirmar en primera persona que [cumplen con sus compromisos](https://www.lateclaescape.com/post/2024/trek-4900-disc/).
+Las bicicletas de aluminio han alcanzado un nivel de perfección en las soldaduras que hace difícil diferenciarlas visualmente de las de carbono. Respecto de su durabilidad, algunos fabricantes garantizan sus cuadros de por vida. Ofrecen la mejor relación calidad/precio.
 
 ## Talla de la bicicleta
 
@@ -107,9 +107,9 @@ Esta tabla recopila los rangos de precios que puedes encontrar en Enero de 2025:
 
 ## Recomendación personal
 
-Elegir la bicicleta que más te guste es una cuestión totalmente personal, y esa decisión depende únicamente de ti. Sin embargo, permíteme darte un par de consejos basados en mi propia experiencia:
+Elegir la bicicleta que más te guste es una cuestión totalmente personal. Esa decisión depende únicamente de ti. Sin embargo, permíteme darte un par de consejos basados en mi propia experiencia:
 
-Opta por uno de los fabricantes que ofrecen garantía de por vida en sus cuadros, como Trek, Specialized, Giant, Cannondale, Scott o Orbea. Aunque deberás cumplir con ciertos términos y condiciones, si mantienes la bicicleta en buen estado, cualquier fisura o defecto será cubierto y el cuadro será reemplazado por otro completamente nuevo igual o incluso de un modelo superior. Esto da mucha tranquilidad.
+Opta por un fabricante que garantice sus cuadros de por vida. Por un tema de tallas, todas mis bicicletas son Trek. Puedo recomendar esta marca personalmente porque hacen bicicletas muy sólidas y [cumplen con sus promesas](https://www.lateclaescape.com/post/2024/trek-4900-disc/). Aunque existen condiciones que debes cumplir, como ser el comprador original de la bicicleta (no sirve si la compras de segunda mano). Otros fabricantes como Specialized, Giant, Cannondale, Scott, o Orbea también prometen garantías de por vida. Buscad referencias de gente que tenga bicicletas de esas marcas.
 
 Las bicicletas de titanio o carbono están diseñadas pensando en ciclistas profesionales, donde cada segundo cuenta. Como deportista amateur, es poco probable que notes una diferencia significativa respecto a una bicicleta de aluminio. Por ello, te recomiendo optar por un cuadro de aluminio. Es más que suficiente para tus necesidades. Elige uno de gama media o alta, evitando las opciones de gama baja. Así, tendrás un cuadro de excelente calidad, ahorrando una cantidad considerable de dinero en comparación con los cuadros de carbono o titanio.
 
