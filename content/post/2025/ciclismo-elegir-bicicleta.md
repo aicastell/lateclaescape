@@ -8,6 +8,10 @@ draft: false
 featured: true
 ---
 
+*Articulo disponible en formato audiblog:*
+
+{{< audio path="audio/ciclismo-elegir-bicicleta.mp3" >}}
+
 # Introducción
 
 Enero es un mes perfecto para poner en marcha los propósitos de año nuevo. Si uno de tus objetivos este año es mejorar tu salud, el ciclismo puede ser una muy buena opción. Es un deporte que beneficia tanto a tu cuerpo como a tu estado de ánimo. Y además, una excelente manera de explorar nuevos lugares y desconectar de la rutina diaria.
