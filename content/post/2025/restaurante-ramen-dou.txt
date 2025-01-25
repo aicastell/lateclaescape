@@ -1,7 +1,3 @@
-Articulo disponible en formato audiblog:
-
-{{< audio path=“audio/restaurante-ramen-dou.mp3” >}}
-
 Restaurante Ramen Dou
 
 Primera impresión
