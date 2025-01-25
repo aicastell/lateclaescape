@@ -1,0 +1,103 @@
+---
+title: Ramen Dou
+date: 2025-01-18
+image: /img/posts/restaurante.webp
+categories: [ "opinión", "restaurante", "personal" ]
+tags: [ "japanese" ]
+draft: false
+featured: true
+---
+
+*Articulo disponible en formato audiblog:*
+
+{{< audio path="audio/restaurante-ramen-dou.mp3" >}}
+
+# Restaurante Ramen Dou
+
+## Primera impresión
+
+En esta ocasión voy con mi pareja a cenar al restaurante japonés [Ramen Dou](https://www.ramendou.es/) localizado en la ciudad de Barcelona.
+
+![Restaurante Ramen Dou](/img/ramen-dou.webp)
+
+Es mi primera visita a este restaurante, una elección totalmente casual. Tras un paseo por Barcelona, al llegar la hora de cenar, este local nos llama la atención por su apariencia acogedora y auténtica. Su plato estrella es el ramen, un plato que tenía pendiente probar desde el pasado [Salón del Manga 2024](https://www.lateclaescape.com/post/2024/salon-manga-barcelona-2024/). Así que hoy cenaremos en este restaurante. ¿Tendremos una buena experiencia? ¡Estás a punto de averiguarlo!.
+
+## Valoraciones
+
+> En las reseñas de restaurantes valoraré 9 puntos con notas enteras desde el 0 hasta el 10. Tendré en cuenta la ubicación, el aparcamiento, el entorno, el local, el ambiente, la limpieza, el servicio, la comida y el precio. Haré una media aritmética de todas las notas para obtener la valoración final.
+
+Estas son mis valoraciones para el restaurante japonés Ramen Dou de Barcelona:
+
+1. Ubicación: 9
+2. Aparcamiento: 0
+3. Entorno: 9
+4. Local: 7
+5. Ambiente: 7
+6. Limpieza: 7
+7. Servicio: 7
+8. Comida: 8
+9. Precio: 8
+
+### 1. Ubicación
+
+El restaurante Ramen Dou se encuentra dentro del distrito de Ciutat Vella, en pleno corazón del barrio Gòtic de Barcelona, en el Carrer Comptal, 11. Esta calle destaca por su carácter histórico y su mezcla de tiendas locales y pequeños restaurantes. Siendo una vía peatonal, conserva el atractivo medieval típico del barrio Gòtic. Está en una ubicación privilegiada, rodeado de un entorno vibrante y lleno de vida.
+
+### 2. Aparcamiento
+
+Aparcar en el barrio Gòtic de Barcelona es todo un desafío. Las calles peatonales y el tráfico interminable a ciertas horas hacen casi imposible el acceso en coche. Si estás pensando en venir, descarta este medio de transporte. En mi caso opté por el tren, aprovechando el abono gratuito de Cercanías y tomando la línea R4 hasta Plaza Cataluña. Mucho más cómodo y sin complicaciones.
+
+### 3. Entorno
+
+El barrio Gòtic de Barcelona es el corazón histórico de la ciudad, destacando por su encanto medieval, sus calles adoquinadas, y edificios góticos de todo tipo. Es un área vibrante, llena de tiendas, cafeterías, restaurantes y músicos callejeros, que combina historia y modernidad, siendo un destino imprescindible tanto para turistas como para lugareños, gracias a su ubicación céntrica y bien conectada.
+
+### 4. Local
+
+El Ramen Dou tiene un local moderno y acogedor, con una decoración minimalista que combina madera clara con muchos detalles japoneses. Es pequeño, pero bien organizado, con espacio suficiente entre las mesas. Cuenta con una distribución que permite tanto mesas para grupos pequeños como asientos en barra. Tienen un comedor pequeño en la parte de arriba. Los baños son muy pequeños, tuve algunas dificultades para entrar. La cocina abierta deja ver la preparación del ramen, añadiendo un toque de autenticidad al ambiente. Su diseño invita a disfrutar de una experiencia tranquila y relajada mientras se degusta su menú.
+
+### 5. Ambiente
+
+El restaurante atrae a una clientela variada, desde jóvenes amantes de la cultura japonesa hasta grupos de amigos y parejas que buscan una comida informal. También es habitual encontrar turistas que exploran el barrio Gòtic y quieren disfrutar de un buen ramen tras pasear por la zona. Su ambiente cómodo y sin pretensiones lo hace un lugar ideal tanto para una comida rápida como para quienes desean disfrutar con calma de una experiencia culinaria auténtica.
+
+### 6. Limpieza
+
+El restaurante se ve en general limpio y bien cuidado. Los baños huelen un poco mal.
+
+### 7. Servicio
+
+El personal nos recibe en la entrada con amabilidad y nos invita a elegir la mesa libre que mas nos guste. El camarero nos atiende de forma muy profesional, explica la carta con paciencia, nos advierte sobre los platos especialmente picantes, y nos resuelve todas las dudas que preguntamos.
+
+Durante la cena vivimos un momento de mucha tensión. Un cliente en la mesa de al lado parece atragantarse con un trozo de carne. Se levanta tosiendo violentamente mostrando signos evidentes de que tiene dificultad para respirar. Lo que en un principio parece un pequeño percance se convierte en un susto gordo. El chico empieza a gesticular como pidiendo ayuda. Ningún camarero reacciona. Afortunadamente, un chico sentado detrás de nosotros se levanta rápidamente y le practica una [maniobra de Heimlich](https://es.wikipedia.org/wiki/Maniobra_de_Heimlich) de emergencia. Consigue desatascarle las vías respiratorias al segundo intento. Le salva la vida, literalmente.
+
+Lo que pudo haber sido una tragedia queda como una anécdota, pero deja en evidencia la falta de preparación del personal para manejar emergencias de este tipo.
+
+### 8. Comida
+
+Cuando visito restaurantes como este, disfruto sumergiéndome en una experiencia gastronómica completa, probando platos auténticos, incluso sabiendo que algunos pueden no ser de mi agrado.
+
+Para empezar, pedimos **Kimchi**, un plato tradicional coreano que consiste en verduras fermentadas, sazonadas con una mezcla de especias y condimentos, que tiene un sabor único que combina toques picantes, ácidos y salados. Con la primera (y única) cucharada que tomo, tengo mas que suficiente. La intensidad del picante es comparable al fuego que escupiría un dragón. No volveré a repetir. Dicen que el Kimchi genera pasiones extremas: o lo amas o lo odias. Yo antes era neutral, pero ahora sé en qué lado estoy.
+
+Como plato principal, pedimos un **Chicken Shoyu Wantum Ramen** y un **Katsu Pollo Shoyu Ramen**. Cuando nos sirven los platos, la presentación es impecable. Es una especie de sopa con un cierto aroma a soja muy agradable al paladar. Identifico huevo duro, fideos, verduras y pollo, en una cantidad mas que generosa, suficiente para quedarte saciado con un solo plato. Auténtica “gasolina súper” para estar listo para el entrenamiento de mañana.
+
+![Cena Ramen Dou](/img/ramen-dou-cena.webp)
+
+De postre, pedimos un **Mochi de Yuzu** y un **Dorayaki de chocolate**. Ambos están muy buenos, y no dudaría en repetir. Una manera perfecta de cerrar la experiencia gastronómica en este restaurante japonés.
+
+### 9. Precio
+
+El precio de 22€ por persona incluyendo la bebida me parece bastante razonable, considerando la ubicación privilegiada en el barrio Gòtic de Barcelona. Este barrio, además de ser un destino turístico muy popular, suele tener precios más altos debido a su ambiente histórico y céntrico. Además, siendo sábado por la noche, es un coste muy competitivo.
+
+## Nota media
+
+Mi valoración del restaurante japonés Ramen Dou es un **6.88**.
+
+## Despedida
+
+El ramen es un plato muy sabroso, con raciones generosas que te dejan saciado. Sin embargo, para mi gusto resultó un poco pesado estar comiendo sopa durante tanto rato. Aunque disfruté de su sabor, dentro de la cocina japonesa sigo prefiriendo el sushi. ¿Volveré a probar ramen? Sin duda, pero como algo ocasional, no es un plato que yo personalmente comería todas las semanas. Siendo mi primera experiencia probando ramen, no tengo referencias para compararlo con el de otros restaurantes, pero puedo decir que el sabor era muy agradable, y estaba muy bien elaborado.
+
+En general, el restaurante Ramen Dou ofrece un ambiente acogedor y permite disfrutar de una cena agradable. La experiencia ha sido grata y satisfactoria, y estuvo a la altura de las expectativas. Si vas a Barcelona y te gusta la cultura japonesa, te animo a vivir esta experiencia por ti mismo. Anímate a compartir tu opinión en el [canal de Telegram](https://t.me/lateclaescape). En especial, si pruebas el Kimchi, me encantaría escuchar de que lado estás tu.
+
+> Quiero dejar claro que el restaurante no me paga nada por hacer esta valoración, y que la hago usando exclusivamente mi criterio personal.
+
+Nos vemos en el siguiente articulo.
+
+Pulso la tecla ESC, dos puntos wq!

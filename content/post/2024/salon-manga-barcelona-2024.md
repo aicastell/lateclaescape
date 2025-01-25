@@ -3,7 +3,7 @@ title: Salón del Manga
 date: 2024-12-07
 image: /img/posts/salon-manga-barcelona-2024.webp
 categories: [ "eventos", "personal" ]
-tags: [ "friki", "geek", "comic", "manga", "anime" ]
+tags: [ "friki", "geek", "comic", "manga", "anime", "japanese" ]
 draft: false
 featured: true
 ---
