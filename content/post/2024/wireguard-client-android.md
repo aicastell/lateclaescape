@@ -2,7 +2,7 @@
 title: Wireguard en Android
 date: 2024-04-27
 image: /img/posts/wireguard-client-android.webp
-categories: ["redes", "ciberseguridad"]
+categories: ["redes", "cybersecurity"]
 tags: ["VPN", "WireGuard", "Android"]
 draft: false
 featured: true

@@ -2,8 +2,8 @@
 title: Wireguard
 date: 2024-04-13
 image: /img/posts/wireguard.webp
-tags: [ "VPN", "WireGuard", "ciberseguridad" ]
-categories: [ "redes" ]
+categories: [ "redes", "cybersecurity" ]
+tags: [ "VPN", "WireGuard" ]
 draft: false
 featured: true
 ---

@@ -10,11 +10,9 @@ featured: true
 
 # Introducción
 
-Hace unas semanas publiqué un articulo en este blog hablando sobre el [sistema operativo OpenWrt](/post/2024/openwrt). Y también hice una reseña del [router Xiaomi AX3600](/posts/2024/router-xiaomi-ax3600). En este artículo vamos a dar un paso mas allá.
+Hace unas semanas publiqué un articulo hablando sobre el [sistema operativo OpenWrt](/post/2024/openwrt). Después hice una reseña del [router Xiaomi AX3600](/posts/2024/router-xiaomi-ax3600). En este artículo vamos un paso mas allá. Hoy te voy a guiar, paso a paso, a través del proceso técnico para liberar el firmware del router AX3600 de Xiaomi, e instalar OpenWrt como su sistema operativo principal.
 
-Hoy te voy a guiar, paso a paso, a través del proceso técnico para liberar el firmware del router AX3600 de Xiaomi, e instalar OpenWrt como su sistema operativo principal.
-
-Routers de gama alta similares a este tienen un precio de 150€ o mas. Te animo a conseguir un AX3600 en Wallapop por unos 50€, y aventurarte a realizar el proceso por ti mismo. No solo te proporcionaré instrucciones claras y precisas, sino que también te explicaré el propósito detrás de cada paso. De esta manera, liberarás tu dispositivo, pero también aprenderás el por qué realizamos cada etapa del proceso. Sin más preámbulos, nos ponemos manos a la obra. ¡Hora de ponerse la mascara de anonymous!.
+Routers de gama alta similares a este tienen un precio de 150€ o mas. Te animo a conseguir un AX3600 en Wallapop por unos 50€, y aventurarte a realizar el proceso por ti mismo. No solo te proporcionaré instrucciones claras y precisas, sino que también te explicaré el propósito detrás de cada paso. De esta manera, liberarás tu dispositivo, pero también aprenderás el por qué realizamos cada etapa del proceso. Sin más preámbulos, manos a la obra. ¡Hora de ponerse la mascara de anonymous!.
 
 # Antecedentes
 

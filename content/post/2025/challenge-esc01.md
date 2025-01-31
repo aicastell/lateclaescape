@@ -2,8 +2,8 @@
 title: Challenge ESC01
 date: 2025-01-18
 image: /img/posts/challenge-esc01.webp
-categories: [ "blog", "challenge", "esc01" ]
-tags: [ "ciberseguridad" ]
+categories: [ "blog", "esc01", "cybersecurity" ]
+tags: [ "challenge" ]
 draft: false
 featured: true
 ---

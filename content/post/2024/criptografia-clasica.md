@@ -2,7 +2,7 @@
 title: Criptografía clásica
 date: 2024-02-02
 image: "/img/posts/classic-cryptografy.webp"
-categories: [ "criptografía", "ciberseguridad" ]
+categories: [ "criptografía", "cybersecurity" ]
 tags: [ "criptografia_clasica", "cifrado", "encriptación", "cifrado_cesar" ]
 draft: false
 featured: true

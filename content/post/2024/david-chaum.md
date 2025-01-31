@@ -3,7 +3,7 @@ title: David Lee Chaum
 date: 2024-05-11
 image: "/img/posts/david-chaum.webp"
 categories: [ "cypherpunk", "bitcoin", "criptomonedas" ]
-tags: [ "mix_network", "blind_signature", "e-Cash", "DigiCash", "xx-network" ]
+tags: [ "mix_network", "blind_signature", "e-Cash", "DigiCash", "xx-network", "Berkeley" ]
 draft: false
 featured: true
 ---

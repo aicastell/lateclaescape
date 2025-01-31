@@ -2,7 +2,7 @@
 title: Wireguard en Linux
 date: 2024-04-29
 image: /img/posts/wireguard-client-linux.webp
-categories: [ "redes", "ciberseguridad" ]
+categories: [ "redes", "cybersecurity" ]
 tags: [ "VPN", "WireGuard", "Linux" ]
 draft: false
 featured: true

@@ -2,7 +2,7 @@
 title: Hackeo de la blockchain
 date: 2024-09-21
 image: "/img/posts/hacker-blockchain.webp"
-categories: [ "criptomonedas", "bitcoin", "ciberseguridad" ]
+categories: [ "criptomonedas", "bitcoin", "cybersecurity" ]
 tags: [ "blockchain" ]
 draft: false
 featured: true

@@ -28,7 +28,7 @@ En este articulo te voy a hablar sobre docker, una poderosa herramienta que te a
 
 ## La herramienta docker
 
-Docker es una herramienta de software que permite empaquetar una aplicación y todas sus dependencias, junto con sus ficheros de configuración, para poder ejecutar esa aplicación sobre entornos informáticos heterogéneos, de forma consistente y eficiente.
+Docker es una herramienta de [software libre](/post/2025/sotftware-libre), que permite empaquetar una aplicación y todas sus dependencias, junto con sus ficheros de configuración, para poder ejecutar esa aplicación sobre entornos informáticos heterogéneos, de forma consistente y eficiente.
 
 Trabajando con docker es importante tener claros dos conceptos:
 

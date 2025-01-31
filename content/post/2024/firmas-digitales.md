@@ -2,7 +2,7 @@
 title: Las firmas digitales
 date: 2024-03-16
 image: "/img/posts/digital-signature.webp"
-categories: ["criptografía", "ciberseguridad"]
+categories: ["criptografía", "cybersecurity"]
 tags: ["firma_digital", "digital_signature", "fingerprint", "mitm"]
 draft: false
 featured: true
