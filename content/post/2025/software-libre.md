@@ -105,7 +105,7 @@ A continuación enumero una lista de aplicaciones distribuidas bajo distintas ve
 | Trisquel | Distribución 100% libre basada en Ubuntu | GPL |
 | OpenWRT | Distribución Linux para routers | GPLv2 |
 
-## Herramientas clave del sistema operativo
+## Herramientas del sistema operativo
 
 | Aplicación | Descripción | Licencia |
 |-|-|-|
@@ -122,7 +122,7 @@ A continuación enumero una lista de aplicaciones distribuidas bajo distintas ve
 | Diffutils | Herramientas para comparar ficheros (diff, cmp) | GPLv3 |
 | Inetutils | Herramientas básicas de red (ftp, telnet o ping) | GPLv3 |
 
-## Entornos de escritorio y software gráfico
+## Entornos de escritorio
 
 | Aplicación | Descripción | Licencia |
 |-|-|-|
@@ -132,16 +132,18 @@ A continuación enumero una lista de aplicaciones distribuidas bajo distintas ve
 | LXQt | Un escritorio ligero basado en Qt | GPLv2/GPLv3 |
 | MATE | Un fork de GNOME 2 | GPLv2/GPLv3 |
 
-## Compiladores y entornos de desarrollo
+## Desarrollo de software
 
 | Aplicación | Descripción | Licencia |
 |-|-|-|
 | GCC | Compilador de GNU | GPLv3 |
+| Vim | Mi editor de texto | GPLv2 |
 | Emacs | Editor de texto avanzado | GPLv3 |
 | GDB | Depurador de GNU | GPLv3 |
 | KDevelop | Entorno de desarrollo de KDE | GPLv2 |
+| Git | Sistema de control de versiones | GPLv2 |
 
-## Aplicaciones multimedia y diseño
+## Aplicaciones multimedia
 
 | Aplicación | Descripción | Licencia |
 |-|-|-|
@@ -151,8 +153,18 @@ A continuación enumero una lista de aplicaciones distribuidas bajo distintas ve
 | Audacity | Editor de audio | GPLv2 |
 | Krita | Editor de ilustración y pintura digital | GPLv3 |
 | Darktable | Procesado de fotos ROW tipo Lightroom | GPLv3 |
+| OBS Studio | Grabar pantalla y transmisión en vivo | GPLv2 |
+| VLC | Reproductor multimedia | GPLv2 |
 
-## Navegadores y clientes de red
+## Redes y seguridad
+
+| Aplicación | Descripción | Licencia |
+|-|-|-|
+| Pass | El gestor de contraseñas estándar de Unix | GPLv2 |
+| KeePass | Otro gestor de contraseñas seguras | GPLv2 |
+| Wireshark | Herramienta de análisis de protocolos de red | GPLv2 |
+
+## Web
 
 | Aplicación | Descripción | Licencia |
 |-|-|-|
@@ -160,19 +172,24 @@ A continuación enumero una lista de aplicaciones distribuidas bajo distintas ve
 | Wget | Descarga de archivos | GPLv3 |
 | Links | Browser en modo texto | GPLv2+ |
 
-## Ofimática y productividad
+## Ofimática
 
 | Aplicación | Descripción | Licencia |
 |-|-|-|
 | LibreOffice | Suite ofimática completa | GPLv3 |
 | FreeCAD | Diseño 3D paramétrico | GPLv2+ |
 
-## Servidores y bases de datos
+## Bases de datos
 
 | Aplicación | Descripción | Licencia |
 |-|-|-|
 | MySQL | Sistema gestión bases de datos | GPLv2 |
 | MariaDB | Fork de MySQL | GPLv2 |
+
+## Servidores
+
+| Aplicación | Descripción | Licencia |
+|-|-|-|
 | Samba | Interoperabilidad con Windows | GPLv3 |
 | CUPS | Gestor de impresión utilizado en Linux y macOS | GPLv2+ |
 | Dnsmasq | Gestor de DNS y DHCP ligero para redes pequeñas | GPLv2 |
