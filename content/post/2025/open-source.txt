@@ -52,8 +52,6 @@ Amazon utilizó el proyecto Open Source Elasticsearch para crear su servicio Ama
 
 El problema real de todo esto no es que las corporaciones utilicen el Open Source. Eso está bien. El problema es que lo hagan de una manera que no devuelva valor a la comunidad y, en algunos casos, lo conviertan en software cerrado. Esto va en contra del espíritu original del Open Source y del Software Libre, que busca garantizar que el software sea accesible, modificable y distribuible por todos.
 
-El enfoque actual del Open Source beneficia más a las empresas que a la comunidad. Las licencias Open Source están sirviendo como un “caballo de Troya” para ganar la batalla al Software Libre: es adoptado por empresas bajo la promesa de transparencia y colaboración, pero les da la posibilidad de cerrar el código cuando les conviene. Las grandes corporaciones pueden aprovecharse del trabajo comunitario, sin contribuir de vuelta. Esto está debilitando al ecosistema del Software Libre.
-
 El modelo actual del Open Source favorece más a las empresas que a la comunidad. Sus licencias actúan como un “caballo de Troya” en la batalla contra el Software Libre: permiten que las compañías lo adopten con la promesa de transparencia y colaboración, pero les brindan la libertad de cerrar el código cuando les conviene. Así, las grandes corporaciones se benefician del trabajo comunitario sin necesidad de retribuirlo, lo que está erosionando progresivamente al ecosistema del Software Libre.
 
 En general, este asunto sigue y seguirá siendo motivo de acalorados debates dentro del ecosistema tecnológico actual.
