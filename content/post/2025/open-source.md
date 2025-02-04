@@ -56,7 +56,7 @@ La [Apache License](https://www.apache.org/licenses/LICENSE-2.0) incluye cláusu
 
 ## Sutil pero trascendental
 
-Las licencias Open Source tienen una característica única que las diferencia por completo de la GPL. Todas son licencias **permisivas**. Esto de las licencias permisivas podría pasar desapercibido para muchos, pero no para [LaTeclaEscape](https://www.lateclaescape.com). Lo que significa este concepto en apariencia inofensivo, es que **NO OBLIGAN** a los desarrolladores que modifican el código a compartir sus modificaciones. Un detalle sutil pero que tiene importantes implicaciones prácticas.
+Las licencias Open Source tienen una característica única que las diferencia por completo de la GPL. Todas son licencias **permisivas**. Esto de las licencias permisivas podría pasar desapercibido para muchos, pero no para [LaTeclaEscape](https://www.lateclaescape.com). Lo que significa este concepto en apariencia inofensivo, es que **NO OBLIGAN** a los desarrolladores que modifican el código a compartir sus modificaciones. Un detalle sutil pero que tiene implicaciones prácticas muy importantes.
 
 ¿Que significa esto? Significa que las licencias Open Source permiten que el software derivado se convierta en propietario. Es decir, una empresa puede tomar el código fuente desarrollado por la comunidad, modificarlo para crear un producto cerrado y venderlo como software propietario, sin necesidad de liberar las modificaciones realizadas. Esto es precisamente lo que impide la cláusula copyleft de la licencia GPL. Pero las licencias Open Source no incluyen dicha cláusula copyleft.
 
@@ -72,7 +72,11 @@ Existen ejemplos muy evidentes de esto, protagonizados por gigantes tecnológico
 
 El problema real de todo esto no es que las corporaciones utilicen el Open Source. Eso está bien. El problema es que lo hagan de una manera que **no devuelva valor a la comunidad** y, en algunos casos, lo conviertan en software cerrado. Esto va en contra del espíritu original del Open Source y del Software Libre, que busca garantizar que el software sea accesible, modificable y distribuible por todos.
 
-Como ves, el enfoque actual del Open Source beneficia más a las empresas que a la comunidad en general, un tema que sigue siendo motivo de acalorados debates dentro del ecosistema tecnológico actual.
+El enfoque actual del Open Source beneficia más a las empresas que a la comunidad. Las licencias Open Source están sirviendo como un "caballo de Troya" para ganar la batalla al Software Libre: es adoptado por empresas bajo la promesa de transparencia y colaboración, pero les da la posibilidad de cerrar el código cuando les conviene. Las grandes corporaciones pueden aprovecharse del trabajo comunitario, sin contribuir de vuelta. Esto está debilitando al ecosistema del Software Libre.
+
+El modelo actual del Open Source favorece más a las empresas que a la comunidad. Sus licencias actúan como un "caballo de Troya" en la batalla contra el Software Libre: permiten que las compañías lo adopten con la promesa de transparencia y colaboración, pero les brindan la libertad de cerrar el código cuando les conviene. Así, las grandes corporaciones se benefician del trabajo comunitario sin necesidad de retribuirlo, lo que está erosionando progresivamente al ecosistema del Software Libre.
+
+En general, este asunto sigue y seguirá siendo motivo de acalorados debates dentro del ecosistema tecnológico actual.
 
 # Conclusión
 
