@@ -1,0 +1,196 @@
+---
+title: Aplicaciones FLOSS
+date: 2025-02-12
+image: /img/posts/floss-apps.jpg
+categories: [ "software_libre", "free_software", "codigo_abierto", "open_source" ]
+tags: [ "FLOSS" ]
+draft: true
+featured: true
+---
+
+*Articulo disponible en formato audiblog:*
+
+{{< audio path="audio/floss-apps.mp3" >}}
+
+# Introducción
+
+El [software libre](/post/2025/software-libre) y el [open source](/post/2025/open-source) han sido fundamentales para el desarrollo de una enorme variedad de aplicaciones. Desde herramientas esenciales para el día a día hasta la infraestructura que sostiene Internet, estos proyectos no solo ofrecen alternativas a las soluciones privativas, sino que también promueven la transparencia, la seguridad y la colaboración global.
+
+En este artículo, te presento una extensa lista de aplicaciones destacadas junto con sus licencias, para que puedas conocer mejor su contexto y encontrar las herramientas que mejor se adapten a tus necesidades.
+
+# FLOSS (Free/Libre Open Source Software)
+
+Tanto el **Software Libre** como el **Open Source** comparten una base práctica: permiten acceder, modificar y distribuir el código fuente. Sin embargo, no son lo mismo, como ya hemos visto en artículos anteriores. Más allá de diferencias filosóficas, existen distinciones clave con implicaciones legales y prácticas, como el hecho de que el Software Libre obliga a que cualquier derivado también sea libre, mientras que el Open Source permite cerrarlo y comercializarlo. A pesar de estas diferencias, su similitud en muchos aspectos lleva a que muchas personas los confundan, generando malentendidos.
+
+![FLOSS APPS siglas](/img/floss-siglas.webp)
+
+Para evitar confusiones, a partir de ahora utilizaré el término **FLOSS** (Free/Libre Open Source Software) cuando me refiera de forma general tanto al **Software Libre** como al **Open Source**. Esto me permitirá englobar ambos conceptos sin entrar en sus diferencias, que aunque sutiles, son fundamentales en ciertos contextos.
+
+A continuación voy a listar una serie de aplicaciones FLOSS en distintos ámbitos:
+
+- Sistemas operativos
+- Herramientas del sistema operativo
+- Entornos de escritorio
+- Desarrollo de software
+- Aplicaciones multimedia
+- Redes y seguridad
+- Web
+- Ofimática
+- Base de datos
+- Servidores
+- Correo electrónico
+- Virtualización
+
+## Sistemas operativos
+
+| Aplicación | Descripción | Licencia |
+|-|-|-|
+| Linux | El kernel del sistema operativo | GPLv2 |
+| GRUB | Cargador de arranque | GPLv3 |
+| Debian | Distribución Linux basada exclusivamente en Software Libre | GPL y otras |
+| Trisquel | Distribución 100% libre basada en Ubuntu | GPL |
+| [OpenWRT](/post/2024/openwrt) | Distribución Linux para routers | GPLv2 |
+| FreeBSD | Alternativa a Linux basada en Unix | BSD |
+| OpenBSD | Sistema operativo enfocado en seguridad y criptografía avanzada | BSD |
+| AOSP | Android Open Source Project, sin servicios de Google | Apache 2.0 |
+
+## Herramientas del sistema operativo
+
+| Aplicación | Descripción | Licencia |
+|-|-|-|
+| GNU Bash | Shell de GNU | GPLv3 |
+| BusyBox | Tools para sistemas embebidos | GPLv2 |
+| Coreutils | Comandos básicos de GNU (ls, cp, mv, etc) | GPLv3 |
+| Findutils | Buscar archivos (find, locate, etc) | GPLv3 |
+| Sed | Editor para procesamiento de textos y logs | GPLv3 |
+| Gawk | Re-implementación de awk con GNU | GPLv3 |
+| Tar | Empaquetar y extraer archivos | GPLv3 |
+| Gzip | Herramienta de compresión | GPLv3 |
+| Bzip2 | Otra herramienta de compresión | GPLv2 |
+| XZ Utils | Mas herramientas de compresión | GPLv2+ |
+| Diffutils | Herramientas para comparar ficheros (diff, cmp) | GPLv3 |
+| Inetutils | Herramientas básicas de red (ftp, telnet o ping) | GPLv3 |
+
+## Entornos de escritorio
+
+| Aplicación | Descripción | Licencia |
+|-|-|-|
+| GNOME | Entorno de escritorio para Linux | GPLv2/GPLv3 |
+| KDE Plasma | Otro entorno de escritorio popular | GPLv2/GPLv3 |
+| LXQt | Un escritorio ligero basado en Qt | GPLv2/GPLv3 |
+| MATE | Un fork de GNOME 2 | GPLv2/GPLv3 |
+| XFCE | Un escritorio ligero | GPLv2, aunque algunas partes usan BSD/MIT |
+| Lumina | Un escritorio para FreeBSD | BSD |
+| Enlightenment | Alternativa ligera con efectos gráficos | BSD/MIT |
+| Wayland | Protocolo moderno de servidor gráfico, reemplazo de X11 | MIT |
+
+## Desarrollo de software
+
+| Aplicación | Descripción | Licencia |
+|-|-|-|
+| GCC | Compilador de GNU | GPLv3 |
+| Vim | Mi editor de texto | GPLv2 |
+| Emacs | Editor de texto avanzado | GPLv3 |
+| GDB | Depurador de GNU | GPLv3 |
+| KDevelop | Entorno de desarrollo de KDE | GPLv2 |
+| Git | Sistema de control de versiones | GPLv2 |
+| Rust | Lenguaje de programación seguro y eficiente | MIT/Apache 2.0 |
+| Go | Lenguaje de Google optimizado para concurrencia | BSD |
+| MESA 3D | Implementación de OpenGL y Vulkan para Linux y BSD | MIT |
+| Electron | Plataforma de desarrollo de APPS de escritorio | MIT |
+| TensorFlow | Framework de IA de Google | Apache 2.0 |
+
+## Aplicaciones multimedia
+
+| Aplicación | Descripción | Licencia |
+|-|-|-|
+| Blender | Suite de animación y modelado 3D | GPLv2+ |
+| GIMP | Editor de imágenes tipo Photoshop | GPLv3 |
+| Inkscape | Editor de gráficos vectoriales tipo Illustrator | GPLv3 |
+| Audacity | Editor de audio | GPLv2 |
+| Krita | Editor de ilustración y pintura digital | GPLv3 |
+| Darktable | Procesado de fotos ROW tipo Lightroom | GPLv3 |
+| OBS Studio | Grabar pantalla y transmisión en vivo | GPLv2 |
+| VLC | Reproductor multimedia | GPLv2 |
+| Godot Engine | Motor de videojuegos completo | MIT |
+| GStreamer | Framework para manipulación de multimedia | MIT |
+| OpenShot | Editor de vídeo no lineal | Apache 2.0 |
+| HandBrake | Conversor de vídeo potente y flexible | MPL 2.0 |
+| Jellyfin | Servidor multimedia auto hospedado y gratuito | GPLv2 |
+
+## Redes y seguridad
+
+| Aplicación | Descripción | Licencia |
+|-|-|-|
+| Pass | El gestor de contraseñas estándar de Unix | GPLv2 |
+| KeePass | Otro gestor de contraseñas seguras | GPLv2 |
+| Wireshark | Herramienta de análisis de protocolos de red | GPLv2 |
+| OpenSSH | Implementación de SSH usando sistemas Unix | BSD |
+| [WireGuard](/post/2024/wireguard) | VPN ligera y rápida | MIT |
+| LibreSSL | Fork seguro de OpenSSL | OpenBSD |
+
+## Web
+
+| Aplicación | Descripción | Licencia |
+|-|-|-|
+| Konqueror | Navegador y gestor de archivos KDE | GPLv2 |
+| Wget | Descarga de archivos | GPLv3 |
+| Links | Browser en modo texto | GPLv2+ |
+| Chromium | Base de Google Chrome | BSD, MIT, LGPL solo en partes |
+| Brave | Navegador basado en Chromium con bloqueador de anuncios | MPL 2.0 |
+| Firefox | Navegador de Mozilla enfocado en privacidad | MPL 2.0 |
+| Apache | Servidor web | GPLv2 |
+| Nginx | Servidor web y proxy reverso rápido | BSD |
+
+## Ofimática
+
+| Aplicación | Descripción | Licencia |
+|-|-|-|
+| LibreOffice | Suite ofimática completa | GPLv3 |
+| Pandoc | Conversor universal de documentos y formatos de texto | BSD |
+| FreeCAD | Diseño 3D paramétrico | GPLv2+ |
+| Calibre | Gestionar, convertir y leer libros electrónicos fácilmente | GPLv3 |
+
+## Bases de datos
+
+| Aplicación | Descripción | Licencia |
+|-|-|-|
+| PostgreSQL | Base de datos avanzada | Derivada de BSD |
+| SQLite | Base de datos ligera y embebida | Dominio público |
+| MySQL | Sistema gestión bases de datos | GPLv2 |
+| MariaDB | Fork de MySQL | GPLv2 |
+
+## Servidores
+
+| Aplicación | Descripción | Licencia |
+|-|-|-|
+| Samba | Interoperabilidad con Windows | GPLv3 |
+| CUPS | Gestor de impresión utilizado en Linux y macOS | GPLv2+ |
+| Dnsmasq | Gestor de DNS y DHCP ligero para redes pequeñas | GPLv2 |
+
+## Correo electrónico
+
+| Aplicación | Descripción | Licencia |
+|-|-|-|
+| Thunderbird | Cliente de correo electrónico | MPL 2.0 |
+| Sendmail | servidor de correo electrónico clásico y potente | BSD |
+
+## Virtualización
+
+| Aplicación | Descripción | Licencia |
+|-|-|-|
+| [Docker](/post/2024/herramienta-docker) | Sistema de contenedores | Apache License 2.0. |
+| Kubernetes | El sistema de orquestación de contenedores | Apache License 2.0 |
+| Proxmox | plataforma de virtualización basada en Linux | GPLv3 |
+
+# Conclusión
+
+Los más experimentados habréis notado la ausencia de algunas aplicaciones muy conocidas, como MongoDB, ElasticSearch, Kibana o Postfix. Estas herramientas tienen licencias que no son reconocidas ni por la FSF ni por la OSI, por lo que, para evitar confusiones, he decidido dejarlas fuera de este listado.
+
+Como habéis visto, el ecosistema FLOSS es inmenso. Si os animáis a probar estas aplicaciones, descubriréis que no es necesario depender de Windows ni de otros sistemas operativos propietarios. Todo este software está disponible sin coste alguno y sin necesidad de pagar licencias de usuario.
+
+Estoy seguro de que hay muchas más aplicaciones que merecen estar en este listado. Te invito a participar en el [canal de Telegram](https://t.me/lateclaescape) para compartir las que conozcas y cumplan con los criterios de FLOSS, es decir, que usen licencias compatibles con la FSF o la OSI. ¿Cuáles son tus favoritas?
+
+Si este artículo te ha resultado interesante, no te pierdas el próximo, donde haré un repaso a las figuras más influyentes dentro de la comunidad FLOSS. ¡Nos vemos en el siguiente artículo!
+
+Pulso la tecla ESC, dos puntos wq!

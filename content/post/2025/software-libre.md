@@ -2,8 +2,8 @@
 title: Software Libre
 date: 2025-01-31
 image: /img/posts/software-libre.jpg
-categories: [ "software_libre" ]
-tags: [ "GNU", "GPL", "FSF", "free software", "software libre", "privacidad", "anonimato", "comunidad", "copyleft" ]
+categories: [ "software_libre", "free_software" ]
+tags: [ "GNU", "GPL", "FSF", "privacidad", "anonimato", "comunidad", "copyleft" ]
 draft: false
 featured: true
 ---
