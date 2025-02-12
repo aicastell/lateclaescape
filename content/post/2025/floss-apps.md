@@ -4,7 +4,7 @@ date: 2025-02-12
 image: /img/posts/floss-apps.jpg
 categories: [ "software_libre", "free_software", "codigo_abierto", "open_source" ]
 tags: [ "FLOSS" ]
-draft: true
+draft: false
 featured: true
 ---
 
