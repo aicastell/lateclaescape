@@ -66,7 +66,7 @@ El estado actual del Challenge estará marcado en **negrita**. Actualmente el es
 
 # Conclusión
 
-El séptimo día después de resolver el reto, se publicará un articulo en el blog detallando la solución. Animaros a participar porque lo pasaremos bien, seguro que aprendéis mucho, y el premio es un pedazo de regalo. Agradeceré toda difusión que podáis darle a este evento a la gente que conozcáis que pueda estar interesada.
+El séptimo día después de resolver el reto, se publicará un articulo en el blog detallando la solución. Animaros a participar porque lo pasaremos bien, seguro que aprendéis mucho, y el premio es un [pedazo de regalo](/post/2025/mechanical-keyboard-keychron-k8). Agradeceré toda difusión que podáis darle a este evento a la gente que conozcáis que pueda estar interesada.
 
 Durante 2025 habrá un segundo challenge con otro premio. ¡Así que atentos durante todo el año 2025, porque habrá mas sorpresas y esto no termina aquí!..
 
