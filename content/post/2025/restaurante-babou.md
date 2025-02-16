@@ -1,0 +1,107 @@
+---
+title: Babou
+date: 2025-02-15
+image: /img/posts/restaurante.webp
+categories: [ "opinión", "restaurante", "personal" ]
+tags: [ "mediterránea" ]
+draft: true
+featured: true
+---
+
+*Articulo disponible en formato audiblog:*
+
+{{< audio path="audio/restaurante-babou.mp3" >}}
+
+# Restaurante Babou
+
+## Primera impresión
+
+En esta ocasión voy con mi pareja a cenar al restaurante [Babou](https://babourestaurant.com/). Se trata del restaurante del [hotel Vincci Gala](https://www.vinccihoteles.com/hoteles/barcelona/vincci-gala), localizado muy cerca de Plaza Cataluña, en Barcelona.
+
+![Restaurante Babou](/img/babou.webp)
+
+Es mi primera visita a este restaurante. Según indican en [TheFork](https://www.thefork.es), ofrece cocina mediterránea de autor y cuenta con valoraciones muy positivas. Al ser el restaurante de un hotel, inicialmente me plantea dudas, pero su ubicación está muy cerca de la estación de Renfe Cercanías y puesto que tengo pensado pasar la tarde por esta zona, al final me animo a reservar. La reserva online tiene un descuento del 30%. En este artículo compartiré mi experiencia cenando por primera vez en este restaurante.
+
+## Valoraciones
+
+> En las reseñas de restaurantes valoraré 9 puntos con notas enteras desde el 0 hasta el 10. Tendré en cuenta la ubicación, el aparcamiento, el entorno, el local, el ambiente, la limpieza, el servicio, la comida y el precio. Haré una media aritmética de todas las notas para obtener la valoración final.
+
+Estas son mis valoraciones para el restaurante Babou de Barcelona:
+
+1. Ubicación: 9
+2. Aparcamiento: 0
+3. Entorno: 9
+4. Local: 10
+5. Ambiente: 9
+6. Limpieza: 10
+7. Servicio: 8
+8. Comida: 8
+9. Precio: 9
+
+### 1. Ubicación
+
+El Babou es un restaurante situado en la Ronda de Sant Pere, 32, en Barcelona, en el límite entre el Eixample y el barrio Gòtic, muy cerca de Plaza Cataluña, uno de los puntos más emblemáticos de la ciudad. Su ubicación en las inmediaciones de la plaza Urquinaona le permite estar a un paso del centro, pero en una zona algo más tranquila, ideal para desconectar del bullicio tras una jornada explorando los rincones de esta ciudad.
+
+### 2. Aparcamiento
+
+Aparcar en Barcelona es siempre un reto, especialmente en zonas tan céntricas y concurridas como esta. Actualmente, la situación se complica aún más debido a varias obras en la zona y la alta demanda de aparcamiento tanto por parte de residentes como de turistas.
+
+En general, no recomiendo venir en coche a la ciudad. Como en otras ocasiones, opto por venir el tren, aprovechando el abono gratuito de Cercanías y tomando la línea R4 hasta Plaza Cataluña, una opción mucho más cómoda y sin complicaciones.
+
+### 3. Entorno
+
+La zona del Eixample alrededor de la plaza Urquinaona es una de las más dinámicas y estratégicamente ubicadas de Barcelona. Es una zona de transición entre el casco antiguo y la parte más moderna y ordenada de la ciudad. Gracias a su proximidad con Plaza Cataluña, es un área cosmopolita y vibrante, donde hay un alto tránsito de peatones tanto de día como de noche. En esta zona conviven oficinas, comercios y una variada oferta de tiendas, cafeterías, restaurantes y espacios culturales.
+
+### 4. Local
+
+El restaurante presenta un diseño abierto, elegante y contemporáneo, con una atmósfera acogedora y sofisticada que invita a la relajación. La decoración, moderna y minimalista, combina toques de madera oscura y metal, creando un espacio cálido y envolvente. Los muebles de diseño, cuidadosamente seleccionados y bien colocados, contribuyen a una experiencia completa, combinando estilo, confort y atención al detalle. La iluminación suave añade un toque acogedor sin ser invasiva. El uso de materiales de alta calidad refuerza la sensación de sofisticación, asegurando el bienestar de los comensales.
+
+### 5. Ambiente
+
+El restaurante proporciona un refugio perfecto en medio del bullicio urbano. La clientela es muy variada, pero exigente. Hay turistas de alto nivel, muchas parejas, y también algún grupo de amigos. Es un ambiente ideal para cenas íntimas, pero también para gente de negocios que buscan un sitio tranquilo. Hoy está cantando una chica en directo, tiene una voz angelical. Si no fuera porque la estoy viendo con el micrófono en la mano, diría que es un hilo musical.
+
+### 6. Limpieza
+
+La ubicación dentro de un hotel de 4 estrellas hace que este restaurante mantenga unos estándares de limpieza muy altos. Todo el local luce reluciente, reflejando el cuidado y la atención al detalle. Las mesas y sillas se limpian meticulosamente antes de la llegada de cada comensal, garantizando un ambiente higiénico y agradable. Del mismo modo, los baños se mantienen en perfectas condiciones, con lavabos, espejos, dispensadores de jabón y papeleras siempre impecables.
+
+### 7. Servicio
+
+El personal nos recibe con amabilidad en la entrada y nos permite elegir la mesa que más nos guste. Nuestro camarero nos atiende con gran profesionalidad, tomando nota de todos los platos y asegurándose de que nuestro servicio transcurra de manera impecable.
+
+Sin embargo, en las mesas a nuestro alrededor, se producen varios errores durante el servicio. En la que está a nuestro lado se equivocan con los cafés. Entra un grupo de ocho personas con reserva, y no encuentra su mesa preparada. En mi caso, olvidan aplicar el 30% de descuento y tengo que reclamarlo para que lo corrijan. Son detalles menores, pero que no dejan de ser pequeños fallos en el servicio.
+
+### 8. Comida
+
+La cena empieza con un *milhojas de patatas bravas*. La combinación de capas crujientes de patatas es muy curiosa, aunque para mi gusto, estaban demasiado aceitosas. Un plato curioso pero que no repetiría. Después llegan unos *churros de bacalao con mayonesa de tinta de calamar*. La textura crujiente del bacalao, combinada con la suave mayonesa de tinta de calamar, es una mezcla muy sabrosa y agradable al paladar. Como último entrante, un *brioche de calamar frito con cebolla y lima*. Está bueno pero es una especie de bocadillo que no le pega mucho a esta cena.
+
+![Cena Babou entrantes](/img/babou-cena-entrantes.webp)
+
+Faltan por venir los platos principales. El *risotto de gambas rojas con alioli de ajo asado* es simplemente sublime. El arroz, cremoso y perfectamente cocido, ha absorbido los jugos de las gambas rojas, que estaban frescas y llenas de sabor. El *solomillo de vaca con textura de cebolleta caramelizada* está muy bueno. La carne, tierna y perfectamente cocinada, se corta con facilidad. El contraste entre la jugosidad de la carne y la suavidad de la cebolleta caramelizada hacen de este plato una auténtica delicia.
+
+![Cena Babou principales](/img/babou-cena-principales.webp)
+
+Optamos por un postre ligero, una *panacotta de vainilla bourbon con salsa de higos y romero*. La panacotta, suave y cremosa, se desliza en el paladar, mientras la mermelada de higos, dulce y con un toque sutil de acidez, aporta frescura equilibraba.
+
+![Cena Babou postre](/img/babou-cena-postre.webp)
+
+He tenido mis dudas con los entrantes, pero al final he quedado encantado con la cena. Tienen muchos platos que me quedo con ganas de probar. Sin duda, un sitio para repetir.
+
+### 9. Precio
+
+Tras aplicar el descuento del 30%, pagar por esta cena 32€ por persona me parece un precio muy competitivo, especialmente considerando el tipo de restaurante, la calidad y la elaboración de todos los platos, y su ubicación privilegiada. Es un precio justo y equilibrado para lo que ofrece este restaurante, haciendo que esta sea una de las mejores opciones para cenar un Sábado por la noche en el centro de Barcelona.
+
+## Nota media
+
+Mi valoración del restaurante Babou es un **8.00**.
+
+## Despedida
+
+El restaurante Babou del Hotel Vincci Gala se presenta como un sitio ideal para una velada especial, por el que pagarás un precio muy competitivo. Desde la atención impecable hasta la presentación de los platos, cada detalle esta cuidado para que disfrutes de una experiencia gastronómica que sin duda recordarás con agrado.
+
+> Quiero dejar claro que el restaurante no me paga nada por hacer esta valoración, y que la hago usando exclusivamente mi criterio personal.
+
+Si visitas Barcelona y quieres hacer una cena inolvidable con tu pareja, es un sitio que te recomiendo personalmente. Como siempre, te invito a compartir tu opinión en el [canal de Telegram](https://t.me/lateclaescape).
+
+Nos vemos en el siguiente articulo.
+
+Pulso la tecla ESC, dos puntos wq!
