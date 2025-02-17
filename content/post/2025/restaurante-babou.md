@@ -1,10 +1,10 @@
 ---
 title: Babou
-date: 2025-02-15
+date: 2025-02-14
 image: /img/posts/restaurante.webp
 categories: [ "opinión", "restaurante", "personal" ]
-tags: [ "mediterránea" ]
-draft: true
+tags: [ ]
+draft: false
 featured: true
 ---
 
@@ -20,7 +20,7 @@ En esta ocasión voy con mi pareja a cenar al restaurante [Babou](https://babour
 
 ![Restaurante Babou](/img/babou.webp)
 
-Es mi primera visita a este restaurante. Según indican en [TheFork](https://www.thefork.es), ofrece cocina mediterránea de autor y cuenta con valoraciones muy positivas. Al ser el restaurante de un hotel, inicialmente me plantea dudas, pero su ubicación está muy cerca de la estación de Renfe Cercanías y puesto que tengo pensado pasar la tarde por esta zona, al final me animo a reservar. La reserva online tiene un descuento del 30%. En este artículo compartiré mi experiencia cenando por primera vez en este restaurante.
+Es mi primera visita a este restaurante. Según indican en [TheFork](https://www.thefork.es), ofrece cocina mediterránea de autor y cuenta con valoraciones muy positivas. Al estar dentro de un hotel, me surge la duda de si será exclusivo para huéspedes. Pero su ubicación está muy cerca de la estación de Renfe Cercanías y puesto que tengo pensado pasar la tarde por esta zona, al final me animo a reservar. La reserva online tiene un descuento del 30%. En este artículo compartiré mi experiencia cenando por primera vez en este restaurante.
 
 ## Valoraciones
 
