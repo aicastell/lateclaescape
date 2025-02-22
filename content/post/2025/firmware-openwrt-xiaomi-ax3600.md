@@ -1,18 +1,22 @@
 ---
 title: Firmware OpenWrt en Xiaomi AX3600
-date: 2025-01-19
+date: 2025-02-22
 image: /img/posts/firmware-openwrt-xiaomi-ax3600.webp
 categories: [ "tecnología", "redes", "openwrt" ]
 tags: [ "router", "xiaomi", "AX3600" ]
-draft: true
+draft: false
 featured: true
 ---
 
+*Articulo disponible en formato audiblog:*
+
+{{< audio path="audio/firmware-openwrt-xiaomi-ax3600.mp3" >}}
+
 # Introducción
 
-Hace unas semanas publiqué un articulo hablando sobre el [sistema operativo OpenWrt](/post/2024/openwrt). Después hice una reseña del [router Xiaomi AX3600](/posts/2024/router-xiaomi-ax3600). En este artículo vamos un paso mas allá. Hoy te voy a guiar, paso a paso, a través del proceso técnico para liberar el firmware del router AX3600 de Xiaomi, e instalar OpenWrt como su sistema operativo principal.
+Hace unas semanas publiqué un artículo hablando sobre el [sistema operativo OpenWrt](/post/2024/openwrt). Después hice una reseña del [router Xiaomi AX3600](/post/2024/router-xiaomi-ax3600). En este artículo vamos un paso mas allá. Hoy te voy a guiar, paso a paso, a través del proceso técnico para liberar el firmware del router AX3600 de Xiaomi, e instalar OpenWrt como su sistema operativo principal.
 
-Routers de gama alta similares a este tienen un precio de 150€ o mas. Te animo a conseguir un AX3600 en Wallapop por unos 50€, y aventurarte a realizar el proceso por ti mismo. No solo te proporcionaré instrucciones claras y precisas, sino que también te explicaré el propósito detrás de cada paso. De esta manera, liberarás tu dispositivo, pero también aprenderás el por qué realizamos cada etapa del proceso. Sin más preámbulos, manos a la obra. ¡Hora de ponerse la mascara de anonymous!.
+Routers de gama alta similares a este tienen un precio de 150€ o mas. Te animo a conseguir un AX3600 en Wallapop por unos 50€, y aventurarte a realizar el proceso por ti mismo. No solo te proporcionaré instrucciones claras y precisas, sino que también te explicaré el propósito detrás de cada paso. De esta manera, liberarás tu dispositivo, pero también aprenderás el por qué realizamos cada etapa del proceso. Sin más preámbulos, manos a la obra. ¡Hora de ponerse la máscara de anonymous!.
 
 # Antecedentes
 
@@ -31,7 +35,7 @@ El proceso completo de rooteo consiste en 4 pasos:
 1. Descargar el firmware
 2. Instalar el firmware vulnerable
 3. Activar el acceso SSH
-4. Instalar latest OpenWrt
+4. Instalar OpenWrt
 
 # 1. Descargar el firmware
 
@@ -62,7 +66,7 @@ wget https://downloads.openwrt.org/snapshots/targets/qualcommax/ipq807x/openwrt-
 wget https://downloads.openwrt.org/snapshots/targets/qualcommax/ipq807x/openwrt-qualcommax-ipq807x-xiaomi_ax3600-squashfs-sysupgrade.bin
 ```
 
-Por último, descarga el último firmware de OpenWrt disponible para el router Xiaomi AX3600. En el momento de escribir este articulo se trata de la versión 23.05.0:
+Por último, descarga el último firmware de OpenWrt disponible para el router Xiaomi AX3600. En el momento de escribir este artículo se trata de la versión 23.05.5:
 
 ```
 wget https://downloads.openwrt.org/releases/23.05.5/targets/ipq807x/generic/openwrt-23.05.5-ipq807x-generic-xiaomi_ax3600-squashfs-sysupgrade.bin
@@ -81,7 +85,7 @@ sudo ip address flush dev enp4s0
 sudo ip address add 192.168.31.100/24 dev enp4s0
 ```
 
-> Importante: cambia **enp4s0** por el nombre de tu interfaz de red (eth0, eth1, o lo que tengas en tu caso).
+> Importante: cambia **enp4s0** por el nombre de tu interfaz de red (eth0, eth1, etc.).
 
 Antes de continuar, conecta un cable ethernet desde el puerto LAN1 del router xiaomi a tu switch/hub. Y otro cable ethernet desde tu ordenador a ese mismo switch/hub. Después verifica que tienes conexión ethernet entre ambos:
 
@@ -105,7 +109,7 @@ Utiliza chrome para acceder a la web de administración del router:
 http://192.168.31.1
 ```
 
-Verás que la página esta en Chino, un idioma que personalmente no domino:
+Verás que la página está en Chino, un idioma que personalmente no domino:
 
 ![Instalar openwrt xiaomi ax3600 firmware oficial chino](/img/firmware-openwrt-xiaomi-ax3600-oficial-chino.webp)
 
@@ -119,7 +123,7 @@ Si lo haces bien, el router finalmente te pedirá configurar un *password* que t
 
 ## Instalar firmware vulnerable de Xiaomi
 
-A continuación, es necesario instalar el firmware vulnerable en el router. La versión actual de tu router puede variar según la fecha en que lo hayas comprado. Para proceder, accede a la interfaz web de administración del router y navega hasta la sección de actualización de firmware. Haz clic en el botón para cargar un nuevo archivo y selecciona el archivo miwifi_r3600_firmware_5da25_1.0.17.bin que descargaste previamente. Deja que el proceso finalice sin interrupciones. Una vez que el router se reinicie, estará corriendo el firmware vulnerable 1.0.17.
+A continuación, es necesario instalar el firmware vulnerable en el router. La versión actual de tu router puede variar según la fecha en que lo hayas comprado. Para proceder, accede a la interfaz web de administración del router y navega hasta la sección de actualización de firmware. Haz clic en el botón para cargar un nuevo archivo y selecciona el archivo *miwifi_r3600_firmware_5da25_1.0.17.bin* que descargaste previamente. Deja que el proceso finalice sin interrupciones. Una vez que el router se reinicie, estará corriendo el firmware vulnerable 1.0.17.
 
 # 3. Activar el acceso SSH
 
@@ -133,7 +137,7 @@ La web te pedirá el *password* que has introducido antes. Escríbelo y clica en
 
 ![Instalar openwrt xiaomi ax3600 login url stok](/img/firmware-openwrt-xiaomi-ax3600-login-url-stok.webp)
 
-Revisa la URL del router que ha salido en el navegador web. Debes localizar en la URL un campo en formato **stok=valor**, donde valor es una cadena de unos cuantos bytes en hexadecimal. Algo similar a esto:
+Revisa la URL del router que ha salido en el navegador web. Debes localizar en la URL un campo en formato **stok=valor**, donde **valor** es una cadena de unos cuantos bytes en hexadecimal. Algo similar a esto:
 
 ```
 stok=5405208568b0815fd1d9c465988edb89
@@ -206,11 +210,11 @@ $ ssh -oHostKeyAlgorithms=+ssh-rsa root@192.168.31.1
 
 ¡Buen trabajo! Ya tienes acceso SSH al router con el usuario root. Este router ya está listo para iniciar su camino hacia la libertad.
 
-# Instalar OpenWrt
+# 4. Instalar OpenWrt
 
 ## Initramfs
 
-Transfiere el fichero openwrt-qualcommax-ipq807x-xiaomi_ax3600-initramfs-factory.ubi al directorio temporal del router:
+Transfiere el fichero *openwrt-qualcommax-ipq807x-xiaomi_ax3600-initramfs-factory.ubi* al directorio temporal del router:
 
 ```
 $ scp -O -oHostKeyAlgorithms=+ssh-rsa openwrt-qualcommax-ipq807x-xiaomi_ax3600-initramfs-factory.ubi root@192.168.31.1:/tmp/
@@ -257,7 +261,7 @@ root@XiaoQiang:~# nvram get flag_boot_rootfs
 0
 ```
 
-En caso de obtener un 0, tu sistema utiliza la partición etiqueta como "rootfs", que se encuentra mapeada en /dev/mtd12. Si obtienes un 1, tu sistema utiliza la partición etiquetada como "rootfs_1", que se encuentra mapeada en /dev/mtd13.
+En caso de obtener un 0, tu sistema utiliza la partición etiquetada como "rootfs", que se encuentra mapeada en /dev/mtd12. Si obtienes un 1, tu sistema utiliza la partición etiquetada como "rootfs_1", que se encuentra mapeada en /dev/mtd13.
 
 El siguiente comando tiene dos variantes, en función del valor obtenido para la variable *flag_boot_rootfs*. Si su valor es 0, procede de esta manera:
 
@@ -306,7 +310,7 @@ rtt min/avg/max/mdev = 0.418/0.451/0.490/0.029 ms
 
 ## SquashFS
 
-A continuación, transfiere el fichero openwrt-qualcommax-ipq807x-xiaomi_ax3600-squashfs-sysupgrade.bin al directorio temporal del router:
+A continuación, transfiere el fichero *openwrt-qualcommax-ipq807x-xiaomi_ax3600-squashfs-sysupgrade.bin* al directorio temporal del router:
 
 ```
 $ scp -O openwrt-qualcommax-ipq807x-xiaomi_ax3600-squashfs-sysupgrade.bin root@192.168.1.1:/tmp/
@@ -328,9 +332,9 @@ root@OpenWrt:~# sysupgrade -n /tmp/openwrt-qualcommax-ipq807x-xiaomi_ax3600-squa
 
 Este paso es el que actualiza el dispositivo utilizando una imagen de firmware squashfs, comprimida y de solo lectura, diseñada como paso previo para realizar instalaciones permanentes en dispositivos NAND. Espera a que se reinicie el router de nuevo.
 
-# Instalar OpenWrt latest
+## Instalar OpenWrt latest
 
-A partir de este punto ya puedes instalar la versión definitiva de OpenWrt, actualmente la versión 23.05.3. Transfieres esta imagen al directorio temporal del router:
+A partir de este punto ya puedes instalar la versión definitiva de OpenWrt, actualmente la versión 23.05.5. Transfieres esta imagen al directorio temporal del router:
 
 ```
 $ scp -O openwrt-23.05.5-ipq807x-generic-xiaomi_ax3600-squashfs-sysupgrade.bin root@192.168.1.1:/tmp/
@@ -342,7 +346,7 @@ Y como último paso, la instalas:
 root@OpenWrt:~# sysupgrade -n /tmp/openwrt-23.05.5-ipq807x-generic-xiaomi_ax3600-squashfs-sysupgrade.bin
 ```
 
-Cuando el dispositivo se reinicie, ya tendrás el router instalado con OpenWrt. ¡Enhorabuena, lo hemos logrado!.
+Cuando el dispositivo se reinicie, ya tendrás el router instalado con OpenWrt. ¡Enhorabuena, lo has logrado!.
 
 Puedes verificarlo, navegando a esta URL desde tu browser:
 
@@ -356,10 +360,10 @@ Disfruta de tu nuevo router Xiaomi AX3600 con OpenWrt instalado:
 
 # Despedida
 
-En este articulo logramos instalar con éxito el firmware de OpenWRT en el router Xiaomi AX3600, lo que nos permite acceder a una amplia gama de opciones de personalización y control avanzado sobre nuestra red. Esta instalación no solo mejora el rendimiento y la flexibilidad del dispositivo, sino que también abre la puerta a una mayor seguridad y optimización a través de las herramientas avanzadas de OpenWRT. En mi caso en particular, he convertido este dispositivo en el router principal de mi hogar.
+En este artículo logramos instalar con éxito el firmware de OpenWRT en el router Xiaomi AX3600, lo que nos permite acceder a una amplia gama de opciones de personalización y control avanzado sobre nuestra red. Esta instalación no solo mejora el rendimiento y la flexibilidad del dispositivo, sino que también abre la puerta a una mayor seguridad y optimización a través de las herramientas avanzadas de OpenWRT. En mi caso en particular, he convertido este dispositivo en el router principal de mi hogar.
 
 Si te encuentras con problemas o dudas durante el proceso, no dudes en contactarme a través del [canal de Telegram](https://t.me/lateclaescape). Estaré atento para resolver cualquier cuestión que quieras plantear sobre este router en particular.
 
-Como con cualquier customización de firmware, siempre existe el riesgo de que el dispositivo se "brickee" en el proceso. En el próximo artículo, profundizaré en cómo desbrickear este router Xiaomi AX3600 en caso de que algo salga mal durante la instalación o en cualquier otro momento. ¡Nos vemos en el próximo articulo!
+Como con cualquier customización de firmware, siempre existe el riesgo de que el dispositivo se "brickee" en el proceso. En el próximo artículo, profundizaré en cómo desbrickear este router Xiaomi AX3600 en caso de que algo salga mal durante la instalación o en cualquier otro momento. ¡Nos vemos en el próximo artículo!
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla [ESC01](https://challenge.lateclaescape.com/), dos puntos wq!
