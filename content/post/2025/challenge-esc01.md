@@ -54,11 +54,11 @@ En caso de cancelar el reto por cualquiera de los motivos expuestos, se creará 
 
 El reto pasará por 3 estados:
 
-- **DISABLED**
-- RUNNING
+- DISABLED
+- **RUNNING**
 - SOLVED
 
-El estado actual del Challenge estará marcado en **negrita**. Actualmente el estado es DISABLED. El Challenge se mantendrá en este estado mientras no se haya publicado el articulo donde se incluirá la información del Challenge. El estado cambiará a RUNNING 24 horas después de publicar el articulo en el [canal de Telegram](https://t.me/lateclaescape), justo después de publicarlo en todas las redes sociales. Y cuando alguien logre resolverlo, el estado cambiará a SOLVED.
+El estado actual del Challenge está marcado en **negrita**. Actualmente el estado es RUNNING. El Challenge se mantendrá en este estado mientras no se resuelva. El estado cambiará a SOLVED cuando alguien logre resolverlo correctamente.
 
 # Protección de datos
 
