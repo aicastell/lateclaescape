@@ -14,15 +14,15 @@ featured: true
 
 # Introducción
 
-El término "race condition" o "condición de carrera" es probable que te haga pensar en la previsión meteorológica de la próxima carrera de Fernando Alonso. Pero no, hoy no he venido a hablar de Fórmula 1. Aunque seguramente tendría más seguidores si lo hiciera (sigo siendo demasiado optimista). En este articulo hablo sobre programación de software. Y más específicamente, sobre programación concurrente.
+El término *race condition* o *condición de carrera* es probable que te haga pensar en la previsión meteorológica de la próxima carrera de Fernando Alonso. Pero no, hoy no he venido a hablar de Fórmula 1. Aunque seguramente tendría más seguidores si lo hiciera (sigo siendo demasiado optimista). En este articulo hablo sobre programación de software. Y más específicamente, sobre programación concurrente.
 
-Las race conditions son un problema clásico al que nos enfrentamos los programadores informáticos. Se producen cuando dos o más procesos intentan modificar un recurso compartido al mismo tiempo sin una sincronización adecuada, lo que puede desencadenar comportamientos inesperados y errores dignos de un "en mi PC funciona". Lo peor de estos fallos es que suelen ser tan impredecibles como la estrategia de neumáticos en un Gran Premio: nadie sabe realmente qué va a pasar hasta que se estrellan.
+Las *race conditions* son un problema clásico al que nos enfrentamos los programadores informáticos. Se producen cuando dos o más procesos intentan modificar un recurso compartido al mismo tiempo sin una sincronización adecuada, lo que puede desencadenar comportamientos inesperados y errores dignos de un "en mi PC funciona". Lo peor de estos fallos es que suelen ser tan impredecibles como la estrategia de neumáticos en un Gran Premio: nadie sabe realmente qué va a pasar hasta que se estrellan.
 
-Aunque parezcan un problema sencillo, las race conditions siguen siendo un desafío incluso para programadores experimentados. En este artículo te explico qué son, por qué ocurren y cómo evitarlas antes de que tu código se estrelle en la primera curva.
+Aunque parezcan un problema sencillo, las *race conditions* siguen siendo un desafío incluso para programadores experimentados. En este artículo te explico qué son, por qué ocurren y cómo evitarlas antes de que tu código se estrelle en la primera curva.
 
 # El problema
 
-En programación concurrente, una race condition ocurre cuando dos o más procesos o hilos intentan acceder al mismo recurso al mismo tiempo sin coordinación. Este recurso puede ser una variable, un archivo, una base de datos, un puerto, una cola de mensajes, una caché compartida, etc. Si ambos intentan leer y escribir simultáneamente sin un mecanismo de control, pueden generarse errores impredecibles, como datos corruptos o cálculos incorrectos.
+En programación concurrente, una *race condition* ocurre cuando dos o más procesos o hilos intentan acceder al mismo recurso al mismo tiempo sin coordinación. Este recurso puede ser una variable, un archivo, una base de datos, un puerto, una cola de mensajes, una caché compartida, etc. Si ambos intentan leer y escribir simultáneamente sin un mecanismo de control, pueden generarse errores impredecibles, como datos corruptos o cálculos incorrectos.
 
 Imagina dos procesos que comparten una variable compartida llamada *contador*. Ambos procesos acceden a esa variable compartida en modo R/W (lectura/escritura) o en modo W/W (escritura/escritura).
 
@@ -40,7 +40,7 @@ Y el proceso C ejecuta una instrucción para decrementar en 1 el valor de *conta
 C. contador = contador - 1
 ```
 
-Cualquiera pensaría que, al sumar uno y restar uno, la variable *contador* debería seguir siendo 5. Pero en programación concurrente, este resultado no está garantizado. Las race conditions pueden alterar el comportamiento esperado y generar valores incorrectos, como 4 o 6. ¿Cómo es posible?
+Cualquiera pensaría que, al sumar uno y restar uno, la variable *contador* debería seguir siendo 5. Pero en programación concurrente, este resultado no está garantizado. Las *race conditions* pueden alterar el comportamiento esperado y generar valores incorrectos, como 4 o 6. ¿Cómo es posible?
 
 Las instrucciones anteriores se traducen en ensamblador (el juego de instrucciones mas básico del procesador) de la siguiente manera:
 
@@ -125,7 +125,7 @@ Cada uno de estos mecanismos ofrece una forma diferente de asegurar la correcta 
 
 # Despedida
 
-Las race conditions no son precisamente el tipo de carrera en la que nos gusta ver a Fernando Alonso, donde la habilidad y la estrategia marcan la diferencia. En el mundo de la ingeniería de software, las carreras no se ganan, se evitan. Porque al final, no importa si tienes el mejor código o el hardware más potente, si dos procesos pisan el acelerador al mismo tiempo sin coordinación, el resultado será más caótico que una salida en mojado. Así que recuerda: en la programación, como en la Fórmula 1, el control y la sincronización lo son todo.
+Las *race conditions* no son precisamente el tipo de carrera en la que nos gusta ver a Fernando Alonso, donde la habilidad y la estrategia marcan la diferencia. En el mundo de la ingeniería de software, las carreras no se ganan, se evitan. Porque al final, no importa si tienes el mejor código o el hardware más potente, si dos procesos pisan el acelerador al mismo tiempo sin coordinación, el resultado será más caótico que una salida en mojado. Así que recuerda: en la programación, como en la Fórmula 1, el control y la sincronización lo son todo.
 
 Puedes comentar en el [canal de Telegram](https://t.me/lateclaescape) si te parece interesante este contenido. Son bienvenidas las criticas, sugerencias, dudas o comentarios de cualquier tipo relacionados con el articulo. ¡Nos vemos en la siguiente vuelta!
 
