@@ -29,25 +29,23 @@ Utilizaré las siguientes siglas durante todo el artículo:
 
 # Listado de componentes
 
-Este es el listado de componentes que voy a aprovechar del equipo reciclado. Actualmente tienen un coste de 781€:
+Este es el listado de componentes que voy a aprovechar del equipo reciclado:
 
-- MOBO: [MSI Z490-A PRO](https://es.msi.com/Motherboard/Z490-A-PRO/Overview) (coste 215€)
-- CPU: [Intel Core i7 10700 a 3.6GHz](https://www.intel.la/content/www/xl/es/products/sku/199316/intel-core-i710700-processor-16m-cache-up-to-4-80-ghz/specifications.html) (coste 313€)
-- RAM: 1x32GB [Kingston Fury Beast DDR4](https://www.kingston.com/en/memory/gaming/kingston-fury-beast-ddr4-memory) (coste 65€)
-- Storage: 2 x [Samsung 970 EVO Plus NVMe® M.2 SSD 1TB](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-970-evo-plus-nvme-m-2-1-tb-mz-v7s1t0b-am/b2bapp/) (coste 2 x 99€)
+- MOBO: [MSI Z490-A PRO](https://es.msi.com/Motherboard/Z490-A-PRO/Overview)
+- CPU: [Intel Core i7 10700 a 3.6GHz](https://www.intel.la/content/www/xl/es/products/sku/199316/intel-core-i710700-processor-16m-cache-up-to-4-80-ghz/specifications.html)
+- RAM: 1x32GB [Kingston Fury Beast DDR4](https://www.kingston.com/en/memory/gaming/kingston-fury-beast-ddr4-memory)
+- Storage: 2 x [Samsung 970 EVO Plus NVMe® M.2 SSD 1TB](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-970-evo-plus-nvme-m-2-1-tb-mz-v7s1t0b-am/b2bapp/)
 
-Y este es el listado de componentes nuevos, con un coste de 1429€:
+Y este es el listado de componentes nuevos:
 
-- Chasis: [Rack 4U 19″ UK 4129 USB TYPE C de UNYKAch](https://unykach.com/es/profesional/rack-19/caja-rack-4u19-uk-4129-51912/) (coste 115€)
-- CPU Cooler: [Noctua NH-L9i](https://noctua.at/en/nh-l9i) (coste 45€)
-- GPU: [Asus ROG Strix GeForce RTX 3090 Gaming](https://rog.asus.com/es/graphics-cards/graphics-cards/rog-strix/rog-strix-rtx3090-o24g-gaming-model/) (coste 800€)
-- RAM: 1x32GB [Kingston Fury Beast DDR4](https://www.kingston.com/en/memory/gaming/kingston-fury-beast-ddr4-memory) (coste 65€)
-- PSU: [Corsair RM1000x](https://www.corsair.com/us/en/p/psu/cp-9020201-na/rmx-series-rm1000x-1000-watt-80-plus-gold-fully-modular-atx-psu-cp-9020201-na) (coste 200€)
-- Network: [ASUS XG-C100F PCI-e 10Gbps con puerto SFP+](https://www.asus.com/networking-iot-servers/wired-networking/all-series/xg-c100f/) (coste 100€)
-- Output airflow: 2 x [Noctua NF-A8 PWM](https://noctua.at/en/nf-a8-pwm) (coste 2 x 19€)
-- Input airflow: 2 x [Noctua NF-A12x25 PWM](https://noctua.at/es/nf-a12x25-pwm) (coste 2 x 33€)
-
-El coste total del equipo, juntando componentes reciclados y nuevos, asciende a 2210€. Un precio que está dentro del presupuesto del CPD.
+- Chasis: [Rack 4U 19″ UK 4129 USB TYPE C de UNYKAch](https://unykach.com/es/profesional/rack-19/caja-rack-4u19-uk-4129-51912/)
+- CPU Cooler: [Noctua NH-L9i](https://noctua.at/en/nh-l9i)
+- GPU: [Asus ROG Strix GeForce RTX 3090 Gaming](https://rog.asus.com/es/graphics-cards/graphics-cards/rog-strix/rog-strix-rtx3090-o24g-gaming-model/)
+- RAM: 1x32GB [Kingston Fury Beast DDR4](https://www.kingston.com/en/memory/gaming/kingston-fury-beast-ddr4-memory)
+- PSU: [Corsair RM1000x](https://www.corsair.com/us/en/p/psu/cp-9020201-na/rmx-series-rm1000x-1000-watt-80-plus-gold-fully-modular-atx-psu-cp-9020201-na)
+- Network: [ASUS XG-C100F PCI-e 10Gbps con puerto SFP+](https://www.asus.com/networking-iot-servers/wired-networking/all-series/xg-c100f/)
+- Output airflow: 2 x [Noctua NF-A8 PWM](https://noctua.at/en/nf-a8-pwm)
+- Input airflow: 2 x [Noctua NF-A12x25 PWM](https://noctua.at/es/nf-a12x25-pwm)
 
 # Review de los componentes
 
@@ -174,7 +172,7 @@ El equipo queda listo para realizar la prueba de encendido. Parece que arranca t
 
 # Despedida
 
-El CPD de Barcelona posee ahora mismo una auténtica bestia diseñada para entrenar modelos de AI. Los números lo dicen todo: una CPU de 8 núcleos y 16 hilos, 64GB de RAM, almacenamiento NVME M.2 de 2TB, y una RTX 3090 con 24GB de VRAM, alimentado por una fuente de 1000W con eficiencia Gold Plus. Todo esto por poco mas de 2000€. Este proyecto demuestra que, con un poco de sentido común y aprovechando componentes reciclados, se puede crear una bestia de cálculo increíblemente potente sin necesidad de gastar una cantidad de dinero desproporcionada.
+El CPD de Barcelona posee ahora mismo una auténtica bestia diseñada para entrenar modelos de AI. Los números lo dicen todo: una CPU de 8 núcleos y 16 hilos, 64GB de RAM, almacenamiento NVME M.2 de 2TB, y una RTX 3090 con 24GB de VRAM, alimentado por una fuente de 1000W con certificación 80 Gold Plus. Este proyecto demuestra que, con un poco de sentido común y aprovechando componentes reciclados, se puede crear una bestia de cálculo increíblemente potente sin necesidad de gastar una cantidad de dinero desproporcionada.
 
 Si tienes algún proyecto en mente y necesitas montar un equipo con características especiales, no dudes en contactar a través del [canal de Telegram](https://t.me/lateclaescape) o enviando un correo a lateclaescape@gmail.com. Estaré encantado de estudiar tu caso y ayudarte a encontrar la mejor solución.
 
