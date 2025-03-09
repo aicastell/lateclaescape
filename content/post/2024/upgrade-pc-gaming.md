@@ -3,7 +3,7 @@ title: Upgrade PC gaming
 date: 2024-11-28
 image: /img/posts/upgrade-pc-gaming.webp
 categories: [ "tecnología" ]
-tags: [ "upgrade", "PCGaming" ]
+tags: [ "upgrade", "PCGaming", "GPU", "MOBO", "CPU", "PSU" ]
 draft: false
 featured: true
 ---
