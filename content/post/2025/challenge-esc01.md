@@ -20,7 +20,7 @@ En esta ocasión, tendréis que resolver un reto *Capture The Flag* (CTF) que co
 
 # Premio
 
-El primer participante que resuelva el Challenge recibirá como premio un articulo tecnológico del que publicaré próximamente una reseña en este blog, totalmente gratuito. Merece mucho la pena, así que atentos a las novedades.
+El primer participante que resuelva el Challenge recibirá como premio un [teclado mecánico Keychron K8](/post/2025/mechanical-keyboard-keychron-k8), totalmente gratuito. Merece mucho la pena, así que atentos a las novedades.
 
 # Reglas del concurso
 
