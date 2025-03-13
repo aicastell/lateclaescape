@@ -55,10 +55,10 @@ En caso de cancelar el reto por cualquiera de los motivos expuestos, se creará 
 El reto pasará por 3 estados:
 
 - DISABLED
-- **RUNNING**
-- SOLVED
+- RUNNING
+- **SOLVED**
 
-El estado actual del Challenge está marcado en **negrita**. Actualmente el estado es RUNNING. El Challenge se mantendrá en este estado mientras no se resuelva. El estado cambiará a SOLVED cuando alguien logre resolverlo correctamente.
+El estado actual del Challenge está marcado en **negrita**. Actualmente el estado es SOLVED. El teclado ya tiene dueño!
 
 # Protección de datos
 
