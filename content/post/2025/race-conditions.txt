@@ -1,6 +1,6 @@
 Introducción
 
-El término “race condition” o “condición de carrera” es probable que te haga pensar en la previsión meteorológica de la próxima carrera de Fernando Alonso. Pero no, hoy no he venido a hablar de Fórmula 1. Aunque seguramente tendría más seguidores si lo hiciera (sigo siendo demasiado optimista). En este articulo hablo sobre programación de software. Y más específicamente, sobre programación concurrente.
+El término race condition o condición de carrera es probable que te haga pensar en la previsión meteorológica de la próxima carrera de Fernando Alonso. Pero no, hoy no he venido a hablar de Fórmula 1. Aunque seguramente tendría más seguidores si lo hiciera (sigo siendo demasiado optimista). En este articulo hablo sobre programación de software. Y más específicamente, sobre programación concurrente.
 
 Las race conditions son un problema clásico al que nos enfrentamos los programadores informáticos. Se producen cuando dos o más procesos intentan modificar un recurso compartido al mismo tiempo sin una sincronización adecuada, lo que puede desencadenar comportamientos inesperados y errores dignos de un “en mi PC funciona”. Lo peor de estos fallos es que suelen ser tan impredecibles como la estrategia de neumáticos en un Gran Premio: nadie sabe realmente qué va a pasar hasta que se estrellan.
 
@@ -57,6 +57,14 @@ Ejecución 3
 La variable contador vale 5. Analiza ahora la secuencia de instrucciones P1, P2, P3, C1, C2, C3. Fíjate como la variable contador finaliza ahora con el valor 5, que es correcto.
 
 Las ejecuciones incorrectas pueden provocar todo tipo de errores: desde un cajero automático que dispense dinero de más o de menos hasta fallos en un sistema de vuelo que pongan en riesgo la estabilidad de un avión comercial.
+
+Race condition en C
+
+El siguiente código fuente escrito en lenguaje C muestra dos hilos intentando incrementar de forma concurrente una misma variable compartida llamada contador:
+
+El código anterior inicializa una variable global llamada contador con valor 0. Después, crea dos hilos. Cada uno de ellos incrementa 1000000 veces esa variable contador. A priori, el resultado final debería ser 2000000. El código parece sencillo y claro. Sin embargo, si ejecutamos este código varias veces, vamos a obtener distintos resultados para la variable contador, y ninguno es correcto.
+
+¿Por que sucede esto? El código sufre una condicion de carrera de campeonato. La variable contador es un recurso compartido por ambos hilos, que estan realizando operaciones de escritura simultaneamente sobre dicha variable sin ningún mecanismo de coordinación.
 
 Solución
 

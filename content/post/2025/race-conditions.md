@@ -111,6 +111,54 @@ Fíjate como la variable contador finaliza ahora con el valor 5, que es **correc
 
 Las ejecuciones incorrectas pueden provocar todo tipo de errores: desde un cajero automático que dispense dinero de más o de menos hasta fallos en un sistema de vuelo que pongan en riesgo la estabilidad de un avión comercial.
 
+# Race condition en C
+
+El siguiente código fuente escrito en lenguaje C muestra dos hilos intentando incrementar de forma concurrente una misma variable compartida llamada *contador*:
+
+```
+#include <stdio.h>
+#include <pthread.h>
+
+int contador = 0; // Recurso compartido
+
+void* incrementar(void* arg)
+{
+    for (int i = 0; i < 1000000; i++) {
+        contador++; // Modificacion sin proteccion
+    }
+    return NULL;
+}
+
+int main()
+{
+    pthread_t thread1, thread2;
+
+    pthread_create(&thread1, NULL, incrementar, NULL);
+    pthread_create(&thread2, NULL, incrementar, NULL);
+
+    pthread_join(thread1, NULL);
+    pthread_join(thread2, NULL);
+
+    printf("Valor final del contador: %d\n", contador);
+    return 0;
+}
+```
+
+El código anterior inicializa una variable global llamada *contador* con valor 0. Después, crea dos hilos. Cada uno de ellos incrementa 1000000 veces esa variable *contador*. A priori, el resultado final debería ser 2000000. El código parece sencillo y claro. Sin embargo, si ejecutamos este código varias veces, vamos a obtener distintos resultados para la variable *contador*, y ninguno es correcto:
+
+```
+$ ./race_cond
+Valor final del contador: 1018089
+
+$ ./race_cond
+Valor final del contador: 1143169
+
+$ ./race_cond
+Valor final del contador: 1032188
+```
+
+¿Por que sucede esto? El código sufre una condicion de carrera de campeonato. La variable *contador* es un recurso compartido por ambos hilos, que estan realizando operaciones de escritura simultaneamente sobre dicha variable sin ningún mecanismo de coordinación.
+
 # Solución
 
 Es necesario implementar un mecanismo que asegure el acceso ordenado y exclusivo al recurso compartido. Es crucial que los procesos se coordinen entre sí mediante un mecanismo bien estructurado para evitar estos problemas. Existen varios mecanismos que podemos utilizar para la sincronización de hilos y procesos que intentan acceder de forma concurrente a los mismos datos o código en una aplicación:
