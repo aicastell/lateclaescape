@@ -38,9 +38,9 @@ Esta función libera los recursos de un mutex cuando ya no se va a usar. Solo de
 
 Solución con Mutex
 
-Este código fuente en lenguaje C utiliza un mutex para resolver la condición de carrera que vimos en un articulo anterior.
+Este código fuente en C utiliza un mutex para evitar la condición de carrera descrita en un artículo anterior.
 
-Este código previene la condición de carrera, asegurando que solo un hilo incrementa la variable contador a la vez. El código ahora si imprime 2000000 como resultado final, siempre.
+El código garantiza que solo un hilo pueda incrementar la variable contador a la vez, evitando así la condición de carrera. Como resultado, el valor final de contador será siempre 2000000.
 
 Deadlock
 
@@ -52,9 +52,9 @@ En este caso, los coches representan hilos de ejecución. Y el puente representa
 
 Deadlock en C
 
-Este código fuente en lenguaje C muestra dos hilos bloqueados en un deadlock.
+Este código fuente en C ilustra un caso de deadlock entre dos hilos.
 
-Este código produce un deadlock debido a la forma en que los dos hilos intentan bloquear los mutex en orden inverso. El thread1 bloquea el mutex1 y el thread 2 bloquea el mutex2. Ahora el thread 1 intenta bloquear mutex2, pero ya está bloqueado por Thread 2, por lo que queda esperando. Y el thread 2 intenta bloquear el mutex1, pero ya está bloqueado por Thread 1, por lo que también queda esperando. En este punto, ambos hilos están esperando que el otro libere un mutex, pero eso no sucederá nunca. Esto genera un deadlock.
+El deadlock ocurre porque los hilos intentan bloquear los mutex en orden inverso. El thread1 bloquea mutex1, mientras que el thread2 bloquea mutex2. Luego, thread1 intenta bloquear mutex2, que ya está bloqueado por thread2, por lo que queda bloqueado esperando. Al mismo tiempo, thread2 intenta bloquear mutex1, que ya está bloqueado por thread1, y también queda bloqueado esperando. Así, ambos hilos entran en un estado de espera mutua, sin posibilidad de que alguno libere un mutex, lo que da lugar a un deadlock.
 
 Soluciones al deadlock
 
@@ -62,15 +62,15 @@ Existen dos maneras de solucionar un deadlock:
 
 Orden consistente
 
-Para evitar el deadlock, se puede asegurar un orden consistente en la adquisición de los mutex.
+Para evitar el deadlock, es necesario garantizar un orden consistente en la adquisición de los mutex.
 
-Este código fuente escrito en C resuelve el problema haciendo que ambos hilos bloqueen los mutex en el mismo orden: primero el mutex 1 y después el mutex2. Esto evita el deadlock.
+Este código fuente, escrito en C, resuelve el problema al hacer que ambos hilos adquieran los mutex en el mismo orden: primero bloquean mutex1 y luego bloquean mutex2. Este enfoque evita el deadlock, ya que elimina las condiciones que permiten la espera mutua entre los hilos.
 
 Uso de pthread_mutex_trylock
 
-En lugar de usar pthread_mutex_lock para adquirir el segundo mutex, se utiliza pthread_mutex_trylock. Si el mutex no está disponible, pthread_mutex_trylock devuelve inmediatamente con un código de error en lugar de bloquear el hilo.
+En lugar de usar pthread_mutex_lock para adquirir el segundo mutex, se utiliza pthread_mutex_trylock. Si el mutex no está disponible, pthread_mutex_trylock devuelve inmediatamente un código de error en lugar de bloquear el hilo.
 
-Este código fuente escrito en C resuelve el problema del deadlock utilizando la función pthread_mutex_trylock.
+Este código fuente, escrito en C, resuelve el problema del deadlock empleando pthread_mutex_trylock en lugar de pthread_mutex_lock.
 
 El thread 1 bloquea mutex1 y luego intenta bloquear mutex2. Si tiene éxito, realiza la operación crítica, desbloquea ambos mutex y sale del bucle. Si no puede bloquear mutex2, desbloquea mutex1, espera 1 segundo, y vuelve a intentar bloquear los mutex, comenzando con mutex1.
 
