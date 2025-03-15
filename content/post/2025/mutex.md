@@ -84,43 +84,7 @@ Esta función libera los recursos de un mutex cuando ya no se va a usar. Solo de
 
 # Solución con Mutex
 
-El siguiente código en lenguaje C utiliza un mutex para resolver la [condición de carrera](/post/2025/race-conditions) que vimos en un articulo anterior.
-
-```
-#include <stdio.h>
-#include <pthread.h>
-
-pthread_mutex_t mutex; // Declaramos el mutex
-int contador = 0;      // Recurso compartido
-
-void* incrementar(void* arg)
-{
-    for (int i = 0; i < 1000000; i++) {
-        pthread_mutex_lock(&mutex); // Bloqueo del mutex
-        contador++; // Sección crítica
-        pthread_mutex_unlock(&mutex); // Desbloqueo del mutex
-    }
-    return NULL;
-}
-
-int main()
-{
-    pthread_t thread1, thread2;
-
-    pthread_mutex_init(&mutex, NULL); // Inicializar el mutex
-
-    pthread_create(&thread1, NULL, incrementar, NULL);
-    pthread_create(&thread2, NULL, incrementar, NULL);
-
-    pthread_join(thread1, NULL);
-    pthread_join(thread2, NULL);
-
-    pthread_mutex_destroy(&mutex); // Liberar el mutex
-
-    printf("Valor final del contador: %d\n", contador);
-    return 0;
-}
-```
+[Este código fuente](https://github.com/aicastell/ipc/blob/main/mutex/mutex.c) en lenguaje C utiliza un mutex para resolver la [condición de carrera](/post/2025/race-conditions) que vimos en un articulo anterior.
 
 Este código previene la condición de carrera, asegurando que solo un hilo incrementa la variable *contador* a la vez. El código ahora si imprime 2000000 como resultado final, siempre.
 
@@ -147,59 +111,7 @@ En este caso, los coches representan hilos de ejecución. Y el puente representa
 
 ## Deadlock en C
 
-El siguiente código en lenguaje C muestra dos hilos bloqueados en un deadlock.
-
-```
-#include <stdio.h>
-#include <pthread.h>
-
-pthread_mutex_t mutex1 = PTHREAD_MUTEX_INITIALIZER;
-pthread_mutex_t mutex2 = PTHREAD_MUTEX_INITIALIZER;
-
-void* thread1_func(void* arg)
-{
-    pthread_mutex_lock(&mutex1);
-    printf("Thread 1: Bloqueó mutex1\n");
-
-    sleep(1); // Simula una ejecución prolongada
-
-    printf("Thread 1: Intentando bloquear mutex2...\n");
-    pthread_mutex_lock(&mutex2); // Aquí se puede generar un deadlock
-    printf("Thread 1: Bloqueó mutex2\n");
-
-    pthread_mutex_unlock(&mutex2);
-    pthread_mutex_unlock(&mutex1);
-    return NULL;
-}
-
-void* thread2_func(void* arg)
-{
-    pthread_mutex_lock(&mutex2);
-    printf("Thread 2: Bloqueó mutex2\n");
-
-    sleep(1); // Simula una ejecución prolongada
-
-    printf("Thread 2: Intentando bloquear mutex1...\n");
-    pthread_mutex_lock(&mutex1); // Aquí se puede generar un deadlock
-    printf("Thread 2: Bloqueó mutex1\n");
-
-    pthread_mutex_unlock(&mutex1);
-    pthread_mutex_unlock(&mutex2);
-    return NULL;
-}
-
-int main() {
-    pthread_t thread1, thread2;
-
-    pthread_create(&thread1, NULL, thread1_func, NULL);
-    pthread_create(&thread2, NULL, thread2_func, NULL);
-
-    pthread_join(thread1, NULL);
-    pthread_join(thread2, NULL);
-
-    return 0;
-}
-```
+[Este código fuente](https://github.com/aicastell/ipc/blob/main/deadlock/deadlock.c) en lenguaje C muestra dos hilos bloqueados en un deadlock.
 
 Este código produce un deadlock debido a la forma en que los dos hilos intentan bloquear los mutex en orden inverso. El thread1 bloquea el mutex1 y el thread 2 bloquea el mutex2. Ahora el thread 1 intenta bloquear mutex2, pero ya está bloqueado por Thread 2, por lo que queda esperando. Y el thread 2 intenta bloquear el mutex1, pero ya está bloqueado por Thread 1, por lo que también queda esperando. En este punto, ambos hilos están esperando que el otro libere un mutex, pero eso no sucederá nunca. Esto genera un deadlock.
 
@@ -212,99 +124,15 @@ Existen dos maneras de solucionar un deadlock:
 
 ## Orden consistente
 
-Para evitar el deadlock, se puede asegurar un orden consistente en la adquisición de los mutex. Por ejemplo:
+Para evitar el deadlock, se puede asegurar un orden consistente en la adquisición de los mutex.
 
-```
-void* thread1_func(void* arg)
-{
-    pthread_mutex_lock(&mutex1);
-    printf("Thread 1: Bloqueó mutex1\n");
-
-    sleep(1);
-
-    pthread_mutex_lock(&mutex2);  // Ahora ambos hilos intentan bloquear en el mismo orden
-    printf("Thread 1: Bloqueó mutex2\n");
-
-    pthread_mutex_unlock(&mutex2);
-    pthread_mutex_unlock(&mutex1);
-    return NULL;
-}
-
-void* thread2_func(void* arg)
-{
-    pthread_mutex_lock(&mutex1);  // Se cambia el orden de bloqueo
-    printf("Thread 2: Bloqueó mutex1\n");
-
-    sleep(1);
-
-    pthread_mutex_lock(&mutex2);
-    printf("Thread 2: Bloqueó mutex2\n");
-
-    pthread_mutex_unlock(&mutex2);
-    pthread_mutex_unlock(&mutex1);
-    return NULL;
-}
-```
-
-Aquí, ambos hilos bloquean los mutex en el mismo orden (primero mutex1 y después mutex2), evitando el deadlock.
+[Este código fuente](https://github.com/aicastell/ipc/blob/main/deadlock/fix1/deadlock_fix1.c) escrito en C resuelve el problema haciendo que ambos hilos bloqueen los mutex en el mismo orden: primero el mutex 1 y después el mutex2. Esto evita el deadlock.
 
 ## Uso de pthread_mutex_trylock
 
-En lugar de usar pthread_mutex_lock para adquirir el segundo mutex, se utiliza pthread_mutex_trylock. Si el mutex no está disponible, pthread_mutex_trylock devuelve inmediatamente con un código de error en lugar de bloquear el hilo. Veamos un ejemplo:
+En lugar de usar pthread_mutex_lock para adquirir el segundo mutex, se utiliza pthread_mutex_trylock. Si el mutex no está disponible, pthread_mutex_trylock devuelve inmediatamente con un código de error en lugar de bloquear el hilo.
 
-```
-void* thread1_func(void* arg)
-{
-    while (1) {
-        pthread_mutex_lock(&mutex1);
-        printf("Thread 1: Bloqueó mutex1\n");
-
-        sleep(1); // Simula una ejecución prolongada
-
-        printf("Thread 1: Intentando bloquear mutex2...\n");
-        if (pthread_mutex_trylock(&mutex2) == 0) {
-            printf("Thread 1: Bloqueó mutex2\n");
-
-            // Realiza la operación crítica
-            pthread_mutex_unlock(&mutex2);
-            pthread_mutex_unlock(&mutex1);
-            break; // Sale del bucle después de completar la operación
-        } else {
-            // Si no puede adquirir mutex2, libera mutex1 y espera un poco
-            pthread_mutex_unlock(&mutex1);
-            printf("Thread 1: No pudo bloquear mutex2, reintentando...\n");
-            sleep(1); // Espera un poco antes de reintentar
-        }
-    }
-    return NULL;
-}
-
-void* thread2_func(void* arg)
-{
-    while (1) {
-        pthread_mutex_lock(&mutex2);
-        printf("Thread 2: Bloqueó mutex2\n");
-
-        sleep(1); // Simula una ejecución prolongada
-
-        printf("Thread 2: Intentando bloquear mutex1...\n");
-        if (pthread_mutex_trylock(&mutex1) == 0) {
-            printf("Thread 2: Bloqueó mutex1\n");
-
-            // Realiza la operación crítica
-            pthread_mutex_unlock(&mutex1);
-            pthread_mutex_unlock(&mutex2);
-            break; // Sale del bucle después de completar la operación
-        } else {
-            // Si no puede adquirir mutex1, libera mutex2 y espera un poco
-            pthread_mutex_unlock(&mutex2);
-            printf("Thread 2: No pudo bloquear mutex1, reintentando...\n");
-            sleep(1); // Espera un poco antes de reintentar
-        }
-    }
-    return NULL;
-}
-```
+[Este código fuente](https://github.com/aicastell/ipc/blob/main/deadlock/fix2/deadlock_fix2.c) escrito en C resuelve el problema del deadlock utilizando la función pthread_mutex_trylock.
 
 El thread 1 bloquea mutex1 y luego intenta bloquear mutex2. Si tiene éxito, realiza la operación crítica, desbloquea ambos mutex y sale del bucle. Si no puede bloquear mutex2, desbloquea mutex1, espera 1 segundo, y vuelve a intentar bloquear los mutex, comenzando con mutex1.
 

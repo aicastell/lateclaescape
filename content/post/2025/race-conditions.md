@@ -113,36 +113,7 @@ Las ejecuciones incorrectas pueden provocar todo tipo de errores: desde un cajer
 
 # Race condition en C
 
-El siguiente código fuente escrito en lenguaje C muestra dos hilos intentando incrementar de forma concurrente una misma variable compartida llamada *contador*:
-
-```
-#include <stdio.h>
-#include <pthread.h>
-
-int contador = 0; // Recurso compartido
-
-void* incrementar(void* arg)
-{
-    for (int i = 0; i < 1000000; i++) {
-        contador++; // Modificacion sin proteccion
-    }
-    return NULL;
-}
-
-int main()
-{
-    pthread_t thread1, thread2;
-
-    pthread_create(&thread1, NULL, incrementar, NULL);
-    pthread_create(&thread2, NULL, incrementar, NULL);
-
-    pthread_join(thread1, NULL);
-    pthread_join(thread2, NULL);
-
-    printf("Valor final del contador: %d\n", contador);
-    return 0;
-}
-```
+[Este código fuente](https://github.com/aicastell/ipc/blob/main/race_condition/race_cond.c) escrito en lenguaje C muestra dos hilos intentando incrementar de forma concurrente una misma variable compartida llamada *contador*:
 
 El código anterior inicializa una variable global llamada *contador* con valor 0. Después, crea dos hilos. Cada uno de ellos incrementa 1000000 veces esa variable *contador*. A priori, el resultado final debería ser 2000000. El código parece sencillo y claro. Sin embargo, si ejecutamos este código varias veces, vamos a obtener distintos resultados para la variable *contador*, y ninguno es correcto:
 
