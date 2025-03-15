@@ -3,7 +3,7 @@ title: Race conditions
 date: 2025-03-05
 image: /img/posts/race-condition.jpg
 categories: [ "programación" ]
-tags: [ "concurrencia", "race condition" ]
+tags: [ "concurrencia", "race_condition" ]
 draft: false
 featured: true
 ---

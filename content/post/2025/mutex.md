@@ -3,7 +3,7 @@ title: Los mutex
 date: 2025-03-15
 image: /img/posts/mutex.jpg
 categories: [ "programación", "pthread" ]
-tags: [ "concurrencia", "race condition", "mutex", "sección critica", "API" ]
+tags: [ "concurrencia", "race_condition", "mutex", "sección_critica", "API" ]
 draft: false
 featured: true
 ---
