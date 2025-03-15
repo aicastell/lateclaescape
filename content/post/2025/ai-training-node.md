@@ -2,8 +2,8 @@
 title: AI training node
 date: 2025-03-09
 image: /img/posts/ai-training-node.webp
-categories: [ "tecnología", "AI", "inteligencia artificial" ]
-tags: [ "training node", "dual channel", "TDP", "GPU", "MOBO", "CPU", "PSU", "SDP", "turbo boost" ]
+categories: [ "tecnología", "AI", "inteligencia_artificial" ]
+tags: [ "training_node", "dual_channel", "TDP", "GPU", "MOBO", "CPU", "PSU", "SDP", "turbo_boost" ]
 draft: false
 featured: true
 ---
