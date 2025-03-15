@@ -126,7 +126,7 @@ Existen dos maneras de solucionar un deadlock:
 
 Para evitar el deadlock, es necesario garantizar un orden consistente en la adquisición de los mutex.
 
-[Este código fuente]((https://github.com/aicastell/ipc/blob/main/deadlock/fix1/deadlock_fix1.c)), escrito en C, resuelve el problema al hacer que ambos hilos adquieran los mutex en el mismo orden: primero bloquean mutex1 y luego bloquean mutex2. Este enfoque evita el deadlock, ya que elimina las condiciones que permiten la espera mutua entre los hilos.
+[Este código fuente]((https://github.com/aicastell/ipc/blob/main/deadlock/fix1/deadlock_fix1.c)), escrito en C, resuelve el problema al hacer que ambos hilos adquieran los mutex en el mismo orden: primero bloquean mutex1 y luego bloquean mutex2. Este enfoque evita el deadlock, ya que elimina la condicion que genera el bloque mutuo entre los hilos.
 
 ## Uso de pthread_mutex_trylock
 
