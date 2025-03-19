@@ -1,10 +1,10 @@
 ---
 title: ESC01 Solved
-date: 2025-03-15
+date: 2025-03-19
 image: /img/posts/challenge-esc01-solved.webp
 categories: [ "blog", "esc01", "cybersecurity" ]
 tags: [ "challenge", "CTF", "base64", "ASCII" ]
-draft: true
+draft: false
 featured: true
 ---
 
