@@ -8,6 +8,10 @@ draft: false
 featured: true
 ---
 
+*Articulo disponible en formato audiblog:*
+
+{{< audio path="audio/challenge-esc01-solved.mp3" >}}
+
 # Cybersecurity challenge
 
 Hace unas semanas, [LaTeclaESC](htts://www.lateclaescape.com) lanzó el primer desafío criptográfico de su historia. El denominado [Challenge ESC01](/post/2025/challenge-esc01), consistía en un reto tipo *Capture The Flag (CTF)* diseñado para poner a prueba vuestro ingenio y vuestras habilidades en el mundo de la criptografía.
