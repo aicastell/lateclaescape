@@ -3,7 +3,7 @@ title: ESC01 Solved
 date: 2025-03-15
 image: /img/posts/challenge-esc01-solved.webp
 categories: [ "blog", "esc01", "cybersecurity" ]
-tags: [ "challenge", "CTF", "base64" ]
+tags: [ "challenge", "CTF", "base64", "ASCII" ]
 draft: true
 featured: true
 ---
@@ -16,13 +16,13 @@ Tras días de mucha incertidumbre, un participante logró resolverlo con éxito.
 
 # Proceso de inscripción
 
-Cada concursante inscrito por email al reto recibía como respuesta una [clave simétrica](/post/2024/criptografia-simetrica) que debía usarse durante el reto: esc.2501aeJei7io4Zangei2Reimi
+Cada concursante inscrito por email recibía como respuesta una [clave simétrica](/post/2024/criptografia-simetrica) que debía usarse durante el reto: esc.2501aeJei7io4Zangei2Reimi
 
 Adicionalmente, podía recibir una primera pista enviando el link del challenge a 3 contactos en CC. Esta era la primera pista:
 
 > **PISTA1**: Leer el articulo publicado en el blog sobre sistemas de codificación te dará una gran ventaja
 
-El reto pasó a estado de RUNNING tras publicar un articulo donde hablamos sobre como [Instalar OpenWrt en Xiaomi AX3600](https://www.lateclaescape.com/post/2025/firmware-openwrt-xiaomi-ax3600/). Un articulo sobre hackers era un buen momento para arrancar un challenge sobre ciberseguridad. Al final del articulo, los lectores del artículo tuvisteis disponible un enlace al reto que os otorgó una ventaja temporal de 24h respecto al resto de los participantes:
+El reto pasó a estado de RUNNING tras publicar un articulo donde hablamos sobre como [Instalar OpenWrt en Xiaomi AX3600](https://www.lateclaescape.com/post/2025/firmware-openwrt-xiaomi-ax3600/). Un articulo sobre hackers era un buen momento para arrancar un challenge sobre ciberseguridad. Al final del articulo, los lectores tuvisteis disponible un enlace al reto que os otorgó una ventaja temporal de 24 horas respecto al resto de los participantes:
 
 Pulso la tecla [ESC01](https://challenge.lateclaescape.com/), dos puntos wq!
 
@@ -32,7 +32,7 @@ Al pulsar el link del enlace [ESC01](https://challenge.lateclaescape.com/), se a
 
 ![Formulario challenge ESC01](/img/esc01-solved-form.webp)
 
-El formulario solicita un usuario y una contraseña. Sin importar qué credenciales utilices, el formulario devuelve un mensaje de error. Este mensaje contiene una pequeña pista que debía ayudarte a superar este paso:
+El formulario solicita un usuario y una contraseña. Sin importar qué credenciales utilices, devuelve un mensaje de error. Este mensaje contiene una pequeña pista que debía ayudarte a superar este paso:
 
 ![Formulario challenge ESC01 form error](/img/esc01-solved-form-error.webp)
 
@@ -40,7 +40,7 @@ Un formulario web se basa principalmente en HTML para definir su estructura y en
 
 ![Formulario challenge ESC01 form javascript](/img/esc01-solved-form-javascript.webp)
 
-En el código fuente, puedes encontrar hardcoded el usuario y el password del formulario:
+En el código fuente, puedes encontrar hardcoded el usuario y el password:
 
 ```
 const correctUser = "keychron-k8"
@@ -53,11 +53,7 @@ Introduces como usuario "keychron-k8" y como password "seraparami", y se descarg
 
 # Fichero encriptado
 
-El fichero descargado es un archivo llamado challenge-esc01.7z.
-
-Este fichero está comprimido con el compresor 7z. Al intentar descomprimirlo te solicita una contraseña, la clave simétrica que recibiste durante el proceso de inscripción. De esta manera, solo los inscritos al reto podían continuar con el proceso a partir de este punto.
-
-El fichero encriptado se puede descomprimir usando este comando:
+Se descarga un fichero llamado challenge-esc01.7z. Este fichero está comprimido con el compresor 7-zip. Se puede descomprimir con este comando:
 
 ```
 $ 7z x challenge-esc01.7z
@@ -72,6 +68,8 @@ Extracting archive: challenge-esc01.7z
 
 Enter password (will not be echoed):
 ```
+
+Al intentar descomprimirlo te solicita una contraseña. Aquí es donde debes usar la clave simétrica que recibiste durante el proceso de inscripción. De esta manera, a partir de este momento, solo los inscritos al reto pueden continuar con el proceso.
 
 Insertando el password obtenido durante la inscripción, se extrae un directorio llamado *challenge-esc01*. Dentro de este directorio puedes encontrar dos archivos:
 
@@ -179,7 +177,7 @@ Cualquier informático entiende que el estándar referenciado que codifica letra
 ...
 ```
 
-Podrias seguír decodificando caracter a caracter el resto del mensaje. Pero es mas fácil usando una herramienta que haga ese trabajo por nosotros. El siguiente comando decodifica toda la secuencia de bytes hexadecimales, a su equivalente en ASCII:
+Podrias seguír decodificando caracter a caracter el resto del mensaje. Pero es mas fácil usar una herramienta que haga ese trabajo por nosotros. El siguiente comando decodifica toda la secuencia de bytes hexadecimales, a su equivalente en ASCII:
 
 ```
 $ cat encoded_message | base64 -d | xxd -p | tr '0123456789abcdef' 'fedcba9876543210' | xxd -r -p
@@ -188,13 +186,13 @@ Desde el blog LaTeclaESC te doy la ENHORABUENA por resolver ESC01, el primer Cha
 
 # Resolución
 
-El 13 de marzo de 2025, a escasas 48h de expirar el plazo para finalizar el reto, llega el correo de un concursante que ha logrado resolver el reto, con el mérito adicional de hacerlo sin solicitar ni la **PISTA2** ni la **PISTA3**. ¡Que bien lo has hecho!. Enhorabuena compañero, ¡espero que lo disfrutes!.
+El 13 de marzo de 2025, a escasas 48 horas de expirar el plazo máximo para resolverlo, llega el correo de un concursante que ha logrado resolver el reto, con el mérito adicional de hacerlo sin solicitar ni la **PISTA2** ni la **PISTA3**. ¡Que bien lo has hecho!. Enhorabuena compañero, ¡espero que surjan grandes proyectos de LaTeclaESC de tu nuevo teclado!.
 
 El día de la publicación de este articulo, el ganador ya está disfrutando de su nuevo teclado mecánico [Keychron K8](/post/2025/mechanical-keyboard-keychron-k8).
 
 # Conclusión
 
-A todos los participantes, agradeceros tanto el seguimiento como la difusión de este reto. Y recordaros que durante el año 2025 habrá un segundo challenge con otro premio. ¡Así que atentos porque habrá mas sorpresas!
+A todos los participantes, agradeceros tanto el seguimiento como la difusión de este reto. Y recordaros que durante 2025 habrá un segundo challenge con otro premio. ¡Así que atentos porque habrá mas sorpresas!
 
 Quiero añadir que el concursante que ha logrado resolver el reto es uno de los seguidores del [canal de Telegram](https://t.me/lateclaescape). Lo que demuestra que estar atento a las novedades de este canal ofrece cierta ventaja sobre el resto de los participantes. Así que, si aún no lo has hecho, te animo a subscribirte al canal, es totalmente gratuito, hay gente muy maja por aquí que siempre está dispuesta a ayudar, y seguro que entre todos aprenderemos un montón.
 
