@@ -1,0 +1,81 @@
+Cybersecurity challenge
+
+Hace unas semanas, LaTeclaESC lanzó el primer desafío criptográfico de su historia. El denominado Challenge ESC01, consistía en un reto tipo Capture The Flag (CTF) diseñado para poner a prueba vuestro ingenio y vuestras habilidades en el mundo de la criptografía.
+
+Tras días de mucha incertidumbre, un participante logró resolverlo con éxito. Este artículo explica en detalle cómo se podía llegar a la solución, los conceptos clave utilizados y los aprendizajes que dejó este desafío. ¿Listo para descifrar el misterio? ¡Vamos allá!
+
+Proceso de inscripción
+
+Cada concursante inscrito por email al reto recibía como respuesta una clave simétrica que debía usarse durante el reto: esc.2501aeJei7io4Zangei2Reimi
+
+Adicionalmente, podía recibir una primera pista enviando el link del challenge a 3 contactos en CC. Esta era la primera pista:
+
+PISTA1: Leer el articulo publicado en el blog sobre sistemas de codificación te dará una gran ventaja
+
+El reto pasó a estado de RUNNING tras publicar un articulo donde hablamos sobre como Instalar OpenWrt en Xiaomi AX3600. Un articulo sobre hackers era un buen momento para arrancar un challenge sobre ciberseguridad. Al final del articulo, los lectores del artículo tuvisteis disponible un enlace al reto que os otorgó una ventaja temporal de 24h respecto al resto de los participantes:
+
+Formulario
+
+Al pulsar el link del enlace ESC01, se abre el formulario del challenge:
+
+El formulario solicita un usuario y una contraseña. Sin importar qué credenciales utilices, el formulario devuelve un mensaje de error. Este mensaje contiene una pequeña pista que debía ayudarte a superar este paso:
+
+Un formulario web se basa principalmente en HTML para definir su estructura y en JavaScript para gestionar la interacción del usuario y validar las credenciales. La clave aquí era inspeccionar su código fuente, un proceso sencillo que puedes realizar haciendo clic sobre el formulario con el botón derecho del ratón, y seleccionando “Ver código fuente de la página”.
+
+En el código fuente, puedes encontrar hardcoded el usuario y el password del formulario:
+
+Introduces como usuario “keychron-k8” y como password “seraparami”, y se descarga un objeto encriptado. El formulario ofrece ayuda adicional para guiarte en el proceso:
+
+Fichero encriptado
+
+El fichero descargado es un archivo llamado challenge-esc01.7z.
+
+Este fichero está comprimido con el compresor 7z. Al intentar descomprimirlo te solicita una contraseña, la clave simétrica que recibiste durante el proceso de inscripción. De esta manera, solo los inscritos al reto podían continuar con el proceso a partir de este punto.
+
+El fichero encriptado se puede descomprimir usando este comando:
+
+    $ 7z x challenge-esc01.7z
+
+Insertando el password obtenido durante la inscripción, se extrae un directorio llamado challenge-esc01. Dentro de este directorio puedes encontrar dos archivos:
+
+Lo primero es leer el contenido del fichero README:
+
+A partir de aquí, puedes borrar el archivo README. El reto se centra en decodificar el contenido del fichero encoded_message.
+
+Como primer paso, revisa el contenido del mensaje codificado:
+
+Viendo el contenido, y tras leer el articulo citado en la PISTA1 sobre sistemas de codificación, te puedes llegar a imaginar que este código esta codificado en base64. Veamos el resultado de decodificarlo:
+
+A partir de aquí, podrías darle a la imaginación, o esperar a la segunda pista:
+
+  PISTA2: Darle la vuelta te puede ofrecer una perspectiva diferente
+
+Para cualquier informático, queda bastante claro que darle la vuelta a un mensaje, puede significar invertir ceros por unos, y unos por ceros. Para ello, podemos usar este comando:
+
+El comando “tr”, traduce cualquier 0 por una f, cualquier 1 por una e, cualquier 2 por una d, y así sucesivamente hasta la f por un 0. Es decir, substituimos cada dígito hexadecimal, por su equivalente negado, cambiando ceros por unos y unos por ceros.
+
+Desde este punto, de nuevo podrías darle a la imaginación, o esperar a la tercera pista:
+
+  PISTA3: cada letra tiene un valor perfectamente codificado en un antiguo estándar que todos conocemos
+
+Cualquier informático entiende que el estándar referenciado que codifica letras es el ASCII. Y de nuevo, si volvemos al articulo sobre sistemas de codificación, tenemos una explicación muy clara de como funciona este estándar. Si convertimos cada 2 dígitos en hexadecimal, a su equivalente en el estándar ASCII, parece que se construye la cadena “Desde”:
+
+Podrias seguír decodificando caracter a caracter el resto del mensaje. Pero es mas fácil usando una herramienta que haga ese trabajo por nosotros. El siguiente comando decodifica toda la secuencia de bytes hexadecimales, a su equivalente en ASCII:
+
+Desde el blog LaTeclaESC te doy la ENHORABUENA por resolver ESC01, el primer Challenge de ciberseguridad 2025. Como recompensa por tu esfuerzo y agradecimiento por tu fidelidad, te regalo un teclado mecánico Keychron K8 totalmente gratuíto, el mismo con el que he escrito este texto. Ponte en contacto con el blog, enviando un email a lateclaescape@gmail.com, copiando y pegando este texto en el correo para demostrar que has resuelto el challenge. No olvides adjuntar tu dirección para hacerte el envío. Muchas gracias por participar, y hasta el proximo reto! Pulso la tecla ESC, dos puntos wq!
+
+Resolución
+
+El 13 de marzo de 2025, a escasas 48h de expirar el plazo para finalizar el reto, llega el correo de un concursante que ha logrado resolver el reto, con el mérito adicional de hacerlo sin solicitar ni la PISTA2 ni la PISTA3. ¡Que bien lo has hecho!. Enhorabuena compañero, ¡espero que lo disfrutes!.
+
+El día de la publicación de este articulo, el ganador ya está disfrutando de su nuevo teclado mecánico Keychron K8.
+
+Conclusión
+
+A todos los participantes, agradeceros tanto el seguimiento como la difusión de este reto. Y recordaros que durante el año 2025 habrá un segundo challenge con otro premio. ¡Así que atentos porque habrá mas sorpresas!
+
+Quiero añadir que el concursante que ha logrado resolver el reto es uno de los seguidores del canal de Telegram. Lo que demuestra que estar atento a las novedades de este canal ofrece cierta ventaja sobre el resto de los participantes. Así que, si aún no lo has hecho, te animo a subscribirte al canal, es totalmente gratuito, hay gente muy maja por aquí que siempre está dispuesta a ayudar, y seguro que entre todos aprenderemos un montón.
+
+¡Nos vemos en el próximo articulo!
+
+Pulso la tecla ESC, dos puntos wq!
