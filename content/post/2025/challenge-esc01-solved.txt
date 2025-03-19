@@ -20,7 +20,7 @@ Al pulsar el link del enlace ESC01, se abre el formulario del challenge:
 
 El formulario solicita un usuario y una contraseña. Sin importar qué credenciales utilices, devuelve un mensaje de error. Este mensaje contiene una pequeña pista que debía ayudarte a superar este paso:
 
-Un formulario web se basa principalmente en HTML para definir su estructura y en JavaScript para gestionar la interacción del usuario y validar las credenciales. La clave aquí era inspeccionar su código fuente, un proceso sencillo que puedes realizar haciendo clic sobre el formulario con el botón derecho del ratón, y seleccionando “Ver código fuente de la página”.
+Un formulario web se basa principalmente en HTML para definir su estructura y en Javascript para gestionar la interacción del usuario y validar las credenciales. La clave aquí era inspeccionar su código fuente, un proceso sencillo que puedes realizar haciendo clic sobre el formulario con el botón derecho del ratón, y seleccionando “Ver código fuente de la página”.
 
 En el código fuente, puedes encontrar hardcoded el usuario y el password:
 
@@ -58,21 +58,19 @@ Desde este punto, de nuevo podrías darle a la imaginación, o esperar a la terc
 
 Cualquier informático entiende que el estándar referenciado que codifica letras es el ASCII. Y de nuevo, si volvemos al articulo sobre sistemas de codificación, tenemos una explicación muy clara de como funciona este estándar. Si convertimos cada 2 dígitos en hexadecimal, a su equivalente en el estándar ASCII, parece que se construye la cadena “Desde”:
 
-Podrias seguír decodificando caracter a caracter el resto del mensaje. Pero es mas fácil usar una herramienta que haga ese trabajo por nosotros. El siguiente comando decodifica toda la secuencia de bytes hexadecimales, a su equivalente en ASCII:
+Podrías seguir decodificando carácter a carácter el resto del mensaje. Pero es mas fácil usar una herramienta que haga ese trabajo por nosotros. El siguiente comando decodifica toda la secuencia de bytes hexadecimales, a su equivalente en ASCII:
 
-Desde el blog LaTeclaESC te doy la ENHORABUENA por resolver ESC01, el primer Challenge de ciberseguridad 2025. Como recompensa por tu esfuerzo y agradecimiento por tu fidelidad, te regalo un teclado mecánico Keychron K8 totalmente gratuíto, el mismo con el que he escrito este texto. Ponte en contacto con el blog, enviando un email a lateclaescape@gmail.com, copiando y pegando este texto en el correo para demostrar que has resuelto el challenge. No olvides adjuntar tu dirección para hacerte el envío. Muchas gracias por participar, y hasta el proximo reto!
+Desde el blog LaTeclaESC te doy la ENHORABUENA por resolver ESC01, el primer Challenge de ciberseguridad 2025. Como recompensa por tu esfuerzo y agradecimiento por tu fidelidad, te regalo un teclado mecánico Keychron K8 totalmente gratuito, el mismo con el que he escrito este texto. Ponte en contacto con el blog, enviando un email a lateclaescape@gmail.com, copiando y pegando este texto en el correo para demostrar que has resuelto el challenge. No olvides adjuntar tu dirección para hacerte el envío. Muchas gracias por participar, y hasta el próximo reto!
 
 Resolución
 
-El 13 de marzo de 2025, a escasas 48 horas de expirar el plazo máximo para resolverlo, llega el correo de un concursante que ha logrado resolver el reto, con el mérito adicional de hacerlo sin solicitar ni la PISTA2 ni la PISTA3. ¡Que bien lo has hecho!. Enhorabuena compañero, ¡espero que surjan grandes proyectos de LaTeclaESC de tu nuevo teclado!.
-
-El día de la publicación de este articulo, el ganador ya está disfrutando de su nuevo teclado mecánico Keychron K8.
+El 13 de marzo de 2025, a tan solo 48 horas de que venciera el plazo, llegó el correo de un concursante que logró resolver el reto. Y no solo eso, sino que lo hizo sin necesidad de pedir n  i la PISTA2 ni la PISTA3. ¡Increíble trabajo! Enhorabuena, compañero. Espero que disfrutes al máximo tu nuevo Keychron K8 y que de su tecla ESC surjan grandes proyectos. ¡Te lo has ganado!.
 
 Conclusión
 
 A todos los participantes, agradeceros tanto el seguimiento como la difusión de este reto. Y recordaros que durante 2025 habrá un segundo challenge con otro premio. ¡Así que atentos porque habrá mas sorpresas!
 
-Quiero añadir que el concursante que ha logrado resolver el reto es uno de los seguidores del canal de Telegram. Lo que demuestra que estar atento a las novedades de este canal ofrece cierta ventaja sobre el resto de los participantes. Así que, si aún no lo has hecho, te animo a subscribirte al canal, es totalmente gratuito, hay gente muy maja por aquí que siempre está dispuesta a ayudar, y seguro que entre todos aprenderemos un montón.
+Quiero añadir que el concursante que ha logrado resolver el reto es uno de los seguidores del canal de Telegram. Lo que demuestra que estar atento a las novedades de este canal ofrece cierta ventaja sobre el resto de los participantes. Así que, si aún no lo has hecho, te animo a suscribirte al canal, es totalmente gratuito, hay gente muy maja por aquí que siempre está dispuesta a ayudar, y seguro que entre todos aprenderemos un montón.
 
 ¡Nos vemos en el próximo articulo!
 

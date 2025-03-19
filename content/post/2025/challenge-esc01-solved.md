@@ -40,7 +40,7 @@ El formulario solicita un usuario y una contraseña. Sin importar qué credencia
 
 ![Formulario challenge ESC01 form error](/img/esc01-solved-form-error.webp)
 
-Un formulario web se basa principalmente en HTML para definir su estructura y en JavaScript para gestionar la interacción del usuario y validar las credenciales. La clave aquí era inspeccionar su código fuente, un proceso sencillo que puedes realizar haciendo clic sobre el formulario con el botón derecho del ratón, y seleccionando "Ver código fuente de la página".
+Un formulario web se basa principalmente en HTML para definir su estructura y en Javascript para gestionar la interacción del usuario y validar las credenciales. La clave aquí era inspeccionar su código fuente, un proceso sencillo que puedes realizar haciendo clic sobre el formulario con el botón derecho del ratón, y seleccionando "Ver código fuente de la página".
 
 ![Formulario challenge ESC01 form javascript](/img/esc01-solved-form-javascript.webp)
 
@@ -181,7 +181,7 @@ Cualquier informático entiende que el estándar referenciado que codifica letra
 ...
 ```
 
-Podrias seguír decodificando caracter a caracter el resto del mensaje. Pero es mas fácil usar una herramienta que haga ese trabajo por nosotros. El siguiente comando decodifica toda la secuencia de bytes hexadecimales, a su equivalente en ASCII:
+Podrías seguir decodificando carácter a carácter el resto del mensaje. Pero es mas fácil usar una herramienta que haga ese trabajo por nosotros. El siguiente comando decodifica toda la secuencia de bytes hexadecimales, a su equivalente en ASCII:
 
 ```
 $ cat encoded_message | base64 -d | xxd -p | tr '0123456789abcdef' 'fedcba9876543210' | xxd -r -p
@@ -190,15 +190,13 @@ Desde el blog LaTeclaESC te doy la ENHORABUENA por resolver ESC01, el primer Cha
 
 # Resolución
 
-El 13 de marzo de 2025, a escasas 48 horas de expirar el plazo máximo para resolverlo, llega el correo de un concursante que ha logrado resolver el reto, con el mérito adicional de hacerlo sin solicitar ni la **PISTA2** ni la **PISTA3**. ¡Que bien lo has hecho!. Enhorabuena compañero, ¡espero que surjan grandes proyectos de LaTeclaESC de tu nuevo teclado!.
-
-El día de la publicación de este articulo, el ganador ya está disfrutando de su nuevo teclado mecánico [Keychron K8](/post/2025/mechanical-keyboard-keychron-k8).
+El 13 de marzo de 2025, a tan solo 48 horas de que venciera el plazo, llegó el correo de un concursante que logró resolver el reto. Y no solo eso, sino que lo hizo sin necesidad de pedir ni la PISTA2 ni la PISTA3. ¡Increíble trabajo! Enhorabuena, compañero. Espero que disfrutes al máximo tu nuevo [Keychron K8](/post/2025/mechanical-keyboard-keychron-k8) y que de su tecla ESC surjan grandes proyectos. ¡Te lo has ganado!.
 
 # Conclusión
 
 A todos los participantes, agradeceros tanto el seguimiento como la difusión de este reto. Y recordaros que durante 2025 habrá un segundo challenge con otro premio. ¡Así que atentos porque habrá mas sorpresas!
 
-Quiero añadir que el concursante que ha logrado resolver el reto es uno de los seguidores del [canal de Telegram](https://t.me/lateclaescape). Lo que demuestra que estar atento a las novedades de este canal ofrece cierta ventaja sobre el resto de los participantes. Así que, si aún no lo has hecho, te animo a subscribirte al canal, es totalmente gratuito, hay gente muy maja por aquí que siempre está dispuesta a ayudar, y seguro que entre todos aprenderemos un montón.
+Quiero añadir que el concursante que ha logrado resolver el reto es uno de los seguidores del [canal de Telegram](https://t.me/lateclaescape). Lo que demuestra que estar atento a las novedades de este canal ofrece cierta ventaja sobre el resto de los participantes. Así que, si aún no lo has hecho, te animo a suscribirte al canal, es totalmente gratuito, hay gente muy maja por aquí que siempre está dispuesta a ayudar, y seguro que entre todos aprenderemos un montón.
 
 ¡Nos vemos en el próximo articulo!
 
