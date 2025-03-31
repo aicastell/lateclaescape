@@ -340,6 +340,12 @@ A partir de este punto ya puedes instalar la versión definitiva de OpenWrt, act
 $ scp -O openwrt-23.05.5-ipq807x-generic-xiaomi_ax3600-squashfs-sysupgrade.bin root@192.168.1.1:/tmp/
 ```
 
+Seguidamente, conecta de nuevo al router por SSH:
+
+```
+$ ssh root@192.168.1.1
+```
+
 Y como último paso, la instalas:
 
 ```
