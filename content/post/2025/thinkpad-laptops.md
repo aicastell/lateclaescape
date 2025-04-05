@@ -40,7 +40,7 @@ Su icónico TrackPoint rojo, situado entre las teclas G, H y B, facilita la nave
 
 ![ThinkPad laptops red trackpoint](/img/thinkpad-laptops-red-trackpoint.webp)
 
-La resistencia de estos teclados es legendaria, soportando derrames de líquidos y un uso intensivo sin perder calidad.
+La resistencia de estos teclados es legendaria, soportando [derrames de líquidos](https://www.youtube.com/watch?v=ke3H4Gnilco) y un uso intensivo sin perder calidad.
 
 Por su fiabilidad y comodidad, sigue siendo la elección favorita de programadores, escritores y profesionales del sector que buscan productividad sin concesiones.
 
@@ -96,6 +96,6 @@ Un diseño sencillo pero robusto, un teclado icónico y una durabilidad excepcio
 
 Si has tenido la oportunidad de disfrutar de un ThinkPad, seguro entenderás por qué son tan apreciados. Si te han sorprendido estas curiosidades, o tienes dudas sobre estos portátiles, puedes encontrarme en el [canal de Telegram](https://t.me/lateclaescape), donde podemos compartir opiniones y resolver cualquier duda que tengas sobre ellos.
 
-¿Te ha picado el gusanillo de hacerte con un ThinkPad? ¡Genial, no eres el único! En el próximo artículo me embarcaré en la búsqueda de un modelo de segunda mano que voy a tunear para convertirlo en mi nuevo portátil personal, todo a un costo ridículamente bajo. ¿Qué modelo será el elegido? ¿Qué mejoras le haré? ¡No te lo pierdas los detalles en el próximo artículo!.
+¿Te ha picado el gusanillo de hacerte con un ThinkPad?. Genial, ¡no eres el único! En el próximo artículo me embarcaré en la búsqueda de un modelo de segunda mano que voy a tunear para convertirlo en mi nuevo portátil personal, todo a un coste ridículamente bajo. ¿Qué modelo será el elegido? ¿Qué mejoras le haré? ¡No te pierdas los detalles en el próximo artículo!.
 
 Pulso la tecla ESC, dos puntos wq!

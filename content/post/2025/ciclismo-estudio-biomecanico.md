@@ -119,7 +119,7 @@ Por ejemplo, en mi caso, suelo cambiar la potencia por una más larga para mejor
 # Recomendación personal
 
 Mi primera recomendación es que te hagas el estudio biomecánico antes de comprar la bicicleta. ¿Por qué? Porque te permite identificar cualquier posible incompatibilidad entre la geometría del cuadro y tu anatomía, lo cual puede ahorrarte muchos quebraderos de cabeza. Si lo haces después de comprar la bicicleta, puedes hacer ajustes, pero puede que no consigas adaptarte nunca a tu nueva bicicleta. Te confieso que yo también cometí el error de comprar la bicicleta que mas me gustaba, y luego intenté adaptarla a mi anatomía. Y este camino no siempre es posible.
-:
+
 ![Estudio biomecánico Trek Emonda SL5](/img/estudio-biomecanico-trek-emonda-sl5.webp)
 
 Mi segunda recomendación es que inviertas un poco de dinero y te hagas el estudio biomecánico de nivel intermedio. No hace falta que vayas al avanzado, pero el intermedio te dará información muy precisa sobre las geometrías que no se adaptan a tu cuerpo. Y esto te permitirá descartar modelos que no se ajusten adecuadamente desde el principio. Y luego, una vez tengas una bicicleta que se ajuste bien, podrás afinar los detalles y lograr una experiencia mucho mas placentera.
