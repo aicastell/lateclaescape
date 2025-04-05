@@ -62,7 +62,7 @@ Los ThinkPad vienen con opciones de seguridad avanzadas como lectores de huellas
 
 # Certificación militar
 
-Todos los modelos ThinkPad de la gama profesional cumplen con la [norma MIL-STD-810H](https://quicksearch.dla.mil/Transient/D6595ED488784C7AA7A9C00E108EDD23.pdf), un estándar militar avalado por el Departamento de Defensa de EE.UU que garantiza su capacidad de operar en condiciones extremas. Cumplir con esta norma exige a los ThinkPad superar una serie de ensayos muy rigurosos, entre ellos:
+Todos los modelos ThinkPad de la gama profesional cumplen con la [norma MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810), un estándar militar avalado por el Departamento de Defensa de EE.UU que garantiza su capacidad de operar en condiciones extremas. Cumplir con esta norma exige a los ThinkPad superar una serie de ensayos muy rigurosos, entre ellos:
 
 - Baja presión: Funcionamiento a 4.500 metros de altitud.
 - Humedad: Resistencia a hasta un 95% de humedad ambiental.
