@@ -46,7 +46,7 @@ La banda [Eisbrecher](https://www.eis-brecher.com/), liderada por el carismátic
 
 ![Concierto Eisbrecher despedida](/img/eisbrecher-concert-grupo.webp)
 
-En la segunda parte, tiran de recursos mas conocidos para el público asistente como [FAKK](https://www.youtube.com/watch?v=yNXMs_y7n9c), [Zwischen uns](https://www.youtube.com/watch?v=RVTvrzjQAGY), [This is Deutsch](https://www.youtube.com/watch?v=X-BleA27TXQ) o [Was ist hier los](https://www.youtube.com/watch?v=8N5u3Mxo3lE).
+En la segunda parte, tiran de recursos mas conocidos para el público asistente como [FAKK](https://www.youtube.com/watch?v=yNXMs_y7n9c), [Zwischen uns](https://www.youtube.com/watch?v=RVTvrzjQAGY), [This is Deutsch](https://www.youtube.com/watch?v=X-BleA27TXQ), [Eiszeit](https://www.youtube.com/watch?v=PjXAGORF9JI), [Was ist hier los](https://www.youtube.com/watch?v=8N5u3Mxo3lE) o [Volle Kraft voraus](https://www.youtube.com/watch?v=llWE-sWGFMc).
 
 La banda disfruta visiblemente de la complicidad del público y no duda en jugar con nosotros en varias ocasiones: nos invitan a corear mientras suena la armónica, a agitar los brazos al ritmo de la música y a marcar los compases con palmas. La entrega de la sala es total; cuesta encontrar a alguien que no esté completamente implicado en el espectáculo que estamos viviendo.
 
