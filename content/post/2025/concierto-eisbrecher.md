@@ -12,7 +12,7 @@ featured: true
 
 La maquinaria del metal industrial ha vuelto a rugir en Barcelona, esta vez de la mano de la imponente banda alemana *Eisbrecher*. Desde su formación en 2003, los bávaros han arrasado los escenarios de toda Europa Central con un directo tan demoledor como espectacular, capaz de dejar una huella imborrable en cualquiera que lo presencia.
 
-El concierto tiene lugar en la [Sala Salamandra](https://www.salamandra.cat/), en L'Hospitalet de Llobregat (Barcelona), como parte de la gira Kaltfront Tour 2025. Esta gira internacional llevará a la banda por ciudades emblemáticas como Zúrich, Luxemburgo, Eindhoven, Mánchester, Londres, París, Lyon o Toulouse. En su segunda visita a Barcelona, Eisbrecher presenta su nuevo álbum Kaltfront, publicado el 14 de marzo de 2025.
+El concierto se celebra en la [Sala Salamandra](https://www.salamandra.cat/), en L'Hospitalet de Llobregat (Barcelona), como parte de la gira Kaltfront Tour 2025. En su segunda visita a la ciudad, Eisbrecher presenta Kaltfront, su nuevo álbum lanzado el 14 de marzo de 2025. Esta gira internacional llevará a la banda por algunas de las ciudades más destacadas de Europa, como Zúrich, Luxemburgo, Eindhoven, Mánchester, Londres, París, Lyon, Toulouse, Hamburgo y Berlín.
 
 Compré las entradas en julio de 2024, sin imaginar que estaba comprando algo más que las entradas de un concierto. Estaba reservando, sin saberlo, el epílogo de una etapa vital. El destino, con su habitual ironía, ha querido que la segunda visita de esta banda a Barcelona coincida con mi segundo concierto para verlos en directo. Y al mismo tiempo, con mi segunda despedida de esta ciudad a la que tantas veces he llamado hogar.
 
