@@ -12,7 +12,7 @@ featured: true
 
 La maquinaria del metal industrial ha vuelto a rugir en Barcelona, esta vez de la mano de la imponente banda alemana *Eisbrecher*. Desde su formación en 2003, los bávaros han arrasado los escenarios de toda Europa Central con un directo tan demoledor como espectacular, capaz de dejar una huella imborrable en cualquiera que lo presencia.
 
-Este concierto se celebra en la [Sala Salamandra](https://www.salamandra.cat/) de L'Hospitalet de Llobregat, Barcelona, como parte de su gira Kaltfront Tour 2025. Su segunda visita a Barcelona servirá para promocionar su más reciente álbum, Kaltfront, lanzado el 14 de marzo de 2025.
+El concierto tiene lugar en la [Sala Salamandra](https://www.salamandra.cat/), en L'Hospitalet de Llobregat (Barcelona), como parte de la gira Kaltfront Tour 2025. Esta gira internacional llevará a la banda por ciudades emblemáticas como Zúrich, Luxemburgo, Eindhoven, Mánchester, Londres, París, Lyon o Toulouse. En su segunda visita a Barcelona, Eisbrecher presenta su nuevo álbum Kaltfront, publicado el 14 de marzo de 2025.
 
 Compré las entradas en julio de 2024, sin imaginar que estaba comprando algo más que las entradas de un concierto. Estaba reservando, sin saberlo, el epílogo de una etapa vital. El destino, con su habitual ironía, ha querido que la segunda visita de esta banda a Barcelona coincida con mi segundo concierto para verlos en directo. Y al mismo tiempo, con mi segunda despedida de esta ciudad a la que tantas veces he llamado hogar.
 
@@ -32,6 +32,8 @@ Empieza el concierto [Heldmaschine](https://www.heldmaschine.de/), la banda telo
 
 Su aparición en el escenario, portando potentes focos de luz blanca sobre sus cabezas en plena oscuridad, deja claro desde el primer instante que no están aquí solo para caldear el ambiente. Han venido a demostrar, con autoridad, por qué se han ganado un lugar en la escena industrial alemana.
 
+![Concierto Eisbrecher Heldmaschine entrada](/img/eisbrecher-concert-heldmaschine-entrada.webp)
+
 Con su sonido potente, ritmos marcados y una presencia escénica arrolladora, logran captar la atención del público y convertir la espera en un espectáculo por derecho propio.
 
 ![Concierto Eisbrecher Heldmaschine despedida](/img/eisbrecher-concert-heldmaschine-despedida.webp)
@@ -42,9 +44,11 @@ No conocía a este grupo antes de esta noche, pero seguiré explorando su músic
 
 La banda [Eisbrecher](https://www.eis-brecher.com/), liderada por el carismático [Alexander Wesselsky](https://en.wikipedia.org/wiki/Alexander_Wesselsky) lleva desde 2003 arrasando los escenarios de toda Europa Central con su potente directo. Sin embargo, en España siguen siendo una joya poco conocida, con una acogida aún modesta. Esta es su segunda visita a Barcelona. Me siento afortunado de poder verlos en directo por segunda vez.
 
-*Eisbrecher* divide el concierto en dos partes. En la primera, intercalan temas muy conocidos de sus antiguos discos con temas del disco nuevo como [Kalfront](https://www.youtube.com/watch?v=Y-DxNfzTn6k) o [Waffen, waffen, waffen](https://www.youtube.com/watch?v=awCb58RVL70). Alexander pinta con un grafiti el símbolo de la paz sobre un cartel donde pone Waffen, waffen, waffen (armas). Lo que despierta la ovación y los aplausos de todo el publico asistente.
+![Concierto Eisbrecher actuación](/img/eisbrecher-concert-actuacion.webp)
 
-![Concierto Eisbrecher despedida](/img/eisbrecher-concert-grupo.webp)
+*Eisbrecher* divide el concierto en dos partes. En la primera, intercalan temas muy conocidos de sus antiguos discos con temas del disco nuevo como [Kalfront](https://www.youtube.com/watch?v=Y-DxNfzTn6k) o [Waffen, waffen, waffen](https://www.youtube.com/watch?v=awCb58RVL70). Alexander toma un espray y, con gesto decidido, dibuja un grafiti con el símbolo de la paz sobre un cartel donde se lee "Waffen, Waffen, Waffen" (armas). A pesar de la estética marcadamente militar que caracteriza a esta banda, el mensaje es claro e inequívoco: saben bien de qué lado están. El gesto arranca una ovación unánime y los aplausos de todo el público.
+
+![Concierto Eisbrecher grupo](/img/eisbrecher-concert-grupo.webp)
 
 En la segunda parte, tiran de recursos mas conocidos para el público asistente como [FAKK](https://www.youtube.com/watch?v=yNXMs_y7n9c), [Zwischen uns](https://www.youtube.com/watch?v=RVTvrzjQAGY), [This is Deutsch](https://www.youtube.com/watch?v=X-BleA27TXQ), [Eiszeit](https://www.youtube.com/watch?v=PjXAGORF9JI), [Was ist hier los](https://www.youtube.com/watch?v=8N5u3Mxo3lE) o [Volle Kraft voraus](https://www.youtube.com/watch?v=llWE-sWGFMc).
 
@@ -54,7 +58,7 @@ El concierto cierra con el que para mi es el mejor tema de esta banda: [Out of t
 
 ![Concierto Eisbrecher despedida](/img/eisbrecher-concert-despedida.webp)
 
-Alexander despide uno por uno a todos los miembros de la banda y marcha del escenario con un "hasta muy muy muy pronto!". Que así sea Alexander Wesselsky: Vielen Dank und bis bald!
+El cantante despide uno por uno a todos los miembros de la banda y marcha del escenario con un "hasta muy muy muy pronto!". Que así sea Alexander Wesselsky: Vielen Dank und bis bald!
 
 # Despedida
 
