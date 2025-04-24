@@ -80,11 +80,11 @@ El modelo T480 dispone de dos slots SODIMM que admiten hasta 16 GB de memoria 
 
 ## Almacenamiento
 
-El ThinkPad T480 dispone de una ranura M.2 compatible con unidades NVMe, lo que permite instalar un SSD de alto rendimiento. En mi caso, he optado por un Samsung 970 EVO Plus de 1 TB, adquirido en PcComponentes por 94,99€. Con velocidades de lectura secuencial de hasta 3500 MB/s, esta unidad garantiza un acceso extremadamente rápido a mis datos y una experiencia fluida en el uso diario.
+El ThinkPad T480 dispone de una ranura M.2 compatible con unidades NVMe, lo que permite instalar un SSD de alto rendimiento. En mi caso, he optado por un Samsung 970 EVO Plus de 1 TB, adquirido en PcComponentes por 94.99€. Con velocidades de lectura secuencial de hasta 3500 MB/s, esta unidad garantiza un acceso extremadamente rápido a mis datos y una experiencia fluida en el uso diario.
 
 ![Almacenamiento WWAN M.2 SATA](/img/lenovo-thinkpad-t480-storage-nvme-m2-samsung-970-evo-plus.webp)
 
-Además, he sustituido el módulo WWAN —originalmente destinado al módem— por una segunda unidad M.2 NVMe, que utilizaré exclusivamente para el sistema operativo. De este modo, consigo separar el sistema de mis datos personales, mejorando la organización y la seguridad. Se trata de un Western Digital SN520 M.2 2242 NVMe de 256 GB, adquirido en AliExpress por 37,69 €.
+Además, he sustituido el módulo WWAN —originalmente destinado al módem— por una segunda unidad M.2 NVMe, que utilizaré exclusivamente para el sistema operativo. De este modo, consigo separar el sistema de mis datos personales, mejorando la organización y la seguridad. Se trata de un Western Digital SN520 M.2 2242 NVMe de 256 GB, adquirido en AliExpress por 37.69 €.
 
 ![Almacenamiento WWAN M.2 SATA](/img/lenovo-thinkpad-t480-storage-m2-sata.webp)
 
