@@ -1,10 +1,10 @@
 ---
 title: Lenovo Thinkpad T480
-date: 2025-04-22
+date: 2025-04-24
 image: /img/posts/laptop-lenovo-thinkpad-t480.webp
 categories: [ "hardware", "tecnología", "gadget", "opinión", "review", "personal" ]
 tags: [ "laptop", "Lenovo", "ThinkPad", "T480", "PowerBridge" ]
-draft: true
+draft: false
 featured: true
 ---
 
