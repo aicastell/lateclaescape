@@ -26,7 +26,7 @@ Busco un portátil compacto, ligero, duradero y estable, con suficiente potencia
 
 Como viajo con cierta frecuencia, necesito un equipo fácil de transportar, no un "ladrillo" que requiera una maleta con ruedas. Descarto pantallas de 15,6 pulgadas o más grandes, me centro en modelos de 14 pulgadas, un tamaño ideal que equilibra movilidad, comodidad y funcionalidad.
 
-Necesito una CPU de bajo consumo para maximizar la duración de la batería y poder hacer viajes largos sin preocuparme por tener que cargarla cada dos horas. Sin embargo, también necesito que sea lo suficientemente potente para realizar las típicas de un desarrollador de software.
+Necesito una CPU de bajo consumo para maximizar la duración de la batería y poder hacer viajes largos sin preocuparme por tener que cargarla cada dos horas. Sin embargo, también necesito que sea lo suficientemente potente para realizar las tareas típicas de un desarrollador de software.
 
 Hoy en día 32 GB de RAM son imprescindibles para evitar limitaciones de rendimiento. Debe ser como mínimo memoria DDR4. Descarto la DDR3 por su menor velocidad. También descarto cualquier portátil con memoria soldada a la placa base, ya que limita las posibilidades de ampliación y dificulta las reparaciones en caso de fallo. Lo ideal es que cuente con dos ranuras SODIMM.
 
