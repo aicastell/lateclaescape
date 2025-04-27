@@ -8,6 +8,10 @@ draft: false
 featured: true
 ---
 
+*Articulo disponible en formato audiblog:*
+
+{{< audio path="audio/laptop-lenovo-thinkpad-t480.mp3" >}}
+
 # Introducción
 
 En este articulo me embarco en la misión de encontrar el portátil perfecto: robusto, versátil y con una excelente relación calidad-precio.
@@ -22,7 +26,7 @@ Busco un portátil compacto, ligero, duradero y estable, con suficiente potencia
 
 Como viajo con cierta frecuencia, necesito un equipo fácil de transportar, no un "ladrillo" que requiera una maleta con ruedas. Descarto pantallas de 15,6 pulgadas o más grandes, me centro en modelos de 14 pulgadas, un tamaño ideal que equilibra movilidad, comodidad y funcionalidad.
 
-Necesito una CPU de bajo consumo para maximizar la duración de la batería y poder hacer viajes largos sin preocuparme por tener que cargarla cada dos horas. Sin embargo, también necesito que sea lo suficientemente potente para manejar tareas típicas de un desarrollador de software, como lectura de documentación, edición de código fuente, compilación, acceso a máquinas remotas, ejecución de entornos virtualizados y uso de sistemas de control de versiones.
+Necesito una CPU de bajo consumo para maximizar la duración de la batería y poder hacer viajes largos sin preocuparme por tener que cargarla cada dos horas. Sin embargo, también necesito que sea lo suficientemente potente para realizar las típicas de un desarrollador de software.
 
 Hoy en día 32 GB de RAM son imprescindibles para evitar limitaciones de rendimiento. Debe ser como mínimo memoria DDR4. Descarto la DDR3 por su menor velocidad. También descarto cualquier portátil con memoria soldada a la placa base, ya que limita las posibilidades de ampliación y dificulta las reparaciones en caso de fallo. Lo ideal es que cuente con dos ranuras SODIMM.
 
@@ -40,9 +44,9 @@ Para hacerlo aún más desafiante, me impongo un presupuesto máximo de 500€. 
 
 Tras analizar varios ThinkPad, descubro que el modelo que mejor se adapta a mis necesidades es el Lenovo ThinkPad T480. Lanzado en 2018, forma parte de la icónica serie T de Lenovo, reconocida por su enfoque en el mercado empresarial. Este modelo fue el sucesor directo del T470, trayendo consigo mejoras clave en rendimiento, conectividad y duración de la batería.
 
-![Comparativa Amazon nuevo](/img/lenovo-thinkpad-t480-specs.webp)
+![Lenovo ThinkPad T480 specs](/img/lenovo-thinkpad-t480-specs.webp)
 
-EL ThinkPad T480 se distingue de otros modelos por su modularidad, una característica que Lenovo y otros fabricantes han ido eliminando progresivamente, al optar por diseños más compactos y menos ampliables. Por esta razón, el T480 es considerado por muchos como uno de los mejores portátiles en la historia de Lenovo.
+El ThinkPad T480 se distingue de otros modelos por su modularidad, una característica que Lenovo y otros fabricantes han ido eliminando progresivamente, al optar por diseños más compactos y menos ampliables. Por esta razón, el T480 es considerado por muchos como uno de los mejores portátiles en la historia de Lenovo.
 
 Hay muchos Lenovo ThinkPad T480 disponibles en tiendas de segunda mano. Son portátiles que empresas grandes retiran para renovar su stock, y se venden literalmente por palets. Algunas personas los compran a granel, les hacen un lavado de cara, y luego los revenden con un margen de beneficio. Los precios de reventa varían entre los 200€ y los 300€. Desconfiad de precios mas baratos.
 
@@ -54,7 +58,7 @@ Encontré este anuncio en Wallapop:
 
 Consulté al vendedor la posibilidad de adquirir el equipo sin disco duro ni memoria RAM. Su precio inicial era de 240€, pero accedió a reducirlo a 200€ al excluir estos componentes. Aunque inicialmente buscaba el modelo con procesador Intel i7 (más potente pero también mas difícil de encontrar), al final decidí aprovechar esta oportunidad y realicé la compra:
 
-![Paquete recibido de wallapop](/img/lenovo-thinkpad-t480-compra-en-wallapop.webp)
+![Compra en wallapop](/img/lenovo-thinkpad-t480-compra-en-wallapop.webp)
 
 El portátil llegó embalado de manera impecable.
 
@@ -82,7 +86,7 @@ El modelo T480 dispone de dos slots SODIMM que admiten hasta 16 GB de memoria 
 
 El ThinkPad T480 dispone de una ranura M.2 compatible con unidades NVMe, lo que permite instalar un SSD de alto rendimiento. En mi caso, he optado por un Samsung 970 EVO Plus de 1 TB, adquirido en PcComponentes por 94.99€. Con velocidades de lectura secuencial de hasta 3500 MB/s, esta unidad garantiza un acceso extremadamente rápido a mis datos y una experiencia fluida en el uso diario.
 
-![Almacenamiento WWAN M.2 SATA](/img/lenovo-thinkpad-t480-storage-nvme-m2-samsung-970-evo-plus.webp)
+![Almacenamiento Samsung 970 EVO Plus](/img/lenovo-thinkpad-t480-storage-nvme-m2-samsung-970-evo-plus.webp)
 
 Además, he sustituido el módulo WWAN —originalmente destinado al módem— por una segunda unidad M.2 NVMe, que utilizaré exclusivamente para el sistema operativo. De este modo, consigo separar el sistema de mis datos personales, mejorando la organización y la seguridad. Se trata de un Western Digital SN520 M.2 2242 NVMe de 256 GB, adquirido en AliExpress por 37.69 €.
 
@@ -90,7 +94,7 @@ Además, he sustituido el módulo WWAN —originalmente destinado al módem— p
 
 ## CPU
 
-El T480 viene con procesadores Intel de 8ª generación (i5-8250U, i5-8350U, i7-8550U, i7-8650U), todos de bajo consumo (15W TDP). Son procesadores de 4 núcleos y 8 hilos, con potencia suficiente para realizar tareas como compilación, edición de código, acceso a máquinas remotas y virtualización. Si buscas máxima potencia, el i7-8650U es la mejor opción, aunque es el más complicado de encontrar en el mercado de segunda mano.
+El T480 viene con procesadores Intel de 8ª generación (i5-8250U, i5-8350U, i7-8550U, i7-8650U), todos de bajo consumo (15W TDP). Son procesadores de 4 núcleos y 8 hilos, con potencia suficiente para realizar tareas como lectura de documentación, edición de código fuente, compilación, acceso a máquinas remotas, ejecución de entornos virtualizados y uso de sistemas de control de versiones. Si buscas máxima potencia, el i7-8650U es la mejor opción, aunque es el más complicado de encontrar en el mercado de segunda mano.
 
 ## Pantalla
 
@@ -118,11 +122,11 @@ Y también tiene una tarjeta Intel Wireless 8265, una tarjeta Wi-Fi 5 (802.11ac)
 
 ## Teclado
 
-Muchos ThinkPad se venden con teclados internacionales (ANSI). Algunos vendedores les colocan pegatinas para "convertir" el teclado el ISO-ES. Aunque sea funcional, poner pegatinas a un teclado ThinkPad es como ponerle un bigote postizo a la Mona Lisa. Una falta de respeto total y absoluta al mejor teclado portátil de la historia. Si tienes buen ojo, es fácil detectar estas pegatinas en las fotos del anuncio. En caso de duda, lo más recomendable es preguntar directamente al vendedor antes de realizar la compra.
+Muchos ThinkPad se venden con teclados internacionales (ANSI). Algunos vendedores les colocan pegatinas para "convertir" el teclado en ISO-ES. Aunque sea funcional, poner pegatinas a un teclado ThinkPad es como ponerle un bigote postizo a la Mona Lisa. Una falta de respeto total y absoluta al mejor teclado portátil de la historia. Si tienes buen ojo, es fácil detectar estas pegatinas en las fotos del anuncio. En caso de duda, lo más recomendable es preguntar directamente al vendedor antes de realizar la compra.
 
 ![Teclado sango grial](/img/lenovo-thinkpad-t480-keyboard.webp)
 
-El modelo T480 lleva teclado ISO-ES original. Fue amor a primera tecla. Una maravilla que ahora cuido como si fuera el santo grial de la mecanografía.
+El modelo T480 que he comprado lleva teclado ISO-ES original. Fue amor a primera tecla. Una maravilla que ahora cuido como si fuera el santo grial de la mecanografía.
 
 # Precio
 
