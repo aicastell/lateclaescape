@@ -178,9 +178,9 @@ Efectivamente, has reducido tu deuda pendiente en 205.92€. Le sigues debiendo 
 
 En este articulo has aprendido cómo se calcula la cuota mensual de tu hipoteca y cómo se reparte esa cuota entre intereses y amortización de capital. Ahora ya tienes una base sólida para tomar decisiones más informadas sobre tu préstamo. Entender este reparto es clave para descubrir oportunidades de ahorro que, de otro modo, pasarían desapercibidas.
 
-El próximo articulo explicará como funciona una **tabla de amortización francesa**, lo que te permitirá visualizar cómo evoluciona tu deuda mes a mes y cómo va cambiando la proporción entre intereses y capital amortizado. Y habrá un tercer articulo final, con trucos personales para que ahorres mucho dinero con tu hipoteca. Si quieres entender cómo puedes optimizar el pago de tu hipoteca, no te pierdas los próximos artículos de esta serie.
+El próximo articulo explicará como funciona una **tabla de amortización francesa**, lo que te permitirá visualizar cómo evoluciona tu deuda mes a mes y cómo va cambiando la proporción entre intereses y capital amortizado. Habrá un tercer articulo final, con trucos personales para que ahorres mucho dinero con tu hipoteca. No te pierdas los próximos artículos de esta serie porque lo mejor está por llegar.
 
-Y si te ha picado la curiosidad, te han surgido dudas hipotecarias existenciales, o si simplemente quieres contarme lo caro que está todo, puedes unirte de forma totalmente gratuita al [canal de Telegram](https://t.me/lateclaescape) y dejarme allí tus preguntas, sugerencias, críticas (mejor si son constructivas), o simplemente pasarte a saludar.
+Si te ha picado la curiosidad, te han surgido dudas hipotecarias existenciales, o si simplemente quieres contarme lo caro que está todo, puedes unirte de forma totalmente gratuita al [canal de Telegram](https://t.me/lateclaescape) y dejarme allí tus preguntas, sugerencias, críticas (mejor si son constructivas), o simplemente pasarte a saludar.
 
 ¡Nos vemos calculando la próxima cuota de tu hipoteca!.
 
