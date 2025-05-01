@@ -3,10 +3,14 @@ title: Hiputecado
 date: 2025-05-01
 image: "/img/posts/hiputecado.webp"
 categories: [ "bancos" ]
-tags: [ "hipoteca", "euribor", "importe_prestamo", "amortización", "tipo_de_interes", "capital" ]
-draft: true
+tags: [ "hipoteca", "euribor", "capital_inicial", "amortización", "tipo_de_interes" ]
+draft: false
 featured: true
 ---
+
+*Articulo disponible en formato audiblog:*
+
+{{< audio path="audio/hiputecado.mp3" >}}
 
 # Introducción
 
@@ -22,19 +26,19 @@ Es información valiosa y totalmente gratuita. ¿Quieres pagar menos por tu hipo
 
 Empecemos explicando algunos conceptos financieros que vamos a utilizar después.
 
-- Importe del préstamo
+- Capital inicial
 - Deuda pendiente
 - Plazo de devolución
 - Tipo de interés
 - Periodicidad
 
-## Importe del préstamo
+## Capital inicial
 
-El **importe del préstamo hipotecario**, o **capital inicial**, es la cantidad de dinero que el banco te presta para comprar una vivienda. Actualmente los bancos no conceden el 100% del precio de compra de la vivienda. Normalmente financian solo un porcentaje del valor del inmueble (por ejemplo, el 80%). El resto (el 20%) mas los gastos de gestión (aproximadamente un 10%) debes aportarlo de tus ahorros personales. Esto significa que si quieres pedir una hipoteca, vas a necesitar tener en el banco unos ahorros mínimos de 60000€.
+El **importe del préstamo hipotecario**, o **capital inicial**, es la cantidad de dinero que el banco te presta para comprar una vivienda. Actualmente los bancos no conceden el 100% del precio de compra de la vivienda. Normalmente financian solo un porcentaje del valor del inmueble (por ejemplo, el 80%). El resto (el 20%) mas los gastos de gestión (aproximadamente un 10%) debes aportarlo de tus ahorros personales.
 
 ## Deuda pendiente
 
-Una vez concedido el préstamo, la **deuda pendiente** con el banco es la cantidad total de dinero que debes del préstamo hipotecario en un momento dado. Antes de pagar la primera cuota, la deuda pendiente coincide con el importe total prestado. A medida que realizas pagos mensuales, la deuda pendiente va disminuyendo. Veremos esto después con mas detalle.
+Una vez concedido el préstamo, la **deuda pendiente** con el banco es la cantidad total de dinero que debes del préstamo hipotecario en un momento dado. Antes de pagar la primera cuota, la deuda pendiente coincide con el capital inicial prestado. A medida que realizas pagos mensuales, la deuda pendiente va disminuyendo. Veremos esto después con mas detalle.
 
 ## Plazo de devolución
 
@@ -42,7 +46,7 @@ El plazo de devolución es el tiempo que acuerdas con el banco para devolver el 
 
 ## Tipo de interés
 
-El tipo de interés es un porcentaje que el banco te cobra por prestarte dinero. Mucha gente piensa que el tipo de interés se aplica sobre el **importe del préstamo**, pero no es así. El tipo de interés se aplica sobre la **deuda pendiente**. Esto tiene muchas implicaciones, que veremos después.
+El tipo de interés es un porcentaje que el banco te cobra por prestarte dinero. Mucha gente piensa que el tipo de interés se aplica sobre el **capital inicial** del préstamo, pero no es así. El tipo de interés se aplica sobre la **deuda pendiente**. Esto tiene muchas implicaciones, que veremos después.
 
 Existen principalmente tres tipos de interés:
 
@@ -52,7 +56,7 @@ Existen principalmente tres tipos de interés:
 
 ### Interés a tipo fijo
 
-En una hipoteca con interés a tipo fijo, se fija un tipo de interés que será el mismo durante toda la vida del préstamo. Esto hace que las cuotas mensuales se mantengan constante durante toda la vida del préstamo. Desde el primer día sabes exactamente cuánto vas a pagar cada mes, lo que te aporta estabilidad, seguridad financiera y facilita mucho la planificación a largo plazo.
+En una hipoteca con interés a tipo fijo, se fija un tipo de interés que será el mismo durante toda la vida del préstamo. Esto hace que las cuotas mensuales se mantengan constantes durante toda la vida del préstamo. Desde el primer día sabes exactamente cuánto vas a pagar cada mes, lo que te aporta estabilidad, seguridad financiera y facilita mucho la planificación a largo plazo.
 
 Elegir un tipo fijo resulta especialmente interesante cuando los tipos de interés del mercado están bajos, ya que te permite asegurarte esas condiciones favorables durante toda la vida del préstamo. Esto te protege frente a posibles subidas futuras de los tipos, evitando sorpresas desagradables.
 
@@ -78,9 +82,9 @@ La periodicidad de una hipoteca se refiere a la frecuencia con la que debes real
 
 # Hipoteca modelo
 
-A lo largo de este articulo voy a utilizar los datos de una hipoteca modelo en España. El importe del préstamo será de 120000€. Pactarás con el banco un plazo de devolución de 30 años. Y la tasa de interés anual será de un 3% a tipo fijo.
+A lo largo de este articulo voy a utilizar los datos de una hipoteca modelo en España. El capital inicial del préstamo será de 120000€. Pactarás con el banco un plazo de devolución a 30 años. Y la tasa de interés anual será de un 3% a tipo fijo.
 
-# Calculo cuota mensual
+# Cálculo cuota mensual
 
 Para calcular la cuota mensual que vas a pagar por tu hipoteca necesitas considerar estas variables:
 
@@ -90,7 +94,7 @@ Para calcular la cuota mensual que vas a pagar por tu hipoteca necesitas conside
 - r_mensual: Tipo de interés mensual = r_anual / 12
 - i: Índice de interés: r_mensual / 100
 
-Se hace servir esta formula:
+Se hace servir esta fórmula:
 
 $$
 \text{Cuota mensual} = C \cdot \frac{i}{1 - (1 + i)^{-n}}
@@ -104,19 +108,19 @@ Rellena las variables con sus valores:
 - r_mensual = r_anual / 12 = 3% / 12 = 0.25%
 - i = r_mensual / 100 = 0.25 / 100 = 0.0025
 
-Sustituye los valores en la formula y haz el calculo:
+Sustituye los valores en la fórmula y haz el cálculo:
 
 $$
 \text{Cuota mensual} = 120000 \cdot \frac{0.0025}{1 - (1 + 0.0025)^{-360}} = 505.92\text{€}
 $$
 
-Esto significa que para pagar tu deuda con el banco, vas a tener que pagar 505.92€ durante los próximos 30 años.
+Esto significa que para saldar tu deuda con el banco, vas a tener que pagar 505.92€ durante los próximos 30 años.
 
 # Conceptos cuota mensual
 
-Si multiplicas 505.92€ por 30 años por 12 meses, tienes el total que vas a pagar por el préstamo: 182131.2€. Abre los ojos y vuelve a leerlo. Pediste al banco 120 mil euros, y has terminado pagando mas de 180 mil. Si, 60 mil euros de mas. Acabas de flipar, ¿verdad? ¿Como es esto posible?.
+Si multiplicas 505.92€ por 30 años por 12 meses, tienes el total que vas a pagar por el préstamo: 182131.2€. Abre los ojos y vuelve a leerlo. Pediste al banco 120 mil euros, y vas a terminar pagando mas de 180 mil. Si, 60 mil euros de mas. Acabas de flipar, ¿verdad? ¿Como es esto posible?.
 
-La cuota que pagas todos los meses al banco no se destina en su totalidad a reducir la deuda que tienes pendiente con el banco. Una parte de la cuota mensual se destina a reducir la deuda que tienes con el banco (técnicamente se conoce como **amortizar capital**). Y otra parte se destina a pagar **intereses** por el dinero que te han prestado. Tu cuota mensual es la suma de ambos conceptos:
+La cuota que pagas todos los meses al banco no se destina en su totalidad a reducir la deuda que tienes pendiente con el banco. Solo una parte de la cuota mensual se destina a reducir la deuda que tienes con el banco (técnicamente se conoce como **amortizar capital**). La otra parte se destina a pagar **intereses** por el dinero que te han prestado. Tu cuota mensual es la suma de ambos conceptos:
 
 $$
 \text{Cuota mensual} = \text{Amortización de capital} + \text{Intereses}
@@ -126,22 +130,22 @@ Veamos cada concepto por separado:
 
 ## Intereses
 
-Los intereses son dinero que le pagas al banco a cambio del dinero que te ha prestado. Para los bancos, los "intereses" son su principal fuente de ingresos netos. Un negocio redondo: ingresar dinero pasivo a cambio de trabajar nada.
+Los intereses son dinero que le pagas al banco a cambio del dinero que te ha prestado. Para los bancos, los "intereses" son su principal fuente de ingresos netos. Un negocio redondo: ingresan dinero pasivo sin mover un dedo.
 
-Para ti, los "intereses" van a ser el lastre de tu economía para el resto de tu vida. Es dinero que le pagas al banco y te impide reducir mas rápido tu deuda pendiente. Básicamente, dinero que le regalas al banco. Dicho de otro modo, dinero que tiras a la papelera.
+Para ti, los "intereses" serán una carga constante que lastrará tu economía durante muchos años de tu vida. A diferencia del banco, a ti si te cuesta mucho esfuerzo ganar ese dinero: tienes que trabajar cada día para poder devolverlo. Y lo peor, esos intereses limitan tu capacidad de reducir la deuda más rápido. En otras palabras, es dinero que terminas regalándole al banco, dinero que desaparecerá de tus bolsillos sin darte ni cuenta.
 
-Una mente inquieta como la tuya quiere entender cuanto dinero de tu cuota mensual va destinado al pago de intereses y cuanto a amortizar capital. Los intereses de la cuota mensual se obtienen usando estas dos variables:
+Una mente inquieta como la tuya esta deseando entender cuanto dinero de tu cuota mensual va destinado al pago de intereses y cuanto a amortizar capital. Los intereses de la cuota mensual se obtienen usando estas dos variables:
 
 - D: Deuda pendiente (euros)
 - i: Índice de interés: r_mensual / 100
 
-Se aplica esta formula:
+Se aplica esta fórmula:
 
 $$
 \text{Intereses de la cuota} = \text{D} \times i
 $$
 
-Siguiendo con la hipoteca modelo que estamos siguiendo en este articulo, la primera cuota que pagas al banco tienes una deuda con el banco de 120000€. Por tanto:
+Siguiendo con el ejemplo de la hipoteca que estamos analizando, en la primera cuota de la hipoteca, la deuda pendiente con el banco es de 120000€. Por tanto:
 
 - D = 120000€
 - i = 0.0025
@@ -152,11 +156,11 @@ $$
 \text{Intereses de la primera cuota} = 120000 \times 0.0025 = 300\text{€}
 $$
 
-Fíjate que los intereses se calculan con la deuda pendiente (D) y no con el capital inicial (C). Cuanto menos deuda pendiente, menos intereses. Parece una frase tonta, pero tiene tantas implicaciones que dedicaremos un articulo entero a hablar sobre esta cuestión.
+Fíjate que los intereses no se calculan sobre el capital inicial (C), sino sobre la deuda pendiente (D). Cuanto menor sea tu deuda pendiente, menos intereses pagarás. Aunque esta frase puede parecer una obviedad, esta idea tan simple tiene implicaciones de tal magnitud que dedicaré un artículo entero para analizarlas a fondo. Porque justo ahí esta la clave para ahorrarse mucho dinero.
 
 ## Amortización de capital
 
-Has pagado 505.92€ de la primera cuota de tu hipoteca. Te pregunto ahora, ¿que cantidad de dinero has reducido tu deuda pendiente con el banco? Si me contestas 505.92€, es que no has entendido nada. A tu cuota mensual debes quitarle los intereses que has pagado, para saber cuanto capital has amortizado. Su calculo es tan simple como restar de la cuota mensual, la parte de los intereses:
+Has pagado 505.92€ de la primera cuota de tu hipoteca. Te pregunto ahora, ¿que cantidad de dinero has reducido tu deuda pendiente con el banco? Si me contestas 505.92€, es que no has entendido nada. A tu cuota mensual debes quitarle los intereses que has pagado, para saber cuanto capital has amortizado. Su cálculo es tan simple como restar de la cuota mensual, la parte de los intereses:
 
 $$
 \text{Amortización de capital} = \text{Cuota mensual} - \text{Intereses}
@@ -165,7 +169,7 @@ $$
 Por tanto, la primera cuota que pagas al banco, en realidad amortizas este capital:
 
 $$
-\text{Amortización de la cuota} = 505,92\text{€} - 300\text{€} = 205.92\text{€}
+\text{Amortización de la cuota} = 505.92\text{€} - 300\text{€} = 205.92\text{€}
 $$
 
 Efectivamente, has reducido tu deuda pendiente en 205.92€. Le sigues debiendo al banco 120000 - 205.92€ = 119794.08€.
@@ -174,9 +178,9 @@ Efectivamente, has reducido tu deuda pendiente en 205.92€. Le sigues debiendo 
 
 En este articulo has aprendido cómo se calcula la cuota mensual de tu hipoteca y cómo se reparte esa cuota entre intereses y amortización de capital. Ahora ya tienes una base sólida para tomar decisiones más informadas sobre tu préstamo. Entender este reparto es clave para descubrir oportunidades de ahorro que, de otro modo, pasarían desapercibidas.
 
-El próximo articulo explicará como funciona una **tabla de amortización francesa**, lo que te permitirá visualizar cómo evoluciona tu deuda mes a mes y cómo va cambiando la proporción entre intereses y capital amortizado. Y habrá un último articulo con trucos personales para que ahorres mucho dinero con tu hipoteca. Si quieres entender cómo puedes optimizar el pago de tu hipoteca, no te pierdas los próximos artículos de esta serie.
+El próximo articulo explicará como funciona una **tabla de amortización francesa**, lo que te permitirá visualizar cómo evoluciona tu deuda mes a mes y cómo va cambiando la proporción entre intereses y capital amortizado. Y habrá un tercer articulo final, con trucos personales para que ahorres mucho dinero con tu hipoteca. Si quieres entender cómo puedes optimizar el pago de tu hipoteca, no te pierdas los próximos artículos de esta serie.
 
-Y si te ha picado la curiosidad, te han surgido dudas hipotecarias existenciales, o si simplemente quieres contarme lo caro que está todo, puedes unirte de forma totalmente gratuita al[canal de Telegram](https://t.me/lateclaescape) y dejarme allí tus preguntas, sugerencias, críticas (mejor si son constructivas), o simplemente pasarte a saludar.
+Y si te ha picado la curiosidad, te han surgido dudas hipotecarias existenciales, o si simplemente quieres contarme lo caro que está todo, puedes unirte de forma totalmente gratuita al [canal de Telegram](https://t.me/lateclaescape) y dejarme allí tus preguntas, sugerencias, críticas (mejor si son constructivas), o simplemente pasarte a saludar.
 
 ¡Nos vemos calculando la próxima cuota de tu hipoteca!.
 
