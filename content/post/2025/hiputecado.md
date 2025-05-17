@@ -178,7 +178,7 @@ Efectivamente, has reducido tu deuda pendiente en 205.92€. Le sigues debiendo 
 
 En este articulo has aprendido cómo se calcula la cuota mensual de tu hipoteca y cómo se reparte esa cuota entre intereses y amortización de capital. Ahora ya tienes una base sólida para tomar decisiones más informadas sobre tu préstamo. Entender este reparto es clave para descubrir oportunidades de ahorro que, de otro modo, pasarían desapercibidas.
 
-El próximo articulo explicará como funciona una **tabla de amortización francesa**, lo que te permitirá visualizar cómo evoluciona tu deuda mes a mes y cómo va cambiando la proporción entre intereses y capital amortizado. Habrá un tercer articulo final, con trucos personales para que ahorres mucho dinero con tu hipoteca. No te pierdas los próximos artículos de esta serie porque lo mejor está por llegar.
+El próximo articulo explicará como funciona una [tabla de amortización francesa](/post/2025/sistema-amortizacion-frances), lo que te permitirá visualizar cómo evoluciona tu deuda mes a mes y cómo va cambiando la proporción entre intereses y capital amortizado. Habrá mas articulos con mucha información útil para que ahorres mucho dinero con tu hipoteca. No te pierdas los próximos artículos de esta serie porque lo mejor está por llegar.
 
 Si te ha picado la curiosidad, te han surgido dudas hipotecarias existenciales, o si simplemente quieres contarme lo caro que está todo, puedes unirte de forma totalmente gratuita al [canal de Telegram](https://t.me/lateclaescape) y dejarme allí tus preguntas, sugerencias, críticas (mejor si son constructivas), o simplemente pasarte a saludar.
 

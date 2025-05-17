@@ -126,7 +126,7 @@ Con un poco más de trabajo, esta misma herramienta también te sirve para simul
 
 La tabla de amortización francesa te permite experimentar con diferentes escenarios: cambiar el capital inicial, ajustar el tipo de interés o simular amortizaciones anticipadas. Explorar estas opciones te dotará de capacidad estratégica que puede ayudarte a ahorrar una cantidad considerable de dinero.
 
-En el próximo articulo me voy a centrar en analizar distintas variables para extraer algunas conclusiones que vas a poder aplicar a tu propia hipoteca. Es un articulo muy práctico donde vas a ver con claridad que decisiones puedes tomar para que tu dinero se quede en tu bolsillo y no engorde las cuentas de beneficios de tu banco. Si tienes pensado pedir una hipoteca en los próximos meses, te recomiendo que sigas leyendo, no te lo puedes perder!
+En el próximo articulo me voy a centrar en [analizar distintas variables](/post/2025/estudio-variables-hipoteca) para extraer algunas conclusiones que vas a poder aplicar a tu propia hipoteca. Es un articulo muy práctico donde vas a ver con claridad que decisiones puedes tomar para que tu dinero se quede en tu bolsillo y no engorde las cuentas de beneficios de tu banco. Si tienes pensado pedir una hipoteca en los próximos meses, te recomiendo que sigas leyendo. ¡No te lo puedes perder!.
 
 Podéis plantearme todas las dudas relacionados con este articulo en el [canal de Telegram](https://t.me/lateclaescape). Será un placer ayudaros. Recordad que es totalmente gratuito. Nos vemos en el próximo articulo!
 
