@@ -33,7 +33,7 @@ Imagina que tienes una hipoteca a 30 años con un tipo de interés anual del 3%.
 
 Pedir 160000€ en lugar de 60000€ supone pagar más del doble en intereses: 82843€ frente a 31066€. Abre los ojos. Eso son más de 50 mil € en intereses. ¿Te has planteado todo lo que podrías hacer con ese dinero en tu bolsillo?
 
-La trampa está servida: cuanto más capital solicitas, más crecen los intereses. Cada euro extra pedido al banco se transforma en una carga financiera silenciosa que se amplifica con el tiempo. Antes de firmar, haz números con cabeza, y ajusta el capital inicial al máximo, porque cada euro extra que pidas al banco, no solo aumenta tu deuda, sino que también alarga tu dependencia con el banco y dispara el coste total de tu hipoteca.
+La trampa está servida: cuanto más capital solicitas, más crecen los intereses. Cada euro extra pedido al banco se transforma en una carga financiera silenciosa que se amplifica con el tiempo. Antes de firmar, haz números con cabeza, y ajusta el capital inicial al mínimo que necesites, porque cada euro extra que pidas al banco, no solo aumenta tu deuda, sino que también alarga tu dependencia con el banco y dispara el coste total de tu hipoteca.
 
 ## Duración
 
@@ -84,7 +84,7 @@ Ese "pequeño" número que muchas veces pasamos por alto en las reuniones con el
 
 Este articulo te ha mostrado cómo el capital inicial, la duración y el tipo de interés de una hipoteca pueden condicionar tu economía durante décadas. Tres variables clave que, si no eliges con cabeza, pueden convertir tu vida en un auténtico infierno financiero. Porque una hipoteca no es solo una firma: es un pacto a largo plazo con consecuencias reales y a menudo invisibles hasta que es demasiado tarde.
 
-En el próximo artículo te hablaré de la **carencia de capital**, una tentación peligrosa que muchas entidades ofrecen como si fuera una ayuda, cuando en realidad puede ser un lastre que te persigue durante años. Y para cerrar esta serie de artículos sobre hipotecas, te presentaré una de las herramientas más potentes y menos aprovechadas por los hipotecados: la **amortización anticipada**. Si sabes usarla bien, puede inclinar la balanza claramente a tu favor.
+En el próximo artículo te hablaré de la **carencia de capital**, una tentación peligrosa que muchas entidades ofrecen como si fuera una ayuda, cuando en realidad puede ser un lastre que te persigue durante años. Y para cerrar esta serie de artículos sobre hipotecas, te presentaré una de las herramientas más potentes y menos aprovechadas por los hipotecados: la **amortización anticipada**. Si la usas bien, podrás inclinar la balanza claramente a tu favor.
 
 Así que, si esta información te ha hecho abrir los ojos, no te pierdas lo que viene, porque son artículos muy prácticos que te van a permitir ahorrar mucho dinero.
 
