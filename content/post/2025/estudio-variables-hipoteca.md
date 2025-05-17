@@ -31,7 +31,7 @@ Imagina que tienes una hipoteca a 30 años con un tipo de interés anual del 3%.
 
 ¿Habías pensado en pedir "un poco mas" para amueblar el piso o irte de viaje? Esta tabla demuestra que ese es un error monumental. Cada euro extra que pides al banco viene cargado de intereses que se comen tus ahorros año tras año.
 
-Pedir 160000€ en lugar de 60000€ supone pagar más del doble en intereses: 82843€ frente a 31066€. Abre los ojos. Eso son más de 50000€ en intereses. ¿Te has planteado todo lo que podrías hacer con ese dinero en tu bolsillo?
+Pedir 160000€ en lugar de 60000€ supone pagar más del doble en intereses: 82843€ frente a 31066€. Abre los ojos. Eso son más de 50 mil € en intereses. ¿Te has planteado todo lo que podrías hacer con ese dinero en tu bolsillo?
 
 La trampa está servida: cuanto más capital solicitas, más crecen los intereses. Cada euro extra pedido al banco se transforma en una carga financiera silenciosa que se amplifica con el tiempo. Antes de firmar, haz números con cabeza, y ajusta el capital inicial al máximo, porque cada euro extra que pidas al banco, no solo aumenta tu deuda, sino que también alarga tu dependencia con el banco y dispara el coste total de tu hipoteca.
 
@@ -50,7 +50,7 @@ Imagina que tienes una hipoteca de 120000€ con un tipo de interés anual del 3
 
 Alargar la duración de tu hipoteca es una forma de pagar menos cada mes. Y eso es cierto. Pero lo que nadie te cuenta es que también estás firmando un cheque en blanco a tu banco.
 
-Al pasar de una hipoteca a 5 años a una de 30, los intereses se multiplican, y abre de nuevo los ojos, por más de SEIS: de 9374€ a la friolera de 62132€. Eso son 52758 € extra que irán directos a las arcas del banco solo por concederte mas tiempo para devolver el dinero prestado.
+Al pasar de una hipoteca a 5 años a una de 30, los intereses se multiplican, y abre de nuevo los ojos, por más de SEIS: de 9374€ a la friolera de 62132€. Eso son mas de 52 mil € extra que irán directos a las arcas del banco solo por concederte mas tiempo para devolver el dinero prestado.
 
 La duración vacía tu bolsillo. Cada año que sumas a tu hipoteca es una mordida más al fruto de tu trabajo. La conclusión es demoledora: si puedes acortar tu hipoteca, aunque sea unos años, hazlo sin dudar. Cada año de menos es una victoria sobre el monstruo invisible de los intereses.
 
@@ -74,21 +74,21 @@ Imagina que firmas una hipoteca de 120000.00 € a 30 años. La siguiente tabla 
 
 Fíjate bien en esta tabla. Entenderás por qué el tipo de interés que firmes con el banco podría arruinarte la vida.
 
-Una pequeña diferencia entre el 1% y el 6% de interés, supone pagar mas de 120000.00 € en concepto de intereses. Léelo bien. 120 mil €. ¡Solo en concepto de intereses!. Como ves, no se trata de una cifra despreciable. Estamos hablando de MAS DEL DOBLE del dinero que has pedido como capital inicial.
+Una pequeña diferencia entre el 1% y el 6% de interés, supone pagar mas de 120 mil € en concepto de intereses. Léelo bien, si. ¡Solo en concepto de intereses!. Como ves, no se trata de una cifra despreciable. Estamos hablando de MAS DEL DOBLE del dinero que has pedido como capital inicial.
 
-La tasa de interés del 22% puede parecerte una soberana barbaridad. Pero es que en 1977, los tipos de interés hipotecarios en España alcanzaron esa cifra. Lo que hoy te parece algo alejado de la realidad, mañana podría ser tu realidad. Con una tasa de interés del 22%, pagarías mas de 670000€ en concepto de intereses. Mas de CINCO VECES la la cantidad de dinero que pediste al banco. Respira profundamente, a mi también me pasa. Te has quedado helado.
+La tasa de interés del 22% puede parecerte una soberana barbaridad. Pero es que en 1977, los tipos de interés hipotecarios en España alcanzaron esa cifra. Lo que hoy te parece algo alejado de la realidad, mañana podría ser tu realidad. Con una tasa de interés del 22%, pagarías mas de 670 mil € en concepto de intereses. Mas de CINCO VECES la cantidad de dinero que pediste al banco. Respira profundamente, a mi también me pasa. Te has quedado helado.
 
 Ese "pequeño" número que muchas veces pasamos por alto en las reuniones con el banco, es el ladrón silencioso de tus ahorros. Negociar el tipo de interés no es un detalle sin importancia. Es una batalla por decenas de miles de euros.
 
 # Conclusiones
 
-Este articulo te ha mostrado cómo el capital inicial, la duración y el tipo de interés de una hipoteca pueden condicionar tu economía durante décadas. Tres variables clave que, si no eliges con cabeza, pueden convertir tu vida financiera en un auténtico infierno financiero. Porque una hipoteca no es solo una firma: es un pacto a largo plazo con consecuencias reales y a menudo invisibles hasta que es demasiado tarde.
+Este articulo te ha mostrado cómo el capital inicial, la duración y el tipo de interés de una hipoteca pueden condicionar tu economía durante décadas. Tres variables clave que, si no eliges con cabeza, pueden convertir tu vida en un auténtico infierno financiero. Porque una hipoteca no es solo una firma: es un pacto a largo plazo con consecuencias reales y a menudo invisibles hasta que es demasiado tarde.
 
-En el próximo artículo te hablaré de la carencia de capital, una tentación peligrosa que muchas entidades ofrecen como si fuera una ayuda, cuando en realidad puede ser un lastre que te persigue durante años. Y para cerrar esta serie de artículos sobre hipotecas, te presentaré una de las herramientas más potentes y menos aprovechadas por los hipotecados: la amortización anticipada. Si sabes usarla bien, puede inclinar la balanza claramente a tu favor.
+En el próximo artículo te hablaré de la **carencia de capital**, una tentación peligrosa que muchas entidades ofrecen como si fuera una ayuda, cuando en realidad puede ser un lastre que te persigue durante años. Y para cerrar esta serie de artículos sobre hipotecas, te presentaré una de las herramientas más potentes y menos aprovechadas por los hipotecados: la **amortización anticipada**. Si sabes usarla bien, puede inclinar la balanza claramente a tu favor.
 
 Así que, si esta información te ha hecho abrir los ojos, no te pierdas lo que viene, porque son artículos muy prácticos que te van a permitir ahorrar mucho dinero.
 
-Como siempre, estoy disponible para cualquier duda, sugerencia o comentario a través del [canal de Telegram](). Te recuerdo que es totalmente gratuito. Si conoces a alguien de tu entorno que esté a punto de firmar una hipoteca, comparte con él esta información porque puede ser uno de los favores mas valiosos que le hagas nunca.
+Como siempre, estoy disponible para cualquier duda, sugerencia o comentario a través del [canal de Telegram](). Te recuerdo que es totalmente gratuito. Si conoces a alguien de tu entorno cercano que esté a punto de firmar una hipoteca, comparte con él esta información porque puede ser uno de los favores mas valiosos que le hagas nunca.
 
 Nos vemos en el próximo capítulo.
 
