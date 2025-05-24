@@ -10,7 +10,7 @@ featured: true
 
 # Introducción
 
-Después de entender cómo se calcula la [cuota mensual](/post/2025/hiputecado) de una hipoteca, descubrir los entresijos del [sistema de amortización francés](/post/2025/sistema-amortizacion-frances), y analizar cómo el [capital inicial, el plazo de amortización, y el tipo de interés](/post/2025/estudio-variables-hipoteca) pueden cambiar tu vida financiera por completo, llega el momento de enfrentarnos a una de las decisiones más engañosas al firmar una hipoteca: la carencia de capital.
+Después de entender cómo se calcula la [cuota mensual](/post/2025/hiputecado) de una hipoteca, descubrir los entresijos del [sistema de amortización francés](/post/2025/sistema-amortizacion-frances), y analizar cómo el [capital inicial, el plazo de amortización, y el tipo de interés](/post/2025/estudio-variables-hipoteca) pueden cambiar tu vida financiera por completo, llega el momento de enfrentarnos a una de las decisiones más engañosas al firmar una hipoteca: la **carencia de capital**.
 
 A primera vista, un periodo de carencia de capital puede parecer un respiro financiero. Durante un tiempo, que puede ir desde unos pocos meses hasta varios años, no estás obligado a devolver nada del capital prestado por el banco. Solo pagas intereses. Es fácil pensar: "perfecto, así empiezo pagando menos y ya devolveré el resto cuando esté más asentado". Incluso hay despistados que creen estar "adelantando" intereses y que luego solo pagarán capital.
 
@@ -18,7 +18,7 @@ Este articulo desmenuza esta aparente ventaja y muestra su verdadero rostro: un 
 
 ## Carencia de capital
 
-La carencia de capital no es un respiro, es una trampa financiera cuidadosamente diseñada para que empieces tu hipoteca con mal pie. Durante el periodo de carencia, pagas intereses sobre el 100% del préstamo, sin reducir ni un solo euro tu deuda con el banco. Mes a mes, el dinero que pagas no rebaja tu deuda. Solo engorda los beneficios del banco. Mes a mes, la carencia de capital vacía tus bolsillos y encarece un poquito mas tu hipoteca.
+La carencia de capital no es un respiro, es una trampa financiera cuidadosamente diseñada para que empieces tu hipoteca con mal pie. Durante el periodo de carencia, pagas intereses sobre el 100% del préstamo, sin reducir ni un solo euro tu deuda con el banco.
 
 Para que entiendas perfectamente como funciona, analizo una carencia de capital de 12 meses aplicada sobre un préstamos de 120 mil €, con una tasa de interés anual del 3%.
 
@@ -41,7 +41,7 @@ Fíjate lo que ha pasado. Tras 12 meses, has pagado 3600€ en intereses. Sigues
 
 Pero el despropósito no termina aquí. Cuando empiezas a amortizar capital, te enfrentas a la siguiente sorpresa desagradable. El tiempo de devolución de los 120 mil € prestados se ha reducido en un año. Ahora tienes que devolverlos en 29 años. Si recalculas la nueva cuota de esta hipoteca, la sorpresa está servida: la cuota mensual aumenta desde los 505.92€ hasta los 516.71€. Los intereses totales de esta hipoteca han subido desde los 62132.94€ hasta los a 63416.04€.
 
-¿La recompensa por ese año de aparente "comodidad"? Pagar de mas cada mes. Y pagar de más en total. Cuantos mas años de carencia de capital, peor. La trampa está servida.
+¿La recompensa por ese año de aparente "comodidad"? Pagar de mas cada mes. Y pagar de más en total. Cuantos mas años de carencia de capital, peor. La trampa está servida. Mes a mes, el dinero que pagas no rebaja tu deuda. Solo engorda los beneficios del banco. Mes a mes, la carencia de capital vacía tus bolsillos y encarece un poquito mas tu hipoteca.
 
 Así que antes de firmar esa hipoteca con **carencia de capital**, recuerda: Lo que el banco te vende como un descanso es, en realidad, una factura diferida con recargo. No es un favor, es una trampa. Y lo pagarás caro. ¡Muy caro!
 
