@@ -1,10 +1,10 @@
 ---
 title: Carencia de capital
-date: 2025-05-09
+date: 2025-05-24
 image: "/img/posts/carencia-de-capital.webp"
 categories: [ "bancos" ]
-tags: [ "hipoteca", "euribor", "carencia_capital" ]
-draft: true
+tags: [ "hipoteca", "carencia_capital" ]
+draft: false
 featured: true
 ---
 
