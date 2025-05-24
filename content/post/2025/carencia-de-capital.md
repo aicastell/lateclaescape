@@ -14,7 +14,7 @@ featured: true
 
 # Introducción
 
-Después de entender cómo se calcula la [cuota mensual](/post/2025/hiputecado) de una hipoteca, descubrir los entresijos del [sistema de amortización francés](/post/2025/sistema-amortizacion-frances), y analizar cómo el [capital inicial, el plazo de amortización, y el tipo de interés](/post/2025/estudio-variables-hipoteca) pueden cambiar tu vida financiera por completo, llega el momento de enfrentarnos a una de las decisiones más engañosas al firmar una hipoteca: la **carencia de capital**.
+Después de entender cómo se calcula la [cuota mensual](/post/2025/hiputecado) de una hipoteca, descubrir los entresijos del [sistema de amortización francés](/post/2025/sistema-amortizacion-frances), y analizar cómo el [capital inicial, el plazo de amortización, y el tipo de interés](/post/2025/estudio-variables-hipoteca) pueden cambiar tu vida financiera por completo, llega el momento de enfrentarte a una de las decisiones más engañosas al firmar una hipoteca: la **carencia de capital**.
 
 A primera vista, un periodo de carencia de capital puede parecer un respiro financiero. Durante un tiempo, que puede ir desde unos pocos meses hasta varios años, no estás obligado a devolver nada del capital prestado por el banco. Solo pagas intereses. Es fácil pensar: "perfecto, así empiezo pagando menos y ya devolveré el resto cuando esté más asentado". Incluso hay despistados que creen estar "adelantando" intereses y que luego solo pagarán capital.
 
@@ -24,7 +24,7 @@ Este articulo desmenuza esta aparente ventaja y muestra su verdadero rostro: un 
 
 La carencia de capital no es un respiro, es una trampa financiera cuidadosamente diseñada para que empieces tu hipoteca con mal pie. Durante el periodo de carencia, pagas intereses sobre el 100% del préstamo, sin reducir ni un solo euro tu deuda con el banco.
 
-Para que entiendas perfectamente como funciona, analizo una carencia de capital de 12 meses aplicada sobre un préstamo de 120 mil €, con una tasa de interés anual del 3%.
+Para que entiendas perfectamente como funciona, analizo una carencia de capital de 12 meses aplicada sobre un préstamo de 120 mil € a devolver en 30 años, con una tasa de interés anual del 3%.
 
 | Mes   | Cuota     | Interés   | Amortización | Deuda Pendiente |
 |-------|-----------|-----------|--------------|-----------------|
