@@ -3,7 +3,7 @@ title: Estudio variables hipoteca
 date: 2025-05-17
 image: "/img/posts/estudio-variables-hipoteca.webp"
 categories: [ "bancos" ]
-tags: [ "hipoteca", "euribor", "interés", "duración", "capital" ]
+tags: [ "hipoteca", "euribor", "intereses", "duración", "capital" ]
 draft: false
 featured: true
 ---
@@ -88,7 +88,7 @@ En el próximo artículo te hablaré de la **carencia de capital**, una tentaci�
 
 Así que, si esta información te ha hecho abrir los ojos, no te pierdas lo que viene, porque son artículos muy prácticos que te van a permitir ahorrar mucho dinero.
 
-Como siempre, estoy disponible para cualquier duda, sugerencia o comentario a través del [canal de Telegram](). Te recuerdo que es totalmente gratuito. Si conoces a alguien de tu entorno cercano que esté a punto de firmar una hipoteca, comparte con él esta información porque puede ser uno de los favores mas valiosos que le hagas nunca.
+Como siempre, estoy disponible para cualquier duda, sugerencia o comentario a través del [canal de Telegram](https://t.me/lateclaescape). Te recuerdo que es totalmente gratuito. Si conoces a alguien de tu entorno cercano que esté a punto de firmar una hipoteca, comparte con él esta información porque puede ser uno de los favores mas valiosos que le hagas nunca.
 
 Nos vemos en el próximo capítulo.
 

@@ -3,7 +3,7 @@ title: Sistema de amortización
 date: 2025-05-10
 image: "/img/posts/sistema-amortizacion-frances.webp"
 categories: [ "bancos" ]
-tags: [ "hipoteca", "tabla-amortización", "intereses", "deuda", "capital" ]
+tags: [ "hipoteca", "tabla_amortización", "intereses", "deuda", "capital" ]
 draft: false
 featured: true
 ---
