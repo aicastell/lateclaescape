@@ -1,7 +1,7 @@
 ---
 title: Amortización parcial
 date: 2025-06-07
-image: "/img/posts/amortizacion-parcial.webp"
+image: /img/posts/amortizacion-parcial.webp
 categories: [ "bancos" ]
 tags: [ "hipoteca", "amortización_parcial" ]
 draft: false
