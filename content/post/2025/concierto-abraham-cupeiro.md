@@ -4,9 +4,13 @@ date: 2025-06-28
 image: "/img/posts/concierto-abraham-cupeiro-2025.webp"
 categories: [ "personal", "concierto" ]
 tags: [ "UMSCO", "Abraham_Cupeiro" ]
-draft: true
+draft: false
 featured: true
 ---
+
+*Articulo disponible en formato audiblog:*
+
+{{< audio path="audio/concierto-abraham-cupeiro.mp3" >}}
 
 # Introducción
 
@@ -36,11 +40,11 @@ A lo largo de su carrera, ha logrado hitos notables que avalan su singular enfoq
 
 Su labor divulgativa lo ha llevado a distintos programas de televisión, donde ha compartido su conocimiento con el gran público. Ha participado en espacios como La Aventura del Saber, Órbita Laika o [La Revuelta](https://www.youtube.com/watch?v=PWF9XDMqRcY), mostrando algunos de los instrumentos más raros del mundo y generando un gran interés por el patrimonio sonoro de la humanidad.
 
-# Album Pangea
+# Álbum Pangea
 
 Abraham Cupeiro grabó su álbum "Pangea" en Noviembre de 2019, en el legendario estudio [Abbey Road](https://en.wikipedia.org/wiki/Abbey_Road) de Londres, un lugar emblemático en la historia de la música, famoso por haber sido el epicentro creativo de artistas como The Beatles, Pink Floyd o John Williams. Este escenario, cargado de historia y excelencia técnica, fue el entorno perfecto para este ambicioso proyecto.
 
-Para esta grabación, Cupeiro estuvo acompañado ni mas ni menos de la prestigiosa Royal Philharmonic Orchestra, una de las orquestas más respetadas del mundo, formada por músicos de altísimo nivel.
+Para esta grabación, Cupeiro estuvo acompañado ni mas ni menos que por la prestigiosa Royal Philharmonic Orchestra, una de las orquestas más respetadas del mundo, formada por músicos de altísimo nivel.
 
 La elección de grabar en Abbey Road no fue casual: el proyecto requería la mejor calidad sonora posible, tanto por la riqueza tímbrica de los instrumentos antiguos como por la complejidad de su combinación con una orquesta completa. El resultado es una obra de altísima fidelidad acústica, capaz de transportar al oyente desde los desiertos africanos hasta los bosques celtas, pasando por la China milenaria o las llanuras de América.
 
@@ -50,7 +54,7 @@ La Asociación Musical Santa Cecilia de Onda, ha sido hoy el escenario de un con
 
 En este entorno, Cupeiro ha brindado mucho más que una exhibición de virtuosismo. Ha ofrecido un viaje emocional a través del tiempo y del sonido, donde cada nota parecía surgir tanto de épocas remotas como de lo más profundo del alma humana. Un espectáculo sonoro de los que ponen los pelos de punta, inolvidable.
 
-La primera voz que se alza no es la de ningún instrumento musical. Es la voz de Cupeiro contando una historia que se remonta a 1910, cuando el meteorólogo alemán Alfred Wegener, al observar un atlas, se percató de que las siluetas de los continentes parecían encajar como piezas de un antiguo puzle olvidado. Así nació la teoría de la Pangea, que en griego significa "toda la tierra". Aquel único continente primigenio que hace 300 millones de años reunía a todos los territorios bajo un mismo suelo.
+La primera voz que se alza no es la de ningún instrumento musical. Es la voz del propio Cupeiro, contando una historia que se remonta a 1910, cuando el meteorólogo alemán Alfred Wegener, al observar un atlas, se percató de que las siluetas de los continentes parecían encajar como piezas de un antiguo puzle olvidado. Así nació la teoría de la Pangea, que en griego significa "toda la tierra". Aquel único continente primigenio que hace 300 millones de años reunía a todos los territorios bajo un mismo suelo.
 
 ![Concierto Abraham Cupeiro Foto1](/img/concierto-abraham-cupeiro-foto1.webp)
 
@@ -74,9 +78,9 @@ Esta noche no solo ha sido un concierto. Ha sido una celebración de la vida, un
 
 # Despedida
 
-Abraham Cupeiro y la Banda Sinfónica de la UMSCO nos han recordado que la innovación no siempre está en lo que viene, sino a veces en lo que dejamos atrás. Este concierto es una celebración de la memoria sonora del planeta, un canto a la diversidad, y una prueba de que el arte sigue siendo el puente más poderoso entre mundos.
+Abraham Cupeiro y la Banda Sinfónica de la UMSCO nos han recordado que la innovación no siempre está en lo que viene, sino a veces en lo que dejamos atrás. Este concierto es una celebración de la memoria sonora del planeta, un canto a la diversidad, y una prueba de que la música sigue siendo el puente más poderoso entre los continentes.
 
-Lo que hace especial esta experiencia no es solo su música: es la capacidad para sorprender, emocionar y enseñar. Cupeiro guía al público a través de cada instrumento con pasión, compartiendo su historia, su construcción y su alma. Así, lo que comienza como un concierto se convierte en un viaje sensorial y didáctico, accesible tanto para amantes de la música como para espíritus curiosos.
+Lo que hace especial esta experiencia no es solo la música: es la capacidad para sorprender, emocionar y enseñar. Cupeiro guía al público a través de cada instrumento con pasión, compartiendo su historia, su construcción y su alma. Así, lo que comienza como un concierto se convierte en un viaje sensorial y didáctico, accesible tanto para amantes de la música como para espíritus curiosos.
 
 Si alguna vez tienes la oportunidad de verlo en directo, no la dejes pasar. Y si no, búscalo, escúchalo, descúbrelo. Ya sea en plataformas digitales o en su trabajo para Gladiator II, lo que Cupeiro ofrece es mucho más que música: es historia viva que suena, respira, y nos une.
 
