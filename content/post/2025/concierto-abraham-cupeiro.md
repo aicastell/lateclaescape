@@ -16,7 +16,7 @@ featured: true
 
 Hoy te propongo un viaje sonoro a través del tiempo, guiado por un músico que resucita sonidos dormidos durante milenios.
 
-Y es que, en un mundo dominado por la música electrónica y las producciones digitales, Abraham Cupeiro aparece como una excepción luminosa: un músico gallego, obsesión por rescatar instrumentos casi olvidados de todas las culturas del mundo, que ha hecho de lo ancestral su bandera, y de lo emocional, su lenguaje. Multiinstrumentista, constructor de instrumentos y auténtico arqueólogo del sonido, Cupeiro no solo toca música, revive civilizaciones con cada nota musical.
+Y es que, en un mundo dominado por la música electrónica y las producciones digitales, Abraham Cupeiro aparece como una excepción luminosa: un músico gallego, obsesionado por rescatar instrumentos casi olvidados de todas las culturas del mundo, que ha hecho de lo ancestral su bandera, y de lo emocional, su lenguaje. Multiinstrumentista, constructor de instrumentos y auténtico arqueólogo del sonido, Cupeiro no solo toca música, revive civilizaciones con cada nota musical.
 
 Con una colección de instrumentos únicos, algunos reconstruidos a partir de hallazgos arqueológicos, nos ofrece una experiencia sonora tan poderosa como difícil de olvidar. Suenan culturas, épocas y geografías. Su propuesta es una exploración sonora que reinterpreta el pasado para expandir los horizontes de la música contemporánea.
 
@@ -68,7 +68,7 @@ Luego nos transporta a África, con sus ritmos hipnóticos y profundas resonanci
 
 El viaje continúa hacia Armenia, con sus lamentos contenidos y misticismo sonoro. Luego Bulgaria, donde la música se vuelve más rítmica y polifónica, con tintes rituales. Finalmente, llegamos a la costa atlántica europea (Irlanda, Bretaña y Escocia), donde suenan las gaitas que nos transportan a los acantilados que se asoman al bravo mar del Atlántico.
 
-![Concierto Abraham Cupeiro Foto1](/img/concierto-abraham-cupeiro-foto2.webp)
+![Concierto Abraham Cupeiro Foto2](/img/concierto-abraham-cupeiro-foto2.webp)
 
 El concierto alcanza su final con el estremecedor sonido del karnyx gaélico, una imponente trompa de guerra de más de tres metros, cuya voz ancestral anunciaba antiguamente el inicio de la batalla. Pero esta vez no es un llamado a las armas, sino una llamada urgente a la conciencia. Porque hoy, la única guerra que merece ser librada es la de salvar nuestro planeta.
 
