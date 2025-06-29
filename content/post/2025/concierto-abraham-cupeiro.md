@@ -18,7 +18,7 @@ Hoy te propongo un viaje sonoro a través del tiempo, guiado por un músico que 
 
 Y es que, en un mundo dominado por la música electrónica y las producciones digitales, Abraham Cupeiro aparece como una excepción luminosa: un músico gallego, obsesionado por rescatar instrumentos casi olvidados de todas las culturas del mundo, que ha hecho de lo ancestral su bandera, y de lo emocional, su lenguaje. Multiinstrumentista, constructor de instrumentos y auténtico arqueólogo del sonido, Cupeiro no solo toca música, revive civilizaciones con cada nota musical.
 
-Con una colección de instrumentos únicos, algunos reconstruidos a partir de hallazgos arqueológicos, nos ofrece una experiencia sonora tan poderosa como difícil de olvidar. Suenan culturas, épocas y geografías. Su propuesta es una exploración sonora que reinterpreta el pasado para expandir los horizontes de la música contemporánea.
+Con una colección de instrumentos únicos, nos ofrece una experiencia sonora tan poderosa como difícil de olvidar. Suenan culturas, épocas y geografías. Su propuesta es una exploración sonora que reinterpreta el pasado para expandir los horizontes de la música contemporánea.
 
 En este artículo te cuento la experiencia de asistir en directo a uno de sus conciertos, un encuentro inolvidable entre la tradición y lo sinfónico, lo antiguo y lo contemporáneo. Una noche especial en la que, por momentos, pareció posible viajar en el tiempo a través del sonido.
 
@@ -30,7 +30,7 @@ Abraham Cupeiro no es un músico convencional. Se formó en el Conservatorio de 
 
 ## Especialidad
 
-Su gran pasión es rescatar y dar vida a instrumentos milenarios y poco comunes, muchos de ellos reconstruidos a partir de hallazgos arqueológicos o manuscritos antiguos. Desde la corna celta o el [karnyx gaélico](https://en.wikipedia.org/wiki/Carnyx), una trompa guerrera de tres metros, hasta flautas de hueso, [duduks](https://en.wikipedia.org/wiki/Duduk) armenios o el [didyeridú](https://es.wikipedia.org/wiki/Didyerid%C3%BA) australiano, Cupeiro no solo los estudia: los toca, los construye y los integra en contextos musicales contemporáneos. Su trabajo va más allá de la arqueología musical: propone un viaje sonoro que conecta culturas y épocas, acercando lo ancestral al presente.
+Su gran pasión es rescatar y dar vida a instrumentos milenarios y poco comunes, muchos de ellos reconstruidos a partir de hallazgos arqueológicos o manuscritos antiguos. Desde la corna celta o el [karnyx gaélico](https://en.wikipedia.org/wiki/Carnyx), hasta flautas de hueso, [duduks](https://en.wikipedia.org/wiki/Duduk) armenios o el [didyeridú](https://es.wikipedia.org/wiki/Didyerid%C3%BA) australiano, Cupeiro no solo los estudia: los toca, los construye y los integra en contextos musicales contemporáneos. Su trabajo va más allá de la arqueología musical: propone un viaje sonoro que conecta culturas y épocas, acercando lo ancestral al presente.
 
 ## Hitos relevantes
 
@@ -48,9 +48,9 @@ Para esta grabación, Cupeiro estuvo acompañado ni mas ni menos que por la pres
 
 La elección de grabar en Abbey Road no fue casual: el proyecto requería la mejor calidad sonora posible, tanto por la riqueza tímbrica de los instrumentos antiguos como por la complejidad de su combinación con una orquesta completa. El resultado es una obra de altísima fidelidad acústica, capaz de transportar al oyente desde los desiertos africanos hasta los bosques celtas, pasando por la China milenaria o las llanuras de América.
 
-# Unión Musical Santa Cecilia de Onda
+# UMSCO
 
-La Asociación Musical Santa Cecilia de Onda, ha sido hoy el escenario de un concierto único protagonizado por Abraham Cupeiro. Acompañado en todo momento por la Banda Sinfónica de la UMSCO (Unión Musical Santa Cecilia de Onda), formada por más de 80 músicos de carrera de la provincia de Castellón. Uno de ellos, mi amigo Pepe.
+La Sociedad Unión Musical Santa Cecilia de Onda (UMSCO) ha acogido hoy un concierto excepcional protagonizado por Abraham Cupeiro. A lo largo de toda la actuación, ha estado acompañado por la Banda Sinfónica de la UMSCO, compuesta por más de 80 músicos profesionales procedentes de distintos puntos de la provincia de Castellón. Entre ellos se encontraba mi amigo Pepe.
 
 En este entorno, Cupeiro ha brindado mucho más que una exhibición de virtuosismo. Ha ofrecido un viaje emocional a través del tiempo y del sonido, donde cada nota parecía surgir tanto de épocas remotas como de lo más profundo del alma humana. Un espectáculo sonoro de los que ponen los pelos de punta, inolvidable.
 
