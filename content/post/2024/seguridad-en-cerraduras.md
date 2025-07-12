@@ -91,7 +91,7 @@ La técnica de [impresioning de cerraduras](https://www.youtube.com/watch?v=czM-
 
 Se utiliza una llave en blanco que sea similar en forma y tamaño a la llave original, y un material suave y maleable, como una lámina delgada de aluminio o plástico.
 
-Para llevar a cabo esta técnica, el ladrón coloca la lámina de material maleable sobre la llave en blanco. Esa llave e inserta y se retira varias veces de la cerradura. Este proceso permite que la lámina de material maleable se moldee y tome la forma de los pasadores internos de la cerradura.
+Para llevar a cabo esta técnica, el ladrón coloca la lámina de material maleable sobre la llave en blanco. Esa llave se inserta y se retira varias veces de la cerradura. Este proceso permite que la lámina de material maleable se moldee y tome la forma de los pasadores internos de la cerradura.
 
 Con el molde adecuado, el ladrón puede abrir la puerta. Pero también puede fabricar una copia exacta de la llave original.
 

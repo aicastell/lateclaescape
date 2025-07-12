@@ -4,13 +4,17 @@ date: 2025-07-11
 image: /img/posts/golang-language.webp
 categories: [ "software", "open_source", "free_software", "programming_language" ]
 tags: [ "golang", "kubernetes", "docker", "terraform", "prometheus", "caddy" ]
-draft: true
+draft: false
 featured: true
 ---
 
+*Articulo disponible en formato audiblog:*
+
+{{< audio path="audio/golang-language.mp3" >}}
+
 # Introducción
 
-En el artículo anterior te hablé sobre [Hugo](/post/2025/framework-hugo), uno de los frameworks para generar sitios web estáticos más rápidos y eficientes del momento. Comenté su facilidad de uso, su enfoque minimalista y su sorprendente velocidad de construcción. Pero hay un detalle fundamental que no debe pasarse por alto: Hugo está desarrollado en el lenguaje Go.
+En el artículo anterior hablé sobre [Hugo](/post/2025/framework-hugo), uno de los frameworks para generar sitios web estáticos más rápidos y eficientes del momento. Comenté su facilidad de uso, su enfoque minimalista y su sorprendente velocidad de construcción. Pero hay un detalle fundamental que no debe pasarse por alto: Hugo está desarrollado en el lenguaje Go.
 
 Y eso nos lleva al tema de hoy. En este artículo quiero hablarte precisamente de Go, el lenguaje que hace posible una herramienta como Hugo. Vamos a explorar sus virtudes, entender qué lo hace especial y por qué merece tu atención como desarrollador. Vamos allá.
 

@@ -2,8 +2,8 @@
 title: El framework Hugo
 date: 2025-06-24
 image: /img/posts/hugo-framework.webp
-categories: [ "blog", "tecnología", "software", "tools", "open_source", "free_software", "CMS" ]
-tags: [ "hugo", "markdown" ]
+categories: [ "tecnología", "software", "tools", "open_source", "free_software", "CMS" ]
+tags: [ "blog", "hugo", "markdown" ]
 draft: false
 featured: true
 ---
@@ -46,7 +46,7 @@ Al utilizar [markdown](https://commonmark.org/) para el contenido, el flujo de t
 
 Desde el punto de vista de la seguridad, Hugo ofrece ventajas enormes. No hay lógica de servidor expuesta a internet. No hay formularios de inicio de sesión ni bases de datos vulnerables. El servidor solo entrega HTML estático. Esta simplicidad estructural se traduce en una superficie de ataque mínima, por lo que se convierte en una herramienta ideal para quien desea desplegar un sitio profesional y seguro sin comprometer la flexibilidad ni el control.
 
-Todo esto se consigue con un único binario auto-contenido, sin dependencias externas, de código abierto, escrito en lenguaje Go. Compilas la herramienta *hugo*, y lo tienes todo listo para empezar.
+Todo esto se consigue con un único binario auto-contenido, sin dependencias externas, de código abierto, escrito en [lenguaje Go](/post/2025/golang-language). Compilas la herramienta *hugo*, y lo tienes todo listo para empezar.
 
 # Conclusión
 
