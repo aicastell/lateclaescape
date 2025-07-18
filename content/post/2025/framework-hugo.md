@@ -2,7 +2,7 @@
 title: El framework Hugo
 date: 2025-06-24
 image: /img/posts/hugo-framework.webp
-categories: [ "tecnología", "software", "tools", "open_source", "free_software", "CMS" ]
+categories: [ "tecnología", "software", "tools", "open_source", "free_software", "CMS", "framework" ]
 tags: [ "blog", "hugo", "markdown" ]
 draft: false
 featured: true
