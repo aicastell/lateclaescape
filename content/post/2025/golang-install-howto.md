@@ -133,7 +133,7 @@ Con esto ya tienes tu entorno de Go validado, funcionando y listo para empezar a
 
 Si te ha picado el gusanillo de Go, esto no ha hecho más que empezar. Mas adelante publicaré una serie de artículos prácticos donde me meteré de lleno en proyectos reales. Aprenderás a domar Go como un auténtico profesional. Si te interesa este contenido, no dudes en comentarlo en el [canal de Telegram](https://t.me/lateclaescape), en la medida de mis posibilidades, intentaré priorizar los temas que generen un mayor interés.
 
-De momento toca volver a Hugo. En el próximo artículo te enseñaré cómo compilar este generador de sitios estáticos usando Go. Será el primer paso que necesitas para construir un blog como este desde cero. Así que no te lo pierdas. Prepara tu terminal... ¡y nos vemos en el siguiente artículo!
+De momento toca volver a Hugo. En el próximo artículo utilizaré Go para [compilar el framework Hugo](/post/2025/hugo-install-howto) desde cero. Será el primer paso que necesitas para construir un blog como éste. Así que no te lo pierdas. Prepara tu terminal... ¡y nos vemos en el siguiente artículo!
 
 Pulso la tecla ESC, dos puntos wq!
 
