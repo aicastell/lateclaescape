@@ -141,7 +141,7 @@ $ which hugo
 Y verifica que hugo se haya instalado correctamente en tu sistema:
 
 ```
-hugo version
+$ hugo version
 hugo v0.148.1+extended linux/amd64 BuildDate=unknown
 ```
 

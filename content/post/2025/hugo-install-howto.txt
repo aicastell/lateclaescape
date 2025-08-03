@@ -106,7 +106,7 @@ Verifica que tu sistema es capaz de encontrar el binario hugo:
 
 Y verifica que hugo se haya instalado correctamente en tu sistema:
 
-    hugo version
+    $ hugo version
     hugo v0.148.1+extended linux/amd64 BuildDate=unknown
 
 Si has elegido el mismo camino que yo, instalando la versión extendida, verás que aparece la palabra “extended” en la salida reportada.
