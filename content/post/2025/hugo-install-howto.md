@@ -127,7 +127,7 @@ CGO_ENABLED=1 go install -tags extended github.com/gohugoio/hugo@latest
 
 La opción -tags extended indica que quieres compilar la variante extendida.
 
-La variable CGO_ENABLED=1 es necesaria para permitir que GoLang utilice funciones de la librería libsass escrita en C/C++. Activar esta variable exige tener instaladas previamente herramientas como gcc, g++ y make para que la compilación funcione correctamente.
+La variable CGO_ENABLED=1 es necesaria para que Go pueda compilar y enlazar el código en C/C++ de la biblioteca libsass, que Hugo utiliza para procesar SCSS y SASS. Al activarla, necesitas tener instaladas previamente herramientas como gcc, g++ y make, ya que son imprescindibles para compilar el código nativo de la librería libsass correctamente.
 
 No quiero entrar en muchos detalles sobre Go, ya que me gustaría dedicar artículos específicos para este lenguaje.
 
