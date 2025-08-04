@@ -1,3 +1,7 @@
+Articulo disponible en formato audiblog:
+
+{{< audio path=“audio/hugo-install-howto.mp3” >}}
+
 Introducción
 
 El framework Hugo es uno de los generadores de sitios estáticos más rápidos y versátiles del panorama actual.
@@ -30,7 +34,7 @@ Es una buena práctica que los binarios instalados con Go se guarden en el direc
 
     export GOBIN=$GOPATH/bin
 
-A partir de este momento, los binarios instalados con el comando go install, terminarán guardados en el directorio $HOME/Documentos/go/bin.
+A partir de este momento, los binarios instalados (comando go install), terminarán guardados en el directorio $HOME/Documentos/go/bin.
 
 PATH
 
@@ -79,23 +83,25 @@ La descarga de los fuentes, la compilación y la instalación de Hugo estándar 
 
     go install github.com/gohugoio/hugo@latest
 
-El comando go install descarga los fuentes del repositorio de github, los compila y los instala en tu directorio GOBIN.
+El comando go install descarga el código fuente desde el repositorio de GitHub, lo compila y guarda el binario resultante en el directorio definido por la variable GOBIN. No profundizaré aquí en su funcionamiento, ya que se trata de un tema específico del lenguaje Go que abordaremos en una serie de artículos dedicados a Go más adelante.
 
 Hugo extended
 
-La versión extendida de Hugo es una versión mejorada que incluye soporte adicional para herramientas de desarrollo web modernas, especialmente para la transformación de CSS con PostCSS y SCSS/SASS. Esto se consigue a través de la librería libsass.
+La versión extendida de Hugo incluye funcionalidades adicionales pensadas para proyectos web modernos. Una de sus principales ventajas es el soporte para procesar estilos CSS avanzados mediante herramientas como PostCSS y SCSS/SASS.
 
-La descarga de los fuentes, la compilación y la instalación de Hugo extended se realiza con este comando, que puedes copiar y pegar directamente en tu terminal:
+SASS (Syntactically Awesome Stylesheets) y SCSS (Sassy CSS) son lenguajes que amplían las capacidades de CSS. Permiten escribir estilos de forma más estructurada, reutilizable y organizada. No voy a profundizar más para no desviar el enfoque del artículo, pero debes saber que muchas plantillas modernas de Hugo los utilizan.
+
+Este soporte es posible gracias a la integración de la biblioteca libsass, que permite compilar SCSS/SASS a CSS de forma eficiente, sin necesidad de instalar Node.js. Aunque libsass ya no se mantiene activamente, sigue siendo utilizada por proyectos como Hugo por su rapidez y simplicidad.
+
+Para compilar e instalar Hugo Extended desde el código fuente, ejecuta este comando en tu terminal:
 
     CGO_ENABLED=1 go install -tags extended github.com/gohugoio/hugo@latest
 
-Fíjate que el flag -tags habilita la variante extended.
+La opción -tags extended indica que quieres compilar la variante extendida.
 
-SASS (Syntactically Awesome Stylesheets) y SCSS (Sassy CSS) son lenguajes que extienden CSS (Cascading Style Sheets). Te permiten escribir estilos de forma más poderosa, limpia y organizada. No voy a entrar en los detalles para no desviar la atención de este documento.
+La variable CGO_ENABLED=1 es necesaria para permitir que GoLang utilice funciones de la librería libsass escrita en C/C++. Activar esta variable exige tener instaladas previamente herramientas como gcc, g++ y make para que la compilación funcione correctamente.
 
-libsass es una biblioteca escrita en C/C++ que se encarga de compilar SCSS/SASS a CSS. Es rápida y estuvo muy de moda porque al estar escrita en C es muy eficiente, y permite usar SCSS sin necesidad de instalar node.js. Hoy en día no se mantiene de forma activa, pero muchos proyectos como Hugo la siguen usando.
-
-Para poder utilizar la librería libsass, es necesario definir la variable CGO_ENABLED=1 para indicar al compilador de Go que tu proyecto usa funciones escritas en C. Para que esto funcione, has instalado previamente el compilador de C (gcc y g++) y la herramienta make para automatizar tareas de compilación.
+No quiero entrar en muchos detalles sobre Go, ya que me gustaría dedicar artículos específicos para este lenguaje.
 
 Verificar instalación
 
@@ -119,6 +125,6 @@ Este artículo muestra que compilar Hugo desde su código fuente es muy sencillo
 
 Si te ha picado la curiosidad, te han surgido dudas, o simplemente quieres contarme que has empezado a investigar sobre este framework, puedes unirte de forma totalmente gratuita al canal de Telegram. Allí puedes dejarme tus preguntas, sugerencias, críticas (mejor si son constructivas)… o simplemente pasarte a saludar.
 
-En el próximo artículo te enseñaré cómo crear un “Hello World” con Hugo. ¡Nos vemos en el próximo articulo!
+En el próximo artículo te enseñaré cómo utilizar la herramienta hugo para crear tu primer website. ¡Nos vemos en el próximo articulo!
 
 Pulso la tecla ESC, dos puntos wq!
