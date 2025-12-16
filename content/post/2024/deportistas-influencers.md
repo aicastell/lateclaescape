@@ -2,7 +2,7 @@
 title: Deportistas influencers
 date: 2024-01-07
 image: "/img/posts/influencers.webp"
-categories: ["deporte", "opinión", "personal"]
+categories: ["deporte", "opinión", "personal", "sport"]
 tags: [ "influencer" ]
 draft: false
 featured: true

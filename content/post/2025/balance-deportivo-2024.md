@@ -2,7 +2,7 @@
 title: Balance deportivo 2024
 date: 2025-01-03
 image: /img/posts/balance-deportivo-2024.jpg
-categories: [ "personal", "deporte" ]
+categories: [ "personal", "deporte", "sport" ]
 tags: [ "ciclismo", "running", "gimnasio", "natación" ]
 draft: false
 featured: true
@@ -20,29 +20,23 @@ En el primer articulo del año 2025 hago un repaso a las actividades deportivas 
 
 Durante 2024 realicé 372 actividades deportivas en un total de 709 horas. Para los amantes de las estadísticas, dos horas de media al día durante los 366 días del año bisiesto 2024.
 
-![Balance anual 2024 Strava](/img/balance-anual-strava-2024.webp)
+![Balance anual 2025 Strava](/img/balance-anual-strava-2025.webp)
 
 ## Running
 
-He corrido mucho menos de lo que venía haciendo en los últimos años, solo 250 Km en un total de 24 salidas. Mis rodillas sufren mucho y cada vez que salgo a correr me paso 3 o 4 días con pinchazos en mis meniscos, que logro aliviar a base de fisioterapia casera. Me gusta mucho correr pero es lo que hay, toca adaptarse para no empeorar la situación.
+He corrido mucho menos de lo que venía haciendo en los últimos años, solo 307 Km en un total de 31 salidas. Mis rodillas sufren mucho y cada vez que salgo a correr me paso 3 o 4 días con pinchazos en mis meniscos, que logro aliviar a base de fisioterapia casera. Me gusta mucho correr pero es lo que hay, toca adaptarse para no empeorar la situación.
 
-![Parciales Mitja marato Terrassa 2024](/img/mitja-marato-terrassa-2024-parciales.webp)
-
-En enero de 2024, corrí la Mitja Marató de Terrassa por quinta vez, completándola en 1h 58m 45s. Un tiempo alejado de mi mejor marca de 2020, cuando hice el mismo recorrido en 1h 46m 19s. Sin embargo, estoy satisfecho con la marca, puesto que solo hice un entrenamiento específico de running para esta carrera. Tras finalizar pasé días con un dolor en las rodillas bastante fuerte. Desde entonces, no he vuelto a participar en más carreras en todo 2024.
+He corrido un par de 5K con mi amigo Javi, para ayudarle a bajar de 30min. 
 
 ## Natación
 
-La natación protege mucho mas mis articulaciones, y es un deporte fantástico para trabajar el cardio. Sin embargo, 2024 tampoco ha sido mi mejor año como nadador. Han sido 83 Km en un total de 51 entrenamientos. En el agua sufro muchos calambres en las piernas, algo curioso que solo me pasa nadando. He tenido problemas con mi oído derecho las últimas semanas del año.
+La natación protege mucho mas mis articulaciones, y es un deporte fantástico para trabajar el cardio. Sin embargo, 2024 tampoco ha sido mi mejor año como nadador. Han sido 58 Km en un total de 36 entrenamientos. En el agua sufro muchos calambres en las piernas, algo curioso que solo me pasa nadando. He tenido problemas con mi oído derecho las últimas semanas del año.
 
 ## Ciclismo
 
-La bicicleta sigue siendo mi principal actividad deportiva. Han sido 202 entrenos, acumulando un total de 11435 Km, con un desnivel positivo total de 181285 metros. Mis desplazamientos en coche no han alcanzado los 9000 Km. Aunque he rodado 600 Km menos en bicicleta que en 2024, las condiciones meteorológicas este año han sido peores que las del año pasado, con muchos días de viento y lluvia que han limitado la cantidad total de kilómetros que he podido realizar.
+La bicicleta sigue siendo mi principal actividad deportiva. Han sido 193 entrenos, acumulando un total de 12000 Km, con un desnivel positivo total de 145000 metros. Mis desplazamientos en coche no han alcanzado los 9000 Km. Aunque he rodado 600 Km menos en bicicleta que en 2024, las condiciones meteorológicas este año han sido peores que las del año pasado, con muchos días de viento y lluvia que han limitado la cantidad total de kilómetros que he podido realizar.
 
-En el club de Strava de [CiclesAB](https://ciclesab.com/), mi tienda de confianza en Castellón, he logrado la ansiada triple corona durante la última semana del año. Lo había intentado en varias ocasiones, pero hay gente que entrena mucho en este club. La última semana de 2024 lo he logrado. He sido el ciclista con mas kilómetros totales (407 Km), la salida mas larga (113 Km) y el máximo desnivel acumulado (d+5000m).
-
-![Triple corona 2024 club CiclesAB](/img/triple-corona-club-ciclesab-2024.webp)
-
-No era un reto fácil teniendo en cuenta que el segundo clasificado, [Fernando Santander](https://triatlonchannel.com/2024/10/27/fernando-santander-lidera-la-actuacion-espanola-con-record-ge-en-kona/), es un triatleta de la provincia que ha competido en Kona, el [campeonato del mundo de Ironman](https://www.ironman.com/im-world-championship-kona), y ha conseguido la mejor marca de la historia de un participante amateur español en su grupo de edad, consiguiendo el puesto numero 11 en su categoría con 8h 38min 43seg. Desde aquí le mando mi sincera enhorabuena, tienes todo mi respeto y admiración Fernando.
+En el club de Strava de [CiclesAB](https://ciclesab.com/), mi tienda de confianza en Castellón, no he logrado ninguna triple corona. Lo había intentado en varias ocasiones, pero hay gente que entrena mucho en este club. La última semana de 2024 lo he logrado. He sido el ciclista con mas kilómetros totales (407 Km), la salida mas larga (113 Km) y el máximo desnivel acumulado (d+5000m).
 
 ## Gimnasio
 

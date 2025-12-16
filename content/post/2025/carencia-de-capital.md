@@ -2,7 +2,7 @@
 title: Carencia de capital
 date: 2025-05-24
 image: "/img/posts/carencia-de-capital.webp"
-categories: [ "bancos" ]
+categories: [ "bancos", "inmobiliaria" ]
 tags: [ "hipoteca", "carencia_capital" ]
 draft: false
 featured: true

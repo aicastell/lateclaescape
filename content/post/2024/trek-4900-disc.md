@@ -2,7 +2,7 @@
 title: Trek 4900 Disc 2011
 date: 2024-01-06
 image: /img/posts/trek-logo.webp
-categories: ["deporte", "personal"]
+categories: ["deporte", "personal", "sport"]
 tags: ["Terrabike", "Trek", "ciclismo", "bicicleta"]
 draft: false
 featured: true

@@ -2,7 +2,7 @@
 title: El grupo de transmisión
 date: 2025-01-24
 image: /img/posts/ciclismo-grupo-de-transmision.webp
-categories: [ "deporte" ]
+categories: [ "deporte", "sport" ]
 tags: [ "ciclismo", "bicicleta", "bielas", "desviadores", "frenos", "pedalier", "piñones", "cadena" ]
 draft: false
 featured: true

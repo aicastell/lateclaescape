@@ -2,7 +2,7 @@
 title: Estudio variables hipoteca
 date: 2025-05-17
 image: "/img/posts/estudio-variables-hipoteca.webp"
-categories: [ "bancos" ]
+categories: [ "bancos", "inmobiliaria" ]
 tags: [ "hipoteca", "euribor", "intereses", "duración", "capital" ]
 draft: false
 featured: true

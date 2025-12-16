@@ -2,7 +2,7 @@
 title: Hiputecado
 date: 2025-05-01
 image: "/img/posts/hiputecado.webp"
-categories: [ "bancos" ]
+categories: [ "bancos", "inmobiliaria" ]
 tags: [ "hipoteca", "euribor", "capital_inicial", "amortización", "tipo_de_interes" ]
 draft: false
 featured: true

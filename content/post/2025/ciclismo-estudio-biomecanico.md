@@ -2,7 +2,7 @@
 title: Estudio biomecánico
 date: 2025-03-27
 image: /img/posts/ciclismo-estudio-biomecanico.webp
-categories: [ "deporte" ]
+categories: [ "deporte", "sport" ]
 tags: [ "ciclismo", "bicicleta", "biomecánica" ]
 draft: false
 featured: true

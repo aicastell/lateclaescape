@@ -2,7 +2,7 @@
 title: 12000km en bici
 date: 2024-09-27
 image: "/img/posts/challenge-2023-12000km.webp"
-categories: [ "deporte", "challenge", "personal" ]
+categories: [ "deporte", "challenge", "personal", "sport" ]
 tags: [ "ciclismo", "bicicleta" ]
 draft: false
 featured: true

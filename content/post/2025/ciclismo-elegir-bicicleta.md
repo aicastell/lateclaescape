@@ -2,7 +2,7 @@
 title: Elegir tu bicicleta
 date: 2025-01-12
 image: /img/posts/ciclismo-elegir-bicicleta.webp
-categories: [ "deporte" ]
+categories: [ "deporte", "sport" ]
 tags: [ "ciclismo", "bicicleta", "gravel", "trek" ]
 draft: false
 featured: true
