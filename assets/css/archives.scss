@@ -1,0 +1,9 @@
+.archive-entry {
+  position: relative;
+}
+
+.archive-entry .entry-link {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+}
