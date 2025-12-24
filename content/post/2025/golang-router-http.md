@@ -275,7 +275,7 @@ Ya dispones de todos los componentes en un solo archivo. Solo falta ejecutarlo:
 $ go run custom-router.go
 ```
 
-Ahora vez a tu navegador favorito. Y navega a estas URL:
+Ahora ves a tu navegador favorito, y entra en estas URL:
 
 - http://localhost:8080/
 - http://localhost:8080/status
