@@ -198,15 +198,10 @@ Fíjate que este método recibe dos argumentos como entrada:
 
 Este método obtiene el handler de la ruta extraída de req.URL.Path almacenada en el mapa r.rutas. Y si existe ese handler, entonces lo llama pasando como argumentos de entrada w y req para que genere la respuesta. Si no existe el handler, devolvería un error 404 de NotFound.
 
-Ahora ya puedes pasar a la función ListenAndServe tu router custom:
-
-```
-http.ListenAndServe(":8080", r)
-```
 
 ## Función main
 
-Finalmente, juntamos todas las piezas en una función main.
+Ahora ya puedes pasar a la función ListenAndServe tu router custom (CustomRouter) como segundo argumento. Si juntas todas las piezas en una sola función main, obtienes este código:
 
 ```
 func main() {
