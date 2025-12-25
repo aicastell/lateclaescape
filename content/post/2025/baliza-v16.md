@@ -3,7 +3,7 @@ title: Baliza v16
 date: 2025-11-22
 image: /img/posts/baliza-v16.jpg
 categories: [ "IoT", "opinión" ]
-tags: [ "baliza_v16", "Apache", "OSI", "comunidad" ]
+tags: [ "baliza_v16", "DGT" ]
 draft: false
 featured: true
 ---

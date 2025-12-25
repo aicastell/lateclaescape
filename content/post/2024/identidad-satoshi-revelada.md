@@ -2,7 +2,7 @@
 title: IA revela identidad Satoshi
 date: 2024-12-28
 image: /img/posts/identidad-satoshi-revelada.webp
-categories: [ "criptomonedas", "cypherpunk", "bromas", "bitcoin" ]
+categories: [ "IA", "criptomonedas", "cypherpunk", "bromas", "bitcoin" ]
 tags: [ "inocentada" ]
 draft: false
 featured: true
