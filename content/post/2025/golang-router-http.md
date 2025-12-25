@@ -14,9 +14,9 @@ En este artículo se aborda la construcción de un router HTTP desde cero en Go,
 
 # El router HTTP
 
-Un router HTTP es un componente de software que recibe una petición HTTP (con su URL y método) y decide qué función (handler) debe ejecutar para responderla. Es como el repartidor de correo de tu aplicación web: mira la dirección (la URL), y entrega el paquete (la petición) al destinatario correcto (tu función Index, Contact, etc.). En este artículo vamos a desarrollar paso a paso un router custom HTTP desde cero. Nuestro objetivo es poder registrar dos rutas distintas "/" y "/status", y conteste con una respuesta custom para cada ruta.
+Un router HTTP es un componente de software que recibe una petición HTTP (con su URL y método) y decide qué función (handler) debe ejecutar para responderla. Es como el repartidor de correo de tu aplicación web: mira la dirección (la URL), y entrega el paquete (la petición) al destinatario correcto (tu función Index, Contact, etc.).
 
-Queremos este código:
+El objetivo de este articulo es desarrollar un código en Go que registre dos rutas distintas "/" y "/status" y que conteste con una respuesta custom para cada una. Queremos este código:
 
 ```
 r := CustomRouter()
@@ -30,7 +30,7 @@ http.ListenAndServe(":8080", r)
 Definimos una estructura llamada CustomRouter, de esta manera:
 
 ```
-$ cat router-custom.go
+$ cat custom-router.go
 package main
 
 import "net/http"
@@ -45,7 +45,7 @@ type CustomRouter struct {
 Necesitas un mapa para guardar las rutas y sus handlers asociados. Definimos este mapa dentro de la estructura CustomRouter:
 
 ```
-$ cat router-custom.go
+$ cat custom-router.go
 package main
 
 import "net/http"
@@ -55,27 +55,24 @@ type CustomRouter struct {
 }
 ```
 
-El tipo Router guarda un mapa llamado "rutas" que almacena:
+El tipo CustomRouter guarda un mapa llamado "rutas" que almacena:
 
 - como clave, un string
 - como valor, un tipo http.HandlerFunc.
 
 # El tipo http.HandlerFunc
 
-Seguro que ahora te estas preguntando que demonios es un [http.HandlerFunc](https://pkg.go.dev/net/http@go1.25.5#HandlerFunc)
-
-El tipo "HandlerFunc" es un tipo definido dentro del paquete "http". En la documentación oficial se define de esta manera:
+Seguro que ahora te estas preguntando que demonios es un [http.HandlerFunc](https://pkg.go.dev/net/http@go1.25.5#HandlerFunc). Se trata de un tipo definido dentro del paquete estándar "http", cuya documentación oficial define de esta manera:
 
 ```
 type HandlerFunc func(ResponseWriter, *Request)
 ```
 
-Es decir, "HandlerFunc" es solo un nombre bonito para una función que recibe como argumentos un ResponseWriter y un \*Request. Los tipos de ambos parámetros están definidos dentro del propio paquete "http".
-
+Es decir, "HandlerFunc" no es mas que un alias para una función que recibe como argumentos un [http.ResponseWriter](https://pkg.go.dev/net/http#ResponseWriter) y un puntero a [http.Request](https://pkg.go.dev/net/http#Request). Cualquier función que tenga esta firma puede actuar como handler HTTP dentro del ecosistema de Go. Precisamente este es el contrato que exige nuestro router custom para poder registrar funciones asociadas a distintas rutas.
 
 ## Lista de Handlers
 
-Ahora implementamos dos callback diferentes, para poder usarlos en el main para registrar distintas rutas:
+Con esto claro, ya podemos implementar los handlers que usaremos en el router. A continuación definimos dos funciones que cumplen exactamente con la firma de http.HandlerFunc y que, por tanto, pueden registrarse directamente como callbacks:
 
 ```
 func Index(w http.ResponseWriter, r *http.Request) {
@@ -87,9 +84,9 @@ func Status(w http.ResponseWriter, r *http.Request) {
 }
 ```
 
-Estas dos funciones son los callback que usaremos con cada una de las rutas que vayamos registrando.
+Cada una de estas funciones será responsable de generar la respuesta HTTP para una ruta concreta. Más adelante las asociaremos a distintas URLs mediante el router, cerrando así el círculo entre la definición del tipo http.HandlerFunc y su uso práctico en la aplicación.
 
-## Registro de rutas
+# Registro de rutas
 
 Ahora vamos a implementar un método del tipo \*CustomRouter. Este método permite registrar un handler (una función callback que maneja peticiones HTTP) para una ruta específica.
 
@@ -99,7 +96,12 @@ func (r *CustomRouter) HandleFunc(path string, handler http.HandlerFunc) {
 }
 ```
 
-Esta función HandleFunc recibe como path una ruta URL (por ejemplo "/status"). Y como handler una función que cumple con el prototipo de http.HandlerFunc. Es decir, una función con firma func(http.ResponseWriter, \*http.Request). Dado el path, este método guarda el handler/callback asociado.
+Esta función HandleFunc recibe dos argumentos:
+
+- un path, es decir, una ruta URL (por ejemplo "/status").
+- un handler que cumple con el prototipo http.HandlerFunc que hemos definido antes.
+
+Dado el path, este método guarda el handler/callback asociado en el mapa "rutas".
 
 Esto es exactamente lo que hacen routers como el de gorilla/mux o el http.ServeMux del paquete estándar, solo que nuestra versión es minimalista y sin funcionalidades extras.
 
@@ -114,9 +116,7 @@ r.HandleFunc("/", Index)
 r.HandleFunc("/status", Status)
 ```
 
-Poco que explicar aquí. Cada URL tiene un handler asociado, que quedan almacenados dentro del mapa de "rutas".
-
-## Constructor del CustomRouter
+# Constructor del CustomRouter
 
 Ahora vamos a crear el constructor del router:
 
@@ -159,7 +159,7 @@ Como ves, recibe dos argumentos de entrada:
 - addr: un string con ip + port, es decir, ":8080", fácil.
 - http.Handler: es un tipo que debe cumplir con la interfaz http.Handler.
 
-Esta función abre un puerto de red (ej. :8080), escucha conexiones entrantes, y por cada petición HTTP que llega, llama al handler especificado en el segundo argumento http.Handler. Este handler no es arbitrario. Go necesita que sepa gestionar peticiones HTTP. Para ello, debe cumplir con el interfaz http.Handler, que tiene esta firma:
+Esta función abre un puerto de red (ej. :8080), escucha conexiones entrantes, y por cada petición HTTP que llega, llama al handler especificado en el segundo argumento http.Handler. Este handler no es arbitrario. Go necesita un handler que sepa gestionar peticiones HTTP. Y para ello, debe implementar el interfaz [http.Handler](https://pkg.go.dev/net/http#Handler), que tiene esta firma:
 
 ```
 type Handler interface {
@@ -167,7 +167,7 @@ type Handler interface {
 }
 ```
 
-Esto es una exigencia para cualquier servidor HTTP de Go.
+Esto no es opcional. Es una exigencia para cualquier servidor HTTP de Go.
 
 Recuerda que previamente has creado el tipo CustomRouter:
 
@@ -177,7 +177,7 @@ type CustomRouter struct {
 }
 ```
 
-Vamos ahora a definir el método ServeHTTP para el tipo \*CustomRouter:
+Vamos ahora a implementar el método ServeHTTP para el tipo \*CustomRouter, es decir, para nuestro router custom:
 
 ```
 func (r *CustomRouter) ServeHTTP(w http.ResponseWriter, req *http.Request) {
@@ -189,19 +189,16 @@ func (r *CustomRouter) ServeHTTP(w http.ResponseWriter, req *http.Request) {
 }
 ```
 
-Este método permite que el CustomRouter cumpla con la interfaz http.Handler, requisito obligatorio para poder pasar el CustomRouter a la función ListenAndServe.
-
-Fíjate que este método recibe dos argumentos como entrada:
+La implementación del método ServeHTTP es la que permite que el CustomRouter cumpla con la interfaz http.Handler, requisito obligatorio para poder pasar el CustomRouter a la función ListenAndServe. Fijate que ServeHTTP recibe dos argumentos como entrada:
 
 - http.ResponseWriter: permite escribir la respuesta HTTP (cuerpo, código de estado, headers).
-- *http.Request: contiene la petición entrante, incluyendo la URL solicitada.
+- \*http.Request: contiene la petición entrante, incluyendo la URL solicitada.
 
-Este método obtiene el handler de la ruta extraída de req.URL.Path almacenada en el mapa r.rutas. Y si existe ese handler, entonces lo llama pasando como argumentos de entrada w y req para que genere la respuesta. Si no existe el handler, devolvería un error 404 de NotFound.
+El método obtiene del mapa r.rutas el handler asociado a la ruta extraída de req.URL.Path. Si existe ese handler, entonces lo llama pasando como argumentos de entrada w y req para que genere la respuesta. Si no existe el handler, devolvería un error 404 de NotFound.
 
+# Función main
 
-## Función main
-
-Ahora ya puedes pasar a la función ListenAndServe tu router custom (CustomRouter) como segundo argumento. Si juntas todas las piezas en una sola función main, obtienes este código:
+Ahora ya puedes pasar a la función ListenAndServe tu router custom (CustomRouter) como segundo argumento. Juntando todas las piezas en una sola función main, obtienes este código:
 
 ```
 func main() {
@@ -218,11 +215,12 @@ func main() {
 }
 ```
 
-## Código fuente completo
+# Código fuente completo
 
 Finalmente, aquí tenemos el código del router custom:
 
 ```
+$ cat custom-router.go
 package main
 
 import (
@@ -233,17 +231,17 @@ type CustomRouter struct {
     rutas map[string]http.HandlerFunc
 }
 
-func NuevoRouter() *Router {
-    return &Router{
+func NuevoRouter() *CustomRouter {
+    return &CustomRouter{
         rutas: make(map[string]http.HandlerFunc),
     }
 }
 
-func (r *Router) HandleFunc(path string, handler http.HandlerFunc) {
+func (r *CustomRouter) HandleFunc(path string, handler http.HandlerFunc) {
     r.rutas[path] = handler
 }
 
-func (r *Router) ServeHTTP(w http.ResponseWriter, req *http.Request) {
+func (r *CustomRouter) ServeHTTP(w http.ResponseWriter, req *http.Request) {
     if handler, existe := r.rutas[req.URL.Path]; existe {
         handler(w, req)
     } else {
@@ -284,14 +282,14 @@ Verás en el navegador las respuestas esperadas.
 
 # Despedida
 
-En este artículo has construido un router HTTP funcional desde cero utilizando Go y su librería estándar, con el objetivo de comprender los fundamentos reales del enrutamiento HTTP más allá del uso de frameworks. A partir de una implementación mínima, has visto cómo registrar rutas, asociarlas a handlers y conectar un router propio con el servidor HTTP de Go mediante la interfaz http.Handler.
+En este artículo has construido un router HTTP funcional desde cero utilizando Go y su librería estándar, con el objetivo de comprender los fundamentos del enrutamiento HTTP más allá del uso de frameworks. Partiendo de una implementación mínima, has visto cómo registrar rutas, asociarlas a handlers y conectar un router propio con el servidor HTTP de Go mediante la interfaz http.Handler.
 
-Este ejercicio pone de manifiesto que el enrutamiento HTTP en Go se apoya en conceptos simples y bien definidos, y que no se trata de una “caja negra”. Entender estas bases permite tomar decisiones arquitectónicas más informadas, evaluar con criterio cuándo merece la pena introducir dependencias externas y escribir código más claro, mantenible y predecible.
+Este ejercicio demuestra que el enrutamiento HTTP en Go se basa en conceptos simples y bien definidos, lejos de ser una “caja negra”. Comprender estas bases permite tomar mejores decisiones arquitectónicas, evaluar cuándo introducir dependencias externas y escribir código más claro y mantenible.
 
-A partir de aquí, el siguiente paso natural sería ampliar este router con funcionalidades habituales, como soporte para métodos HTTP (GET, POST, PUT) o parámetros en la URL. Incluso si finalmente se opta por utilizar routers existentes como http.ServeMux, gorilla/mux u otras alternativas más completas, el conocimiento adquirido en este artículo proporciona una base sólida para comprender sus ventajas, limitaciones y costes reales.
+El siguiente paso natural sería ampliar el router con funcionalidades habituales, como soporte para métodos HTTP o parámetros en la URL. Incluso utilizando routers existentes como http.ServeMux, gorilla/mux u otras alternativas más completas, el conocimiento adquirido aquí proporciona una base sólida para entender sus ventajas, limitaciones y costes reales.
 
 Construir un router HTTP desde cero no es un objetivo en sí mismo, sino un excelente ejercicio para afianzar el modelo de servidor de Go y reforzar los fundamentos del desarrollo backend. Ahora entiendes cómo funciona internamente una pieza clave que muchos desarrolladores utilizan a diario sin haberla implementado nunca.
 
-Si este contenido te ha resultado útil, puedes comentarlo por el [canal de Telegram](https://t.me/lateclaescape). Según el interés que muestren las métricas del blog, seguiré publicando artículos similares sobre Go u otros lenguajes de programación. Nos vemos en el próximo articulo.
+Si este contenido te ha resultado útil, te ha despertado alguna duda, quieres ver más artículos sobre Go o simplemente te apetece pasarte a saludar, puedes hacerlo por el [canal de Telegram](https://t.me/lateclaescape). Estoy al otro lado de la tecla ESC para lo que necesites. ¡Nos vemos en el próximo articulo!.
 
 Pulso la tecla ESC, dos puntos wq!
