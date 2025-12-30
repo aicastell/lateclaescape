@@ -2,7 +2,7 @@
 title: Concierto Eisbrecher
 date: 2025-04-11
 image: "/img/posts/concierto-eisbrecher-barcelona-2025.webp"
-categories: [ "personal", "concierto" ]
+categories: [ "personal", "concierto", "eventos" ]
 tags: [ "eisbrecher", "heldmaschine", "NDH" ]
 draft: false
 featured: true

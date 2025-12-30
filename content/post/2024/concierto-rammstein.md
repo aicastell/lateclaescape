@@ -2,7 +2,7 @@
 title: Concierto Rammstein
 date: 2024-06-11
 image: "/img/posts/concierto-rammstein-barcelona-2024.webp"
-categories: [ "personal", "concierto" ]
+categories: [ "personal", "concierto", "eventos" ]
 tags: [ "rammstein", "NDH" ]
 draft: false
 featured: true

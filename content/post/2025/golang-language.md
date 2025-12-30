@@ -2,7 +2,7 @@
 title: El lenguaje Go
 date: 2025-07-11
 image: /img/posts/golang-language.webp
-categories: [ "software", "open_source", "free_software", "programming_language" ]
+categories: [ "open_source", "free_software", "programming_language" ]
 tags: [ "golang", "kubernetes", "docker", "terraform", "prometheus", "caddy" ]
 draft: false
 featured: true

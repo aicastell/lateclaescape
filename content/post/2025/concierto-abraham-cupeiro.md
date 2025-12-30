@@ -2,7 +2,7 @@
 title: Concierto Abraham Cupeiro
 date: 2025-06-28
 image: "/img/posts/concierto-abraham-cupeiro-2025.webp"
-categories: [ "personal", "concierto" ]
+categories: [ "personal", "concierto", "eventos" ]
 tags: [ "UMSCO", "Abraham_Cupeiro" ]
 draft: false
 featured: true
