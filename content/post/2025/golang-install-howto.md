@@ -77,58 +77,6 @@ go version go1.24.5 linux/amd64
 
 Enhorabuena, ya tienes Go instalado en tu ordenador.
 
-# Helloworld
-
-Si todo ha ido bien, ya puedes escribir tu primer programa en Go. Vamos a seguir los mínimos pasos necesarios para crear el clásico Hola Mundo.
-
-Crea un directorio de trabajo y entra dentro del directorio que acabas de crear:
-
-```
-$ mkdir -p ~/go/helloworld
-$ cd ~/go/helloworld
-```
-
-Abre tu editor de texto favorito (ya sabéis que el mejor editor del mundo mundial es el vim), y crea un archivo llamado main.go con este contenido:
-
-```
-$ vim main.go
-
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("Hola, mundo")
-}
-```
-
-Ahora solo tienes que probar tu programa con este comando:
-
-```
-$ go run main.go
-```
-
-Este comando ejecuta tu programa inmediatamente, sin crear un fichero binario en disco. Verás en tu terminal el resultado de su ejecución.
-
-```
-Hola, mundo
-```
-
-Si prefieres generar un binario ejecutable, usa este comando:
-
-```
-$ go build
-```
-
-Esto generará un archivo ejecutable llamado "main" (o "main.exe" en Windows) que puedes ejecutar directamente:
-
-```
-$ ./main
-Hola, mundo
-```
-
-Con esto ya tienes tu entorno de Go validado, funcionando y listo para empezar a desarrollar.
-
 # Despedida
 
 Si te ha picado el gusanillo de Go, esto no ha hecho más que empezar. Mas adelante publicaré una serie de artículos prácticos donde me meteré de lleno en proyectos reales. Aprenderás a domar Go como un auténtico profesional. Si te interesa este contenido, no dudes en comentarlo en el [canal de Telegram](https://t.me/lateclaescape), en la medida de mis posibilidades, intentaré priorizar los temas que generen un mayor interés.

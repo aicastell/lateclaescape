@@ -26,13 +26,13 @@ A partir de la necesidad planteada por un amigo y seguidor del [canal de Telegra
 
 # Mejoras técnicas
 
-En cuanto a mejoras técnicas del blog, se ha actualizado el tema *lightbi-hugo* conjuntamente con el motor del framework hugo, aportando algunas mejoras sutiles pero necesarias, tanto visuales como en rendimiento.
+En cuanto a mejoras técnicas del blog, se ha actualizado el tema *lightbi-hugo* conjuntamente con el motor del framework *hugo*, aportando algunas mejoras sutiles pero necesarias, tanto visuales como en rendimiento.
 
 También se ha corregido un bug en la funcionalidad de [Archives](https://www.lateclaescape.com/archives/), que ahora permite visualizar en una única página todos los artículos publicados, con enlaces plenamente operativos. Esto facilita localizar rápidamente cualquier contenido concreto que quieras volver a leer. Os animo a utilizar esta sección para redescubrir artículos que os hayan resultado especialmente interesantes.
 
 La incorporación de Google Analytics fue una decisión incomoda, que no terminaba de encajar con los principios éticos con los que nació este blog. Al delegar la gestión de los datos de visitas en Google, esa información pasa a almacenarse en su infraestructura y a utilizarse con fines comerciales ajenos a este proyecto. Este planteamiento chocaba frontalmente con los valores definidos en [el manifiesto](/post/2024/la-tecla-esc-manifiesto) que dio origen a este blog.
 
-Gracias a la recomendación de un amigo, decidí replantear este aspecto y migrar el sistema de analíticas a [Matomo](https://github.com/holehan/hugo-component-matomo), un componente para Hugo que permite medir las visitas de manera mucho más respetuosa con la privacidad. Con Matomo, los datos se almacenan en el propio servidor que aloja este blog. A ese servidor solo tiene acceso el autor de este blog. Los datos no se comparten con terceros bajo ningún concepto.
+He decidido replantear este aspecto y migrar el sistema de analíticas a [Matomo](https://github.com/holehan/hugo-component-matomo), un componente para Hugo que permite medir las visitas de manera mucho más respetuosa con la privacidad. Con Matomo, los datos se almacenan en el mismo servidor que aloja este blog. Y a ese servidor solo tiene acceso el autor del blog. Los datos no se comparten con terceros bajo ningún concepto.
 
 # Los lectores
 
