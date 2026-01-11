@@ -1,10 +1,10 @@
 ---
 title: Módulos en Go
-date: 2026-01-05
+date: 2026-01-06
 image: /img/posts/golang-modules.webp
 categories: [ "programming_language" ]
-tags: [ "golang", "howto" ]
-draft: true
+tags: [ "golang", "modules" ]
+draft: false
 featured: true
 ---
 

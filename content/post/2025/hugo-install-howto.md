@@ -3,7 +3,7 @@ title: Instalación de Hugo
 date: 2025-08-03
 image: /img/posts/hugo-install-howto.webp
 categories: [ "framework" ]
-tags: [ "hugo", "howto", "libsass", "golang" ]
+tags: [ "hugo", "howto", "libsass" ]
 draft: false
 featured: true
 ---
