@@ -4,7 +4,7 @@ date: 2026-01-07
 image: /img/posts/golang-packages.webp
 categories: [ "programming_language" ]
 tags: [ "golang", "packages" ]
-draft: true
+draft: false
 featured: true
 ---
 
@@ -12,7 +12,9 @@ featured: true
 
 En el artículo anterior expliqué los [módulos en Go](/post/2026/golang-modules). Los módulos definen *qué es un proyecto*: el perímetro, su identidad global y la base sobre la que se construyen las dependencias y la reproducibilidad.
 
-Sin embargo, un módulo por sí solo no organiza el código internamente. Un módulo puede contener desde un único archivo hasta miles. Para resolver este problema, Go introduce su siguiente concepto fundamental: `los paquetes`. Este artículo explica qué es un paquete en Go, qué reglas impone el lenguaje, cómo se estructuran los proyectos y por qué la simplicidad del sistema de paquetes es una de las claves de la claridad y mantenibilidad del código Go.
+Sin embargo, un módulo por sí solo no organiza el código internamente ni establece límites entre unas partes y otras. Un módulo puede crecer sin control, con cientos o miles de archivos compartiendo el mismo espacio conceptual. Para resolver este problema, Go introduce su siguiente concepto fundamental: `los paquetes`.
+
+Este artículo explica qué es un paquete en Go, qué reglas impone el lenguaje, cómo se estructuran los proyectos y por qué la simplicidad del sistema de paquetes es una de las claves de la claridad y mantenibilidad del código Go.
 
 # Paquetes en Go
 
