@@ -62,5 +62,4 @@ Espero que esta explicación te haya proporcionado una visión clara y útil sob
 
 Muchas gracias por leerme, y ¡nos vemos en el siguiente articulo!.
 
-Pulso la tecla ESC, dos puntos wq!
-
+Pulso la tecla `ESC:wq!`

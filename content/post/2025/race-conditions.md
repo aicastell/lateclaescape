@@ -148,4 +148,4 @@ Las *race conditions* no son precisamente el tipo de carrera en la que nos gusta
 
 Puedes comentar en el [canal de Telegram](https://t.me/lateclaescape) si te parece interesante este contenido. Son bienvenidas las criticas, sugerencias, dudas o comentarios de cualquier tipo relacionados con el articulo. ¡Nos vemos en la siguiente vuelta!
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

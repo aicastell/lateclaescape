@@ -82,4 +82,4 @@ Es un restaurante coqueto recomendable para ir con tu pareja un día señalado. 
 
 Nos vemos en el siguiente articulo.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

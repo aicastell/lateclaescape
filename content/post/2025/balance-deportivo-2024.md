@@ -64,4 +64,4 @@ Espero que estas palabras te inspiren a unirte a este camino. No importa tu edad
 
 ¡Nos vemos por esas carreteras!
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

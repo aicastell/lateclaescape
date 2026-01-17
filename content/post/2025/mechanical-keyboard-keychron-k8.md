@@ -87,4 +87,4 @@ El fabricante Keychron tiene una amplia gama de teclados, te animo a investigar 
 
 Si te ha gustado el teclado, o si tienes alguna duda que quieras resolver, no dudes en participar en el [canal de Telegram](https://t.me/lateclaescape). Estaré atento a todos tus comentarios.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

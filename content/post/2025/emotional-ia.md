@@ -146,4 +146,4 @@ Para habilitar este modo de funcionamiento, basta con arrancar la aplicación CL
 
 Después de analizar el contenido de este articulo, la IA concluye que este artículo es emocionalmente correcto, técnicamente cuestionable y absolutamente innecesario. Si has sonreido, aunque sea un poco, el modelo se da por satisfecho. ¡Feliz día de los [Santos Inocentes](/img/santos-inocentes-logo.webp)!.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

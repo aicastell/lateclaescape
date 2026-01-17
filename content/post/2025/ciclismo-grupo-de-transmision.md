@@ -146,4 +146,4 @@ Si tienes dudas, sugerencias, comentarios, o simplemente te apetece pasar a salu
 
 No te pierdas el próximo artículo, donde seguiré hablando de componentes de la bicicleta, pero esta vez trataré específicamente todos los componentes que puedes customizar para darle un toque mas personal a tu nueva bicicleta. ¡Te espero en la próxima aventura sobre ruedas!
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

@@ -184,5 +184,4 @@ Si te ha picado la curiosidad, te han surgido dudas hipotecarias existenciales, 
 
 ¡Nos vemos calculando la próxima cuota de tu hipoteca!.
 
-Pulso la tecla ESC, dos puntos wq!
-
+Pulso la tecla `ESC:wq!`

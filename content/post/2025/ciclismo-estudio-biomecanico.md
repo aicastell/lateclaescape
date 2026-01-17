@@ -136,4 +136,4 @@ Si tienes dudas, sugerencias, críticas o cualquier comentario sobre este articu
 
 El próximo articulo tratará los componentes que se ajustan en un estudio biomecánico: manillar, potencia, sillín, tija y puños. En futuras publicaciones profundizaré en otros aspectos clave para la práctica del ciclismo, como la elección de la ropa, herramientas y accesorios esenciales para tus rutas. ¡No te los pierdas!.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

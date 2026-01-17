@@ -82,5 +82,4 @@ Es un restaurante agradable donde puedes ir con tu pareja o con un grupo de amig
 
 Nos vemos en el siguiente articulo.
 
-Pulso la tecla ESC, dos puntos wq!
-
+Pulso la tecla `ESC:wq!`

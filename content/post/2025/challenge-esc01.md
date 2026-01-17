@@ -70,4 +70,4 @@ El séptimo día después de resolver el reto, se publicará un articulo en el b
 
 Durante 2025 habrá un segundo challenge con otro premio. ¡Así que atentos durante todo el año 2025, porque habrá mas sorpresas y esto no termina aquí!..
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

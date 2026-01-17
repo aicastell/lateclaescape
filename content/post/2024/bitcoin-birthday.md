@@ -135,4 +135,4 @@ En el próximo articulo intentaremos averiguar quien es Satoshi Nakamoto. Tratar
 
 ¿Lograremos desenmascarar la identidad de Satoshi Nakamoto? No te pierdas el próximo articulo, porque las conclusiones que vamos a poner sobre la mesa, no van a dejar indiferente a nadie. ¡Nos vemos muy pronto!.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

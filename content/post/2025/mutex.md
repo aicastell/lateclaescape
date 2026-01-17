@@ -152,4 +152,4 @@ Espero que este articulo te haya resultado útil. Cualquier duda, no dudes en pr
 
 ¡Nos vemos en el siguiente articulo!
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

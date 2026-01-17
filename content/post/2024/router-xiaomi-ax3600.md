@@ -146,4 +146,4 @@ Tras instalar el firmware de OpenWRT, he convertido a este dispositivo en el rou
 
 Si estás considerando comprar este dispositivo y tienes alguna pregunta, no dudes en contactarme a través del [canal de Telegram](https://t.me/lateclaescape). Estaré atento para resolver cualquier cuestión que quieras plantear sobre este router en particular. ¡Nos vemos en el próximo articulo!
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

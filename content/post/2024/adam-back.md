@@ -80,4 +80,4 @@ En este articulo has aprendido quien es Adam Back. En próximos artículos habla
 
 Espero que este contenido te resulte interesante. Como siempre, puedes plantearme cualquier duda en el [canal de Telegram](https://t.me/lateclaescape) e intentaré ayudarte a resolverla. Gracias por leerme y nos vemos en el siguiente articulo.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

@@ -104,4 +104,4 @@ Si visitas Barcelona y quieres hacer una cena inolvidable con tu pareja, es un s
 
 Nos vemos en el siguiente articulo.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

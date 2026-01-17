@@ -248,5 +248,4 @@ Te animo a que prepares tu primer artículo en Markdown para practicar.
 
 En el próximo artículo veremos cómo dar el siguiente paso: crear un tema básico para tu nuevo sitio web. Será la base sobre la que podrás construir un website a tu medida.
 
-Pulso la tecla ESC, dos puntos wq!
-
+Pulso la tecla `ESC:wq!`

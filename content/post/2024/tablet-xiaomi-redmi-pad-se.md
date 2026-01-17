@@ -108,4 +108,4 @@ Si estás pensando en comprar una tablet, espero que esta reseña te sea útil. 
 
 Si te ha gustado la reseña, o si consideras que había mejores opciones por este rango de precios, te animo a compartir tus opiniones en el [canal de Telegram](https://t.me/lateclaescape). Muchas gracias por leerme, y nos vemos en el próximo articulo.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

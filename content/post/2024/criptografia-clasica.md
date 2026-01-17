@@ -63,4 +63,4 @@ En contraste con la criptografía clásica, surge el concepto de **criptografía
 
 Confío en que hayas comprendido como funciona la criptografía, una disciplina que a pesar de su aparente complejidad, se fundamenta en conceptos elementales muy simples. Me sentiré satisfecho si llegado a este punto, has adquirido algún conocimiento nuevo sobre esta materia. Por supuesto, te animo a preguntar en el [canal de Telegram](https://t.me/lateclaescape) si te queda alguna duda pendiente. Intentaré ayudarte a resolverla. Gracias por leerme y nos vemos en el siguiente articulo.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

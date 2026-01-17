@@ -28,4 +28,4 @@ No quiero hacer spoilers, pero si ves la película, te animo a compartir tu opin
 
 Si has visto alguna otra película en cartelera que merezca la pena ver, te agradeceré cualquier recomendación. Muchas gracias por leerme, y nos vemos muy pronto.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

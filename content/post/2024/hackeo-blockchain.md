@@ -70,4 +70,4 @@ Siempre estoy atento al [canal de Telegram](https://t.me/lateclaescape) donde le
 
 Muchas gracias por leerme, y nos vemos en el próximo articulo.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

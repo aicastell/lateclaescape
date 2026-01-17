@@ -127,4 +127,4 @@ Bitcoin no es solo una moneda, es una revolución tecnológica que continúa evo
 
 Te animo a predecir su precio para el 25/12/2025 en el [canal de Telegram](https://t.me/lateclaescape). Yo me voy a mojar. Mi apuesta personal es que en Navidad de 2025 su valor rondará 200,000.00$. Ahí lo dejo.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

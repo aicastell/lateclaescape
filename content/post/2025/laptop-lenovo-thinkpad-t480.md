@@ -148,4 +148,4 @@ Es un portátil muy fácil de reparar, lo que garantiza una vida útil prolongad
 
 Si te ha gustado este artículo te animo a compartirlo con tus contactos. Si quieres plantear dudas, sugerencias o comentar cualquier cosa, te invito a unirte al [canal de Telegram](https://t.me/lateclaescape). Es totalmente gratuito, y allí podemos seguir la conversación y crear comunidad en torno a esta y otras publicaciones. Estoy trabajando en mas contenido que seguro te va a encantar. ¡No te pierdas los próximos artículos!.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

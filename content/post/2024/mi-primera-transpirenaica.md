@@ -79,4 +79,4 @@ Quizá no sea la obra mejor escrita del mundo mundial, se que nunca ganará un p
 
 Feliz Sant Jordi a todos, a todas y a todes.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

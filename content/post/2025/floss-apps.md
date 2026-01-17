@@ -193,4 +193,4 @@ Estoy seguro de que hay muchas más aplicaciones que merecen estar en este lista
 
 Si este artículo te ha resultado interesante, no te pierdas el próximo, donde haré un repaso a las figuras más influyentes dentro de la comunidad FLOSS. ¡Nos vemos en el siguiente artículo!
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

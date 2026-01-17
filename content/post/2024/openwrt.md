@@ -119,4 +119,4 @@ OpenWrt es una solución poderosa para transformar los router de los operadores 
 
 Con un poco de dedicación, puedes optimizar significativamente tu red sin necesidad de invertir en equipos costosos. Si estas ideas han despertado tu interés, estás a un paso de maximizar el potencial de tu hardware de red. En el próximo artículo, te guiaré paso a paso para instalar OpenWrt en un router de gama alta, el Xiaomi AX3600. Si este tema te resulta interesante, no te pierdas la próxima entrega. ¡Nos vemos pronto!
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

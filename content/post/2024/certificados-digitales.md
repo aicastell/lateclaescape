@@ -221,4 +221,4 @@ De momento ya tienes las bases matemáticas y criptográficas necesarias para po
 
 Nos vemos muy pronto.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

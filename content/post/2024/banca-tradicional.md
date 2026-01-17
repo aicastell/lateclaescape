@@ -151,4 +151,4 @@ En este articulo has aprendido que es el IBAN y el PIN de una cuenta bancaria. H
 
 Como siempre, estaré atento a cualquier cualquier duda, sugerencia o comentario por el [canal de Telegram](https://t.me/lateclaescape). Nos vemos en el siguiente articulo!.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

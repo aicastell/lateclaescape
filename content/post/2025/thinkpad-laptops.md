@@ -98,4 +98,4 @@ Si has tenido la oportunidad de disfrutar de un ThinkPad, seguro entenderás por
 
 ¿Te ha picado el gusanillo de hacerte con un ThinkPad?. Genial, ¡no eres el único! En el próximo artículo me embarcaré en la búsqueda de un modelo de segunda mano que voy a tunear para convertirlo en mi nuevo portátil personal, todo a un coste ridículamente bajo. ¿Qué modelo será el elegido? ¿Qué mejoras le haré? ¡No te pierdas los detalles en el próximo artículo!.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

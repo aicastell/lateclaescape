@@ -92,4 +92,4 @@ Como siempre, estoy disponible para cualquier duda, sugerencia o comentario a tr
 
 Nos vemos en el próximo capítulo.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

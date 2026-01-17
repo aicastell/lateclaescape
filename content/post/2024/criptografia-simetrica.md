@@ -197,4 +197,4 @@ En este articulo has aprendido como funcionan los algoritmos de criptografía si
 
 Si llegado a este punto te quedan dudas pendientes, pregúntame por el [canal de Telegram](https://t.me/lateclaescape), e intentaré ayudarte a resolverla. Gracias por leerme y nos vemos en el siguiente articulo.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

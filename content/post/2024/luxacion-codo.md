@@ -102,4 +102,4 @@ Tras un año vuelvo al traumatólogo para revisión. He perdido unos 5º en flex
 
 Agradecer a todos los que me habéis preguntado por mi estado durante todos estos meses y me habéis animado a seguir con la recuperación. A los bomberos que me sacásteis de Collserola. Al joven ciclista que salvó mi bici. A los dos médicos que realizásteis la reducción de mi codo. A mi amigo por acompañarme en los momentos mas dificiles en el hospital. A mis cuñadas por traerme a casa. Al traumatólogo que ha hecho seguimiento de mi lesión. A todos los fisioterapeutas que de alguna manera me habéis ayudado a recuperar mi movilidad. A mi pareja por todo el tiempo que has dedicado a cuidar de mi. Mil gracias a todos. Unas veces se gana y otras se aprende. Esta vez tocó aprender. Una lección vital que nunca olvidaré.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

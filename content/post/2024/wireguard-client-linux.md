@@ -140,4 +140,4 @@ Espero que esta serie de artículos sobre VPNs en general y WireGuard en particu
 
 Espero que disfrutes de tu navegación segura con WireGuard. Úsala con responsabilidad y con sentido común. ¡Nos vemos en el siguiente articulo!
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

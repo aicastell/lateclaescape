@@ -54,4 +54,4 @@ El Alemán es un idioma que me gusta. Tengo ganas de visitar Berlin. Y me motiva
 
 Y tu. ¿Hablas Alemán? ¿Me recomiendas algún sitio donde seguir aprendiendo este idioma? ¡Cuéntamelo en el [canal de Telegram](https://t.me/lateclaescape)! ¡Auf wiederhesen!
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

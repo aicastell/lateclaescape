@@ -123,4 +123,4 @@ Dejo iniciado el camino para explorar y comprender las características únicas 
 
 Te espero en el próximo articulo de esta serie. ¡No te lo pierdas!
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

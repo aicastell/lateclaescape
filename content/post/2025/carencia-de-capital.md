@@ -63,5 +63,4 @@ Si este artículo te ha hecho reflexionar, te animo a compartirlo con tus amigos
 
 Nos vemos en el próximo artículo.
 
-Pulso la tecla ESC, dos puntos wq!
-
+Pulso la tecla `ESC:wq!`

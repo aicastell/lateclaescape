@@ -290,4 +290,4 @@ Hemos visto como las firmas digitales son una herramienta versátil que se utili
 
 Soy consciente que hoy hemos tratado un concepto técnico bastante complejo de entender, y no es fácil encontrar libros donde se explique con claridad. Repasa el texto tantas veces como sea necesario para su comprensión. Y como te digo siempre, no te quedes con dudas, si algo no lo has entendido, no dudes en formular tus preguntas por el [canal de Telegram](https://t.me/lateclaescape) e intentaré ayudarte a resolverlas. Gracias por leerme y nos vemos en el siguiente articulo.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

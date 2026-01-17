@@ -100,4 +100,4 @@ El restaurante Ramen Dou ofrece un ambiente acogedor que permite disfrutar de un
 
 Nos vemos en el siguiente articulo.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

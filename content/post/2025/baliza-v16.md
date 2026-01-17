@@ -153,4 +153,4 @@ Como toda innovación que afecta a millones de usuarios, su éxito dependerá de
 
 El objetivo final, reducir riesgos, salvar vidas, y conseguir que la señalización de un vehículo inmovilizado sea lo más segura y visible posible. Y en ese sentido, la baliza V16 parece ser un paso firme que va en la dirección correcta.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

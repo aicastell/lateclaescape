@@ -88,4 +88,4 @@ En próximos articulos explicaré como instalar un [servidor de WireGuard](/post
 
 Espero que este artículo haya captado tu atención sobre WireGuard. Merece mucho la pena. Si quieres plantear alguna duda, o simplemente si quieres mandar un saludo, te invito a unirte al [canal de Telegram](https://t.me/lateclaescape). ¡Nos vemos muy pronto!.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

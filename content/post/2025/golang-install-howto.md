@@ -83,5 +83,4 @@ Si te ha picado el gusanillo de Go, esto no ha hecho más que empezar. Mas adela
 
 De momento toca volver a Hugo. En el próximo artículo utilizaré Go para [compilar el framework Hugo](/post/2025/hugo-install-howto) desde cero. Será el primer paso que necesitas para construir un blog como éste. Así que no te lo pierdas. Prepara tu terminal... ¡y nos vemos en el siguiente artículo!
 
-Pulso la tecla ESC, dos puntos wq!
-
+Pulso la tecla `ESC:wq!`

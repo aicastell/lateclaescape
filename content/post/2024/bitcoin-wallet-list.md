@@ -269,4 +269,4 @@ Este articulo puede contener algún error ya que me ha resultado imposible proba
 
 En el próximo articulo trataré las transacciones de criptomonedas entre wallets. Asi que atento que esto continúa. Muchas gracias por leerme y nos vemos muy pronto.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

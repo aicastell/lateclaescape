@@ -146,5 +146,4 @@ Me gusta que termines los articulo sin quedarte con dudas. Te animo a preguntar 
 
 Gracias por leerme y, ¡nos vemos en el próximo articulo!.
 
-Pulso la tecla ESC, dos puntos wq!
-
+Pulso la tecla `ESC:wq!`

@@ -225,5 +225,4 @@ $ echo -ne "cafe" | base58
 
 Soy consciente que el contenido de este articulo puede aburrir a la inmensa mayoría de los mortales, pero era necesario para aclarar ciertos conceptos antes de abordar asuntos mucho mas interesantes. De momento me despido hasta el próximo articulo. Gracias por leerme. ¡Nos vemos muy pronto!
 
-Pulso la tecla ESC, dos puntos wq!
-
+Pulso la tecla `ESC:wq!`

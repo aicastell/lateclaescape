@@ -112,4 +112,4 @@ En el próximo articulo, hablaré sobre wallets de criptomonedas. Haré referenc
 
 Recuerda que tienes un [canal de Telegram](https://t.me/lateclaescape) para dejar sugerencias, preguntas, críticas o cualquier comentario. Verte por el canal siempre es una fuente de energía que me anima a seguir escribiendo en este blog. Como siempre, muchas gracias por leerme y nos vemos muy pronto.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

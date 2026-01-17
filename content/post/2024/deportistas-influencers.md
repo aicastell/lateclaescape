@@ -71,5 +71,4 @@ Todos le conocéis por sus programas de televisión "Planeta Calleja", "Desafío
 
 Os animo a comentar en el [canal de Telegram](https://t.me/lateclaescape) los atletas que conozcáis y los que no. También a que publiquéis vuestra propia lista. Igual todos descubrimos algún deportista nuevo que no conocemos. ¡Seguro que será entretenido!
 
-Pulso la tecla ESC, dos puntos wq!
-
+Pulso la tecla `ESC:wq!`

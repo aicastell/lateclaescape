@@ -116,5 +116,4 @@ Como defensor del reciclaje, te animo a reparar tus propios dispositivos y no ti
 
 Por supuesto, si necesitas ayuda para hacer una reparación similar, puedes contactar conmigo en el [canal de Telegram](https://t.me/lateclaescape) e intentaré ayudarte. Gracias por leerme y nos vemos en el siguiente articulo.
 
-Pulso la tecla ESC, dos puntos wq!
-
+Pulso la tecla `ESC:wq!`

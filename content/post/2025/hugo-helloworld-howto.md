@@ -164,4 +164,4 @@ Además, prepararé una guía específica sobre Markdown, el lenguaje que hace q
 
 ¿Estas listo para llevar tu web al siguiente nivel? ¡Nos vemos en la próxima entrega!
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

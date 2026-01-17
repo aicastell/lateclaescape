@@ -68,4 +68,4 @@ Operar un nodo minero en la red de Bitcoin es una tarea exigente que requiere un
 
 A medida que la recompensa por bloque disminuye y eventualmente desaparece, las comisiones de transacción tomarán un rol central en el incentivo de los mineros. Este sistema no solo asegura la descentralización de Bitcoin, sino también su sostenibilidad a largo plazo, confiando en el equilibrio entre incentivos económicos y seguridad de la red. Bitcoin sigue demostrando que un sistema de consenso bien diseñado puede ser la base de una red financiera global sin la necesidad de una autoridad centralizada.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

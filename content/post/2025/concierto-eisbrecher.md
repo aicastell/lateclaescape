@@ -66,4 +66,4 @@ Cuando las últimas notas se desvanecen en la Sala Salamandra, las luces marcan 
 
 Salgo de la sala con el eco de sus canciones aún resonando en mi interior, sabiendo que esta noche no solo ha sido un concierto más, ha sido una experiencia que jamás olvidaré. Porque ser fan de *Eisbrecher* no es solo escuchar su música: es vivirla, sentirla y llevarla siempre resonando en tu interior.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

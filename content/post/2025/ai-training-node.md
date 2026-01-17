@@ -178,5 +178,4 @@ Si tienes algún proyecto en mente y necesitas montar un equipo con característ
 
 ¡Nos vemos en el próximo artículo!
 
-Pulso la tecla ESC, dos puntos wq!
-
+Pulso la tecla `ESC:wq!`

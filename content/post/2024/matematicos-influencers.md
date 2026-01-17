@@ -43,3 +43,4 @@ Edsger Dijkstra, nacido el 11 de mayo de 1930 en Róterdam, Holanda, fue un dest
 Estos cinco matemáticos son para mi las personas mas brillantes que dieron forma a la disciplina de la ingeniería informática. Os animo a comentar en el [canal de Telegram](https://t.me/lateclaescape) los matemáticos que conozcáis de esta lista y los que no. También a que publiquéis vuestra propia lista. Todos descubrimos algún matemático nuevo que no conocemos. ¡Seguro que será entretenido!
 
 Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

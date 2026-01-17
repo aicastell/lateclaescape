@@ -46,4 +46,4 @@ Para darle un toque mas personal, hablaré sobre asuntos de la vida cotidiana: c
 
 Hoy día 1 de Enero de 2024 echa a andar este nuevo proyecto. Con la esperanza de que el contenido sea de tu agrado, me despido hasta muy pronto. ¡Feliz y próspero año 2024!.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

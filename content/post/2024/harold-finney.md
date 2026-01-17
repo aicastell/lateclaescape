@@ -102,4 +102,4 @@ Antes de despedirme, os dejo esta reflexión que hizo Harold el día 11 de Enero
 
 Algo sobre lo que pensar...
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

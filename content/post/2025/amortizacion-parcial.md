@@ -137,4 +137,4 @@ La amortización parcial es el mecanismo mas potente del que dispone un hipoteca
 
 Este articulo cierra la serie de artículos sobre hipotecas. Gracias por llegar hasta aquí y por tu confianza. ¡Nos vemos en el próximo episodio!.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

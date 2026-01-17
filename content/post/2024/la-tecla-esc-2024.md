@@ -100,5 +100,4 @@ A menudo bromeaba afirmando que la salud era el consuelo de los pobres. Pero la 
 
 Por eso, este año quiero enfocarme en lo realmente importante. Y por ello te deseo un año nuevo lleno de felicidad, prosperidad y, sobre todo, mucha salud, para ti y para todos tus familiares y seres queridos. ¡Feliz 2025!
 
-Pulso la tecla ESC, dos puntos wq!
-
+Pulso la tecla `ESC:wq!`

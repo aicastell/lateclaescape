@@ -2,7 +2,7 @@
 title: Reloj Suunto 9 Peak
 date: 2024-11-05
 image: /img/posts/reloj-suunto-9-peak.webp
-categories: [ "deporte", "gadget", "opinión", "review", "personal" ]
+categories: [ "deporte", "sport", "gadget", "opinión", "review", "personal" ]
 tags: [ "reloj", "suunto" ]
 draft: false
 featured: true
@@ -76,4 +76,4 @@ No es un mal reloj, pero en este rango de precios existen muchas alternativas. T
 
 Espero que esta reseña te haya sido útil si estás considerando comprar este reloj. Me encantaría escuchar tus opiniones sobre otros relojes deportivos en el [canal de Telegram](https://t.me/lateclaescape). Tendré en cuenta todos tus comentarios cuando decida cambiar de reloj. Muchas gracias por leerme, y nos vemos en el próximo articulo.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

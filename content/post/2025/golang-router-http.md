@@ -292,4 +292,4 @@ Construir un router HTTP desde cero no es un objetivo en sí mismo, sino un exce
 
 Si este contenido te ha resultado útil, te ha despertado alguna duda, quieres ver más artículos sobre Go o simplemente te apetece pasarte a saludar, puedes hacerlo por el [canal de Telegram](https://t.me/lateclaescape). Estoy al otro lado de la tecla ESC para lo que necesites. ¡Nos vemos en el próximo articulo!.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

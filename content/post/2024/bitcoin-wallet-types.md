@@ -189,4 +189,4 @@ Si conoces algún wallet que no encaje en esta clasificación, puedes decírmelo
 
 En el próximo articulo haré un listado de todos los wallets que conozco y hablare de sus características. Asi que atento que esto continúa. Muchas gracias por leerme y nos vemos muy pronto.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

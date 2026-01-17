@@ -130,5 +130,4 @@ En el próximo articulo me voy a centrar en [analizar distintas variables](/post
 
 Podéis plantearme todas las dudas relacionados con este articulo en el [canal de Telegram](https://t.me/lateclaescape). Será un placer ayudaros. Recordad que es totalmente gratuito. Nos vemos en el próximo articulo!
 
-Pulso la tecla ESC, dos puntos wq!
-
+Pulso la tecla `ESC:wq!`

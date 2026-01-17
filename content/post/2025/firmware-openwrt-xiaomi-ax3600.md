@@ -372,4 +372,4 @@ Si te encuentras con problemas o dudas durante el proceso, no dudes en contactar
 
 Como con cualquier customización de firmware, siempre existe el riesgo de que el dispositivo se "brickee" en el proceso. En el próximo artículo, profundizaré en cómo desbrickear este router Xiaomi AX3600 en caso de que algo salga mal durante la instalación o en cualquier otro momento. ¡Nos vemos en el próximo artículo!
 
-Pulso la tecla [ESC01](https://challenge.lateclaescape.com/), dos puntos wq!
+Pulso la tecla [ESC01](https://challenge.lateclaescape.com/), `:wq!`

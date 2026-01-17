@@ -62,4 +62,4 @@ Te animo a compartir tus retos deportivos en el [canal de Telegram](https://t.me
 
 Muchas gracias por leerme y espero verte de vuelta muy pronto. Hasta el próximo articulo.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

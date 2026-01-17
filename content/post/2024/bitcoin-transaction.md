@@ -127,4 +127,4 @@ La transacción TX_666 acaba de iniciar un largo viaje. Este viaje es el que va 
 
 Como siempre, puedes encontrarme en el [canal de Telegram](https://t.me/lateclaescape) donde estoy atento a sugerencias, dudas, criticas y cualquier otro comentario. Gracias por leerme y, ¡nos vemos en el próximo articulo!.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

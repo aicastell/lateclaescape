@@ -123,4 +123,4 @@ En este articulo he explicado todo lo que necesitas saber para elegir tu bicicle
 
 No te pierdas el próximo artículo, donde explicaré detalles sobre los componentes de tu bicicleta y te daré consejos prácticos para elegirlos correctamente. De esta manera, podrás optimizar tu inversión y maximizar el disfrute en cada salida. ¡Nos vemos en el próximo articulo!
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

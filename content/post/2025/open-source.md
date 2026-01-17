@@ -84,4 +84,4 @@ Ahora que conoces estas diferencias, ¿sigues viendo al Open Source y al Free So
 
 Si este artículo te ha parecido interesante, en el próximo haré un listado de las aplicaciones más relevantes dentro del mundo del Open Source y del Software Libre. Seguro que descubres alguna aplicación interesante. ¡Nos vemos en el siguiente artículo!.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

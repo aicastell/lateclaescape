@@ -124,4 +124,4 @@ Espero que este contenido os resulte interesante. Como siempre, estaré atento a
 
 Gracias por leerme y nos vemos en el siguiente articulo.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

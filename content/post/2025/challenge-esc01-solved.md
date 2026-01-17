@@ -200,4 +200,4 @@ Quiero añadir que el concursante que ha logrado resolver el reto es uno de los 
 
 ¡Nos vemos en el próximo articulo!
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

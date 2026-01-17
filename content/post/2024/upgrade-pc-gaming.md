@@ -153,4 +153,4 @@ Si tú también necesitas realizar el mantenimiento, la reparación o la mejora 
 
 ¡Nos vemos en el próximo artículo!
 
-Pulso la tecla ESC, dos puntos, wq.
+Pulso la tecla `ESC:wq!`

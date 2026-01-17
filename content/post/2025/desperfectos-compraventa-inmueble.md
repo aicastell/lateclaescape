@@ -154,4 +154,4 @@ Siendo realistas, hay defectos que son muy difíciles, cuando no imposibles, de 
 
 Agradecer de antemano tu confianza, gracias por leer hasta el final y nos vemos en el próximo artículo.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

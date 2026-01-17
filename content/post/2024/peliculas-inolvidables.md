@@ -32,4 +32,4 @@ En "Idiocracia", Joe Bauers, un tipo promedio, es seleccionado para un experimen
 
 Te animo a comentar en el [canal de Telegram](https://t.me/lateclaescape) si has visto alguna de la lista y te ha gustado. También te animo a compartir las películas que te hayan marcado tanto para pensar en ellas cada día de tu vida. Mas adelante escribiré un articulo sobre las recomendaciones que me hagáis que mas me gusten y que todavía no conocía. Animaros a compartir impresiones por el canal, será divertido.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

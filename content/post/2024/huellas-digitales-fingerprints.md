@@ -144,4 +144,4 @@ Espero haberte aclarado dudas sobre las huellas digitales. Son un mecanismo muy 
 
 Si tienes alguna duda, si consideras que falta información, o incluso si te ha parecido aburrido y no te gusta este contenido, te animo a compartir tus ideas en el [canal de Telegram](https://t.me/lateclaescape). No me enrollo mas. ¡Nos vemos en el siguiente articulo!
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

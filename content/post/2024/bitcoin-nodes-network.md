@@ -134,5 +134,4 @@ Recuerda que siempre puedes unirte al  [canal de Telegram](https://t.me/lateclae
 
 Por ahora, esto es todo. Gracias por leer y nos vemos en el próximo artículo.
 
-Pulso la tecla ESC, dos puntos wq!
-
+Pulso la tecla `ESC:wq!`

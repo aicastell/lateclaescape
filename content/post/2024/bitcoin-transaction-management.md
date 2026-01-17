@@ -119,4 +119,4 @@ Han empezado a salir muchos conceptos que pueden generar confusión si no se tie
 
 Como siempre, muchas gracias por leerme, y espero volver a verte en el próximo articulo.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

@@ -61,4 +61,4 @@ Si has llegado hasta aquí, quiero decirte algo muy importante. ¡Feliz día de 
 
 Gracias por acompañarme en esta pequeña travesura. ¡Nos vemos en el próximo articulo!
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

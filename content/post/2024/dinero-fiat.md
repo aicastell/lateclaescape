@@ -80,5 +80,4 @@ Sin embargo, las criptomonedas están basadas en principios matemáticos solidos
 
 Dejo por tanto abierto el camino para explorar y comprender las características únicas de las criptomonedas en comparación con las monedas FIAT tradicionales. Nos vemos en el próximo articulo.
 
-Pulso la tecla ESC, dos puntos wq!
-
+Pulso la tecla `ESC:wq!`

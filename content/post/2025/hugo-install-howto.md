@@ -125,4 +125,4 @@ Si te ha picado la curiosidad, te han surgido dudas, o simplemente quieres conta
 
 En el próximo artículo te enseñaré [cómo crear tu primer website con Hugo](/post/2025/hugo-helloworld-howto). ¡Nos vemos en el próximo articulo!
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

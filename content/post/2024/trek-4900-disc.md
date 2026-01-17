@@ -80,5 +80,4 @@ Esta historia con final feliz también tuvo su momento emotivo. El fabricante re
 
 Comparto en el [canal de Telegram](https://t.me/lateclaescape) algunas fotos en homenaje a la mejor bicicleta que he tenido nunca.
 
-Pulso la tecla ESC, dos puntos wq!
-
+Pulso la tecla `ESC:wq!`

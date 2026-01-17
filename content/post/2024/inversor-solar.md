@@ -58,4 +58,4 @@ Los inversores en cadena valen mas o menos lo mismo que los microinversores. Sin
 
 En este caso, te pido tu ayuda si tienes mas información, para que la compartas por el [canal de Telegram](https://t.me/lateclaescape). Intentaré mantener actualizado este artículo con toda la información nueva que me llegue. Gracias por leerme y nos vemos en el siguiente articulo.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

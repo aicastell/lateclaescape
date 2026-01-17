@@ -158,4 +158,4 @@ Es una herramienta muy útil como veremos en artículos posteriores. Espero que 
 
 Cualquier duda sobre posibles usos, sobre la instalación, o incluso cualquier sugerencia, podéis contactar conmigo por el [canal de Telegram](https://t.me/lateclaescape). Nos vemos en el próximo articulo.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

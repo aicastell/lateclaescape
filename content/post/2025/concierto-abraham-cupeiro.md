@@ -84,4 +84,4 @@ Lo que hace especial esta experiencia no es solo la música: es la capacidad par
 
 Si alguna vez tienes la oportunidad de verlo en directo, no la dejes pasar. Y si no, búscalo, escúchalo, descúbrelo. Ya sea en plataformas digitales o en su trabajo para Gladiator II, lo que Cupeiro ofrece es mucho más que música: es historia viva que suena, respira, y nos une.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

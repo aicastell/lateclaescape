@@ -95,4 +95,4 @@ El tiempo nos enseña a elegir entre lo que merece nuestra atención, y lo que n
 
 Que 2026 nos regale calma cuando la necesitemos, energía para nuestros proyectos y motivos cotidianos para sonreír. Que no nos falte salud, ni a nosotros ni a quienes nos rodean. Y que cada día tenga algo interesante por lo que merezca ser recordado. Nos vemos el próximo año. ¡Feliz 2026!
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

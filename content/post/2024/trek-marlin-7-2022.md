@@ -46,5 +46,4 @@ El 11 de Octubre de 2024 vendí esta bicicleta a un chico de Olesa de Montserrat
 
 La alegría me va a durar pocos días. Solamente 5 salidas. Nueve días después de llevarla a casa, durante la sexta salida con esta bicicleta tendré un accidente grave del que os hablaré en [este articulo](/post/2024/luxacion-codo).
 
-Pulso la tecla ESC, dos puntos wq!
-
+Pulso la tecla `ESC:wq!`

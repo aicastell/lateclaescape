@@ -70,4 +70,4 @@ Estoy siempre atento a tus comentarios en el [canal de Telegram](https://t.me/la
 
 Gracias por leerme y nos vemos en el próximo articulo.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

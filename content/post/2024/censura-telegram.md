@@ -77,4 +77,4 @@ Personalmente, considero que esto representa una prueba piloto para evaluar la c
 
 Afortunadamente, los sistemas distribuidos fueron diseñados específicamente para contrarrestar este tipo de censuras. Nosotros somos la resistencia, y en momentos como este, cuando intentan infundir miedo en la población, la divulgación se convierte en nuestra mejor arma contra la opresión.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

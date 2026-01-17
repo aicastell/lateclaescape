@@ -180,4 +180,4 @@ Te animo a seguir explorando más sobre este fascinante mundo. ¿Qué piensas so
 
 Si este articulo te ha resultado interesante, no te pierdas el próximo, donde hablaré sobre el Open Source y las diferencias clave con el Software Libre. ¡Nos vemos pronto!
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

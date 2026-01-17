@@ -77,4 +77,4 @@ Duolingo es una plataforma que se ha vuelto especialmente popular entre aquellos
 
 Pero ahora, hablemos de ti. ¿Te planteas estudiar algún idioma nuevo?. ¿Conocías esta plataforma?. ¿La has usado alguna vez?. ¿Cual es tu opinión sobre ella? ¡Cuéntamelo en el [canal de Telegram](https://t.me/lateclaescape)!
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

@@ -56,5 +56,4 @@ Pero este articulo es solo el comienzo, esto no acaba aquí. En los próximos ar
 
 Lo mejor de todo es que, lo que puedes crear con Hugo, solo está limitado por tu propia imaginación. ¿Estas listo para dejar atrás el ruido y centrarte en lo que realmente importa? Entonces quédate cerca porque esta historia no ha hecho mas que comenzar. ¡Nos vemos en el próximo artículo!
 
-Pulso la tecla ESC, dos puntos wq!
-
+Pulso la tecla `ESC:wq!`

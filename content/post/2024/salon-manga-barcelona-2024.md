@@ -102,9 +102,4 @@ El encanto de este evento está en que cada uno lo vive a su manera. Es una expe
 
 Ya seas un aficionado de toda la vida o un recién llegado al mundo del manga y el anime, este salón ofrece una experiencia inolvidable que no querrás perderte. Marca tu calendario, prepara tu atuendo y únete a la diversión en el próximo Salón del Manga de Barcelona. ¡No te lo debes perder!
 
-Pulso la tecla ESC, dos puntos wq!
-
-
-
-salon-manga-barcelona-2024-cosplay.jpg
-
+Pulso la tecla `ESC:wq!`

@@ -108,4 +108,4 @@ Antes de morir, aunque no os guste esta música, asistid a un concierto de Ramms
 
 ¡Ni la lluvia pudo con Rammstein en Barcelona!
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

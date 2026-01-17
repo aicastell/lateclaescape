@@ -68,4 +68,4 @@ Me gustaría leer en el [canal de Telegram](https://t.me/lateclaescape) cual es 
 
 Escribiendo en el teclado que ha vaciado mi bolsillo pero llenado mi corazón de alegría, me despido de vosotros hasta el próximo articulo. ¡Nos vemos muy pronto!
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

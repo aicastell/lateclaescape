@@ -148,4 +148,4 @@ Espero que este artículo haya disipado las dudas que pudieras tener sobre el fu
 
 Te agradezco sinceramente que hayas dedicado tiempo a leer este artículo y espero volver a verte pronto por aquí. Un saludo y ¡hasta el próximo articulo!.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

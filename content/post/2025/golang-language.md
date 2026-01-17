@@ -86,4 +86,4 @@ No importa si vienes de JavaScript, Python, Java, C++ o cualquier otro lenguaje:
 
 Ahora que ya conoces su filosofía, su diseño y su impacto en el mundo real, es momento de poner las manos en el teclado. En el próximo artículo te enseñaré cómo instalar Go en tu máquina. Este articulo servirá como base para que aprendas a compilar el framework Hugo por tu cuenta. No hay mejor forma de entender un lenguaje que verlo en acción. Y créeme: esto es solo el comienzo. Nos vemos en el siguiente articulo!
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

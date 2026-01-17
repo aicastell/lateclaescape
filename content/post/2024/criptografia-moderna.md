@@ -101,4 +101,4 @@ En próximos artículos profundizaremos en el estudio de los algoritmos criptogr
 
 Antes de avanzar, es momento de resolver todas las dudas que te queden pendientes. Puedes plantearme cualquier cuestión en el [canal de Telegram](https://t.me/lateclaescape) e intentaré ayudarte a resolverla. Gracias por leerme y nos vemos en el siguiente articulo.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

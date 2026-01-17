@@ -34,4 +34,4 @@ Hasta Junio de 2022, las matemáticas mas o menos daban. Sin embargo, el Sábado
 
 Si has pasado por una situación similar, te animo a compartirla por el [canal de Telegram](https://t.me/lateclaescape). Seguro que nos animamos porque, ¡siempre habrá otra ocasión para volver a intentarlo!
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

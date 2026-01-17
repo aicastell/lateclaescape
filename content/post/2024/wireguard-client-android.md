@@ -74,4 +74,4 @@ Espero que esta información te resulte de utilidad. Si tienes alguna pregunta o
 
 Gracias por leerlo y espero que disfrutes de tu navegación segura con WireGuard. ¡Hasta la próxima!
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

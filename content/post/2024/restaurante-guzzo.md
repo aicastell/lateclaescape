@@ -88,4 +88,4 @@ Con una oferta gastronómica que sorprende y un servicio que hace sentir a cada 
 
 Nos vemos en el siguiente articulo.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

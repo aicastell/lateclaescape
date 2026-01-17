@@ -98,4 +98,4 @@ En este articulo has aprendido a instalar un servidor de WireGuard en un servido
 
 Espero que encuentres el contenido interesante. Si tienes preguntas o comentarios, no dudes en plantearlos en el [canal de Telegram](https://t.me/lateclaescape). Todos los artículos publicados se intentan mantener actualizados. Si hay algún detalle que creas que falta, estoy abierto a añadirlo. Así lograremos que estos artículos sean útiles para más personas. ¡Gracias por leerme y nos vemos en el próximo artículo!.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

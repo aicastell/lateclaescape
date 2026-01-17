@@ -148,4 +148,4 @@ Ten en cuenta que no soy cerrajero. Por lo que te recomiendo que consultes con a
 
 Agradezco sinceramente tu tiempo y dedicación al leer este artículo. Espero verte de nuevo pronto por aquí. ¡Un saludo y hasta el próximo artículo!
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`
