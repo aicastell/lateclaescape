@@ -230,4 +230,4 @@ Si te interesa este contenido, no dudes en comentarlo en el [canal de Telegram](
 
 Prepara tu terminal para seguir aprendiendo Go. ¡Nos vemos en el próximo artículo!.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

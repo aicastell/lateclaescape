@@ -210,4 +210,4 @@ Si el artículo te ha resultado útil, te ha dejado preguntas abiertas o simplem
 
 ¡Nos vemos en el próximo articulo!.
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`

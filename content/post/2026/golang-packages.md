@@ -234,4 +234,4 @@ El módulo ya está definido, el código ya está organizado. Ahora toca entende
 
 ¿Has aprendido algo leyendo este artículo? Únete al [canal de Telegram](https://t.me/lateclaescape) del blog, y cuéntame qué tema te gustaría que abordara a continuación. Allí respondo personalmente a cada pregunta planteada. Muchas gracias por leerme y nos vemos en el próximo artículo!
 
-Pulso la tecla ESC, dos puntos wq!
+Pulso la tecla `ESC:wq!`
