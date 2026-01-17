@@ -29,22 +29,10 @@ No existen accesos implícitos, referencias automáticas ni dependencias ocultas
 
 # Rutas de importación
 
-Al importar un paquete, no se utilizan rutas relativas del sistema de archivos. En su lugar, se usa una ruta lógica compuesta por:
+Para importar un paquete, se utiliza una ruta lógica compuesta por:
 
 - El nombre del módulo (definido en `go.mod`)
 - La ruta del paquete dentro del módulo
-
-Por ejemplo:
-
-```
-import "github.com/lateclaescape/mi-proyecto/config"
-```
-
-Esta ruta no apunta directamente a un directorio del sistema de archivos, sino que identifica de forma única un paquete dentro de un módulo.
-
-Esta decisión refuerza una idea clave en Go: la estructura de carpetas define la arquitectura del código, no el entorno desde el que se ejecuta.
-
-# Estructura del proyecto
 
 Supongamos esta estructura dentro de un módulo:
 
@@ -355,4 +343,4 @@ El perímetro ya está definido. Los paquetes ya están organizados. Ahora sí, 
 
 ¿Has aprendido algo leyendo este artículo? Únete al [canal de Telegram](https://t.me/lateclaescape), y cuéntame qué tema te gustaría que abordara a continuación. Allí respondo personalmente a cada pregunta planteada. Muchas gracias por leerme y nos vemos en el próximo artículo!
 
-Pulso la tecla ESC, `:wq!`
+Pulso la tecla `ESC:wq!`
