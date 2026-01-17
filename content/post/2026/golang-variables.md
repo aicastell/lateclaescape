@@ -1,16 +1,16 @@
 ---
 title: Variables en Go
-date: 2026-01-12
+date: 2026-01-14
 image: /img/posts/golang-variables.webp
 categories: [ "programming_language" ]
 tags: [ "golang", "variables" ]
-draft: true
+draft: false
 featured: true
 ---
 
 # Introducción
 
-Para programar en Go con soltura es imprescindible entender el concepto sobre el que se apoya todo el lenguaje: las variables.
+Para programar en Go con soltura es imprescindible entender uno de los conceptos fundamentales del lenguaje: las variables.
 
 En este artículo veremos qué es una variable en Go, cómo se declara, cuándo usar cada forma de declaración y por qué su alcance (o ámbito) es tan importante. El objetivo no es profundizar aún en los distintos tipos de datos del lenguaje, sino entender cómo Go gestiona las variables como concepto fundamental.
 
@@ -40,11 +40,9 @@ En Go, los nombres:
 
 ## El tipo de dato
 
-Toda variable en Go está asociada, desde el momento en que se declara, a un determinado tipo de dato. Este tipo define qué información puede contener y qué operaciones son válidas sobre ella.
+Toda variable en Go está asociada, desde el momento en que se declara, a un tipo de dato. Ese tipo determina qué información puede contener la variable y qué operaciones son válidas sobre ella. Una vez declarada, Go garantiza que el tipo es inmutable (no puede cambiar nunca).
 
-Un punto clave es que ese tipo no cambia durante la vida de la variable. Go es estricto en este sentido: una vez declarada, una variable mantiene el mismo tipo de dato hasta que deja de existir.
-
-Este articulo no trata los distintos tipos de datos disponibles en Go, ni sus particularidades. Lo importante es entender que existen, que el lenguaje los controla de forma estricta y que forman parte esencial del diseño de las variables. Los veremos en profundidad en artículos posteriores.
+Este artículo no trata los distintos tipos de datos disponibles en Go ni sus particularidades. Lo importante, por ahora, es entender que existen, que el lenguaje los controla de forma estricta y que forman parte esencial del diseño de las variables. Los veremos en profundidad en artículos posteriores.
 
 ## El valor
 
@@ -58,46 +56,6 @@ En ambos casos, la variable es completamente válida y puede usarse inmediatamen
 Una de las decisiones de diseño más importantes de Go es que no existen variables "sin inicializar". El lenguaje garantiza que toda variable tiene siempre un valor coherente desde el primer momento, incluso aunque el programador no haya asignado uno explícitamente.
 
 Esto elimina una de las fuentes más comunes de errores en otros lenguajes: el acceso a variables en estados indefinidos. En Go, ese problema simplemente no existe.
-
-## El ámbito (scope)
-
-El ámbito (o *scope*) define en qué parte del código una variable es visible y utilizable. Fuera de ese ámbito, la variable simplemente no existe.
-
-En Go, el ámbito se rige por una regla sencilla pero estricta: una variable declarada dentro de un bloque delimitado por llaves {} solo existe dentro de ese bloque y en cualquier bloque anidado dentro de él.
-
-Una variable declarada en un bloque solo es accesible desde ese bloque:
-
-```
-if true {
-    x := 10
-    fmt.Println(x)
-}
-// x no existe aquí
-```
-
-Una variable declarada dentro de una función vive en el bloque de esa función.
-
-```
-func example() {
-    y := 20
-    fmt.Println(y)
-}
-// y no existe fuera
-```
-
-Las variables declaradas fuera de cualquier bloque de función (es decir, a nivel de paquete), tienen un ámbito que abarca todo el paquete, e incluso pueden ser visibles desde otros paquetes si su nombre comienza con mayúscula y el paquete es importado.
-
-```
-package main
-
-var version = "1.0.0"
-
-func main() {
-    fmt.Println(version)
-}
-```
-
-Esta disciplina garantiza que cada variable exista únicamente donde se necesita, lo que reduce el riesgo de usos accidentales, evita efectos secundarios y hace que el código sea más fácil de entender, probar y mantener.
 
 # Declaración de variables
 
@@ -121,7 +79,7 @@ Aquí estás diciendo explícitamente:
 - El nombre de la variable es `edad`.
 - Su valor inicial es `30`.
 
-A partir de ese valor inicial, el compilador infiere automáticamente el tipo del dato (un número entero) y lo fija para toda la vida útil de esa variable. No es necesario indicar nada más para que la variable sea plenamente funcional.
+A partir de ese valor inicial, Go determina internamente el tipo de dato y lo asocia a la variable desde ese mismo momento. No es necesario indicar nada más para que la variable sea plenamente funcional.
 
 Este estilo es habitual cuando:
 
@@ -135,7 +93,7 @@ También puedes declarar una variable sin asignarle un valor explícito:
 var contador int
 ```
 
-Aunque aquí aparece información adicional sobre el tipo del dato (int), no es necesario comprender aún su significado concreto. Lo relevante es que, gracias a este tipo, Go puede asignar automáticamente un valor inicial y garantizar que la variable sea válida desde el mismo instante que se declara.
+Aunque aquí aparece información adicional sobre el tipo del dato (un número entero), no es necesario comprender aún su significado concreto. Aquí lo relevante es que, gracias a este tipo, Go puede asignar automáticamente un valor inicial y garantizar que la variable sea válida desde el mismo instante que se declara.
 
 ## Declaración con :=
 
@@ -147,7 +105,7 @@ total := 100
 
 Conceptualmente, esta forma equivale a una declaración con `var` más una inicialización explícita, con la diferencia de que es más concisa y solo puede usarse dentro de bloques de código.
 
-El compilador infiere automáticamente la naturaleza del dato a partir del valor asignado, y la variable queda lista para su uso inmediato.
+La variable queda creada con un tipo de dato asociado y lista para su uso inmediato. El mecanismo exacto por el que Go determina ese tipo lo veremos más adelante.
 
 ## Diferencia entre = y :=
 
@@ -188,6 +146,48 @@ x, y := 10, 20
 
 Esto es muy común cuando una función devuelve varios valores, tal y como veremos en artículos posteriores.
 
+## El ámbito (scope)
+
+El ámbito (o *scope*) define en qué parte del código una variable es visible y utilizable. Fuera de ese ámbito, la variable simplemente no existe.
+
+En Go, el ámbito se rige por una regla sencilla pero estricta: una variable declarada dentro de un bloque delimitado por llaves {} solo existe dentro de ese bloque y en cualquier bloque anidado dentro de él.
+
+Una variable declarada en un bloque solo es accesible desde ese bloque:
+
+```
+if true {
+    x := 10
+    fmt.Println(x)
+}
+// x no existe aquí
+```
+
+Una variable declarada dentro de una función vive en el bloque de esa función.
+
+```
+func example() {
+    y := 20
+    fmt.Println(y)
+}
+// y no existe fuera
+```
+
+Las variables declaradas fuera de cualquier bloque de función (es decir, a nivel de paquete), tienen un ámbito que abarca todo el paquete, e incluso pueden ser visibles desde otros paquetes si su nombre comienza con mayúscula y el paquete es importado.
+
+```
+package main
+
+var version = "1.0.0"
+
+func main() {
+    fmt.Println(version)
+}
+```
+
+Estos ejemplos han usado estructuras que veremos en artículos posteriores. Céntrate en observar dónde la variable existe y dónde no.
+
+Esta disciplina garantiza que cada variable exista únicamente donde se necesita, lo que reduce el riesgo de usos accidentales, evita efectos secundarios y hace que el código sea más fácil de entender, probar y mantener.
+
 # Conclusión
 
 Las variables en Go son simples, explícitas y seguras por diseño. No se trata de limitaciones, sino de intencionalidad: el lenguaje te obliga a ser claro sobre qué datos manejas, cuándo existen y dónde pueden usarse.
@@ -198,6 +198,6 @@ El siguiente paso natural es explorar qué tipos de datos ofrece Go y cómo el l
 
 ¿Te ha servido este contenido? Únete al [canal de Telegram](https://t.me/lateclaescape), es totalmente gratuito y allí encontrarás una comunidad de usuarios expertos en la materia que pueden ayudarte a resolver todas tus dudas.
 
-¡Nos vemos en el próximo articulo!
+¡Nos vemos en el próximo artículo!
 
 Pulso la tecla `ESC:wq!`
