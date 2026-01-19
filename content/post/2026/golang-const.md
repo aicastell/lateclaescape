@@ -3,7 +3,7 @@ title: Constantes en Go
 date: 2026-01-16
 image: /img/posts/golang-const.webp
 categories: [ "programming_language" ]
-tags: [ "golang", "packages" ]
+tags: [ "golang", "const" ]
 draft: false
 featured: true
 ---
@@ -77,17 +77,29 @@ Esto refuerza la idea central:
 
 # Bloques de constantes
 
-Go permite agrupar constantes relacionadas:
+Un bloque de constantes se declara así:
 
 ```
 const (
-    StatusOK    = 200
-    StatusError = 500
-    StatusAuth  = 401
+    MaxWorkers     = 100
+    DefaultTimeout = 30
+    BufferSize     = 65536
+    Version        = "v2.3.1"
 )
 ```
 
-Esto mejora legibilidad, cohesión y mantenimiento.
+Cada línea del bloque es una declaración `const` completa e independiente.
+
+Desde el punto de vista del compilador, esto es equivalente a:
+
+```
+const MaxWorkers = 100
+const DefaultTimeout = 30
+const BufferSize = 65536
+const Version = "v2.3.1"
+```
+
+Su objetivo es organizar y agrupar valores relacionados, algo muy habitual en código Go real. Mejora la legibilidad, la cohesión y el mantenimiento del código.
 
 # Cuándo usar constantes
 

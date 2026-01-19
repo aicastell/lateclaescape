@@ -57,6 +57,12 @@ Una de las decisiones de diseño más importantes de Go es que no existen variab
 
 Esto elimina una de las fuentes más comunes de errores en otros lenguajes: el acceso a variables en estados indefinidos. En Go, ese problema simplemente no existe.
 
+## El ámbito de la variable
+
+Cada variable en Go tiene un ámbito (scope) definido desde el mismo momento en que se declara. Ese ámbito determina en qué partes del programa la variable es accesible y en cuáles, sencillamente, no existe.
+
+En este artículo no entraremos todavía en qué construcciones del lenguaje definen ámbitos distintos ni en cómo se delimitan. Esos detalles se abordarán más adelante, cuando tratemos las estructuras de control y los bloques de código.
+
 # Declaración de variables
 
 En Go existen dos formas principales de declarar variables:
@@ -146,53 +152,41 @@ x, y := 10, 20
 
 Esto es muy común cuando una función devuelve varios valores, tal y como veremos en artículos posteriores.
 
-## El ámbito (scope)
+## El bloque de variables
 
-El ámbito (o *scope*) define en qué parte del código una variable es visible y utilizable. Fuera de ese ámbito, la variable simplemente no existe.
-
-En Go, el ámbito se rige por una regla sencilla pero estricta: una variable declarada dentro de un bloque delimitado por llaves {} solo existe dentro de ese bloque y en cualquier bloque anidado dentro de él.
-
-Una variable declarada en un bloque solo es accesible desde ese bloque:
+Un bloque de variables se declara así:
 
 ```
-if true {
-    x := 10
-    fmt.Println(x)
-}
-// x no existe aquí
+var (
+    workers   = 10
+    timeout   = 30
+    debugMode = false
+)
 ```
 
-Una variable declarada dentro de una función vive en el bloque de esa función.
+Cada línea del bloque es una declaración `var` completa e independiente.
+
+Desde el punto del vista del compilador, es equivalente a hacerlo así:
 
 ```
-func example() {
-    y := 20
-    fmt.Println(y)
-}
-// y no existe fuera
+var workers   = 10
+var timeout   = 30
+var debugMode = false
 ```
 
-Las variables declaradas fuera de cualquier bloque de función (es decir, a nivel de paquete), tienen un ámbito que abarca todo el paquete, e incluso pueden ser visibles desde otros paquetes si su nombre comienza con mayúscula y el paquete es importado.
+Cada variable:
 
-```
-package main
+- Tiene su propio tipo
+- Tiene su propia inicialización (o valor cero)
+- Vive en el mismo ámbito que si estuviera declarada individualmente
 
-var version = "1.0.0"
-
-func main() {
-    fmt.Println(version)
-}
-```
-
-Estos ejemplos han usado estructuras que veremos en artículos posteriores. Céntrate en observar dónde la variable existe y dónde no.
-
-Esta disciplina garantiza que cada variable exista únicamente donde se necesita, lo que reduce el riesgo de usos accidentales, evita efectos secundarios y hace que el código sea más fácil de entender, probar y mantener.
+El bloque no implica ninguna relación especial entre las variables.
 
 # Conclusión
 
 Las variables en Go son simples, explícitas y seguras por diseño. No se trata de limitaciones, sino de intencionalidad: el lenguaje te obliga a ser claro sobre qué datos manejas, cuándo existen y dónde pueden usarse.
 
-En este artículo has visto cómo declarar variables, cómo se inicializan automáticamente y cómo su ámbito define su ciclo de vida. Aún no hemos entrado en los tipos de datos concretos que pueden almacenar, pero ya tienes el modelo mental necesario para entenderlos cuando llegue el momento.
+En este artículo has aprendido qué es son las variables, cómo se declaran, y cómo se inicializan. Aún no hemos entrado en los tipos de datos concretos que pueden almacenar, ni en el ámbito que define su ciclo de vida, pero ya tienes el modelo mental necesario para entenderlos cuando llegue el momento.
 
 El siguiente paso natural es explorar qué tipos de datos ofrece Go y cómo el lenguaje los utiliza para mantener la seguridad y la claridad del código.
 
