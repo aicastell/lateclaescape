@@ -4,7 +4,7 @@ date: 2026-01-19
 image: /img/posts/golang-typed-const.webp
 categories: [ "programming_language" ]
 tags: [ "golang", "const" ]
-draft: true
+draft: false
 featured: true
 ---
 
