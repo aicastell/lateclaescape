@@ -14,20 +14,43 @@ En el artículo anterior vimos cómo Go organiza el código mediante [bloques de
 
 Sin embargo, los bloques de instrucciones no se ejecutan de forma arbitraria. En un programa real, la ejecución del código depende de decisiones que se toman durante su ejecución y que determinan cuándo un bloque debe ejecutarse y cuándo debe omitirse. Estas decisiones constituyen la base del control de flujo.
 
-Todas las estructuras de control de flujo se apoyan en una idea fundamental: una condición que se evalúa como verdadera o falsa y que determina si el bloque de instrucciones asociado se ejecuta o no. Este artículo se centra exclusivamente en las condiciones en Go.
-
-# El tipo bool
-
-Go dispone de un tipo primitivo específico para representar valores lógicos: `bool`. Este tipo solo permite dos valores:
-
-- verdadero, `true`
-- falso, `false`
-
-No hay valores intermedios, ni equivalencias implícitas. Este diseño es deliberado y marca una diferencia clara con otros lenguajes como C o C++.
+Antes de entrar en las estructuras de control del lenguaje, es necesario entender cómo se expresan esas decisiones. Todas las estructuras de control de flujo se apoyan en una idea fundamental: una **condición** que se evalúa como verdadera o falsa y que determina si el bloque de instrucciones asociado se ejecuta o no. Este artículo se centra exclusivamente en las condiciones en Go.
 
 # Qué es una condición
 
+Go dispone de un tipo primitivo específico para representar valores lógicos: `bool`. Este tipo solo permite dos valores:
+
+- verdadero: `true`
+- falso: `false`
+
 En Go, una condición es una expresión que se evalúa como verdadera o falsa. Es decir, cualquier expresión cuyo resultado sea de tipo `bool`.
+
+# Condiciones estrictamente booleanas
+
+En algunos lenguajes como C o C++, las expresiones escalares pueden evaluarse directamente en un contexto condicional: el valor 0 se considera falso y cualquier valor distinto de 0 se considera verdadero. Este comportamiento permite utilizar expresiones numéricas como condiciones sin necesidad de una comparación explícita.
+
+Go adopta un enfoque diferente. En Go, una condición debe ser siempre una expresión de tipo `bool`. No existen conversiones implícitas ni interpretaciones automáticas de otros tipos como valores lógicos. Esto significa que:
+
+- Un entero distinto de cero no es verdadero
+- Un string no vacío no es verdadero
+- La mera existencia de un valor no lo convierte en una condición
+
+Dadas las siguientes variables:
+
+```
+x := 10
+s := "hola"
+```
+
+Las siguientes expresiones **NO** son condiciones válidas en Go, ya que no producen un valor booleano:
+
+```
+x
+s
+len(s)
+```
+
+Esta decisión de diseño obliga a expresar las condiciones de forma explícita, elimina ambigüedades y reduce la aparición de errores sutiles en el control de flujo.
 
 # Operadores de comparación
 
@@ -58,33 +81,6 @@ s != ""        // true
 ```
 
 Por tanto, pueden usarse como condiciones.
-
-# Condiciones estrictamente booleanas
-
-En algunos lenguajes como C o C++, las expresiones escalares pueden evaluarse directamente en un contexto condicional: el valor 0 se considera falso y cualquier valor distinto de 0 se considera verdadero. Este comportamiento permite utilizar expresiones numéricas como condiciones sin necesidad de una comparación explícita.
-
-Go adopta un enfoque diferente. En Go, una condición debe ser siempre una expresión de tipo `bool`. No existen conversiones implícitas ni interpretaciones automáticas de otros tipos como valores lógicos. Esto significa que:
-
-- Un entero distinto de cero no es verdadero
-- Un string no vacío no es verdadero
-- Un valor existente no es verdadero
-
-Dadas las siguientes variables:
-
-```
-x := 10
-s := "hola"
-```
-
-Las siguientes expresiones **NO** son condiciones válidas en Go, ya que no producen un valor booleano:
-
-```
-x
-s
-len(s)
-```
-
-Esta decisión de diseño obliga a expresar las condiciones de forma explícita, elimina ambigüedades y reduce la aparición de errores sutiles en el control de flujo.
 
 # Operadores lógicos
 
@@ -117,7 +113,7 @@ Ejemplo:
 !false // true
 ```
 
-El resultado de esta condición es `true`.
+En ambos casos, el operador ! invierte el valor booleano original.
 
 # Precedencia y paréntesis
 
