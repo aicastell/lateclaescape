@@ -86,7 +86,7 @@ Por tanto, pueden usarse como condiciones.
 
 Go permite combinar condiciones mediante operadores lógicos, que también producen valores `bool`.
 
-# AND lógico (&&)
+## AND lógico (&&)
 
 La expresión es verdadera solo si ambas condiciones son verdaderas.
 
@@ -94,7 +94,7 @@ La expresión es verdadera solo si ambas condiciones son verdaderas.
 x > 0 && x < 10
 ```
 
-# OR lógico (||)
+## OR lógico (||)
 
 La expresión es verdadera si al menos una condición es verdadera.
 
@@ -102,7 +102,7 @@ La expresión es verdadera si al menos una condición es verdadera.
 x < 0 || x > 100
 ```
 
-# NOT lógico (!)
+## NOT lógico (!)
 
 Invierte el valor de una condición.
 
