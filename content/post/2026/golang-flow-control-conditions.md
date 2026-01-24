@@ -3,7 +3,7 @@ title: Condiciones en Go
 date: 2026-01-24
 image: /img/posts/golang-flow-control-conditions.jpg
 categories: [ "programming_language" ]
-tags: [ "golang", "variables" ]
+tags: [ "golang", "condiciones", "flow_control" ]
 draft: false
 featured: true
 ---
@@ -23,17 +23,17 @@ Go dispone de un tipo primitivo específico para representar valores lógicos: `
 - verdadero: `true`
 - falso: `false`
 
-En Go, una condición es una expresión que se evalúa como verdadera o falsa. Es decir, cualquier expresión cuyo resultado sea de tipo `bool`.
+En Go, una **condición** es una expresión que se evalúa como verdadera o falsa. Es decir, cualquier expresión cuyo resultado sea de tipo `bool`.
 
 # Condiciones estrictamente booleanas
 
 En algunos lenguajes como C o C++, las expresiones escalares pueden evaluarse directamente en un contexto condicional: el valor 0 se considera falso y cualquier valor distinto de 0 se considera verdadero. Este comportamiento permite utilizar expresiones numéricas como condiciones sin necesidad de una comparación explícita.
 
-Go adopta un enfoque diferente. En Go, una condición debe ser siempre una expresión de tipo `bool`. No existen conversiones implícitas ni interpretaciones automáticas de otros tipos como valores lógicos. Esto significa que:
+Go adopta un enfoque diferente. En Go, una **condición** debe ser siempre una expresión de tipo `bool`. No existen conversiones implícitas ni interpretaciones automáticas de otros tipos como valores lógicos. Esto significa que:
 
 - Un entero distinto de cero no es verdadero
 - Un string no vacío no es verdadero
-- La mera existencia de un valor no lo convierte en una condición
+- La mera existencia de un valor no lo convierte en una **condición**
 
 Dadas las siguientes variables:
 
@@ -54,7 +54,7 @@ Esta decisión de diseño obliga a expresar las condiciones de forma explícita,
 
 # Operadores de comparación
 
-La forma más común de construir una condición es mediante **operadores de comparación**.
+La forma más común de construir una **condición** es mediante **operadores de comparación**.
 
 | Operador | Significado |
 |----------|-------------|
@@ -137,11 +137,11 @@ El uso de paréntesis no cambia el resultado de la expresión, pero sí mejora d
 
 # Relación entre condiciones y bloques
 
-Una condición, por sí sola, no ejecuta ningún código. Su única función es responder a una pregunta concreta: ¿se cumple o no se cumple? El resultado de esa evaluación es siempre un valor booleano.
+Una **condición**, por sí sola, no ejecuta ningún código. Su única función es responder a una pregunta concreta: ¿se cumple o no se cumple? El resultado de esa evaluación es siempre un valor booleano.
 
-La ejecución del código depende del bloque de instrucciones al que la condición esté asociada. El bloque contiene el conjunto de sentencias que se ejecutarán únicamente si la condición se evalúa como verdadera. Sin un bloque asociado, una condición no tiene ningún efecto sobre el flujo del programa.
+La ejecución del código depende del bloque de instrucciones al que la **condición** esté asociada. El bloque contiene el conjunto de sentencias que se ejecutarán únicamente si la **condición** se evalúa como verdadera. Sin un bloque asociado, una **condición** no tiene ningún efecto sobre el flujo del programa.
 
-Esta separación de responsabilidades es fundamental en Go y conecta directamente con lo visto en el artículo anterior. El bloque define qué código forma parte de una decisión. Y la condición define cuándo debe ejecutarse ese código.
+Esta separación de responsabilidades es fundamental en Go y conecta directamente con lo visto en el artículo anterior. El bloque define qué código forma parte de una decisión. Y la **condición** define cuándo debe ejecutarse ese código.
 
 Ambos conceptos son independientes, pero solo cobran sentido cuando se combinan. Esta combinación es la base del control de flujo explícito en Go, donde las decisiones y el código que depende de ellas están claramente separados.
 
