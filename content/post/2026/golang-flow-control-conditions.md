@@ -1,7 +1,7 @@
 ---
 title: Condiciones en Go
 date: 2026-01-24
-image: /img/posts/golang-flow-control-conditions.jpg
+image: /img/posts/golang-flow-control-conditions.webp
 categories: [ "programming_language" ]
 tags: [ "golang", "condiciones", "flow_control" ]
 draft: false
@@ -157,7 +157,7 @@ Ambos conceptos son independientes, pero solo cobran sentido cuando se combinan.
 
 Las condiciones son el lenguaje con el que un programa expresa sus decisiones. Por sí solas no ejecutan código, pero determinan cuándo debe hacerlo.
 
-Una vez comprendidos los bloques de instrucciones y las condiciones, las estructuras de control dejan de ser un conjunto de reglas sintácticas y pasan a convertirse en una consecuencia natural del modelo del lenguaje. En el próximo artículo daremos ese paso y veremos la estructura de control `if`, que permite asociar condiciones a bloques de instrucciones de forma explícita y predecible.
+Una vez comprendidos los bloques de instrucciones y las condiciones, las estructuras de control dejan de ser un conjunto de reglas sintácticas y pasan a convertirse en una consecuencia natural del modelo del lenguaje. En el próximo artículo daremos ese paso y veremos la [estructura de control `if`](/post/2026/golang-flow-control-if-else), que permite asociar condiciones a bloques de instrucciones de forma explícita y predecible.
 
 Si te has quedado con dudas o quieres profundizar en algún punto, puedes unirte al [canal de Telegram](https://t.me/lateclaescape). Es totalmente gratuito y un buen espacio para resolver preguntas y mejorar conjuntamente el contenido de los artículos.
 

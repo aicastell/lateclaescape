@@ -1,16 +1,16 @@
 ---
-title: Condiciones en Go
-date: 2026-01-22
-image: /img/posts/golang-flow-control-if-else.jpg
+title: Condiciones if else en Go
+date: 2026-01-25
+image: /img/posts/golang-flow-control-if-else.webp
 categories: [ "programming_language" ]
-tags: [ "golang", "variables" ]
-draft: true
+tags: [ "golang", "if_else", "flow_control" ]
+draft: false
 featured: true
 ---
 
 # Introducción
 
-En articulos publicados anteriormente has aprendido los tipos primitivos de Go, cómo Go estructura el código mediante [bloques de instrucciones](/post/2026/golang-block-scope) y cómo se expresan en Go las [condiciones](/post/2026/golang-flow-control-conditions).
+En artículos publicados anteriormente has aprendido los [tipos primitivos](/post/2026/golang-data-types) de Go, cómo Go estructura el código mediante [bloques de instrucciones](/post/2026/golang-block-scope) y cómo se expresan en Go las [condiciones](/post/2026/golang-flow-control-conditions).
 
 Sin embargo, un programa real no se limita a almacenar valores y ejecutar instrucciones en secuencia. Su verdadera utilidad reside en tomar decisiones: ejecutar ciertas partes del código y omitir otras según condiciones concretas.
 
@@ -21,7 +21,7 @@ En Go, estas decisiones se expresan combinando dos conceptos que ya conoces:
 
 La sentencia `if` es la forma más directa y frecuente de unir ambos conceptos. Permite decidir cuándo se ejecuta un bloque de código y qué camino seguirá el programa según se cumpla o no una condición. En este artículo aprenderás a usar `if` y `else` para asociar condiciones a bloques de instrucciones de manera clara, explícita y predecible, sentando las bases para manejar el flujo de ejecución de tus programas en Go.
 
-# Recordatorio: bloques y decisiones
+# Bloques y condiciones
 
 Antes de entrar en la sintaxis de `if`, voy a reforzar una idea clave: Go no decide ejecutar instrucciones sueltas, decide ejecutar bloques completos.
 
@@ -31,6 +31,7 @@ Recuerda que un bloque de instrucciones es un conjunto de sentencias delimitado 
 {
     instrucción 1
     instrucción 2
+    instrucción 3
 }
 ```
 
@@ -63,15 +64,15 @@ if edad >= 18 {
 
 Aquí ocurre lo siguiente:
 
-- `edad >= 18` es una expresión booleana (bool)
+- `edad >= 18` es una expresión booleana
 - Si la condición es `true`, Go ejecuta el bloque
 - Si es `false`, el bloque se ignora y el programa continúa
 
-Como `edad` vale `20`, y `20` es mayor o igual que `18`, se mostrará el mensaje por pantalla.
+Como `edad` vale `20`, y `20` es mayor o igual que `18`, se mostrará el mensaje `Es mayor de edad` por pantalla.
 
 # Condiciones booleanas
 
-Go es deliberadamente estricto con las condiciones: solo acepta expresiones de tipo bool. No hay valores implícitos ni atajos. O la condición es booleana, o el código no compila.
+Go es deliberadamente estricto con las condiciones: solo acepta expresiones de tipo `bool`. No hay valores implícitos ni atajos. O la condición es booleana, o el código no compila.
 
 Esto **NO** compila en Go, porque `x` es de tipo `int`, y por tanto no es de tipo `bool`.
 
@@ -91,7 +92,7 @@ if x != 0 {
 }
 ```
 
-Y esto tampoco compila en Go, porque `s`es de tipo `string`, por lo que tampoco es un `bool`.
+Y esto tampoco compila en Go, porque `s` es de tipo `string`, por lo que tampoco es un `bool`.
 
 ```
 s := "hola"
@@ -110,7 +111,7 @@ if s != "" {
 
 Este diseño elimina ambigüedades y obliga a expresar la intención con claridad.
 
-# if y bloques: unidad inseparable
+# Bloques obligatorios
 
 En Go, las llaves nunca son opcionales, incluso si el bloque contiene una sola instrucción:
 
@@ -146,7 +147,7 @@ Uno y solo uno de los dos bloques se ejecutará.
 
 Go no ofrece operador ternario (`?:`) que ofrecen otros lenguajes como C/C++. La decisión siempre se expresa mediante bloques explícitos.
 
-# else if: múltiples caminos
+# Múltiples caminos
 
 Cuando hay más de dos posibilidades, se encadenan condiciones usando `else if`:
 
@@ -206,43 +207,9 @@ Usar inicialización local en `if` permite:
 
 - Reducir el ámbito de las variables al mínimo necesario.
 - Evitar reutilizaciones accidentales.
-- Mantener el código más claro y autocontenido.
+- Mantener el código más claro y auto-contenido.
 
 Limitar el ámbito de las variables facilita la comprensión del flujo y evita conflictos con nombres de otras variables. Es un rasgo distintivo del estilo Go y aparece constantemente en código real.
-
-# Errores comunes con if
-
-Algunos errores frecuentes al empezar con `if` en Go:
-
-Usar valores no booleanos como condición:
-
-```
-if x { } // inválido
-```
-
-Olvidar las llaves del bloque:
-
-```
-if x > 0
-    fmt.Println(x) // inválido
-```
-
-Declarar variables fuera sin necesidad:
-
-```
-n := len(s)
-if n > 0 {
-    fmt.Println(n)
-}
-```
-
-Es mejor usar una inicialización local:
-
-```
-if n := len(s); n > 0 {
-    fmt.Println(n)
-}
-```
 
 # Resumen mental
 
