@@ -216,9 +216,9 @@ Aquí:
 
 - La inicialización es opcional.
 - La variable inicializada (cuando se usa) existe únicamente dentro del bloque del switch y deja de existir al salir de él.
-- La expresión es opcional.
 - El `;` solo aparece si hay inicialización.
 - Si hay inicialización, esta va siempre antes del `;`.
+- La expresión es opcional.
 - La expresión, si existe, va siempre después del `;`.
 
 Vemos los distintos casos posibles:
