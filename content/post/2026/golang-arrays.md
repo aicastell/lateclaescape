@@ -131,7 +131,58 @@ Por tanto, no puedes asignar uno al otro:
 a = b // cannot use b (variable of type [4]int) as [3]int value in assignment
 ```
 
-Go no permite esta operación porque los tipos no coinciden exactamente. La longitud no es un detalle accesorio: forma parte de la definición del tipo.
+La longitud no es un detalle accesorio: forma parte de la definición del tipo y el compilador lo hace cumplir de forma estricta.
+
+# Iterar arrays
+
+La forma habitual de recorrer un array en Go es usar el bucle `for` junto con la palabra reservada `range`:
+
+```
+var a = [3]int{10, 20, 30}
+
+for i := range a {
+    fmt.Println(a[i])
+}
+```
+
+Aquí:
+
+- `range` recorre los índices válidos del array a (0, 1, 2).
+- `i` representa el índice actual.
+- el valor del elemento se obtiene accediendo a `a[i]`.
+
+Este enfoque tiene varias ventajas:
+
+- No necesitas conocer el tamaño del array
+- Evita accesos fuera de rango
+- El código es claro, explícito y seguro
+
+# Asignación de arrays
+
+Los **array** en Go son valores, igual que un `int` o un `string`.
+
+Esto implica que cuando asignas un **array** a otro, se copia completo:
+
+Ejemplo:
+
+```
+a := [3]int{1, 2, 3}
+b := a
+
+b[0] = 100
+fmt.Println(a) // [1 2 3]
+fmt.Println(b) // [100 2 3]
+```
+
+Aquí:
+
+- `b := a` copia todo el array `a` sobre `b`.
+- `a` y `b` son valores independientes.
+- modificar uno no afecta al otro.
+
+Este mismo principio se aplica cuando se usa `range` sobre un `array`: Go itera sobre una copia del array. En **array** pequeños este detalle no suele ser relevante, pero en **array** grandes puede tener impacto en rendimiento y diseño del código.
+
+Esta es una de las razones por las que, en la práctica, se usan más los **slice**, que veremos en el próximo artículo.
 
 # Cuándo usar los array
 
@@ -163,9 +214,11 @@ En estos casos, el **array** no es solo un contenedor: describe la estructura de
 
 # Conclusión
 
-Los **array** en Go no están pensados para ser flexibles. Están pensados para ser seguros, explícitos y predecibles. Al hacer que la longitud forme parte del tipo, Go elimina de raíz toda una clase de errores habituales en otros lenguajes: tamaños ambiguos, asignaciones silenciosas o desbordamientos difíciles de detectar. Si algo no encaja, el compilador lo señala antes de que el programa llegue siquiera a ejecutarse.
+Los **array** en Go no están pensados para ser flexibles. Están pensados para ser seguros, explícitos y predecibles.
 
-En tu día a día, rara vez trabajarás directamente con **array**. Pero entenderlos es fundamental, ya que constituyen la base sobre la que Go construye formas más cómodas y expresivas de manejar colecciones, sin renunciar a la seguridad ni a la claridad del sistema de tipos.
+Al hacer que la longitud forme parte del tipo, Go elimina de raíz toda una clase de errores habituales en otros lenguajes: tamaños ambiguos, asignaciones silenciosas o desbordamientos difíciles de detectar. Si algo no encaja, el compilador lo señala antes de que el programa llegue siquiera a ejecutarse.
+
+En el día a día, rara vez trabajarás directamente con **array**. Pero entenderlos es fundamental, porque constituyen la base sobre la que Go construye abstracciones más cómodas para manejar colecciones sin renunciar a la claridad ni a la seguridad del sistema de tipos.
 
 En el próximo artículo daremos ese siguiente paso natural. Veremos cómo Go parte de esta solidez inicial para permitir trabajar con conjuntos de datos que pueden adaptarse al flujo del programa, crecer cuando es necesario y seguir siendo eficientes y previsibles.
 
@@ -176,5 +229,3 @@ Es en ese punto donde muchas decisiones de diseño del lenguaje empiezan a cobra
 Nos vemos en el próximo artículo.
 
 Pulso la tecla `ESC:wq!`
-
-
