@@ -2,8 +2,8 @@
 title: Adios Xiaomi Redmi5+
 date: 2026-05-14
 image: /img/posts/adios-xiaomi-redmi5plus-hola-pixel9a.webp
-categories: [ "cybersecurity", "smartphone", "opinión", "review", "personal" ]
-tags: [ "google_pixel_9a", "fairphone_6", "nothing_phone_3a", "GrapheneOS" ]
+categories: [ "cybersecurity", "smartphone", "opinión", "review", "personal", "privacy" ]
+tags: [ "google_pixel_9a", "fairphone_6", "nothing_phone_3a", "GrapheneOS", "smartphone", "Android" ]
 draft: false
 featured: true
 ---
@@ -38,7 +38,7 @@ Pero la idea pierde atractivo cuando el riesgo de romper algo importante es real
 
 Al final, la obsolescencia programada ha terminado haciendo su trabajo. Después de casi ocho años, creo que ha llegado el momento de retirar este Xiaomi Redmi 5+. Pero hay que hacerlo bien, el nuevo teléfono tiene que estar a la altura.
 
-# ¿Que ando buscando?
+# Requisitos
 
 No busco simplemente un teléfono **Android** barato. Quiero un dispositivo capaz de acompañarme durante muchos años, con buen soporte de la comunidad y una filosofía que encaje con mi forma de entender la tecnología. Busco privacidad, longevidad, control sobre el sistema y las aplicaciones instaladas, buen rendimiento en el día a día y una interfaz sencilla, sin capas invasivas, aplicaciones basura preinstaladas ni funciones absurdas añadidas por el fabricante que no se puedan desinstalar.
 
@@ -60,7 +60,7 @@ La idea detrás del proyecto me fascina: es un dispositivo modular, pensado para
 
 Estas son sus características mas importantes:
 
-- Precio: 580€
+- Precio: 549€
 - Soc: Qualcomm SnapDragon 7s Gen 3
 - RAM: 8GB
 - eMMC: 256GB
@@ -74,7 +74,7 @@ Estas son sus características mas importantes:
 
 La reparabilidad es probablemente su mayor ventaja. Poder cambiar batería, cámara o puerto USB con herramientas básicas sigue siendo algo casi revolucionario en 2026.
 
-Pero hay un problema importante: el precio. En el momento de decidir, el Fairphone ronda los 580 €. Y aunque entiendo perfectamente que se está pagando sostenibilidad, reparabilidad y fabricación más ética, me cuesta justificar esa diferencia frente a otras opciones con mejor hardware, mejor diseño, o más centrados en la privacidad.
+Pero hay un problema importante: el precio. En el momento de decidir, el Fairphone ronda los 549 €. Y aunque entiendo perfectamente que se está pagando sostenibilidad, reparabilidad y fabricación más ética, me cuesta justificar esa diferencia frente a otras opciones con mejor hardware, mejor diseño, o más centrados en la privacidad.
 
 Además, por muy reparable que sea un teléfono, dentro de 8 o 10 años seguirá existiendo un problema inevitable: el hardware también envejece. Procesador, módem, GPU y soporte de firmware acabarán quedándose atrás igualmente.
 
@@ -92,7 +92,7 @@ El Nothing Phone 3a tiene varias características muy atractivas:
 
 - Precio: 329€
 - Soc: Qualcomm SnapDragon 7s Gen 3
-- RAM: 8GB
+- RAM: 12GB
 - eMMC: 256GB
 - Security Chip: ninguno
 - Pantalla: AMOLED
@@ -140,7 +140,7 @@ Los Pixel incorporan varios componentes especialmente importantes desde el punto
 
 Esto es especialmente importante porque muchos teléfonos Android pueden “desgooglearse” o ejecutar ROMs alternativas, pero muy pocos ofrecen un stack de seguridad moderno comparable.
 
-## Cierre
+# Cierre
 
 Como podéis imaginar, **GrapheneOS** ha inclinado definitivamente la balanza. Y efectivamente, me he comprado el Pixel 9a.
 
