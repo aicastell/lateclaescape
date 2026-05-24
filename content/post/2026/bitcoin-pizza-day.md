@@ -1,6 +1,6 @@
 ---
 title: Bitcoin pizza day
-date: 2026-05-18
+date: 2026-05-22
 image: /img/posts/bitcoin-pizza-day.webp
 categories: ["criptomonedas", "bitcoin"]
 tags: [ "BTC", "blockchain", "papa_johns" ]
@@ -40,13 +40,11 @@ Cada vez que Bitcoin marca nuevos máximos históricos, Internet vuelve a acorda
 
 Más allá de la anécdota, esta fecha representa algo mucho más importante.
 
-Hasta entonces, Bitcoin era simplemente un experimento digital sin uso práctico fuera de pequeños círculos tecnológicos. Aquella compra de pizzas fue la primera transacción conocida del mundo real usando Bitcoin como moneda de intercambio.
-
-Comprando un par de pizzas, Laszlo demostró que Bitcoin podía utilizarse para adquirir bienes reales. Fue un momento simbólico que ayudó a impulsar toda la revolución cripto que vino después. Sin esas pizzas, quizá la historia habría sido diferente.
+Hasta entonces, Bitcoin era simplemente un experimento digital sin uso práctico fuera de pequeños círculos tecnológicos. Aquella compra de dos pizzas fue la primera transacción conocida del mundo real usando Bitcoin como moneda de intercambio. Demostraba que Bitcoin podía usarse para adquirir bienes reales. Fue un momento simbólico que ayudó a impulsar toda la revolución que vino después.
 
 # Feliz Bitcoin Pizza Day
 
-Así que hoy, 22 de mayo, no solo celebramos el día de la pizza.
+Sin aquellas dos pizzas, quizá la historia habría sido diferente. Así que hoy, 22 de mayo, no solo celebramos el día de la pizza.
 
 También celebramos que las grandes revoluciones tecnológicas casi siempre son ideas locas con comienzos humildes. Un pequeño grupo de personas experimentando con algo que el resto del mundo todavía no entiende.
 
@@ -54,8 +52,8 @@ Y es que las tecnologías que terminan cambiando el mundo suelen compartir el mi
 
 Quizá por eso esta historia sigue siendo tan fascinante. Porque nos recuerda que, mientras lees estas palabras, puede que exista otra idea aparentemente insignificante naciendo en algún rincón del planeta, esperando su momento para cambiar el mundo.
 
-Y si, hoy era un buen día para pedirse una pizza.
-
 ![Bitcoin pizza day Laszlo picture](/img/bitcoin-pizza-day-mi-calzone.webp)
+
+Y si, hoy era un buen día para pedirse una pizza.
 
 Pulso la tecla `ESC:wq!`
