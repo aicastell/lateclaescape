@@ -8,32 +8,32 @@ draft: false
 featured: true
 ---
 
-# Introducción
+# El Circo del Sol
 
-El Cirque du Soleil nació en 1984 en Quebec, Canadá, de la mano de Guy Laliberté y Gilles Ste-Croix. Sus orígenes fueron humildes, ligados a artistas callejeros y tragafuegos que actuaban en festivales locales.
+El *Cirque du Soleil* nació en 1984 en Quebec, Canadá, de la mano de Guy Laliberté y Gilles Ste-Croix. Sus orígenes fueron humildes, ligados a artistas callejeros y tragafuegos que actuaban en festivales locales.
 
 Desde el principio rompió con el circo tradicional al eliminar los animales de sus funciones. Su propuesta se centra en la mezcla de acrobacia, teatro, música y narrativa visual.
 Muchos de sus acróbatas provienen de la gimnasia olímpica, la danza y disciplinas circenses clásicas. Las funciones combinan vestuarios extravagantes, maquillaje teatral y música en vivo.
 
-Este circo llegó a dar empleo a miles de artistas de decenas de nacionalidades. Pero la crisis del COVID-19 golpeó duramente a la empresa en 2020. Las giras se cancelaron y el Cirque du Soleil tuvo que declararse en bancarrota. Posteriormente fue rescatado por un grupo de inversores y reorganizado financieramente. Regresaron las giras internacionales y nuevas producciones.
+Este circo llegó a dar empleo a miles de artistas de decenas de nacionalidades. Pero la crisis del COVID-19 golpeó duramente a la empresa en 2020. Las giras se cancelaron y el *Cirque du Soleil* tuvo que declararse en bancarrota. Posteriormente fue rescatado por un grupo de inversores y reorganizado financieramente. Regresaron las giras internacionales y nuevas producciones.
 
-Hoy el Cirque du Soleil sigue siendo uno de los mayores referentes mundiales del espectáculo en vivo.
+Hoy el *Cirque du Soleil* sigue siendo uno de los mayores referentes mundiales del espectáculo en vivo.
 
 # Una noche para recordar
 
 Hay regalos que el tiempo acaba borrando poco a poco. Y luego existen otros que terminan convirtiéndose en recuerdos familiares capaces de permanecer intactos para siempre.
 
-La Navidad de 2025 nos dejó uno de esos regalos especiales: unas entradas para ver el espectáculo *Alegría* del Cirque du Soleil en Valencia. Fue un regalo conjunto que mi hermano y yo quisimos hacerles a nuestros padres. Y, después de varios meses esperando la fecha, por fin llegó ese día: 23 de mayo de 2026.
+La Navidad de 2025 nos dejó uno de esos regalos especiales: unas entradas para ver el espectáculo *Alegría* del *Cirque du Soleil* en Valencia. Fue un regalo conjunto que mi hermano y yo quisimos hacerles a nuestros padres. Y, después de varios meses esperando la fecha, por fin llegó ese día: 23 de mayo de 2026.
 
-En mi caso, esta es la segunda ocasión que voy a disfrutar del Cirque du Soleil en directo, después de ver su espectacular *Varekai* en 2016 en el Palau Sant Jordi en Barcelona. Diez años después, vuelvo a sentir esa emoción previa que solo generan ciertos eventos.
+En mi caso, esta es la segunda ocasión que voy a disfrutar del *Cirque du Soleil* en directo, después de ver su espectacular *Varekai* en 2016 en el Palau Sant Jordi en Barcelona. Diez años después, vuelvo a sentir esa emoción previa que solo generan ciertos eventos.
 
-Pero esta vez hay algo todavía más especial: voy a compartir la experiencia con mis padres y mi hermano, para quienes es su primera vez viendo el Cirque du Soleil en directo. Y eso convertirá la noche en algo más que un espectáculo. Será uno de esos momentos familiares que terminarán grabados para siempre en nuestras memorias.
+Pero esta vez hay algo todavía más especial: voy a compartir la experiencia con mis padres y mi hermano, para quienes es su primera vez viendo el *Cirque du Soleil* en directo. Y eso convertirá la noche en algo más que un espectáculo. Será uno de esos momentos familiares que terminarán grabados para siempre en nuestras memorias.
 
 La función comienza a las 21:30 bajo la Gran Carpa instalada en l’Avinguda de l’Enginyer Manuel Soto, junto al puerto y la Marina de Valencia. A esa hora, junto al mar y con la noche empezando a caer, la zona adquiere una atmósfera especial. Las terrazas llenas de vida, la brisa con olor a mar y ese ambiente mediterráneo de una tarde con temperatura perfecta hacen que todo acompañe.
 
 # El espectáculo Alegría
 
-La experiencia del Cirque du Soleil empieza mucho antes de sentarse en la butaca. Desde la misma entrada en la carpa ya se respira esa mezcla de emoción, nervios y expectación que acompaña a las grandes noches. La música ambiente, las luces y la enorme carpa iluminada hacen que, poco a poco, tengas la sensación de estar entrando en un pequeño mundo aparte.
+La experiencia del *Cirque du Soleil* empieza mucho antes de sentarse en la butaca. Desde la misma entrada en la carpa ya se respira esa mezcla de emoción, nervios y expectación que acompaña a las grandes noches. La música ambiente, las luces y la enorme carpa iluminada hacen que, poco a poco, tengas la sensación de estar entrando en un pequeño mundo aparte.
 
 La velada está guiada por dos los payasos, auténticos maestros del ritmo del espectáculo. No son simples intermedios cómicos: conectan escenas, rompen la tensión y consiguen que el público participe con naturalidad. Entre bromas, gestos exagerados y pequeños momentos improvisados, son el hilo invisible que mantiene viva la magia durante toda la noche.
 
@@ -63,7 +63,7 @@ Cuando termina la función, todo el público se pone en pie para aplaudir a los 
 
 El nivel del espectáculo Alegría es altísimo y resulta imposible no admirar el talento, la preparación y la precisión de todos los artistas.
 
-Sin embargo, el camino de vuelta a casa está lleno de comentarios y opiniones para todos los gustos. Porque si algo tiene el Cirque du Soleil es que consigue que cada persona viva el espectáculo a su manera.
+Sin embargo, el camino de vuelta a casa está lleno de comentarios y opiniones para todos los gustos. Porque si algo tiene el *Cirque du Soleil* es que consigue que cada persona viva el espectáculo a su manera.
 
 Mi madre ha salido fascinada con la música, las luces y toda la puesta en escena. Mi hermano y yo seguimos comentando algunos saltos imposibles intentando entender cómo alguien puede jugarse la vida con tanta naturalidad delante de miles de personas. Y mi padre sigue pensando que entre número y número hacen "demasiadas payasadas".
 
