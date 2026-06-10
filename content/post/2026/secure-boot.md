@@ -189,7 +189,11 @@ El resultado final deja de ser únicamente el `blob` binario y pasa a ser una im
 
 Estos tres componentes se almacenan en la memoria del dispositivo embedded. Lo importante aquí es que deben ser accesibles para la etapa que realice la verificación. Eso no supone un problema de seguridad porque la clave pública (K_PUB) no es secreta.
 
-## Encriptar las imágenes firmadas
+## Encriptar las imágenes firmadas (opcional)
+
+Las firmas digitales garantizan autenticidad e integridad, pero no garantizan confidencialidad.
+
+Un sistema puede utilizar **Secure Boot** sin cifrar el firmware. En ese caso, aunque un atacante no pueda modificar los `blobs` sin invalidar la firma, sí podría leer su contenido si obtiene acceso físico al almacenamiento.
 
 Como un paso opcional, el fabricante podría encriptar la imagen firmada `signed_image` con la clave secreta (K_SECRET):
 
@@ -257,29 +261,18 @@ Para evitarlo, el dispositivo almacena en hardware seguro (por ejemplo, en un eF
 
 ## Confidencialidad (opcional)
 
-Las firmas digitales garantizan autenticidad e integridad, pero no garantizan confidencialidad.
-
-Un sistema puede utilizar **Secure Boot** sin cifrar el firmware. En ese caso, aunque un atacante no pueda modificar los `blobs` sin invalidar la firma, sí podría leer su contenido si obtiene acceso físico al almacenamiento.
-
-Para evitarlo, algunas plataformas añaden una capa adicional de cifrado simétrico:
-
-```
-encrypted_blob = ENCRYPT(K_SECRET, signed_image)
-```
-
-Durante el arranque, la etapa previa recupera K_SECRET, descifra la imagen y continúa el proceso normal de verificación:
+Durante el arranque, la etapa previa necesita recuperar K_SECRET y descifrar la imagen:
 
 ```
 signed_image = DECRYPT(K_SECRET, encrypted_blob)
 ```
 
-A partir de ese momento:
+Después continúa con el proceso normal de verificación:
 
 - se valida la clave pública
 - se verifica la firma digital
 - y finalmente se ejecuta el `blob`
 
-La clave secreta K_SECRET debe permanecer protegida dentro del dispositivo, por lo que suele almacenarse en hardware especializado como TPMs, Secure Elements o enclaves criptográficos. Un ejemplo de este enfoque es el chip Titan M2 utilizado en los dispositivos Pixel, diseñado para proteger claves sensibles y participar en el proceso de Verified Boot del sistema.
 
 Es importante entender que comprometer K_SECRET no rompe el modelo de **Secure Boot**. Un atacante podría descifrar el firmware y leer su contenido, pero seguiría sin poder modificarlo sin disponer de la clave privada de firma K_PRI, que nunca se almacena en el dispositivo.
 
@@ -296,9 +289,11 @@ Muchas plataformas modernas integran hardware criptográfico dedicado para ejecu
 
 Su objetivo es acelerar operaciones criptográficas, reducir exposición de material sensible, impedir que ciertas claves abandonen el hardware seguro y aumentar resistencia frente a ataques físicos y lógicos.
 
-Un ejemplo conocido es el chip Titan M2 utilizado en los dispositivos Pixel, que actúa como elemento de seguridad dedicado y participa en tareas relacionadas con **Secure Boot**, protección de claves y verificación de integridad del sistema.
+La clave secreta K_SECRET utilizada para descifrar firmware suele almacenarse en este tipo de hardware seguro como TPMs (Trusted Platform Modules), Secure Elements o enclaves criptográficos.
 
-La existencia de este hardware no cambia el modelo conceptual del **Secure Boot**, pero sí proporciona un entorno más robusto y aislado para ejecutar operaciones criptográficas críticas.
+Un ejemplo conocido es el chip Titan M2 utilizado en [dispositivos Pixel 9a](/post/2026/adios-xiaomi-redmi5plus-hola-pixel9a), diseñado para proteger claves sensibles y participar en tareas relacionadas con Verified Boot y la verificación de integridad del sistema.
+
+La ausencia de este hardware no cambia el modelo conceptual del **Secure Boot**, pero su existencia si proporciona un entorno más robusto y aislado para ejecutar operaciones criptográficas críticas.
 
 # Conclusión
 
