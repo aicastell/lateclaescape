@@ -80,19 +80,17 @@ Por este motivo, aunque sigue siendo mejor que utilizar únicamente una contrase
 
 ## Aplicaciones autenticadoras
 
-Una alternativa cada vez más popular consiste en utilizar aplicaciones capaces de generar códigos temporales directamente en el teléfono móvil.
-
-Entre las más conocidas se encuentran:
+Una de las formas más populares de implementar autenticación multifactor consiste en utilizar aplicaciones autenticadoras instaladas en el teléfono móvil. Entre las más conocidas se encuentran:
 
 - [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&pcampaignid=web_share)
 - [Aegis](https://getaegis.app/)
 - [Authy](https://www.authy.com/)
 
-En lugar de recibir un SMS, la aplicación genera automáticamente un nuevo código cada pocos segundos. Como el código se calcula localmente en el dispositivo, no depende de la red móvil ni del envío de mensajes.
+Estas aplicaciones permiten incorporar un segundo factor de autenticación sin necesidad de adquirir hardware adicional y ofrecen una experiencia de uso sencilla para la mayoría de usuarios.
 
-Este enfoque es más seguro que el SMS y ofrece una experiencia de uso muy sencilla para la mayoría de usuarios.
+Su principal inconveniente es que el teléfono móvil pasa a convertirse en una pieza crítica del sistema de autenticación. Por este motivo resulta especialmente importante disponer de mecanismos de recuperación adecuados y copias de seguridad cuando la aplicación lo permita.
 
-Su principal inconveniente es que el teléfono pasa a convertirse en una pieza crítica del sistema de autenticación. Por ello resulta especialmente importante disponer de copias de seguridad o mecanismos de recuperación adecuados.
+Dedicaremos un artículo específico a analizar las tecnologías utilizadas por este tipo de aplicaciones y cómo consiguen generar credenciales temporales de forma segura.
 
 ## Correo electrónico
 
