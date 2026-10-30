@@ -1,5 +1,8 @@
-public/
-rsync.sh
+/rsync.sh
 ROADMAP
-content/post/backlog/
-resources/
+/content/post/backlog/
+/resources/
+/node_modules/
+/static/pagefind/
+/public/
+/tools/dart-sass/

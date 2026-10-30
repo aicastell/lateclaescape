@@ -1,7 +1,7 @@
 baseURL: https://www.lateclaescape.com
 DefaultContentLanguage: es
 defaultContentLanguageInSubdir: false
-languageCode: es
+locale: es-ES
 title: La tecla ESC
 theme: lightbi-hugo
 metaDataFormat: yaml
@@ -67,3 +67,12 @@ sitemap:
   changefreq: daily
   priority: 0.5
   filename: sitemap.xml
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 1
+    endLevel: 3
+    ordered: false
