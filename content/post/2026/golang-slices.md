@@ -66,7 +66,7 @@ Y donde:
 - Si no pones `inicio`, se asume que `inicio` vale 0.
 - Si no pones `fin`, se asume que `fin` toma como valor la longitud del **array**.
 
-Esta sintaxis no crea datos nuevos. Crea un **slice** llamado `vista` que actúa como vista sobre una parte de `x`.
+Esta sintaxis no crea datos nuevos. Crea un **slice** llamado `view` que actúa como vista sobre una parte de `x`.
 
 Dado este **array**:
 
@@ -129,7 +129,7 @@ Hasta aquí, lo único que necesitas interiorizar es esto:
 
 # Anatomía de un slice
 
-Para entender por qué ocurre esto, necesitamos mirar su anatomía interna.
+Para entender por qué ocurre esto, necesitamos mirar la anatomía interna de un **slice**.
 
 ## El backing array
 
@@ -161,8 +161,8 @@ data: [0 10 20 99 40 50 60 70 80 90]
 
 ¿Qué ha ocurrido?
 
-- `window` y `alias` son dos variables de tipo slice distintas.
-- Pero ambas contienen un puntero que apunta al mismo backing array.
+- `window` y `alias` son dos variables de tipo **slice** distintas.
+- Pero ambas contienen un puntero que apunta al mismo **backing array**.
 - Al modificar `alias[0]`, estamos modificando el mismo almacenamiento que ve `window`.
 
 ## La longitud (len)
@@ -210,13 +210,13 @@ cap(window) = 7
 
 # Añadir elementos
 
-La forma estándar de añadir elementos a un **slice** es mediante la función `append()`.
-
-Partimos de un slice que todavía tiene espacio disponible:
+Partimos de un slice `ìtems` que todavía tiene espacio disponible:
 
 ```
 buf := [10]int{0, 10, 20, 99, 40, 50, 60, 70, 80, 90}
-items := buf[:5]   // [0 10 20 99 40]
+items := buf[:5]
+fmt.Println(items)
+[0 10 20 99 40]
 ```
 
 En este momento:
@@ -287,7 +287,7 @@ En este momento Go:
 
 Este proceso se denomina reasignación de memoria (en inglés, *reallocation*).
 
-El cambio es transparente en el código, pero crucial para entender efectos colaterales con otros slices.
+El cambio es transparente en el código, pero crucial para entender efectos colaterales con otros **slices**.
 
 # Slices que comparten memoria
 
@@ -323,9 +323,7 @@ Este comportamiento permite que **slices** crezcan dinámicamente sin romper a o
 
 ## Reservar capacidad
 
-Cuando sabes que un **slice** va a crecer, es buena práctica reservar capacidad por adelantado usando la función `make()`, para reducir realocaciones:
-
-Esta función tiene tres parámetros:
+Cuando sabes que un **slice** va a crecer, es buena práctica reservar capacidad por adelantado usando la función `make()`, para reducir realocaciones. Esta función tiene tres parámetros:
 
 - El tipo de **slice** (`[]int`).
 - La longitud inicial (`len`)
@@ -355,10 +353,10 @@ Reglas importantes:
 
 - Copia hasta el mínimo entre `len(dst)` y `len(src)`.
 - Copia elementos en orden (como un "memcpy" conceptual a nivel de elementos).
-- No cambia ni len ni cap de ninguno de los slices.
+- No cambia ni len ni cap de ninguno de los **slices**.
 - Solo copia los elementos visibles (la parte accesible por len).
 
-Esta función es especialmente útil cuando necesitas una copia independiente para evitar efectos colaterales derivados de que varios slices compartan el mismo **backing array**.
+Esta función es especialmente útil cuando necesitas una copia independiente para evitar efectos colaterales derivados de que varios **slices** compartan el mismo **backing array**.
 
 ## Copia independiente típica
 
@@ -437,13 +435,13 @@ dst[0] = src[0] → 9
 dst[1] = src[1] → 8
 ```
 
-En ese momento ya no hay más elementos en `src`. La copia se detiene. Solo se han reemplazado las dos primeras posiciones de `dst`. Las posiciones dst[2] y dst[3] no cambian porque `src` no tiene más elementos que copiar.
+En ese momento ya no hay más elementos en `src`. La copia se detiene. Solo se han reemplazado las dos primeras posiciones de `dst`. Las posiciones `dst[2]` y `dst[3]` no cambian porque `src` no tiene más elementos que copiar.
 
 # Consecuencias del diseño
 
 Este modelo explica varias propiedades clave:
 
-- El tamaño no forma parte del tipo: []int es el mismo tipo tenga 3 o 300 elementos.
+- El tamaño no forma parte del tipo: `[]int` es el mismo tipo tenga 3 o 300 elementos.
 - Varios **slices** pueden compartir el mismo **backing array**.
 - Modificar un **slice** puede afectar a otros que compartan memoria.
 - Copiar un **slice** no copia los datos, solo copia los tres campos de la estructura.
@@ -471,8 +469,6 @@ En este patrón:
 
 Este enfoque es claro, seguro y no depende del tamaño del **slice**.
 
-Más adelante veremos que `range` puede proporcionar más información en cada iteración, pero por ahora esta forma encaja perfectamente con lo aprendido hasta este punto.
-
 # Guía rápida para usar slice o array
 
 En la práctica, más del 90% de las colecciones en Go son **slices**. Los **arrays** son una elección consciente y poco frecuente.
@@ -493,7 +489,7 @@ En caso de duda, la siguiente tabla debería aclararte cuando usar cada uno:
 - Tienen len (elementos visibles) y cap (espacio disponible).
 - `append()` hace crecer el **slice** (y puede realocar).
 - `make()` permite optimizar evitando realocaciones.
-- `copy()` copia elementos desde un slice origen hacia un slice destino ya existente.
+- `copy()` copia elementos desde un **slice** origen hacia otro destino ya existente.
 - Modificar un **slice** puede afectar otros que compartan el **backing array**.
 - `cap(s) - len(s)` indica cuántos elementos puedes añadir antes de que se produzca una realocación.
 

@@ -2,7 +2,7 @@
 title: Me estafan en Wallapop
 date: 2026-10-27
 image: /img/posts/estafado-en-wallapop.webp
-categories: [ "hardware", "personal" ]
+categories: [ "hardware", "tecnología", "personal" ]
 tags: [ "Samsung", "990_PRO", "NVMe", "storage", "SSD", "Wallapop", "falsificaciones" ]
 draft: false
 featured: true
