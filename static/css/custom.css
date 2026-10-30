@@ -100,3 +100,165 @@
     inset: 0;
     z-index: 2;
 }
+
+.highlight {
+  position: relative;
+  margin: 1.5rem 0;
+  padding: 0;
+  border: 1px solid var(--color-border);
+  border-radius: 10px;
+  background: #f3f5f8;
+  overflow: hidden;
+}
+
+:root[data-theme="dark"] .highlight {
+  background: #222b3a;
+  border-color: #394456;
+  color: #e6e6e6;
+}
+
+/* Remove nested backgrounds and spacing */
+
+.highlight > div,
+.highlight .chroma,
+.highlight pre,
+.highlight pre code,
+.highlight pre code.hljs {
+  background: transparent;
+  box-shadow: none;
+  border: 0;
+  border-radius: 0;
+}
+
+.highlight > div {
+  margin: 0;
+  padding: 0;
+  overflow-x: auto;
+}
+
+.highlight pre {
+  margin: 0;
+  padding: 2.75rem 1.25rem 1.25rem;
+  overflow-x: auto;
+  line-height: 1.65;
+  font-size: 0.9rem;
+}
+
+.highlight pre code,
+.highlight pre code.hljs {
+  display: block;
+  margin: 0;
+  padding: 0;
+  font-size: inherit;
+  line-height: inherit;
+  white-space: pre;
+}
+
+/* Copy button */
+
+.highlight .copy-code-button {
+  position: absolute;
+  top: 0.65rem;
+  right: 0.75rem;
+  z-index: 5;
+  padding: 0.3rem 0.75rem;
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+  background: rgba(128, 128, 128, 0.08);
+  color: var(--color-text);
+  font-size: 0.75rem;
+  cursor: pointer;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.highlight .copy-code-button:hover {
+  background: var(--color-primary);
+  color: #fff;
+}
+
+.highlight .copy-code-button.copied {
+  color: var(--color-primary);
+}
+
+
+/* Override Highlight.js backgrounds and shadows */
+
+:root[data-theme="light"] .highlight pre code.hljs,
+:root[data-theme="dark"] .highlight pre code.hljs {
+  background: transparent;
+  box-shadow: none;
+  padding: 0;
+  border-radius: 0;
+}
+
+:root[data-theme="light"] .highlight .hljs,
+:root[data-theme="dark"] .highlight .hljs {
+  background: transparent;
+}
+
+/* =====================================================
+   CHROMA SYNTAX COLORS
+===================================================== */
+
+/* Light theme */
+
+:root[data-theme="light"] .chroma {
+  color: #24292f;
+}
+
+:root[data-theme="light"] .chroma .k,
+:root[data-theme="light"] .chroma .kd,
+:root[data-theme="light"] .chroma .kn,
+:root[data-theme="light"] .chroma .kt {
+  color: #a626a4;
+  font-weight: 600;
+}
+
+:root[data-theme="light"] .chroma .nf,
+:root[data-theme="light"] .chroma .nc {
+  color: #0969da;
+}
+
+:root[data-theme="light"] .chroma .s,
+:root[data-theme="light"] .chroma .s1,
+:root[data-theme="light"] .chroma .s2 {
+  color: #0a7b34;
+}
+
+:root[data-theme="light"] .chroma .c,
+:root[data-theme="light"] .chroma .c1,
+:root[data-theme="light"] .chroma .cm {
+  color: #6e7781;
+}
+
+/* Dark theme */
+
+:root[data-theme="dark"] .chroma {
+  color: #dbe4f0;
+}
+
+:root[data-theme="dark"] .chroma .k,
+:root[data-theme="dark"] .chroma .kd,
+:root[data-theme="dark"] .chroma .kn,
+:root[data-theme="dark"] .chroma .kt {
+  color: #c792ea;
+  font-weight: 600;
+}
+
+:root[data-theme="dark"] .chroma .nf,
+:root[data-theme="dark"] .chroma .nc {
+  color: #82aaff;
+}
+
+:root[data-theme="dark"] .chroma .s,
+:root[data-theme="dark"] .chroma .s1,
+:root[data-theme="dark"] .chroma .s2 {
+  color: #a5d6a7;
+}
+
+:root[data-theme="dark"] .chroma .c,
+:root[data-theme="dark"] .chroma .c1,
+:root[data-theme="dark"] .chroma .cm {
+  color: #8995a7;
+  font-style: italic;
+}

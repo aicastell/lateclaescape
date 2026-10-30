@@ -5,8 +5,6 @@ locale: es-ES
 title: La tecla ESC
 theme: lightbi-hugo
 metaDataFormat: yaml
-pygmentsStyle: solarized-light
-pygmentsCodefencesGuessSyntax: true
 enableRobotsTXT: true
 enableGitInfo: false
 summaryLength: "30"
@@ -20,7 +18,7 @@ Params:
   comments: false
   readingTime: true
   wordCount: false
-  useHLJS: true
+  useHLJS: false
   socialShare: true
   delayDisqus: true
   showRelatedPosts: true
@@ -76,3 +74,6 @@ markup:
     startLevel: 1
     endLevel: 3
     ordered: false
+  highlight:
+    noClasses: false
+    guessSyntax: true
