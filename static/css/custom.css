@@ -262,3 +262,12 @@
   color: #8995a7;
   font-style: italic;
 }
+
+/* =====================================================
+   ARTICLE TEXT JUSTIFICATION
+===================================================== */
+
+.blog-post p {
+  text-align: justify;
+  hyphens: auto;
+}
